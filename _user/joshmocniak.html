@@ -1,0 +1,11 @@
+---
+layout: default
+intra: jmocniak
+login: joshmocniak
+id: 42951515
+avatar_url: https://avatars3.githubusercontent.com/u/42951515?v=4
+---
+{% assign events = site.events | where: "author_id","42951515" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

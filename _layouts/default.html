@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="{{ site.this_site }}/assets/css/github-light.css"/>
+    <link rel="stylesheet" href="{{ site.this_site }}/assets/css/github-primer.css"/>
+    <meta name="viewport" content="width=device-width">
+    <base href="https://www.github.com">
+    <style>
+        .intra-marked-title {
+            font-size: 12px;
+            font-weight: 700;
+            margin: 8px 0 5px;
+            font-family: "Futura PT", "Futura", "Helvetica", "Sans serif";
+        }
+    </style>
+    <link rel="icon"
+      type="image/x-icon"
+      href="{{ site.this_site }}/assets/favicon.ico" />
+</head>
+<body class="env-production emoji-size-boost page-responsive min-width-0 page-dashboard full-width">
+
+<!-- top nav bar -->
+<header class="Header js-details-container Details f5" role="banner">
+  <div class="d-lg-flex p-responsive flex-justify-between px-3 ">
+    <div class="HeaderMenu d-lg-flex pl-lg-2 flex-items-center text-bold list-style-none" style="width: 100%;">
+        <ul class="d-lg-flex pl-lg-2 flex-items-center text-bold list-style-none" style="width: 100%; justify-content: space-evenly;">
+            {% for et in site.event_types %}
+                <li><a class="HeaderNavlink px-lg-2 py-2 py-lg-0" href="{{ site.this_site }}/event_types/{{ et.filename }}">{{ et.title }}</a></li>
+            {% endfor %}
+        </ul>
+    </div>
+  </div>
+</header>
+
+
+
+<div role="main" class="application-main " data-commit-hovercards-enabled>
+    <div class="d-flex flex-wrap bg-gray" style="min-height: 100vh;">
+        <div class="team-left-column col-12 col-md-4 col-lg-3 bg-white border-right border-bottom hide-md hide-sm">
+        <!-- left div, users go here -->
+            <div class="dashboard-sidebar js-sticky top-0 px-3 px-md-4 px-lg-4 overflow-auto" style="position: static; left: 0px;">
+                <div class="mt-5 mb-3 Details js-repos-container" data-repository-hovercards-enabled="" data-pjax-container="" role="navigation">
+                    <!-- h4 class="hide-sm hide-md mb-1 f5 d-flex flex-justify-between flex-items-center">leftside</h4>
+                    < leftside -->
+                    <ul class="list-style-none">
+                    {% assign users = site.user | sort: "login" %}
+                    {% for user in users %}
+                    <li>
+                        <a class="link-gray-dark no-underline text-bold wb-break-all d-inline-block" style="font-size: 12px;" href="{{ site.this_site }}/user/{{ user.login }}.html"><img src="{{ user.avatar_url }}" style="margin-right: 5px; width: 20px; height: 20px">{{ user.login }}</a>
+                        <a class="intra-marked-title" href="https://profile.intra.42.fr/users/{{ user.intra }}" style="color:#00babc">{{ user.intra }}</a>
+                    </li>
+                    {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-md-8 col-lg-6 p-responsive mt-3 border-bottom">
+            <!-- middle div, events go here -->
+			{{ content }}
+        </div>
+        <div class="team-left-column col-12 col-md-3 col-lg-3 pr-5 mt-5 hide-lg hide-md hide-sm border-bottom">
+            <!-- right div, langs go here -->
+        <ul class="list-style-none">
+            {% assign langs = site.lang | sort: "language" %}
+            {% for lang in langs %}
+                <li>
+                    <span class="repo-language-color" style="background-color:{{ site.data.languages[lang.language].color }};"></span>
+                    <a href="{{ site.this_site }}/lang/{{ lang.filename }}">
+                    {{ lang.language }}
+                    </a>
+                </li>
+            {% endfor %}
+        </ul>
+        </div>
+    </div>
+</div>
+</body>
+</html>

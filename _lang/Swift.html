@@ -1,0 +1,9 @@
+---
+layout: default
+language: Swift
+filename: Swift.html
+---
+{% assign events = site.events | where: "language","Swift" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

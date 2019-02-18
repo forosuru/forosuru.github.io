@@ -1,0 +1,9 @@
+---
+layout: default
+language: WebAssembly
+filename: WebAssembly.html
+---
+{% assign events = site.events | where: "language","WebAssembly" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

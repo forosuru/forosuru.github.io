@@ -1,0 +1,11 @@
+---
+layout: default
+intra: mjacques
+login: maxencejded
+id: 37248747
+avatar_url: https://avatars3.githubusercontent.com/u/37248747?v=4
+---
+{% assign events = site.events | where: "author_id","37248747" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

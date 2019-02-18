@@ -1,0 +1,9 @@
+---
+layout: default
+language: Shell
+filename: Shell.html
+---
+{% assign events = site.events | where: "language","Shell" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

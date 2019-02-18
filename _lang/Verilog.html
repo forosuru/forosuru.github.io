@@ -1,0 +1,9 @@
+---
+layout: default
+language: Verilog
+filename: Verilog.html
+---
+{% assign events = site.events | where: "language","Verilog" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

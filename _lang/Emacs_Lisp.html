@@ -1,0 +1,9 @@
+---
+layout: default
+language: Emacs Lisp
+filename: Emacs_Lisp.html
+---
+{% assign events = site.events | where: "language","Emacs Lisp" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

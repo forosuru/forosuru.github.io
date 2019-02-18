@@ -1,0 +1,11 @@
+---
+layout: default
+intra: mmorel
+login: Aegistov
+id: 10384761
+avatar_url: https://avatars1.githubusercontent.com/u/10384761?v=4
+---
+{% assign events = site.events | where: "author_id","10384761" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

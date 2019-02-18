@@ -1,0 +1,9 @@
+---
+layout: default
+language: Assembly
+filename: Assembly.html
+---
+{% assign events = site.events | where: "language","Assembly" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

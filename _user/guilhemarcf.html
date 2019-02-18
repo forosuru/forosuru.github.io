@@ -1,0 +1,11 @@
+---
+layout: default
+intra: gcaixeta
+login: guilhemarcf
+id: 41812945
+avatar_url: https://avatars0.githubusercontent.com/u/41812945?v=4
+---
+{% assign events = site.events | where: "author_id","41812945" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

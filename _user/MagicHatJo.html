@@ -1,0 +1,11 @@
+---
+layout: default
+intra: jochang
+login: MagicHatJo
+id: 38716012
+avatar_url: https://avatars1.githubusercontent.com/u/38716012?v=4
+---
+{% assign events = site.events | where: "author_id","38716012" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

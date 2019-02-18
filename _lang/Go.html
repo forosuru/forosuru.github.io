@@ -1,0 +1,9 @@
+---
+layout: default
+language: Go
+filename: Go.html
+---
+{% assign events = site.events | where: "language","Go" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

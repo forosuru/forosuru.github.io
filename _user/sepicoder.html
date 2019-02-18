@@ -1,0 +1,11 @@
+---
+layout: default
+intra: shomami
+login: sepicoder
+id: 18713268
+avatar_url: https://avatars2.githubusercontent.com/u/18713268?v=4
+---
+{% assign events = site.events | where: "author_id","18713268" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

@@ -1,0 +1,11 @@
+---
+layout: default
+intra: dgerard
+login: dgerard42
+id: 26103179
+avatar_url: https://avatars0.githubusercontent.com/u/26103179?v=4
+---
+{% assign events = site.events | where: "author_id","26103179" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

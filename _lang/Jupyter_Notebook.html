@@ -1,0 +1,9 @@
+---
+layout: default
+language: Jupyter Notebook
+filename: Jupyter_Notebook.html
+---
+{% assign events = site.events | where: "language","Jupyter Notebook" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

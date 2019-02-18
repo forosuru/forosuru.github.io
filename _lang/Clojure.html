@@ -1,0 +1,9 @@
+---
+layout: default
+language: Clojure
+filename: Clojure.html
+---
+{% assign events = site.events | where: "language","Clojure" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

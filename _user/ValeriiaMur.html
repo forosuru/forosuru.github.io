@@ -1,0 +1,11 @@
+---
+layout: default
+intra: vmuradia
+login: ValeriiaMur
+id: 41483072
+avatar_url: https://avatars2.githubusercontent.com/u/41483072?v=4
+---
+{% assign events = site.events | where: "author_id","41483072" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

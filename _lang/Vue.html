@@ -1,0 +1,9 @@
+---
+layout: default
+language: Vue
+filename: Vue.html
+---
+{% assign events = site.events | where: "language","Vue" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

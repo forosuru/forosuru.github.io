@@ -1,0 +1,11 @@
+---
+layout: default
+intra: awhite
+login: AustinAWhite
+id: 24531700
+avatar_url: https://avatars0.githubusercontent.com/u/24531700?v=4
+---
+{% assign events = site.events | where: "author_id","24531700" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

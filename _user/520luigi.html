@@ -1,0 +1,11 @@
+---
+layout: default
+intra: szheng
+login: 520luigi
+id: 10473118
+avatar_url: https://avatars3.githubusercontent.com/u/10473118?v=4
+---
+{% assign events = site.events | where: "author_id","10473118" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

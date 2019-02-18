@@ -1,0 +1,11 @@
+---
+layout: default
+intra: ikozlov
+login: IvanKozlov95
+id: 17299647
+avatar_url: https://avatars1.githubusercontent.com/u/17299647?v=4
+---
+{% assign events = site.events | where: "author_id","17299647" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

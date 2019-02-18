@@ -1,0 +1,10 @@
+---
+layout: default
+event_type: repo
+title: created
+filename: created.html
+---
+{% assign events = site.events | where: "event_type","repo" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

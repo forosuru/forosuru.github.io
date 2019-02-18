@@ -1,0 +1,10 @@
+---
+layout: default
+event_type: public
+title: public
+filename: public.html
+---
+{% assign events = site.events | where: "event_type","public" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

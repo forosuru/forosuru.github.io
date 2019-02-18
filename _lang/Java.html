@@ -1,0 +1,9 @@
+---
+layout: default
+language: Java
+filename: Java.html
+---
+{% assign events = site.events | where: "language","Java" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

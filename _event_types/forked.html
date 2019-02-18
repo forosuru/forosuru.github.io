@@ -1,0 +1,10 @@
+---
+layout: default
+event_type: fork
+title: forked
+filename: forked.html
+---
+{% assign events = site.events | where: "event_type","fork" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

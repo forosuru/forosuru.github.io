@@ -1,0 +1,11 @@
+---
+layout: default
+intra: jgelbard
+login: joshgelbard
+id: 18673569
+avatar_url: https://avatars0.githubusercontent.com/u/18673569?v=4
+---
+{% assign events = site.events | where: "author_id","18673569" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

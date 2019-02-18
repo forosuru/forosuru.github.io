@@ -1,0 +1,10 @@
+---
+layout: default
+event_type: watch_started
+title: starred
+filename: starred.html
+---
+{% assign events = site.events | where: "event_type","watch_started" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

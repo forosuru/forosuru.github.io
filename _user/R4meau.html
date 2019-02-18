@@ -1,0 +1,11 @@
+---
+layout: default
+intra: jrameau
+login: R4meau
+id: 3984265
+avatar_url: https://avatars2.githubusercontent.com/u/3984265?v=4
+---
+{% assign events = site.events | where: "author_id","3984265" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

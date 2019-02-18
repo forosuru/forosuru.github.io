@@ -1,0 +1,11 @@
+---
+layout: default
+intra: asalihov
+login: allansalihovic
+id: 45578014
+avatar_url: https://avatars0.githubusercontent.com/u/45578014?v=4
+---
+{% assign events = site.events | where: "author_id","45578014" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

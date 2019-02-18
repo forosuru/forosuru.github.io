@@ -1,0 +1,11 @@
+---
+layout: default
+intra: pdoherty
+login: paulrobertdoherty
+id: 10013170
+avatar_url: https://avatars3.githubusercontent.com/u/10013170?v=4
+---
+{% assign events = site.events | where: "author_id","10013170" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

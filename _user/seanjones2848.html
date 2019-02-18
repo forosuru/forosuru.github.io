@@ -1,0 +1,11 @@
+---
+layout: default
+intra: sjones
+login: seanjones2848
+id: 25192407
+avatar_url: https://avatars2.githubusercontent.com/u/25192407?v=4
+---
+{% assign events = site.events | where: "author_id","25192407" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

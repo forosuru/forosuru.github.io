@@ -1,0 +1,9 @@
+---
+layout: default
+language: C#
+filename: Cs.html
+---
+{% assign events = site.events | where: "language","C#" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

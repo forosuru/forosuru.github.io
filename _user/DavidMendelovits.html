@@ -1,0 +1,11 @@
+---
+layout: default
+intra: dmendelo
+login: DavidMendelovits
+id: 34428368
+avatar_url: https://avatars2.githubusercontent.com/u/34428368?v=4
+---
+{% assign events = site.events | where: "author_id","34428368" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

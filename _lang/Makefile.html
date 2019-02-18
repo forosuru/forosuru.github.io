@@ -1,0 +1,9 @@
+---
+layout: default
+language: Makefile
+filename: Makefile.html
+---
+{% assign events = site.events | where: "language","Makefile" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

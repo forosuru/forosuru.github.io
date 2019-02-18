@@ -1,0 +1,9 @@
+---
+layout: default
+language: CoffeeScript
+filename: CoffeeScript.html
+---
+{% assign events = site.events | where: "language","CoffeeScript" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

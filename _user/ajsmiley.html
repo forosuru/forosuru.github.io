@@ -1,0 +1,11 @@
+---
+layout: default
+intra: achavez
+login: ajsmiley
+id: 7871693
+avatar_url: https://avatars1.githubusercontent.com/u/7871693?v=4
+---
+{% assign events = site.events | where: "author_id","7871693" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

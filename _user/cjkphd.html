@@ -1,0 +1,11 @@
+---
+layout: default
+intra: mamateo
+login: cjkphd
+id: 32885656
+avatar_url: https://avatars0.githubusercontent.com/u/32885656?v=4
+---
+{% assign events = site.events | where: "author_id","32885656" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

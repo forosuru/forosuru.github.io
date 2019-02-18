@@ -1,0 +1,11 @@
+---
+layout: default
+intra: vkostenk
+login: vkostenk
+id: 41272025
+avatar_url: https://avatars1.githubusercontent.com/u/41272025?v=4
+---
+{% assign events = site.events | where: "author_id","41272025" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

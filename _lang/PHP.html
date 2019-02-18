@@ -1,0 +1,9 @@
+---
+layout: default
+language: PHP
+filename: PHP.html
+---
+{% assign events = site.events | where: "language","PHP" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

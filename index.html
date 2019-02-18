@@ -1,1 +1,7 @@
-hello world
+---
+layout: default
+---
+{% assign events = site.events | sort: 'date' | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

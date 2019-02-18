@@ -1,0 +1,11 @@
+---
+layout: default
+intra: aakin-al
+login: akinfemi
+id: 10602798
+avatar_url: https://avatars2.githubusercontent.com/u/10602798?v=4
+---
+{% assign events = site.events | where: "author_id","10602798" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

@@ -1,0 +1,10 @@
+---
+layout: default
+event_type: follow
+title: followed
+filename: followed.html
+---
+{% assign events = site.events | where: "event_type","follow" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

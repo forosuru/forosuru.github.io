@@ -1,0 +1,11 @@
+---
+layout: default
+intra: akassil
+login: alexkassil
+id: 15950413
+avatar_url: https://avatars2.githubusercontent.com/u/15950413?v=4
+---
+{% assign events = site.events | where: "author_id","15950413" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

@@ -1,0 +1,11 @@
+---
+layout: default
+intra: cbanales
+login: carlosbanales
+id: 16022204
+avatar_url: https://avatars2.githubusercontent.com/u/16022204?v=4
+---
+{% assign events = site.events | where: "author_id","16022204" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

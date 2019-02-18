@@ -1,0 +1,11 @@
+---
+layout: default
+intra: jchow
+login: kraxx
+id: 24942820
+avatar_url: https://avatars2.githubusercontent.com/u/24942820?v=4
+---
+{% assign events = site.events | where: "author_id","24942820" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
