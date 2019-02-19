@@ -120,9 +120,9 @@ if __name__ == '__main__':
         new_events = forosuru_update() ## returns a set of event author names
         if new_events:
             commit_msg = 'new activity from: ' + ', '.join(sorted(list(new_events)))
-            print('git add --all')
-            print('git commit -m "' + commit_msg + '"')
-            print('git push')
+            cmd = 'git add --all; git commit -m "' + commit_msg + '"; git push'
+            print(cmd)
+            os.system(cmd)
     else:
         if debug:
             print('offline')
