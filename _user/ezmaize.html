@@ -1,0 +1,11 @@
+---
+layout: default
+intra: ezmaize
+login: ezmaize
+id: 29990691
+avatar_url: https://avatars1.githubusercontent.com/u/29990691?v=4
+---
+{% assign events = site.events | where: "author_id","29990691" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
