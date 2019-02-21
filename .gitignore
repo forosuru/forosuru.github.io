@@ -5,3 +5,6 @@ _site/
 .DS_Store
 ._*
 *.swp
+credentials.py
+intra_token.json
+__pycache__/

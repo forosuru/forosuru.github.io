@@ -6,6 +6,8 @@ markdown: kramdown
 #this_site: "http://54.184.72.230:4000"
 this_site: "https://forosuru.github.io"
 
+exclude: [__pycache__, follow.py, update.py, credentials.py, intra_token.json, README.md]
+
 collections:
     events:
         output: false
