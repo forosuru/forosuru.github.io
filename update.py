@@ -139,7 +139,7 @@ def update_pages(events):
 
 
 def fetch_events(page_num):   #page_num numeric page number
-    url = github_atom_url + '&page=' + str(int(page_num))
+    url = github_atom_url + '&page=' + str(page_num)
     req = requests.get(url)
     if req.status_code == 200:
         data = req.content.decode('utf-8')
