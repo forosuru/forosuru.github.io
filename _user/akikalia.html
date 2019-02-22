@@ -1,0 +1,11 @@
+---
+layout: default
+intra: akikalia
+login: akikalia
+id: 47707757
+avatar_url: https://avatars1.githubusercontent.com/u/47707757?v=4
+---
+{% assign events = site.events | where: "author_id","47707757" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
