@@ -1,0 +1,9 @@
+---
+layout: default
+language: Kotlin
+filename: Kotlin.html
+---
+{% assign events = site.events | where: "language","Kotlin" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
