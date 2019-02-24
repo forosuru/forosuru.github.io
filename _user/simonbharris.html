@@ -1,0 +1,11 @@
+---
+layout: default
+intra: sharris
+login: simonbharris
+id: 31110938
+avatar_url: https://avatars1.githubusercontent.com/u/31110938?v=4
+---
+{% assign events = site.events | where: "author_id","31110938" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
