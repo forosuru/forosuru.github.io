@@ -1,0 +1,11 @@
+---
+layout: default
+intra: hnam
+login: naamoonoo
+id: 30615804
+avatar_url: https://avatars3.githubusercontent.com/u/30615804?v=4
+---
+{% assign events = site.events | where: "author_id","30615804" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
