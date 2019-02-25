@@ -1,0 +1,11 @@
+---
+layout: default
+intra: dcordova
+login: DanielCordovaV
+id: 43462450
+avatar_url: https://avatars3.githubusercontent.com/u/43462450?v=4
+---
+{% assign events = site.events | where: "author_id","43462450" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
