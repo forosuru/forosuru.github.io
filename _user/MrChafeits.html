@@ -1,0 +1,11 @@
+---
+layout: default
+intra: callen
+login: MrChafeits
+id: 20195689
+avatar_url: https://avatars0.githubusercontent.com/u/20195689?v=4
+---
+{% assign events = site.events | where: "author_id","20195689" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
