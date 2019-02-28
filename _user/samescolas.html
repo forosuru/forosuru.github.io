@@ -1,0 +1,11 @@
+---
+layout: default
+intra: sescolas
+login: samescolas
+id: 16058877
+avatar_url: https://avatars1.githubusercontent.com/u/16058877?v=4
+---
+{% assign events = site.events | where: "author_id","16058877" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
