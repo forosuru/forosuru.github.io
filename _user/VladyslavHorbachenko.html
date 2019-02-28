@@ -1,0 +1,11 @@
+---
+layout: default
+intra: vlahorba
+login: VladyslavHorbachenko
+id: 45478676
+avatar_url: https://avatars1.githubusercontent.com/u/45478676?v=4
+---
+{% assign events = site.events | where: "author_id","45478676" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
