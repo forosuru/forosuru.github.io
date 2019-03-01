@@ -1,0 +1,11 @@
+---
+layout: default
+intra: snechaev
+login: NechaevaS
+id: 46473420
+avatar_url: https://avatars0.githubusercontent.com/u/46473420?v=4
+---
+{% assign events = site.events | where: "author_id","46473420" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
