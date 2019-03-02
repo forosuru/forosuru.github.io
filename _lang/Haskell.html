@@ -1,0 +1,9 @@
+---
+layout: default
+language: Haskell
+filename: Haskell.html
+---
+{% assign events = site.events | where: "language","Haskell" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
