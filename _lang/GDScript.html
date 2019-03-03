@@ -1,0 +1,9 @@
+---
+layout: default
+language: GDScript
+filename: GDScript.html
+---
+{% assign events = site.events | where: "language","GDScript" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
