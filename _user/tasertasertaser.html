@@ -1,0 +1,11 @@
+---
+layout: default
+intra: cschulle
+login: tasertasertaser
+id: 40524078
+avatar_url: https://avatars2.githubusercontent.com/u/40524078?v=4
+---
+{% assign events = site.events | where: "author_id","40524078" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
