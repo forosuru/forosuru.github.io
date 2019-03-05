@@ -1,0 +1,11 @@
+---
+layout: default
+intra: klongric
+login: Klongrich
+id: 17434599
+avatar_url: https://avatars3.githubusercontent.com/u/17434599?v=4
+---
+{% assign events = site.events | where: "author_id","17434599" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
