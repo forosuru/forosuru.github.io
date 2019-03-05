@@ -1,0 +1,9 @@
+---
+layout: default
+language: OCaml
+filename: OCaml.html
+---
+{% assign events = site.events | where: "language","OCaml" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
