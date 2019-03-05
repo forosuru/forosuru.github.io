@@ -1,0 +1,11 @@
+---
+layout: default
+intra: thomkim
+login: swp0107
+id: 24237467
+avatar_url: https://avatars2.githubusercontent.com/u/24237467?v=4
+---
+{% assign events = site.events | where: "author_id","24237467" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
