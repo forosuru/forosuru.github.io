@@ -1,0 +1,9 @@
+---
+layout: default
+language: Common Lisp
+filename: Common_Lisp.html
+---
+{% assign events = site.events | where: "language","Common Lisp" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
