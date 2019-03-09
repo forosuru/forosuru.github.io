@@ -189,6 +189,7 @@ def forosuru_update():
     while not done:
         done = True
         events = fetch_events(i)
+        i += 1
         for e in events:
             fn = event_filename(e['date'], e['id'])
             if not os.path.exists(fn):
@@ -196,7 +197,6 @@ def forosuru_update():
                 event_fwrite(e, fn)
                 authors.add(e['author_name'])
                 new_events.append(e)
-        i += 1
     update_pages(sorted(new_events, key=lambda k: k['id']))
     return authors
 
@@ -209,14 +209,13 @@ def is_online(host="8.8.8.8", port=53, timeout=3):      # returns true if we can
         return False
 
 if __name__ == '__main__':
-    if is_online():
-        new_events = forosuru_update() ## returns a set of event author names
-        if new_events:
-            commit_msg = 'new activity from: ' + ', '.join(sorted(list(new_events)))
-            cmd = 'git add --all; git commit -m "' + commit_msg + '"; git push'
-            print(cmd)
-            os.system(cmd)
-    else:
-        if debug:
-            print('offline')
+    if not is_online():
+        if debug: print('offline')
+        sys.exit()
 
+    new_events = forosuru_update() ## returns a set of event author names
+    if new_events:
+        commit_msg = 'new activity from: ' + ', '.join(sorted(list(new_events)))
+        cmd = 'git add --all; git commit -m "' + commit_msg + '"; git push'
+        print(cmd)
+        os.system(cmd)
