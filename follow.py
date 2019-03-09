@@ -77,50 +77,47 @@ def is_online(host="8.8.8.8", port=53, timeout=3):
         return False
 
 if __name__ == '__main__':
-    if len(sys.argv) == 3:
-        if not is_online():
-            sys.exit('offline')
+    if len(sys.argv) != 3:
+        sys.exit('usage: github_name intra_name')
+    if not is_online():
+        sys.exit('offline')
 
-        github_valid, gh_data = github_check_user(sys.argv[1])
-        if not github_valid:
-            sys.exit('invalid github user')
-        print('github user ok')
-        intra = sys.argv[2].lower()
-        if not intra_is_valid_user(intra):
-            sys.exit('invalid intra user')
-        print('intra user ok')
-        if not os.path.isfile('_data/users.yml'):
-            sys.exit('_data/users.yml does not exist')
+    github_valid, gh_data = github_check_user(sys.argv[1])
+    if not github_valid:
+        sys.exit('invalid github user')
+    print('github user ok')
+    intra = sys.argv[2].lower()
+    if not intra_is_valid_user(intra):
+        sys.exit('invalid intra user')
+    print('intra user ok')
+    if not os.path.isfile('_data/users.yml'):
+        sys.exit('_data/users.yml does not exist')
 
-        with open('_data/users.yml', 'r+') as fp:
-            users = yaml.load(fp)
-            if users == None:
-                print('creating new yaml dict')
-                users = {}
+    with open('_data/users.yml', 'r+') as fp:
+        users = yaml.load(fp)
+        if users == None:
+            print('creating new yaml dict')
+            users = {}
 
-            record = {
-                'avatar_url': gh_data['avatar_url'],
-                'login': gh_data['login'],
-                'node_id': gh_data['node_id'],
-                'intra': intra
-                }
-            
-            uid = int(gh_data['id'])
-            if uid in users:
-                print('updating existing record')
+        record = {
+            'avatar_url': gh_data['avatar_url'],
+            'login': gh_data['login'],
+            'node_id': gh_data['node_id'],
+            'intra': intra
+            }
 
-            users[uid] = record
-            fp.seek(0, 0)   #move file pointer
-            yaml.dump(users, fp, default_flow_style=False)
-            fp.close()
+        uid = int(gh_data['id'])
+        if uid in users:
+            print('updating existing record')
 
-        print('file updated')
+        users[uid] = record
+        fp.seek(0, 0)   #move file pointer
+        yaml.dump(users, fp, default_flow_style=False)
+        fp.close()
 
-        if github_follow(gh_data['login']):
-            print('user followed')
-        else:
-            print('follow KO!!')
+    print('file updated')
 
+    if github_follow(gh_data['login']):
+        print('user followed')
     else:
-        print('usage: github_name intra_name')
-
+        print('follow KO!!')
