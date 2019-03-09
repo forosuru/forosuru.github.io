@@ -18,3 +18,5 @@ collections:
     event_types:
         output: true
 
+paginate: 100
+paginate_path: "/page:num"

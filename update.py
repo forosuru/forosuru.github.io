@@ -22,7 +22,7 @@ def events_from_xml_string(data):
     res = []
     for e in soup.find_all('entry'):
         mtu = e.find('media:thumbnail')['url']
-        author_id = re.search('githubusercontent\.com\/u\/(\d+)', mtu)[1] #stephen thinks regex is cool
+        author_id = re.search('githubusercontent\.com\/u\/(\d+)', mtu)[1]
         elink = e.find('link')['href']
         etitle = e.find('title').text
         eid  = e.find('id').text.split('/')[1]
@@ -48,15 +48,15 @@ def events_from_xml_string(data):
         res.append(event)
     return res
 
-# logic: list all events by id ascending
+# logic: list all events by id ascending (asc in case they changed name multiple times, get last)
 # for each event
 #   if language does not exist in _lang/ then create it
-# for each author_id:
-#   if login from yml file does not match event author name:
-#       delete _user/login.html file
-#       update yml dictionary, set flag
-#   if _user/login.html does not exist, create it
-# if flag, dump users dictionary into yml file
+#   get user data from yml dictionary by author_id
+#   if github_name from yml file does not match event author name:
+#       delete _user/github_name.html file
+#       update yml dictionary with new github_name, set flag
+#   if _user/github_name.html does not exist, create it
+#   if flag, save updated yml dictionary to disk
 
 def language_filename(lang):
     tr = {'+':'plus', '#':'sharp', '*':'star', '\'': ''}  # C++ => Cplusplus, C# => Csharp, F* => Fstar
@@ -162,6 +162,26 @@ def event_mkdir(datetime):
     if not os.path.exists(month_dir): os.makedirs(month_dir)
     if not os.path.exists(event_dir): os.makedirs(event_dir)
 
+def symlink_event_to_posts(event_fn):
+    # create a relative symlink from a file in _events/ to a file in _posts/
+    # assuming we're in root folder that contains _events/
+    if not os.path.exists('_events/'):
+        return
+    if '_events/' not in event_fn:
+        return
+    if event_fn.index('_events/') != 0:
+        return
+    if not os.path.exists(event_fn):
+        return
+
+    cwd = os.getcwd()
+    if not os.path.exists('_posts/'):
+        os.makedirs('_posts/')
+    os.chdir('_posts/')
+    symlink = event_fn[8:].replace('/','-')
+    os.symlink('../' + event_fn, symlink)
+    os.chdir(cwd)
+
 def event_fwrite(e, fn):
     fdata = [
         '---',
@@ -180,6 +200,7 @@ def event_fwrite(e, fn):
     with open(fn, 'w') as fp:
         fp.write('\n'.join(fdata))
         fp.close()
+    symlink_event_to_posts(fn)  #make relative symlink XXX
 
 def forosuru_update():
     i = 1

@@ -25,6 +25,7 @@
   <div class="d-lg-flex p-responsive flex-justify-between px-3 ">
     <div class="HeaderMenu d-lg-flex pl-lg-2 flex-items-center text-bold list-style-none" style="width: 100%;">
         <ul class="d-lg-flex pl-lg-2 flex-items-center text-bold list-style-none" style="width: 100%; justify-content: space-evenly;">
+                <li><a class="HeaderNavlink px-lg-2 py-2 py-lg-0" href="{{ site.this_site }}">/</a></li>
             {% for et in site.event_types %}
                 <li><a class="HeaderNavlink px-lg-2 py-2 py-lg-0" href="{{ site.this_site }}/event_types/{{ et.filename }}">{{ et.title }}</a></li>
             {% endfor %}
@@ -75,5 +76,29 @@
         </div>
     </div>
 </div>
+
+<!-- footer, pagination -->
+<div class="footer paginate-container container-lg width-full flex-items-center px-3" role="contentinfo">
+    <div class="flex-justify-between flex-items-center pt-2 pb-2 f6 text-gray">
+
+        {% if paginator.total_pages > 1 %}
+        <div class="pagination">
+          {% if paginator.previous_page %}
+            <a href="{{ site.this_site }}{{ paginator.previous_page_path | relative_url }}">
+              &laquo; newer
+            </a>
+          {% endif %}
+
+          {% if paginator.next_page %}
+            <a href="{{ site.this_site }}{{ paginator.next_page_path | relative_url }}">
+              older &raquo;
+            </a>
+          {% endif %}
+        </div>
+        {% endif %}
+
+    </div>
+</div>
+
 </body>
 </html>

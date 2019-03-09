@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% assign events = site.events | sort: 'date' | reverse %}
+{% assign events = paginator.posts | sort: 'date' | reverse %}
 {% for event in events %}
 {{ event.content }}
 {% endfor %}
