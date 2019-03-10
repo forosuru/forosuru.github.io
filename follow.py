@@ -103,7 +103,15 @@ if __name__ == '__main__':
             'avatar_url': gh_data['avatar_url'],
             'login': gh_data['login'],
             'node_id': gh_data['node_id'],
-            'intra': intra
+            'intra': intra,
+            'event_counts': {
+                    'follow': 0,
+                    'fork': 0,
+                    'public': 0,
+                    'repo': 0,
+                    'watch_started': 0,
+                    'total' : 0
+                }
             }
 
         uid = int(gh_data['id'])

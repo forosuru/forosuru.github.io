@@ -2,14 +2,9 @@
 
 from bs4 import BeautifulSoup
 import requests
-import datetime
-import time
-import dateutil.parser
-import socket
-import os
-import re
-import sys
-import yaml
+import datetime, time, dateutil.parser
+import socket, os, sys, re, yaml
+import utils
 
 prefix_dir = '_events/'
 event_file_extension = '.html'
@@ -54,9 +49,10 @@ def events_from_xml_string(data):
 #   get user data from yml dictionary by author_id
 #   if github_name from yml file does not match event author name:
 #       delete _user/github_name.html file
-#       update yml dictionary with new github_name, set flag
+#       update yml dictionary with new github_name
 #   if _user/github_name.html does not exist, create it
-#   if flag, save updated yml dictionary to disk
+#   update event counts in yml dict
+# save updated yml dictionary to disk
 
 def language_filename(lang):
     tr = {'+':'plus', '#':'sharp', '*':'star', '\'': ''}  # C++ => Cplusplus, C# => Csharp, F* => Fstar
@@ -108,7 +104,6 @@ def user_fwrite(fn, uid, u):
         fp.close()
 
 def update_pages(events):
-    update_usersf = False
     all_users = None
     with open('_data/users.yml', 'r') as fp:
         all_users = yaml.load(fp)
@@ -125,17 +120,18 @@ def update_pages(events):
             ufn = '_user/' + all_users[uid]['login'] + '.html'
             if os.path.exists(ufn): #if they changed their github name
                 os.unlink(ufn)      #remove existing file
-            update_usersf = True
             all_users[uid]['login'] = e['author_name']
+
+        all_users[uid]['event_counts'][e['event_type']] += 1
+        all_users[uid]['event_counts']['total'] += 1
 
         ufn = '_user/' + all_users[uid]['login'] + '.html'
         if not os.path.exists(ufn):
             user_fwrite(ufn, uid, all_users[uid])
 
-    if update_usersf:
-        with open('_data/users.yml', 'w') as fp:
-            yaml.dump(all_users, fp, default_flow_style=False)
-            fp.close()
+    with open('_data/users.yml', 'w') as fp:
+        yaml.dump(all_users, fp, default_flow_style=False)
+        fp.close()
 
 
 def fetch_events(page_num):   #page_num numeric page number
@@ -219,6 +215,7 @@ def forosuru_update():
                 authors.add(e['author_name'])
                 new_events.append(e)
     update_pages(sorted(new_events, key=lambda k: k['id']))
+    utils.write_stats_file()
     return authors
 
 def is_online(host="8.8.8.8", port=53, timeout=3):      # returns true if we can ping google
