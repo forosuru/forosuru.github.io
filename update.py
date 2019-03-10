@@ -122,7 +122,7 @@ def update_pages(events):
                 os.unlink(ufn)      #remove existing file
             all_users[uid]['login'] = e['author_name']
 
-        all_users[uid]['event_counts'][e['event_type']] += 1
+        all_users[uid]['event_counts'][e['type']] += 1
         all_users[uid]['event_counts']['total'] += 1
 
         ufn = '_user/' + all_users[uid]['login'] + '.html'

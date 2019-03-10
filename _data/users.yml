@@ -220,8 +220,8 @@
     follow: 5
     fork: 0
     public: 0
-    repo: 3
-    total: 56
+    repo: 4
+    total: 57
     watch_started: 48
   intra: mbrave
   login: michaelbrave
@@ -1417,11 +1417,11 @@
 13036761:
   avatar_url: https://avatars3.githubusercontent.com/u/13036761?v=4
   event_counts:
-    follow: 3
+    follow: 5
     fork: 1
     public: 1
     repo: 3
-    total: 9
+    total: 11
     watch_started: 1
   intra: bogoncha
   login: bgoncharov
@@ -1804,8 +1804,8 @@
     follow: 9
     fork: 0
     public: 1
-    repo: 4
-    total: 14
+    repo: 5
+    total: 15
     watch_started: 0
   intra: jtahirov
   login: JohnnyJumper
@@ -1864,8 +1864,8 @@
     follow: 1
     fork: 0
     public: 0
-    repo: 3
-    total: 6
+    repo: 5
+    total: 8
     watch_started: 2
   intra: jadawson
   login: JamieDawson
@@ -3893,8 +3893,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 1
-    watch_started: 1
+    total: 2
+    watch_started: 2
   intra: jmeier
   login: fakejoshmeier
   node_id: MDQ6VXNlcjI4NTQzODQ4
@@ -4321,11 +4321,11 @@
 32149526:
   avatar_url: https://avatars0.githubusercontent.com/u/32149526?v=4
   event_counts:
-    follow: 0
+    follow: 9
     fork: 0
     public: 0
     repo: 5
-    total: 5
+    total: 14
     watch_started: 0
   intra: gfielder
   login: gavinfielder
@@ -4897,11 +4897,11 @@
 36177209:
   avatar_url: https://avatars1.githubusercontent.com/u/36177209?v=4
   event_counts:
-    follow: 0
+    follow: 2
     fork: 0
     public: 0
     repo: 0
-    total: 0
+    total: 2
     watch_started: 0
   intra: feedme
   login: maou100
@@ -5509,11 +5509,11 @@
 41839667:
   avatar_url: https://avatars2.githubusercontent.com/u/41839667?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 0
     public: 0
     repo: 4
-    total: 6
+    total: 7
     watch_started: 0
   intra: kmira
   login: MrColour
