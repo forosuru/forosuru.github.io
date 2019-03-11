@@ -724,8 +724,8 @@
     follow: 0
     fork: 2
     public: 0
-    repo: 2
-    total: 5
+    repo: 3
+    total: 6
     watch_started: 1
   intra: jcapling
   login: jcap93
@@ -2237,8 +2237,8 @@
     fork: 0
     public: 0
     repo: 1
-    total: 1
-    watch_started: 0
+    total: 2
+    watch_started: 1
   intra: rnowell
   login: robertnowell
   node_id: MDQ6VXNlcjE5Mzk3NjMy
