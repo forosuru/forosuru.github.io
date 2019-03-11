@@ -1613,8 +1613,8 @@
     fork: 7
     public: 1
     repo: 2
-    total: 61
-    watch_started: 37
+    total: 62
+    watch_started: 38
   intra: ztisnes
   login: zedin27
   node_id: MDQ6VXNlcjE0ODQxMjYx
@@ -2137,11 +2137,11 @@
 18649645:
   avatar_url: https://avatars2.githubusercontent.com/u/18649645?v=4
   event_counts:
-    follow: 3
+    follow: 4
     fork: 0
     public: 0
     repo: 3
-    total: 6
+    total: 7
     watch_started: 0
   intra: awindham
   login: arwn
@@ -4707,9 +4707,9 @@
   event_counts:
     follow: 2
     fork: 0
-    public: 0
+    public: 1
     repo: 5
-    total: 7
+    total: 8
     watch_started: 0
   intra: efriedma
   login: ElliotFriedman
@@ -5103,9 +5103,9 @@
   event_counts:
     follow: 0
     fork: 0
-    public: 0
-    repo: 2
-    total: 2
+    public: 1
+    repo: 3
+    total: 4
     watch_started: 0
   intra: cwu
   login: conanwu777
