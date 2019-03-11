@@ -649,11 +649,11 @@
 6834761:
   avatar_url: https://avatars0.githubusercontent.com/u/6834761?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 0
     public: 0
     repo: 9
-    total: 23
+    total: 24
     watch_started: 9
   intra: qpeng
   login: sayakura
@@ -1241,8 +1241,8 @@
     fork: 17
     public: 2
     repo: 0
-    total: 76
-    watch_started: 56
+    total: 77
+    watch_started: 57
   intra: jaleman
   login: jraleman
   node_id: MDQ6VXNlcjExMjIyOTgw
@@ -3829,11 +3829,11 @@
 28375715:
   avatar_url: https://avatars3.githubusercontent.com/u/28375715?v=4
   event_counts:
-    follow: 4
+    follow: 6
     fork: 1
     public: 0
     repo: 5
-    total: 11
+    total: 13
     watch_started: 1
   intra: hirenpat
   login: hirenpateldotnex
