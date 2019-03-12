@@ -1817,8 +1817,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 34
-    watch_started: 33
+    total: 36
+    watch_started: 35
   intra: irhett
   login: izcet
   node_id: MDQ6VXNlcjE2NTY4OTU2
@@ -2270,10 +2270,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/19755860?v=4
   event_counts:
     follow: 3
-    fork: 0
+    fork: 1
     public: 1
     repo: 7
-    total: 13
+    total: 14
     watch_started: 2
   intra: lhernand
   login: amnotme
@@ -3025,11 +3025,11 @@
 23647013:
   avatar_url: https://avatars1.githubusercontent.com/u/23647013?v=4
   event_counts:
-    follow: 0
+    follow: 2
     fork: 0
     public: 0
     repo: 0
-    total: 0
+    total: 2
     watch_started: 0
   intra: bbixby
   login: brianbixby
@@ -3496,8 +3496,8 @@
     follow: 10
     fork: 0
     public: 0
-    repo: 3
-    total: 16
+    repo: 4
+    total: 17
     watch_started: 3
   intra: juochen
   login: pootitan
@@ -4192,8 +4192,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 5
-    total: 5
+    repo: 6
+    total: 6
     watch_started: 0
   intra: hnam
   login: naamoonoo
@@ -4214,10 +4214,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/30805959?v=4
   event_counts:
     follow: 7
-    fork: 8
+    fork: 9
     public: 0
     repo: 5
-    total: 20
+    total: 21
     watch_started: 0
   intra: shagazi
   login: shagazi
@@ -4429,11 +4429,11 @@
 32381377:
   avatar_url: https://avatars1.githubusercontent.com/u/32381377?v=4
   event_counts:
-    follow: 0
+    follow: 2
     fork: 0
     public: 0
     repo: 0
-    total: 0
+    total: 2
     watch_started: 0
   intra: kelugo
   login: lugokendra

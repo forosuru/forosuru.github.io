@@ -1,0 +1,9 @@
+---
+layout: default
+language: VimL
+filename: VimL.html
+---
+{% assign events = site.events | where: "language","VimL" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

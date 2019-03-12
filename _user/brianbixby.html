@@ -1,0 +1,11 @@
+---
+layout: default
+intra: bbixby
+login: brianbixby
+id: 23647013
+avatar_url: https://avatars1.githubusercontent.com/u/23647013?v=4
+---
+{% assign events = site.events | where: "author_id","23647013" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
