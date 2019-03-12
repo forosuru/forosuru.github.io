@@ -325,11 +325,11 @@
 4257656:
   avatar_url: https://avatars3.githubusercontent.com/u/4257656?v=4
   event_counts:
-    follow: 3
+    follow: 4
     fork: 0
     public: 0
     repo: 2
-    total: 5
+    total: 6
     watch_started: 0
   intra: ssnelgro
   login: ssnelgrove314
@@ -627,9 +627,9 @@
   event_counts:
     follow: 2
     fork: 0
-    public: 0
+    public: 1
     repo: 1
-    total: 4
+    total: 5
     watch_started: 1
   intra: fbueno-m
   login: fredmurakawa
@@ -4708,8 +4708,8 @@
     follow: 2
     fork: 0
     public: 1
-    repo: 5
-    total: 8
+    repo: 6
+    total: 9
     watch_started: 0
   intra: efriedma
   login: ElliotFriedman
