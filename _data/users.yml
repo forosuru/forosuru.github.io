@@ -2573,8 +2573,8 @@
     fork: 1
     public: 3
     repo: 0
-    total: 32
-    watch_started: 21
+    total: 33
+    watch_started: 22
   intra: tkobb
   login: thk2b
   node_id: MDQ6VXNlcjIxMDA5NTk0
@@ -3481,11 +3481,11 @@
 25774045:
   avatar_url: https://avatars1.githubusercontent.com/u/25774045?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 0
     public: 5
     repo: 2
-    total: 15
+    total: 16
     watch_started: 2
   intra: jkaplin
   login: jkaplin
