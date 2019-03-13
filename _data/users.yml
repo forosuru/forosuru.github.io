@@ -2225,8 +2225,8 @@
     fork: 0
     public: 2
     repo: 4
-    total: 10
-    watch_started: 0
+    total: 11
+    watch_started: 1
   intra: jcruz-y-
   login: josecyc
   node_id: MDQ6VXNlcjE5Mjc1OTI1
@@ -3281,8 +3281,8 @@
     fork: 1
     public: 0
     repo: 0
-    total: 9
-    watch_started: 4
+    total: 10
+    watch_started: 5
   intra: jchow
   login: kraxx
   node_id: MDQ6VXNlcjI0OTQyODIw
@@ -5979,12 +5979,12 @@
   event_counts:
     follow: 0
     fork: 0
-    public: 0
+    public: 1
     repo: 0
-    total: 0
+    total: 1
     watch_started: 0
   intra: cmckelvy
-  login: RearEndVisage
+  login: cmckelvy42
   node_id: MDQ6VXNlcjQ3NjE2MzA4
 47616772:
   avatar_url: https://avatars1.githubusercontent.com/u/47616772?v=4
