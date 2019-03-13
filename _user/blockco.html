@@ -1,0 +1,11 @@
+---
+layout: default
+intra: rpassafa
+login: blockco
+id: 20746155
+avatar_url: https://avatars2.githubusercontent.com/u/20746155?v=4
+---
+{% assign events = site.events | where: "author_id","20746155" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
