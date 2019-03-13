@@ -4481,8 +4481,8 @@
     fork: 0
     public: 0
     repo: 1
-    total: 7
-    watch_started: 6
+    total: 8
+    watch_started: 7
   intra: csinglet
   login: CaseySingleton
   node_id: MDQ6VXNlcjMyNjI4OTYx
@@ -5797,11 +5797,11 @@
 45247529:
   avatar_url: https://avatars0.githubusercontent.com/u/45247529?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 1
-    total: 1
+    total: 2
     watch_started: 0
   intra: mschroed
   login: CptBang
@@ -6013,11 +6013,11 @@
 47709344:
   avatar_url: https://avatars1.githubusercontent.com/u/47709344?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 0
     repo: 4
-    total: 5
+    total: 6
     watch_started: 0
   intra: jinpark
   login: Seojun-Park
