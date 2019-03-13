@@ -712,8 +712,8 @@
     follow: 3
     fork: 0
     public: 0
-    repo: 5
-    total: 10
+    repo: 6
+    total: 11
     watch_started: 2
   intra: cbagdon
   login: cbg119
@@ -1753,11 +1753,11 @@
 16214757:
   avatar_url: https://avatars1.githubusercontent.com/u/16214757?v=4
   event_counts:
-    follow: 3
+    follow: 4
     fork: 0
     public: 0
     repo: 4
-    total: 8
+    total: 9
     watch_started: 1
   intra: jbeall
   login: jacksonwb
@@ -2834,10 +2834,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/22552600?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 0
     repo: 2
-    total: 2
+    total: 3
     watch_started: 0
   intra: ofedorov
   login: thatsmesasha
