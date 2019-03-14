@@ -1,0 +1,11 @@
+---
+layout: default
+intra: tdiaz
+login: tfdiaz
+id: 41139204
+avatar_url: https://avatars2.githubusercontent.com/u/41139204?v=4
+---
+{% assign events = site.events | where: "author_id","41139204" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
