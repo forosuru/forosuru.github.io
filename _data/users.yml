@@ -1324,8 +1324,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 0
-    total: 2
+    repo: 1
+    total: 3
     watch_started: 2
   intra: kblack
   login: kab11
@@ -1793,8 +1793,8 @@
     fork: 0
     public: 0
     repo: 1
-    total: 4
-    watch_started: 3
+    total: 5
+    watch_started: 4
   intra: jnederlo
   login: jnederlo
   node_id: MDQ6VXNlcjE2NTIwMTUy
@@ -5464,8 +5464,8 @@
     follow: 5
     fork: 0
     public: 0
-    repo: 2
-    total: 7
+    repo: 3
+    total: 8
     watch_started: 0
   intra: sechang
   login: sechang01
@@ -5476,8 +5476,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 2
-    total: 2
+    repo: 3
+    total: 3
     watch_started: 0
   intra: hchung
   login: CodeChung
