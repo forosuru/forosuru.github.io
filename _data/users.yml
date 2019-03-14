@@ -1337,8 +1337,8 @@
     fork: 2
     public: 0
     repo: 6
-    total: 16
-    watch_started: 3
+    total: 17
+    watch_started: 4
   intra: chsu
   login: enhsu
   node_id: MDQ6VXNlcjEyMDQ1MTU0
@@ -1417,11 +1417,11 @@
 13036761:
   avatar_url: https://avatars3.githubusercontent.com/u/13036761?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 1
     public: 1
     repo: 3
-    total: 11
+    total: 12
     watch_started: 1
   intra: bogoncha
   login: bgoncharov
