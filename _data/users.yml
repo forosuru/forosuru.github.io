@@ -904,8 +904,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 1
-    total: 1
+    repo: 2
+    total: 2
     watch_started: 0
   intra: alkozma
   login: NotHawthorne
@@ -1541,8 +1541,8 @@
     fork: 0
     public: 0
     repo: 1
-    total: 1
-    watch_started: 0
+    total: 2
+    watch_started: 1
   intra: spoole
   login: spoole50
   node_id: MDQ6VXNlcjEzODkxMTE0
@@ -2573,8 +2573,8 @@
     fork: 1
     public: 3
     repo: 0
-    total: 34
-    watch_started: 23
+    total: 35
+    watch_started: 24
   intra: tkobb
   login: thk2b
   node_id: MDQ6VXNlcjIxMDA5NTk0
@@ -2679,9 +2679,9 @@
   event_counts:
     follow: 3
     fork: 1
-    public: 1
+    public: 2
     repo: 2
-    total: 8
+    total: 9
     watch_started: 1
   intra: ckrommen
   login: cpk42
@@ -5452,8 +5452,8 @@
     follow: 6
     fork: 1
     public: 0
-    repo: 12
-    total: 38
+    repo: 13
+    total: 39
     watch_started: 19
   intra: vmuradia
   login: ValeriiaMur
@@ -5620,8 +5620,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 0
-    total: 0
+    repo: 1
+    total: 1
     watch_started: 0
   intra: thjiang
   login: Gshfrez
@@ -5824,8 +5824,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 0
-    total: 0
+    repo: 1
+    total: 1
     watch_started: 0
   intra: vsmolii
   login: VPetrovi4
