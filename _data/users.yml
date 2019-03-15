@@ -2296,8 +2296,8 @@
     follow: 10
     fork: 0
     public: 0
-    repo: 4
-    total: 16
+    repo: 5
+    total: 17
     watch_started: 2
   intra: aabdrakh
   login: hhaakkimm
@@ -2705,8 +2705,8 @@
     fork: 1
     public: 0
     repo: 1
-    total: 97
-    watch_started: 90
+    total: 99
+    watch_started: 92
   intra: gguiulfo
   login: giacomoguiulfo
   node_id: MDQ6VXNlcjIyMDkxNjAw
@@ -3253,11 +3253,11 @@
 24885015:
   avatar_url: https://avatars0.githubusercontent.com/u/24885015?v=4
   event_counts:
-    follow: 0
+    follow: 3
     fork: 0
     public: 0
     repo: 2
-    total: 2
+    total: 5
     watch_started: 0
   intra: wlin
   login: autopylot
@@ -3437,8 +3437,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 9
-    watch_started: 8
+    total: 10
+    watch_started: 9
   intra: sleung
   login: msyleung
   node_id: MDQ6VXNlcjI1NTU3MDE2
@@ -4357,11 +4357,11 @@
 32261113:
   avatar_url: https://avatars1.githubusercontent.com/u/32261113?v=4
   event_counts:
-    follow: 4
+    follow: 7
     fork: 1
     public: 0
     repo: 0
-    total: 11
+    total: 14
     watch_started: 6
   intra: fredsiik
   login: fredsiika
@@ -6004,8 +6004,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 1
-    total: 1
+    repo: 2
+    total: 2
     watch_started: 0
   intra: mchi
   login: 2ne1ugly
