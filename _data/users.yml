@@ -773,8 +773,8 @@
     fork: 1
     public: 0
     repo: 0
-    total: 6
-    watch_started: 5
+    total: 7
+    watch_started: 6
   intra: lkaser
   login: logankaser
   node_id: MDQ6VXNlcjc5MTY5MDk=
@@ -2249,8 +2249,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 0
-    watch_started: 0
+    total: 1
+    watch_started: 1
   intra: kdrumm
   login: kaidrumm
   node_id: MDQ6VXNlcjE5NDc4ODM5
@@ -3389,8 +3389,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 54
-    watch_started: 51
+    total: 55
+    watch_started: 52
   intra: scollet
   login: scollet1
   node_id: MDQ6VXNlcjI1MjU3OTg2
@@ -5137,11 +5137,11 @@
 38436303:
   avatar_url: https://avatars0.githubusercontent.com/u/38436303?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 3
     repo: 8
-    total: 14
+    total: 15
     watch_started: 2
   intra: jcasian
   login: JuanCasian
@@ -5453,8 +5453,8 @@
     fork: 1
     public: 0
     repo: 13
-    total: 39
-    watch_started: 19
+    total: 40
+    watch_started: 20
   intra: vmuradia
   login: ValeriiaMur
   node_id: MDQ6VXNlcjQxNDgzMDcy
@@ -5788,8 +5788,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 2
-    total: 2
+    repo: 3
+    total: 3
     watch_started: 0
   intra: llelias
   login: lukefreeman42

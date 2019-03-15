@@ -1,0 +1,11 @@
+---
+layout: default
+intra: kdrumm
+login: kaidrumm
+id: 19478839
+avatar_url: https://avatars0.githubusercontent.com/u/19478839?v=4
+---
+{% assign events = site.events | where: "author_id","19478839" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
