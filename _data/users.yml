@@ -1609,11 +1609,11 @@
 14841261:
   avatar_url: https://avatars3.githubusercontent.com/u/14841261?v=4
   event_counts:
-    follow: 15
+    follow: 16
     fork: 7
     public: 1
     repo: 2
-    total: 63
+    total: 64
     watch_started: 38
   intra: ztisnes
   login: zedin27
@@ -4181,8 +4181,8 @@
     fork: 0
     public: 0
     repo: 1
-    total: 6
-    watch_started: 5
+    total: 7
+    watch_started: 6
   intra: zwang
   login: AlphaPiece
   node_id: MDQ6VXNlcjMwNDg3MTYw
@@ -4969,11 +4969,11 @@
 36870053:
   avatar_url: https://avatars1.githubusercontent.com/u/36870053?v=4
   event_counts:
-    follow: 6
+    follow: 8
     fork: 0
     public: 0
     repo: 3
-    total: 9
+    total: 11
     watch_started: 0
   intra: mhwangbo
   login: mhwangbo
@@ -6001,11 +6001,11 @@
 47616772:
   avatar_url: https://avatars1.githubusercontent.com/u/47616772?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 2
-    total: 2
+    total: 3
     watch_started: 0
   intra: mchi
   login: 2ne1ugly
