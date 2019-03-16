@@ -125,8 +125,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 17
-    watch_started: 17
+    total: 18
+    watch_started: 18
   intra: drosa-ta
   login: drrosa
   node_id: MDQ6VXNlcjIzNDM1NTQ=
@@ -1911,10 +1911,10 @@
   event_counts:
     follow: 6
     fork: 1
-    public: 1
+    public: 2
     repo: 1
-    total: 32
-    watch_started: 23
+    total: 34
+    watch_started: 24
   intra: dgaitsgo
   login: dgaitsgo
   node_id: MDQ6VXNlcjE3MTI3NjIy
@@ -2785,11 +2785,11 @@
 22486866:
   avatar_url: https://avatars1.githubusercontent.com/u/22486866?v=4
   event_counts:
-    follow: 3
+    follow: 4
     fork: 0
     public: 0
     repo: 0
-    total: 4
+    total: 5
     watch_started: 1
   intra: mosborne
   login: MitchelOsb1
@@ -4324,8 +4324,8 @@
     follow: 9
     fork: 0
     public: 0
-    repo: 6
-    total: 15
+    repo: 7
+    total: 16
     watch_started: 0
   intra: gfielder
   login: gavinfielder
@@ -4467,9 +4467,9 @@
   event_counts:
     follow: 2
     fork: 0
-    public: 0
+    public: 1
     repo: 2
-    total: 5
+    total: 6
     watch_started: 1
   intra: agrodzin
   login: blairclair
@@ -5632,8 +5632,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 6
-    total: 6
+    repo: 7
+    total: 7
     watch_started: 0
   intra: nkirkby
   login: galacticgargleblaster
