@@ -1000,8 +1000,8 @@
     follow: 2
     fork: 1
     public: 0
-    repo: 6
-    total: 9
+    repo: 7
+    total: 10
     watch_started: 0
   intra: gaguirre
   login: its-gio
@@ -1864,8 +1864,8 @@
     follow: 1
     fork: 0
     public: 0
-    repo: 5
-    total: 8
+    repo: 7
+    total: 10
     watch_started: 2
   intra: jadawson
   login: JamieDawson
@@ -4178,10 +4178,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/30487160?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 0
     repo: 1
-    total: 7
+    total: 8
     watch_started: 6
   intra: zwang
   login: AlphaPiece
@@ -4742,10 +4742,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/34832274?v=4
   event_counts:
     follow: 0
-    fork: 0
-    public: 0
+    fork: 2
+    public: 1
     repo: 0
-    total: 2
+    total: 5
     watch_started: 2
   intra: fhong
   login: hongfu12321
@@ -5116,8 +5116,8 @@
     follow: 2
     fork: 0
     public: 0
-    repo: 3
-    total: 5
+    repo: 4
+    total: 6
     watch_started: 0
   intra: apetrech
   login: petrechenko
@@ -5785,11 +5785,11 @@
 45217215:
   avatar_url: https://avatars2.githubusercontent.com/u/45217215?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 3
-    total: 3
+    total: 4
     watch_started: 0
   intra: llelias
   login: lukefreeman42
