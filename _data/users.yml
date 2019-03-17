@@ -3245,8 +3245,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 29
-    watch_started: 25
+    total: 32
+    watch_started: 28
   intra: aeltsev
   login: kizombaciao
   node_id: MDQ6VXNlcjI0Njg3MzU2
@@ -5031,9 +5031,9 @@
   event_counts:
     follow: 7
     fork: 0
-    public: 1
+    public: 2
     repo: 0
-    total: 25
+    total: 26
     watch_started: 17
   intra: mjacques
   login: maxencejded
@@ -5141,8 +5141,8 @@
     fork: 0
     public: 3
     repo: 8
-    total: 15
-    watch_started: 2
+    total: 16
+    watch_started: 3
   intra: jcasian
   login: JuanCasian
   node_id: MDQ6VXNlcjM4NDM2MzAz
