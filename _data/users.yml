@@ -653,8 +653,8 @@
     fork: 0
     public: 0
     repo: 10
-    total: 25
-    watch_started: 9
+    total: 26
+    watch_started: 10
   intra: qpeng
   login: sayakura
   node_id: MDQ6VXNlcjY4MzQ3NjE=
@@ -1588,8 +1588,8 @@
     follow: 1
     fork: 0
     public: 0
-    repo: 2
-    total: 4
+    repo: 3
+    total: 5
     watch_started: 1
   intra: yijhuang
   login: bigfacewawa
@@ -2032,8 +2032,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 1
-    total: 2
+    repo: 2
+    total: 3
     watch_started: 1
   intra: lhurt
   login: lhurt51
@@ -3014,10 +3014,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/23521387?v=4
   event_counts:
     follow: 4
-    fork: 0
+    fork: 1
     public: 0
     repo: 7
-    total: 15
+    total: 16
     watch_started: 4
   intra: ytran
   login: YoungTran
