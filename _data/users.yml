@@ -3517,11 +3517,11 @@
 25938826:
   avatar_url: https://avatars3.githubusercontent.com/u/25938826?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 0
-    total: 0
+    total: 1
     watch_started: 0
   intra: ncollie
   login: Nicocollie
@@ -4189,11 +4189,11 @@
 30615804:
   avatar_url: https://avatars3.githubusercontent.com/u/30615804?v=4
   event_counts:
-    follow: 0
+    follow: 2
     fork: 0
     public: 0
     repo: 7
-    total: 7
+    total: 9
     watch_started: 0
   intra: hnam
   login: naamoonoo
@@ -4633,11 +4633,11 @@
 33889438:
   avatar_url: https://avatars2.githubusercontent.com/u/33889438?v=4
   event_counts:
-    follow: 9
+    follow: 14
     fork: 0
     public: 0
     repo: 4
-    total: 13
+    total: 18
     watch_started: 0
   intra: hjo
   login: hahnejo
