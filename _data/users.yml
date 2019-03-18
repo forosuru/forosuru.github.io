@@ -1589,8 +1589,8 @@
     fork: 1
     public: 0
     repo: 3
-    total: 9
-    watch_started: 3
+    total: 10
+    watch_started: 4
   intra: yijhuang
   login: hyj1204
   node_id: MDQ6VXNlcjE0MjQ4MjQ1
@@ -1781,8 +1781,8 @@
     fork: 0
     public: 0
     repo: 1
-    total: 2
-    watch_started: 1
+    total: 3
+    watch_started: 2
   intra: zfaria
   login: ZacheryFaria
   node_id: MDQ6VXNlcjE2NDA0MTM0
@@ -1864,8 +1864,8 @@
     follow: 1
     fork: 0
     public: 0
-    repo: 7
-    total: 10
+    repo: 8
+    total: 11
     watch_started: 2
   intra: jadawson
   login: JamieDawson
@@ -1937,8 +1937,8 @@
     fork: 1
     public: 0
     repo: 4
-    total: 9
-    watch_started: 2
+    total: 10
+    watch_started: 3
   intra: ikozlov
   login: IvanKozlov95
   node_id: MDQ6VXNlcjE3Mjk5NjQ3
@@ -2138,10 +2138,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/18649645?v=4
   event_counts:
     follow: 6
-    fork: 0
+    fork: 1
     public: 0
     repo: 3
-    total: 9
+    total: 10
     watch_started: 0
   intra: awindham
   login: arwn
@@ -2321,8 +2321,8 @@
     fork: 0
     public: 1
     repo: 0
-    total: 8
-    watch_started: 3
+    total: 9
+    watch_started: 4
   intra: callen
   login: MrChafeits
   node_id: MDQ6VXNlcjIwMTk1Njg5
