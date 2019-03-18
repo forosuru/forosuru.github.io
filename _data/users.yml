@@ -5031,9 +5031,9 @@
   event_counts:
     follow: 7
     fork: 0
-    public: 2
+    public: 3
     repo: 0
-    total: 26
+    total: 27
     watch_started: 17
   intra: mjacques
   login: maxencejded
