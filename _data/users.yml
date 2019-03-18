@@ -137,8 +137,8 @@
     fork: 1
     public: 0
     repo: 2
-    total: 6
-    watch_started: 2
+    total: 7
+    watch_started: 3
   intra: seli
   login: Evilcat325
   node_id: MDQ6VXNlcjIzNTU3NjM=
@@ -736,8 +736,8 @@
     follow: 0
     fork: 1
     public: 0
-    repo: 7
-    total: 8
+    repo: 8
+    total: 9
     watch_started: 0
   intra: achavez
   login: anthony-chavez
@@ -3389,8 +3389,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 56
-    watch_started: 53
+    total: 57
+    watch_started: 54
   intra: scollet
   login: scollet1
   node_id: MDQ6VXNlcjI1MjU3OTg2
@@ -3916,8 +3916,8 @@
     follow: 3
     fork: 0
     public: 0
-    repo: 5
-    total: 8
+    repo: 6
+    total: 9
     watch_started: 0
   intra: calamber
   login: mueslimak3r
@@ -4285,11 +4285,11 @@
 32094053:
   avatar_url: https://avatars3.githubusercontent.com/u/32094053?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 0
     repo: 0
-    total: 1
+    total: 2
     watch_started: 0
   intra: anjansse
   login: Themancrazy
