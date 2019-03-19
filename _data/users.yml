@@ -133,11 +133,11 @@
 2355763:
   avatar_url: https://avatars1.githubusercontent.com/u/2355763?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 1
     public: 0
     repo: 2
-    total: 7
+    total: 8
     watch_started: 3
   intra: seli
   login: Evilcat325
@@ -3041,8 +3041,8 @@
     fork: 1
     public: 0
     repo: 0
-    total: 15
-    watch_started: 13
+    total: 16
+    watch_started: 14
   intra: jbrown
   login: panterarocks49
   node_id: MDQ6VXNlcjIzNjQ3ODM3
@@ -4733,8 +4733,8 @@
     fork: 0
     public: 1
     repo: 0
-    total: 2
-    watch_started: 1
+    total: 3
+    watch_started: 2
   intra: ashih
   login: ashih42
   node_id: MDQ6VXNlcjM0NTMyMDgw
@@ -5848,8 +5848,8 @@
     follow: 2
     fork: 0
     public: 0
-    repo: 1
-    total: 3
+    repo: 2
+    total: 4
     watch_started: 0
   intra: eagulov
   login: eagulov
