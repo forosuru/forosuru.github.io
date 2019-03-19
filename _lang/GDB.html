@@ -1,0 +1,9 @@
+---
+layout: default
+language: GDB
+filename: GDB.html
+---
+{% assign events = site.events | where: "language","GDB" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
