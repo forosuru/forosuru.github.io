@@ -2917,12 +2917,12 @@
 22827125:
   avatar_url: https://avatars2.githubusercontent.com/u/22827125?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 0
     public: 2
     repo: 0
-    total: 8
-    watch_started: 1
+    total: 10
+    watch_started: 2
   intra: maljean
   login: Maljean
   node_id: MDQ6VXNlcjIyODI3MTI1
@@ -3881,8 +3881,8 @@
     fork: 27
     public: 0
     repo: 3
-    total: 60
-    watch_started: 23
+    total: 62
+    watch_started: 25
   intra: xwang
   login: xiaodaw
   node_id: MDQ6VXNlcjI4NTEyNjcy
@@ -5788,8 +5788,8 @@
     follow: 1
     fork: 0
     public: 0
-    repo: 3
-    total: 4
+    repo: 4
+    total: 5
     watch_started: 0
   intra: llelias
   login: lukefreeman42
@@ -5797,11 +5797,11 @@
 45247529:
   avatar_url: https://avatars0.githubusercontent.com/u/45247529?v=4
   event_counts:
-    follow: 1
+    follow: 3
     fork: 0
     public: 0
     repo: 1
-    total: 2
+    total: 4
     watch_started: 0
   intra: mschroed
   login: CptBang
