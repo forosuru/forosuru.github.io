@@ -3037,11 +3037,11 @@
 23647837:
   avatar_url: https://avatars1.githubusercontent.com/u/23647837?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 1
     public: 0
     repo: 0
-    total: 16
+    total: 17
     watch_started: 14
   intra: jbrown
   login: panterarocks49
@@ -4321,11 +4321,11 @@
 32149526:
   avatar_url: https://avatars0.githubusercontent.com/u/32149526?v=4
   event_counts:
-    follow: 9
+    follow: 10
     fork: 0
     public: 0
     repo: 8
-    total: 17
+    total: 18
     watch_started: 0
   intra: gfielder
   login: gavinfielder
