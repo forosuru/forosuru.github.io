@@ -1025,8 +1025,8 @@
     fork: 0
     public: 0
     repo: 2
-    total: 12
-    watch_started: 7
+    total: 13
+    watch_started: 8
   intra: vlazuka
   login: recluse27
   node_id: MDQ6VXNlcjk5OTIwMzA=
@@ -2727,9 +2727,9 @@
   event_counts:
     follow: 3
     fork: 0
-    public: 0
+    public: 1
     repo: 1
-    total: 7
+    total: 8
     watch_started: 3
   intra: rzarate
   login: RafaelZarate
@@ -3245,8 +3245,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 33
-    watch_started: 29
+    total: 34
+    watch_started: 30
   intra: aeltsev
   login: kizombaciao
   node_id: MDQ6VXNlcjI0Njg3MzU2
@@ -3976,8 +3976,8 @@
     follow: 1
     fork: 2
     public: 0
-    repo: 6
-    total: 11
+    repo: 7
+    total: 12
     watch_started: 2
   intra: skunz
   login: SebastianKunz
@@ -4324,8 +4324,8 @@
     follow: 9
     fork: 0
     public: 0
-    repo: 7
-    total: 16
+    repo: 8
+    total: 17
     watch_started: 0
   intra: gfielder
   login: gavinfielder
@@ -4624,8 +4624,8 @@
     follow: 4
     fork: 1
     public: 0
-    repo: 3
-    total: 16
+    repo: 4
+    total: 17
     watch_started: 8
   intra: khou
   login: UniKlo
@@ -5236,8 +5236,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 0
-    total: 0
+    repo: 1
+    total: 1
     watch_started: 0
   intra: bvilla
   login: villabryan88
@@ -5761,11 +5761,11 @@
 44556890:
   avatar_url: https://avatars2.githubusercontent.com/u/44556890?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 1
     public: 0
     repo: 2
-    total: 3
+    total: 4
     watch_started: 0
   intra: jtaylor
   login: jt-taylor
@@ -6039,9 +6039,9 @@
   event_counts:
     follow: 0
     fork: 0
-    public: 0
+    public: 1
     repo: 1
-    total: 1
+    total: 2
     watch_started: 0
   intra: ibotnaru
   login: ibotnaru
