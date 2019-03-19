@@ -649,11 +649,11 @@
 6834761:
   avatar_url: https://avatars0.githubusercontent.com/u/6834761?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 0
     public: 0
     repo: 10
-    total: 27
+    total: 28
     watch_started: 11
   intra: qpeng
   login: sayakura
@@ -5725,11 +5725,11 @@
 44330039:
   avatar_url: https://avatars0.githubusercontent.com/u/44330039?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 1
     public: 0
     repo: 2
-    total: 10
+    total: 11
     watch_started: 5
   intra: viwade
   login: vwade
