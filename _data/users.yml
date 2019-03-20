@@ -497,8 +497,8 @@
     fork: 1
     public: 0
     repo: 1
-    total: 19
-    watch_started: 10
+    total: 20
+    watch_started: 11
   intra: dkotov
   login: stubisdon
   node_id: MDQ6VXNlcjU1MTQ0NzE=
@@ -1333,11 +1333,11 @@
 12045154:
   avatar_url: https://avatars1.githubusercontent.com/u/12045154?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 2
     public: 0
     repo: 7
-    total: 18
+    total: 19
     watch_started: 4
   intra: chsu
   login: enhsu
@@ -3685,11 +3685,11 @@
 26946125:
   avatar_url: https://avatars2.githubusercontent.com/u/26946125?v=4
   event_counts:
-    follow: 2
+    follow: 4
     fork: 0
     public: 1
-    repo: 2
-    total: 5
+    repo: 3
+    total: 8
     watch_started: 0
   intra: pstringe
   login: pstringe
