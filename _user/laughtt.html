@@ -1,0 +1,11 @@
+---
+layout: default
+intra: jcarpio-
+login: laughtt
+id: 22533943
+avatar_url: https://avatars1.githubusercontent.com/u/22533943?v=4
+---
+{% assign events = site.events | where: "author_id","22533943" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
