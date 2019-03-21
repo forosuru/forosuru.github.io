@@ -1334,10 +1334,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/12045154?v=4
   event_counts:
     follow: 6
-    fork: 2
+    fork: 3
     public: 0
     repo: 7
-    total: 19
+    total: 20
     watch_started: 4
   intra: chsu
   login: enhsu
@@ -3892,8 +3892,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 0
-    total: 2
+    repo: 1
+    total: 3
     watch_started: 2
   intra: jmeier
   login: fakejoshmeier
@@ -4469,8 +4469,8 @@
     fork: 0
     public: 1
     repo: 3
-    total: 7
-    watch_started: 1
+    total: 8
+    watch_started: 2
   intra: agrodzin
   login: blairclair
   node_id: MDQ6VXNlcjMyNTk0ODc0
@@ -5797,11 +5797,11 @@
 45247529:
   avatar_url: https://avatars0.githubusercontent.com/u/45247529?v=4
   event_counts:
-    follow: 3
+    follow: 5
     fork: 0
     public: 0
     repo: 1
-    total: 4
+    total: 6
     watch_started: 0
   intra: mschroed
   login: CptBang
@@ -6001,11 +6001,11 @@
 47616772:
   avatar_url: https://avatars1.githubusercontent.com/u/47616772?v=4
   event_counts:
-    follow: 1
-    fork: 0
+    follow: 3
+    fork: 1
     public: 0
     repo: 2
-    total: 3
+    total: 6
     watch_started: 0
   intra: mchi
   login: 2ne1ugly

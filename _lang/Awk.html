@@ -1,0 +1,9 @@
+---
+layout: default
+language: Awk
+filename: Awk.html
+---
+{% assign events = site.events | where: "language","Awk" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
