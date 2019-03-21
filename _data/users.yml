@@ -613,11 +613,11 @@
 6653080:
   avatar_url: https://avatars2.githubusercontent.com/u/6653080?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 0
     public: 0
     repo: 5
-    total: 13
+    total: 14
     watch_started: 3
   intra: jcope
   login: Jemmeh
@@ -1504,8 +1504,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 0
-    total: 0
+    repo: 1
+    total: 1
     watch_started: 0
   intra: ebucheit
   login: Emszy
@@ -2573,8 +2573,8 @@
     fork: 1
     public: 3
     repo: 0
-    total: 42
-    watch_started: 31
+    total: 43
+    watch_started: 32
   intra: tkobb
   login: thk2b
   node_id: MDQ6VXNlcjIxMDA5NTk0
@@ -4681,11 +4681,11 @@
 34428368:
   avatar_url: https://avatars2.githubusercontent.com/u/34428368?v=4
   event_counts:
-    follow: 3
+    follow: 4
     fork: 0
     public: 0
     repo: 7
-    total: 16
+    total: 17
     watch_started: 6
   intra: dmendelo
   login: DavidMendelovits
@@ -5965,11 +5965,11 @@
 46500040:
   avatar_url: https://avatars2.githubusercontent.com/u/46500040?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 0
     repo: 7
-    total: 9
+    total: 10
     watch_started: 1
   intra: obuksha
   login: ksanabuka

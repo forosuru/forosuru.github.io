@@ -1,0 +1,11 @@
+---
+layout: default
+intra: ebucheit
+login: Emszy
+id: 13632663
+avatar_url: https://avatars2.githubusercontent.com/u/13632663?v=4
+---
+{% assign events = site.events | where: "author_id","13632663" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
