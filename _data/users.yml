@@ -1793,8 +1793,8 @@
     fork: 0
     public: 0
     repo: 1
-    total: 6
-    watch_started: 5
+    total: 7
+    watch_started: 6
   intra: jnederlo
   login: jnederlo
   node_id: MDQ6VXNlcjE2NTIwMTUy
@@ -4477,11 +4477,11 @@
 32628961:
   avatar_url: https://avatars3.githubusercontent.com/u/32628961?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 1
-    total: 8
+    total: 9
     watch_started: 7
   intra: csinglet
   login: CaseySingleton
