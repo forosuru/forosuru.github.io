@@ -3517,11 +3517,11 @@
 25938826:
   avatar_url: https://avatars3.githubusercontent.com/u/25938826?v=4
   event_counts:
-    follow: 1
+    follow: 3
     fork: 0
     public: 0
     repo: 0
-    total: 1
+    total: 3
     watch_started: 0
   intra: ncollie
   login: Nicocollie
@@ -3881,8 +3881,8 @@
     fork: 27
     public: 0
     repo: 3
-    total: 62
-    watch_started: 25
+    total: 63
+    watch_started: 26
   intra: xwang
   login: xiaodaw
   node_id: MDQ6VXNlcjI4NTEyNjcy
