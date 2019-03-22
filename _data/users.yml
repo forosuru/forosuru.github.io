@@ -650,11 +650,11 @@
   avatar_url: https://avatars0.githubusercontent.com/u/6834761?v=4
   event_counts:
     follow: 7
-    fork: 0
+    fork: 1
     public: 0
     repo: 10
-    total: 28
-    watch_started: 11
+    total: 31
+    watch_started: 13
   intra: qpeng
   login: sayakura
   node_id: MDQ6VXNlcjY4MzQ3NjE=
@@ -5632,8 +5632,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 7
-    total: 7
+    repo: 8
+    total: 8
     watch_started: 0
   intra: nkirkby
   login: galacticgargleblaster
