@@ -3520,8 +3520,8 @@
     follow: 3
     fork: 0
     public: 0
-    repo: 0
-    total: 3
+    repo: 1
+    total: 4
     watch_started: 0
   intra: ncollie
   login: Nicocollie
@@ -4945,11 +4945,11 @@
 36604610:
   avatar_url: https://avatars1.githubusercontent.com/u/36604610?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 0
     public: 0
     repo: 1
-    total: 8
+    total: 9
     watch_started: 1
   intra: cdimitro
   login: coolguycam
@@ -5905,12 +5905,12 @@
 46170954:
   avatar_url: https://avatars3.githubusercontent.com/u/46170954?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 0
     public: 0
     repo: 0
-    total: 5
-    watch_started: 0
+    total: 7
+    watch_started: 1
   intra: dfonarev
   login: ruv1nce
   node_id: MDQ6VXNlcjQ2MTcwOTU0
