@@ -652,8 +652,8 @@
     follow: 7
     fork: 1
     public: 0
-    repo: 10
-    total: 31
+    repo: 11
+    total: 32
     watch_started: 13
   intra: qpeng
   login: sayakura
@@ -2569,11 +2569,11 @@
 21009594:
   avatar_url: https://avatars3.githubusercontent.com/u/21009594?v=4
   event_counts:
-    follow: 7
+    follow: 8
     fork: 1
     public: 3
     repo: 0
-    total: 43
+    total: 44
     watch_started: 32
   intra: tkobb
   login: thk2b
@@ -2752,8 +2752,8 @@
     follow: 1
     fork: 0
     public: 1
-    repo: 3
-    total: 5
+    repo: 4
+    total: 6
     watch_started: 0
   intra: bcastro
   login: brayanmcz
@@ -2835,9 +2835,9 @@
   event_counts:
     follow: 0
     fork: 1
-    public: 0
+    public: 1
     repo: 2
-    total: 3
+    total: 4
     watch_started: 0
   intra: ofedorov
   login: thatsmesasha
@@ -5584,8 +5584,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 0
-    total: 0
+    repo: 1
+    total: 1
     watch_started: 0
   intra: hbhuiyan
   login: havi-b
@@ -5762,10 +5762,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/44556890?v=4
   event_counts:
     follow: 1
-    fork: 1
+    fork: 2
     public: 0
     repo: 2
-    total: 4
+    total: 5
     watch_started: 0
   intra: jtaylor
   login: jt-taylor
