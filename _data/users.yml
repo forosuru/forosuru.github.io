@@ -3245,8 +3245,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 38
-    watch_started: 34
+    total: 40
+    watch_started: 36
   intra: aeltsev
   login: kizombaciao
   node_id: MDQ6VXNlcjI0Njg3MzU2
@@ -5209,12 +5209,12 @@
 39034711:
   avatar_url: https://avatars1.githubusercontent.com/u/39034711?v=4
   event_counts:
-    follow: 9
+    follow: 10
     fork: 4
     public: 0
     repo: 9
-    total: 28
-    watch_started: 6
+    total: 32
+    watch_started: 9
   intra: pdeguing
   login: pdeguing
   node_id: MDQ6VXNlcjM5MDM0NzEx
