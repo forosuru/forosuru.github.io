@@ -1936,8 +1936,8 @@
     follow: 3
     fork: 1
     public: 0
-    repo: 4
-    total: 11
+    repo: 5
+    total: 12
     watch_started: 3
   intra: ikozlov
   login: IvanKozlov95
@@ -5031,9 +5031,9 @@
   event_counts:
     follow: 8
     fork: 0
-    public: 4
+    public: 5
     repo: 0
-    total: 29
+    total: 30
     watch_started: 17
   intra: mjacques
   login: maxencejded
@@ -5197,11 +5197,11 @@
 39015941:
   avatar_url: https://avatars3.githubusercontent.com/u/39015941?v=4
   event_counts:
-    follow: 3
+    follow: 30
     fork: 0
     public: 0
     repo: 0
-    total: 3
+    total: 30
     watch_started: 0
   intra: debaxter
   login: drb3000
