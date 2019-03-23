@@ -1417,11 +1417,11 @@
 13036761:
   avatar_url: https://avatars3.githubusercontent.com/u/13036761?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 1
     public: 3
     repo: 3
-    total: 14
+    total: 15
     watch_started: 1
   intra: bogoncha
   login: bgoncharov
@@ -3520,8 +3520,8 @@
     follow: 3
     fork: 0
     public: 0
-    repo: 1
-    total: 4
+    repo: 2
+    total: 5
     watch_started: 0
   intra: ncollie
   login: Nicocollie
@@ -4010,10 +4010,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/29266089?v=4
   event_counts:
     follow: 9
-    fork: 2
+    fork: 3
     public: 0
-    repo: 1
-    total: 17
+    repo: 2
+    total: 19
     watch_started: 5
   intra: twalton
   login: theo-walton
@@ -4849,11 +4849,11 @@
 35618858:
   avatar_url: https://avatars2.githubusercontent.com/u/35618858?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 1
     repo: 3
-    total: 9
+    total: 10
     watch_started: 5
   intra: maparmar
   login: Manmeet2018
@@ -4886,10 +4886,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/36056254?v=4
   event_counts:
     follow: 1
-    fork: 0
+    fork: 1
     public: 0
     repo: 4
-    total: 9
+    total: 10
     watch_started: 4
   intra: akharrou
   login: AymenTM
@@ -5391,9 +5391,9 @@
   event_counts:
     follow: 1
     fork: 0
-    public: 1
+    public: 2
     repo: 0
-    total: 2
+    total: 3
     watch_started: 0
   intra: issmith
   login: 42U
@@ -5557,11 +5557,11 @@
 42279868:
   avatar_url: https://avatars2.githubusercontent.com/u/42279868?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 0
     public: 0
     repo: 6
-    total: 11
+    total: 12
     watch_started: 0
   intra: mpas
   login: mashenkaPas
@@ -5909,8 +5909,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 7
-    watch_started: 1
+    total: 8
+    watch_started: 2
   intra: dfonarev
   login: ruv1nce
   node_id: MDQ6VXNlcjQ2MTcwOTU0
