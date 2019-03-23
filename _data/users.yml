@@ -2225,8 +2225,8 @@
     fork: 0
     public: 2
     repo: 5
-    total: 14
-    watch_started: 2
+    total: 15
+    watch_started: 3
   intra: jcruz-y-
   login: josecyc
   node_id: MDQ6VXNlcjE5Mjc1OTI1
@@ -5173,11 +5173,11 @@
 38716012:
   avatar_url: https://avatars1.githubusercontent.com/u/38716012?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 0
     public: 2
     repo: 2
-    total: 11
+    total: 12
     watch_started: 1
   intra: jochang
   login: MagicHatJo
@@ -5197,11 +5197,11 @@
 39015941:
   avatar_url: https://avatars3.githubusercontent.com/u/39015941?v=4
   event_counts:
-    follow: 0
+    follow: 3
     fork: 0
     public: 0
     repo: 0
-    total: 0
+    total: 3
     watch_started: 0
   intra: debaxter
   login: drb3000
@@ -5701,11 +5701,11 @@
 43802339:
   avatar_url: https://avatars1.githubusercontent.com/u/43802339?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 0
     repo: 3
-    total: 4
+    total: 5
     watch_started: 0
   intra: tkatolik
   login: katolikyan
@@ -5860,8 +5860,8 @@
     follow: 2
     fork: 0
     public: 0
-    repo: 1
-    total: 3
+    repo: 2
+    total: 4
     watch_started: 0
   intra: tcherret
   login: tcheee
