@@ -1238,11 +1238,11 @@
   avatar_url: https://avatars3.githubusercontent.com/u/11222980?v=4
   event_counts:
     follow: 1
-    fork: 18
+    fork: 19
     public: 2
     repo: 0
-    total: 80
-    watch_started: 59
+    total: 82
+    watch_started: 60
   intra: jaleman
   login: jraleman
   node_id: MDQ6VXNlcjExMjIyOTgw
@@ -1417,11 +1417,11 @@
 13036761:
   avatar_url: https://avatars3.githubusercontent.com/u/13036761?v=4
   event_counts:
-    follow: 7
+    follow: 8
     fork: 1
     public: 4
     repo: 3
-    total: 16
+    total: 17
     watch_started: 1
   intra: bogoncha
   login: bgoncharov
@@ -2297,8 +2297,8 @@
     fork: 0
     public: 0
     repo: 5
-    total: 20
-    watch_started: 2
+    total: 21
+    watch_started: 3
   intra: aabdrakh
   login: hhaakkimm
   node_id: MDQ6VXNlcjIwMDIzNjg3
@@ -3255,9 +3255,9 @@
   event_counts:
     follow: 4
     fork: 0
-    public: 0
+    public: 1
     repo: 2
-    total: 6
+    total: 7
     watch_started: 0
   intra: wlin
   login: autopylot
@@ -3952,8 +3952,8 @@
     follow: 2
     fork: 0
     public: 0
-    repo: 5
-    total: 7
+    repo: 6
+    total: 8
     watch_started: 0
   intra: chford
   login: Chris7Ford
@@ -5701,11 +5701,11 @@
 43802339:
   avatar_url: https://avatars1.githubusercontent.com/u/43802339?v=4
   event_counts:
-    follow: 3
+    follow: 4
     fork: 0
     public: 0
     repo: 3
-    total: 6
+    total: 7
     watch_started: 0
   intra: tkatolik
   login: katolikyan
