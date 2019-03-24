@@ -3385,11 +3385,11 @@
 25257986:
   avatar_url: https://avatars0.githubusercontent.com/u/25257986?v=4
   event_counts:
-    follow: 3
+    follow: 5
     fork: 0
     public: 0
     repo: 0
-    total: 58
+    total: 60
     watch_started: 55
   intra: scollet
   login: scollet1
@@ -4441,11 +4441,11 @@
 32473067:
   avatar_url: https://avatars0.githubusercontent.com/u/32473067?v=4
   event_counts:
-    follow: 11
+    follow: 12
     fork: 2
     public: 0
     repo: 1
-    total: 14
+    total: 15
     watch_started: 0
   intra: ynenakho
   login: ynenakho
