@@ -627,9 +627,9 @@
   event_counts:
     follow: 2
     fork: 0
-    public: 1
+    public: 2
     repo: 1
-    total: 5
+    total: 6
     watch_started: 1
   intra: fbueno-m
   login: fredmurakawa
@@ -1225,11 +1225,11 @@
 11045597:
   avatar_url: https://avatars0.githubusercontent.com/u/11045597?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 2
-    total: 2
+    total: 3
     watch_started: 0
   intra: apasos-g
   login: RafaelPasos
@@ -3184,8 +3184,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 0
-    total: 0
+    repo: 1
+    total: 1
     watch_started: 0
   intra: kmurray
   login: indy728
@@ -3496,8 +3496,8 @@
     follow: 10
     fork: 0
     public: 0
-    repo: 5
-    total: 18
+    repo: 6
+    total: 19
     watch_started: 3
   intra: juochen
   login: pootitan
@@ -5701,11 +5701,11 @@
 43802339:
   avatar_url: https://avatars1.githubusercontent.com/u/43802339?v=4
   event_counts:
-    follow: 4
+    follow: 5
     fork: 0
     public: 0
     repo: 3
-    total: 7
+    total: 8
     watch_started: 0
   intra: tkatolik
   login: katolikyan

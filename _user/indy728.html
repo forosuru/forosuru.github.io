@@ -1,0 +1,11 @@
+---
+layout: default
+intra: kmurray
+login: indy728
+id: 24490773
+avatar_url: https://avatars2.githubusercontent.com/u/24490773?v=4
+---
+{% assign events = site.events | where: "author_id","24490773" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
