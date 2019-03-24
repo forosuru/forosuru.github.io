@@ -1864,8 +1864,8 @@
     follow: 1
     fork: 0
     public: 0
-    repo: 9
-    total: 12
+    repo: 10
+    total: 13
     watch_started: 2
   intra: jadawson
   login: JamieDawson
@@ -3617,8 +3617,8 @@
     fork: 1
     public: 0
     repo: 1
-    total: 12
-    watch_started: 10
+    total: 13
+    watch_started: 11
   intra: dfan
   login: dayfine
   node_id: MDQ6VXNlcjI2NDIzNTA0
@@ -5189,8 +5189,8 @@
     fork: 0
     public: 0
     repo: 2
-    total: 3
-    watch_started: 0
+    total: 4
+    watch_started: 1
   intra: xzhu
   login: xlz447
   node_id: MDQ6VXNlcjM4ODI2MDg3
@@ -5509,11 +5509,11 @@
 41839667:
   avatar_url: https://avatars2.githubusercontent.com/u/41839667?v=4
   event_counts:
-    follow: 4
+    follow: 5
     fork: 0
     public: 0
     repo: 4
-    total: 8
+    total: 9
     watch_started: 0
   intra: kmira
   login: MrColour
