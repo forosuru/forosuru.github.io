@@ -3472,8 +3472,8 @@
     follow: 5
     fork: 0
     public: 0
-    repo: 0
-    total: 7
+    repo: 1
+    total: 8
     watch_started: 2
   intra: mgill
   login: mattpaulgill
@@ -3617,8 +3617,8 @@
     fork: 1
     public: 0
     repo: 1
-    total: 13
-    watch_started: 11
+    total: 14
+    watch_started: 12
   intra: dfan
   login: dayfine
   node_id: MDQ6VXNlcjI2NDIzNTA0
@@ -3928,8 +3928,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 1
-    total: 1
+    repo: 2
+    total: 2
     watch_started: 0
   intra: abao
   login: Royal-7
@@ -5029,11 +5029,11 @@
 37248747:
   avatar_url: https://avatars3.githubusercontent.com/u/37248747?v=4
   event_counts:
-    follow: 8
+    follow: 9
     fork: 0
     public: 5
     repo: 0
-    total: 30
+    total: 31
     watch_started: 17
   intra: mjacques
   login: maxencejded
@@ -5704,8 +5704,8 @@
     follow: 6
     fork: 0
     public: 0
-    repo: 3
-    total: 9
+    repo: 4
+    total: 10
     watch_started: 0
   intra: tkatolik
   login: katolikyan
