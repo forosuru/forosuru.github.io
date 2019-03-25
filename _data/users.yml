@@ -3497,8 +3497,8 @@
     fork: 0
     public: 0
     repo: 6
-    total: 19
-    watch_started: 3
+    total: 20
+    watch_started: 4
   intra: juochen
   login: pootitan
   node_id: MDQ6VXNlcjI1ODU5ODk0
@@ -4441,11 +4441,11 @@
 32473067:
   avatar_url: https://avatars0.githubusercontent.com/u/32473067?v=4
   event_counts:
-    follow: 12
+    follow: 13
     fork: 2
     public: 0
     repo: 1
-    total: 15
+    total: 16
     watch_started: 0
   intra: ynenakho
   login: ynenakho
