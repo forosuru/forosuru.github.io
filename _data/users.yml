@@ -533,8 +533,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 1
-    watch_started: 1
+    total: 2
+    watch_started: 2
   intra: myoung
   login: qst0
   node_id: MDQ6VXNlcjU4NjY3NTc=
@@ -818,10 +818,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/8336384?v=4
   event_counts:
     follow: 2
-    fork: 1
+    fork: 2
     public: 1
     repo: 0
-    total: 5
+    total: 6
     watch_started: 1
   intra: adrean
   login: alexdrean
@@ -2452,8 +2452,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 2
-    total: 2
+    repo: 3
+    total: 3
     watch_started: 0
   intra: dstolz
   login: donald-stolz
@@ -2681,8 +2681,8 @@
     fork: 1
     public: 2
     repo: 2
-    total: 9
-    watch_started: 1
+    total: 10
+    watch_started: 2
   intra: ckrommen
   login: cpk42
   node_id: MDQ6VXNlcjIxMjA5ODAz
@@ -4045,11 +4045,11 @@
 29564454:
   avatar_url: https://avatars2.githubusercontent.com/u/29564454?v=4
   event_counts:
-    follow: 3
+    follow: 4
     fork: 1
     public: 0
     repo: 2
-    total: 8
+    total: 9
     watch_started: 2
   intra: rsathiad
   login: Traezar
@@ -4621,12 +4621,12 @@
 33693941:
   avatar_url: https://avatars3.githubusercontent.com/u/33693941?v=4
   event_counts:
-    follow: 4
+    follow: 5
     fork: 1
     public: 0
     repo: 4
-    total: 17
-    watch_started: 8
+    total: 20
+    watch_started: 10
   intra: khou
   login: UniKlo
   node_id: MDQ6VXNlcjMzNjkzOTQx
