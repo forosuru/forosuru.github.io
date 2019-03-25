@@ -616,8 +616,8 @@
     follow: 6
     fork: 0
     public: 0
-    repo: 5
-    total: 14
+    repo: 6
+    total: 15
     watch_started: 3
   intra: jcope
   login: Jemmeh
@@ -818,10 +818,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/8336384?v=4
   event_counts:
     follow: 2
-    fork: 2
+    fork: 3
     public: 1
     repo: 0
-    total: 6
+    total: 7
     watch_started: 1
   intra: adrean
   login: alexdrean
@@ -4696,8 +4696,8 @@
     follow: 7
     fork: 1
     public: 8
-    repo: 2
-    total: 18
+    repo: 3
+    total: 19
     watch_started: 0
   intra: acarlson
   login: bombblob
@@ -5007,9 +5007,9 @@
   event_counts:
     follow: 2
     fork: 0
-    public: 0
+    public: 1
     repo: 4
-    total: 6
+    total: 7
     watch_started: 0
   intra: ksonu
   login: moonsonu
@@ -5031,9 +5031,9 @@
   event_counts:
     follow: 9
     fork: 0
-    public: 5
+    public: 6
     repo: 0
-    total: 31
+    total: 32
     watch_started: 17
   intra: mjacques
   login: maxencejded
