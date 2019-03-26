@@ -448,8 +448,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 0
-    total: 0
+    repo: 2
+    total: 2
     watch_started: 0
   intra: thendric
   login: hat
@@ -1586,10 +1586,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/14248245?v=4
   event_counts:
     follow: 2
-    fork: 1
+    fork: 2
     public: 0
     repo: 3
-    total: 10
+    total: 11
     watch_started: 4
   intra: yijhuang
   login: hyj1204
@@ -1777,11 +1777,11 @@
 16404134:
   avatar_url: https://avatars2.githubusercontent.com/u/16404134?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 1
-    total: 3
+    total: 4
     watch_started: 2
   intra: zfaria
   login: ZacheryFaria
@@ -2140,8 +2140,8 @@
     follow: 6
     fork: 1
     public: 0
-    repo: 3
-    total: 10
+    repo: 4
+    total: 11
     watch_started: 0
   intra: awindham
   login: arwn
@@ -2150,10 +2150,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/18673569?v=4
   event_counts:
     follow: 0
-    fork: 1
+    fork: 2
     public: 0
     repo: 1
-    total: 3
+    total: 4
     watch_started: 1
   intra: jgelbard
   login: joshgelbard
@@ -3041,8 +3041,8 @@
     fork: 1
     public: 0
     repo: 0
-    total: 17
-    watch_started: 14
+    total: 18
+    watch_started: 15
   intra: jbrown
   login: panterarocks49
   node_id: MDQ6VXNlcjIzNjQ3ODM3
@@ -3877,11 +3877,11 @@
 28512672:
   avatar_url: https://avatars2.githubusercontent.com/u/28512672?v=4
   event_counts:
-    follow: 7
+    follow: 8
     fork: 27
     public: 0
     repo: 3
-    total: 63
+    total: 64
     watch_started: 26
   intra: xwang
   login: xiaodaw
@@ -4082,10 +4082,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/29821128?v=4
   event_counts:
     follow: 1
-    fork: 8
+    fork: 9
     public: 0
     repo: 2
-    total: 56
+    total: 57
     watch_started: 45
   intra: patigunt
   login: PavelJland
@@ -4192,8 +4192,8 @@
     follow: 2
     fork: 0
     public: 0
-    repo: 7
-    total: 9
+    repo: 8
+    total: 10
     watch_started: 0
   intra: hnam
   login: naamoonoo
