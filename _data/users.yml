@@ -1957,14 +1957,14 @@
 17593070:
   avatar_url: https://avatars0.githubusercontent.com/u/17593070?v=4
   event_counts:
-    follow: 6
+    follow: 12
     fork: 0
     public: 0
     repo: 0
-    total: 6
-    watch_started: 0
+    total: 13
+    watch_started: 1
   intra: asansyzb
-  login: Aliba777
+  login: asansyzb
   node_id: MDQ6VXNlcjE3NTkzMDcw
 17707958:
   avatar_url: https://avatars1.githubusercontent.com/u/17707958?v=4
@@ -3902,10 +3902,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/28690090?v=4
   event_counts:
     follow: 0
-    fork: 2
+    fork: 3
     public: 0
     repo: 3
-    total: 5
+    total: 6
     watch_started: 0
   intra: dgurova
   login: dashagurova
@@ -4085,8 +4085,8 @@
     fork: 8
     public: 0
     repo: 2
-    total: 55
-    watch_started: 44
+    total: 56
+    watch_started: 45
   intra: patigunt
   login: PavelJland
   node_id: MDQ6VXNlcjI5ODIxMTI4
