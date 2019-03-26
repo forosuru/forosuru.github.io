@@ -2293,12 +2293,12 @@
 20023687:
   avatar_url: https://avatars1.githubusercontent.com/u/20023687?v=4
   event_counts:
-    follow: 13
+    follow: 16
     fork: 0
     public: 0
     repo: 6
-    total: 22
-    watch_started: 3
+    total: 26
+    watch_started: 4
   intra: aabdrakh
   login: hhaakkimm
   node_id: MDQ6VXNlcjIwMDIzNjg3
@@ -2749,11 +2749,11 @@
 22286783:
   avatar_url: https://avatars3.githubusercontent.com/u/22286783?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 1
     repo: 6
-    total: 8
+    total: 9
     watch_started: 0
   intra: bcastro
   login: brayanmcz
