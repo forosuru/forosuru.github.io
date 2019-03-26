@@ -1913,8 +1913,8 @@
     fork: 1
     public: 2
     repo: 1
-    total: 37
-    watch_started: 27
+    total: 38
+    watch_started: 28
   intra: dgaitsgo
   login: dgaitsgo
   node_id: MDQ6VXNlcjE3MTI3NjIy
@@ -6025,11 +6025,11 @@
 47709344:
   avatar_url: https://avatars1.githubusercontent.com/u/47709344?v=4
   event_counts:
-    follow: 3
+    follow: 4
     fork: 0
     public: 0
     repo: 6
-    total: 9
+    total: 10
     watch_started: 0
   intra: jinpark
   login: Seojun-Park
