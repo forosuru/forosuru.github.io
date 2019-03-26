@@ -1516,8 +1516,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 0
-    total: 0
+    repo: 1
+    total: 1
     watch_started: 0
   intra: kialvare
   login: kialvare
@@ -3245,8 +3245,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 40
-    watch_started: 36
+    total: 41
+    watch_started: 37
   intra: aeltsev
   login: kizombaciao
   node_id: MDQ6VXNlcjI0Njg3MzU2
@@ -5150,10 +5150,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/38451715?v=4
   event_counts:
     follow: 0
-    fork: 1
+    fork: 2
     public: 0
     repo: 0
-    total: 1
+    total: 2
     watch_started: 0
   intra: lfiuza
   login: laurafiuza
@@ -5692,8 +5692,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 1
-    total: 1
+    repo: 2
+    total: 2
     watch_started: 0
   intra: ieropaie
   login: eropaev
