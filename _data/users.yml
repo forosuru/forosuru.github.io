@@ -962,10 +962,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/9532690?v=4
   event_counts:
     follow: 0
-    fork: 1
+    fork: 2
     public: 0
     repo: 0
-    total: 1
+    total: 2
     watch_started: 0
   intra: kfonda
   login: KalindiFonda
@@ -1733,8 +1733,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 1
-    watch_started: 1
+    total: 2
+    watch_started: 2
   intra: sescolas
   login: samescolas
   node_id: MDQ6VXNlcjE2MDU4ODc3
@@ -3877,14 +3877,14 @@
 28512672:
   avatar_url: https://avatars2.githubusercontent.com/u/28512672?v=4
   event_counts:
-    follow: 8
+    follow: 9
     fork: 27
     public: 0
     repo: 3
-    total: 64
+    total: 65
     watch_started: 26
   intra: xwang
-  login: xiaodaw
+  login: daxwann
   node_id: MDQ6VXNlcjI4NTEyNjcy
 28543848:
   avatar_url: https://avatars1.githubusercontent.com/u/28543848?v=4
