@@ -1084,8 +1084,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 1
-    total: 1
+    repo: 2
+    total: 2
     watch_started: 0
   intra: nhennigh
   login: NathanHennigh
@@ -2053,11 +2053,11 @@
 18249395:
   avatar_url: https://avatars1.githubusercontent.com/u/18249395?v=4
   event_counts:
-    follow: 3
+    follow: 4
     fork: 1
     public: 4
     repo: 2
-    total: 13
+    total: 14
     watch_started: 3
   intra: hvillasa
   login: hectorsvill
@@ -2261,8 +2261,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 3
-    watch_started: 3
+    total: 6
+    watch_started: 6
   intra: bbauer
   login: brianbauer42
   node_id: MDQ6VXNlcjE5NTIzNjIw
@@ -2920,8 +2920,8 @@
     follow: 6
     fork: 0
     public: 2
-    repo: 1
-    total: 11
+    repo: 2
+    total: 12
     watch_started: 2
   intra: maljean
   login: Maljean
@@ -4421,8 +4421,8 @@
     fork: 0
     public: 0
     repo: 2
-    total: 2
-    watch_started: 0
+    total: 3
+    watch_started: 1
   intra: bchapman
   login: boredomdenied
   node_id: MDQ6VXNlcjMyMzgwMjk1
