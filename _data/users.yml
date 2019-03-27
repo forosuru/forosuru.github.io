@@ -818,10 +818,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/8336384?v=4
   event_counts:
     follow: 2
-    fork: 3
+    fork: 4
     public: 1
     repo: 1
-    total: 8
+    total: 9
     watch_started: 1
   intra: adrean
   login: alexdrean
@@ -2320,8 +2320,8 @@
     follow: 4
     fork: 0
     public: 1
-    repo: 0
-    total: 10
+    repo: 1
+    total: 11
     watch_started: 5
   intra: callen
   login: MrChafeits
@@ -5548,8 +5548,8 @@
     follow: 3
     fork: 0
     public: 0
-    repo: 5
-    total: 8
+    repo: 6
+    total: 9
     watch_started: 0
   intra: mtaylor
   login: motaylormo
