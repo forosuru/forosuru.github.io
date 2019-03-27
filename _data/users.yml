@@ -2150,10 +2150,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/18673569?v=4
   event_counts:
     follow: 0
-    fork: 2
+    fork: 3
     public: 0
     repo: 1
-    total: 4
+    total: 5
     watch_started: 1
   intra: jgelbard
   login: joshgelbard
@@ -3601,11 +3601,11 @@
 26353225:
   avatar_url: https://avatars1.githubusercontent.com/u/26353225?v=4
   event_counts:
-    follow: 15
+    follow: 16
     fork: 0
     public: 0
     repo: 0
-    total: 41
+    total: 42
     watch_started: 26
   intra: gmalpart
   login: regien
@@ -3986,11 +3986,11 @@
   avatar_url: https://avatars3.githubusercontent.com/u/29165109?v=4
   event_counts:
     follow: 1
-    fork: 1
+    fork: 2
     public: 0
     repo: 3
-    total: 7
-    watch_started: 2
+    total: 9
+    watch_started: 3
   intra: arherrer
   login: geostran
   node_id: MDQ6VXNlcjI5MTY1MTA5
@@ -4441,11 +4441,11 @@
 32473067:
   avatar_url: https://avatars0.githubusercontent.com/u/32473067?v=4
   event_counts:
-    follow: 13
+    follow: 15
     fork: 2
     public: 0
     repo: 1
-    total: 16
+    total: 18
     watch_started: 0
   intra: ynenakho
   login: ynenakho
@@ -5140,8 +5140,8 @@
     follow: 2
     fork: 0
     public: 3
-    repo: 9
-    total: 17
+    repo: 10
+    total: 18
     watch_started: 3
   intra: jcasian
   login: JuanCasian
@@ -5212,8 +5212,8 @@
     follow: 10
     fork: 5
     public: 0
-    repo: 9
-    total: 33
+    repo: 10
+    total: 34
     watch_started: 9
   intra: pdeguing
   login: pdeguing
@@ -5557,11 +5557,11 @@
 42279868:
   avatar_url: https://avatars2.githubusercontent.com/u/42279868?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 0
     public: 0
     repo: 6
-    total: 12
+    total: 13
     watch_started: 0
   intra: mpas
   login: mashenkaPas
@@ -5968,8 +5968,8 @@
     follow: 2
     fork: 0
     public: 0
-    repo: 7
-    total: 10
+    repo: 8
+    total: 11
     watch_started: 1
   intra: obuksha
   login: ksanabuka
