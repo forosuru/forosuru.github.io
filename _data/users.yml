@@ -2269,12 +2269,12 @@
 19755860:
   avatar_url: https://avatars2.githubusercontent.com/u/19755860?v=4
   event_counts:
-    follow: 3
+    follow: 4
     fork: 2
     public: 1
     repo: 9
-    total: 17
-    watch_started: 2
+    total: 19
+    watch_started: 3
   intra: lhernand
   login: amnotme
   node_id: MDQ6VXNlcjE5NzU1ODYw
@@ -4733,8 +4733,8 @@
     fork: 0
     public: 1
     repo: 0
-    total: 3
-    watch_started: 2
+    total: 4
+    watch_started: 3
   intra: ashih
   login: ashih42
   node_id: MDQ6VXNlcjM0NTMyMDgw
