@@ -1108,8 +1108,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 0
-    total: 0
+    repo: 1
+    total: 1
     watch_started: 0
   intra: slee
   login: Mr-Perfection
@@ -1310,10 +1310,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/11985971?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 0
     repo: 0
-    total: 0
+    total: 1
     watch_started: 0
   intra: scamargo
   login: scamargo
@@ -1361,8 +1361,8 @@
     fork: 0
     public: 0
     repo: 4
-    total: 142
-    watch_started: 114
+    total: 144
+    watch_started: 116
   intra: mfernand
   login: MatiasFMolinari
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -4418,10 +4418,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/32380295?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 0
     repo: 2
-    total: 3
+    total: 4
     watch_started: 1
   intra: bchapman
   login: boredomdenied
@@ -4660,8 +4660,8 @@
     follow: 6
     fork: 0
     public: 0
-    repo: 17
-    total: 26
+    repo: 18
+    total: 27
     watch_started: 3
   intra: jdiaz
   login: diazjuli
