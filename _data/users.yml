@@ -712,8 +712,8 @@
     follow: 5
     fork: 0
     public: 0
-    repo: 6
-    total: 13
+    repo: 7
+    total: 14
     watch_started: 2
   intra: cbagdon
   login: cbg119
@@ -4357,12 +4357,12 @@
 32261113:
   avatar_url: https://avatars1.githubusercontent.com/u/32261113?v=4
   event_counts:
-    follow: 9
+    follow: 11
     fork: 1
     public: 0
     repo: 0
-    total: 18
-    watch_started: 8
+    total: 21
+    watch_started: 9
   intra: fredsiik
   login: fredsiika
   node_id: MDQ6VXNlcjMyMjYxMTEz
@@ -4444,8 +4444,8 @@
     follow: 15
     fork: 2
     public: 0
-    repo: 1
-    total: 18
+    repo: 2
+    total: 19
     watch_started: 0
   intra: ynenakho
   login: ynenakho
