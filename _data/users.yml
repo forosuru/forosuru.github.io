@@ -1777,11 +1777,11 @@
 16404134:
   avatar_url: https://avatars2.githubusercontent.com/u/16404134?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 0
     repo: 1
-    total: 4
+    total: 5
     watch_started: 2
   intra: zfaria
   login: ZacheryFaria
@@ -5681,8 +5681,8 @@
     fork: 1
     public: 1
     repo: 2
-    total: 4
-    watch_started: 0
+    total: 5
+    watch_started: 1
   intra: jamwang
   login: jameswangdr
   node_id: MDQ6VXNlcjQzNjg4Nzk2
