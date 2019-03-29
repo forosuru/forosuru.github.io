@@ -1,0 +1,9 @@
+---
+layout: default
+language: Perl6
+filename: Perl6.html
+---
+{% assign events = site.events | where: "language","Perl6" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
