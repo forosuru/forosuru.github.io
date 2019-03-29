@@ -616,8 +616,8 @@
     follow: 6
     fork: 0
     public: 0
-    repo: 6
-    total: 15
+    repo: 7
+    total: 16
     watch_started: 3
   intra: jcope
   login: Jemmeh
@@ -709,11 +709,11 @@
 7669375:
   avatar_url: https://avatars3.githubusercontent.com/u/7669375?v=4
   event_counts:
-    follow: 5
-    fork: 0
+    follow: 6
+    fork: 1
     public: 0
     repo: 7
-    total: 14
+    total: 16
     watch_started: 2
   intra: cbagdon
   login: cbg119
@@ -1589,8 +1589,8 @@
     fork: 2
     public: 0
     repo: 3
-    total: 11
-    watch_started: 4
+    total: 12
+    watch_started: 5
   intra: yijhuang
   login: hyj1204
   node_id: MDQ6VXNlcjE0MjQ4MjQ1
@@ -2293,11 +2293,11 @@
 20023687:
   avatar_url: https://avatars1.githubusercontent.com/u/20023687?v=4
   event_counts:
-    follow: 24
-    fork: 0
+    follow: 25
+    fork: 1
     public: 0
     repo: 6
-    total: 34
+    total: 36
     watch_started: 4
   intra: aabdrakh
   login: hhaakkimm
@@ -2870,10 +2870,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/22650155?v=4
   event_counts:
     follow: 0
-    fork: 2
+    fork: 3
     public: 0
     repo: 0
-    total: 18
+    total: 19
     watch_started: 16
   intra: rhaque
   login: Rahisulhaque
@@ -3697,11 +3697,11 @@
 27170840:
   avatar_url: https://avatars2.githubusercontent.com/u/27170840?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 0
     repo: 0
-    total: 1
+    total: 2
     watch_started: 0
   intra: eserebry
   login: eserebry
@@ -3881,8 +3881,8 @@
     fork: 27
     public: 0
     repo: 3
-    total: 68
-    watch_started: 28
+    total: 69
+    watch_started: 29
   intra: xwang
   login: daxwann
   node_id: MDQ6VXNlcjI4NTEyNjcy
@@ -3916,8 +3916,8 @@
     follow: 3
     fork: 0
     public: 0
-    repo: 6
-    total: 9
+    repo: 7
+    total: 10
     watch_started: 0
   intra: calamber
   login: mueslimak3r
@@ -4685,8 +4685,8 @@
     fork: 0
     public: 0
     repo: 8
-    total: 19
-    watch_started: 6
+    total: 20
+    watch_started: 7
   intra: dmendelo
   login: DavidMendelovits
   node_id: MDQ6VXNlcjM0NDI4MzY4
@@ -5605,11 +5605,11 @@
 43352542:
   avatar_url: https://avatars2.githubusercontent.com/u/43352542?v=4
   event_counts:
-    follow: 0
+    follow: 2
     fork: 0
     public: 0
     repo: 0
-    total: 1
+    total: 3
     watch_started: 1
   intra: tholzheu
   login: ThomasH88
