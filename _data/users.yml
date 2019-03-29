@@ -161,8 +161,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 45
-    watch_started: 42
+    total: 46
+    watch_started: 43
   intra: crenfrow
   login: ChrisRenfrow
   node_id: MDQ6VXNlcjI3MDA1NDk=
@@ -1325,8 +1325,8 @@
     fork: 0
     public: 0
     repo: 1
-    total: 3
-    watch_started: 2
+    total: 4
+    watch_started: 3
   intra: kblack
   login: kab11
   node_id: MDQ6VXNlcjEyMDQ0MDYz
@@ -3245,8 +3245,8 @@
     fork: 0
     public: 0
     repo: 1
-    total: 46
-    watch_started: 41
+    total: 47
+    watch_started: 42
   intra: aeltsev
   login: kizombaciao
   node_id: MDQ6VXNlcjI0Njg3MzU2
@@ -3761,8 +3761,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 11
-    watch_started: 11
+    total: 14
+    watch_started: 14
   intra: vyudushk
   login: vyudushk
   node_id: MDQ6VXNlcjI3OTAzNjQ5
@@ -3902,10 +3902,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/28690090?v=4
   event_counts:
     follow: 0
-    fork: 4
+    fork: 5
     public: 0
     repo: 3
-    total: 7
+    total: 8
     watch_started: 0
   intra: dgurova
   login: dashagurova
@@ -5845,11 +5845,11 @@
 45741029:
   avatar_url: https://avatars0.githubusercontent.com/u/45741029?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 0
     public: 0
     repo: 4
-    total: 6
+    total: 7
     watch_started: 0
   intra: eagulov
   login: eagulov
