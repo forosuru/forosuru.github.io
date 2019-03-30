@@ -1468,8 +1468,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 0
-    total: 0
+    repo: 1
+    total: 1
     watch_started: 0
   intra: kbaker
   login: KevinTBaker
@@ -1957,12 +1957,12 @@
 17593070:
   avatar_url: https://avatars0.githubusercontent.com/u/17593070?v=4
   event_counts:
-    follow: 12
+    follow: 13
     fork: 0
     public: 0
     repo: 0
-    total: 13
-    watch_started: 1
+    total: 15
+    watch_started: 2
   intra: asansyzb
   login: asansyzb
   node_id: MDQ6VXNlcjE3NTkzMDcw
