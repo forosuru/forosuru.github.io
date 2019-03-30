@@ -1334,10 +1334,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/12045154?v=4
   event_counts:
     follow: 6
-    fork: 3
+    fork: 4
     public: 0
     repo: 7
-    total: 20
+    total: 21
     watch_started: 4
   intra: chsu
   login: enhsu
@@ -5750,10 +5750,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/44511996?v=4
   event_counts:
     follow: 2
-    fork: 0
+    fork: 1
     public: 1
     repo: 2
-    total: 5
+    total: 6
     watch_started: 0
   intra: dromansk
   login: bigdiggysquiggle
