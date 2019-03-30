@@ -2725,11 +2725,11 @@
 22158877:
   avatar_url: https://avatars1.githubusercontent.com/u/22158877?v=4
   event_counts:
-    follow: 3
+    follow: 5
     fork: 0
     public: 1
     repo: 1
-    total: 8
+    total: 10
     watch_started: 3
   intra: rzarate
   login: RafaelZarate
@@ -2917,11 +2917,11 @@
 22827125:
   avatar_url: https://avatars2.githubusercontent.com/u/22827125?v=4
   event_counts:
-    follow: 6
+    follow: 9
     fork: 0
     public: 2
     repo: 2
-    total: 12
+    total: 15
     watch_started: 2
   intra: maljean
   login: Maljean
@@ -5512,8 +5512,8 @@
     follow: 6
     fork: 0
     public: 0
-    repo: 4
-    total: 11
+    repo: 5
+    total: 12
     watch_started: 1
   intra: kmira
   login: MrColour
@@ -5979,9 +5979,9 @@
   event_counts:
     follow: 0
     fork: 0
-    public: 0
+    public: 1
     repo: 0
-    total: 0
+    total: 1
     watch_started: 0
   intra: jchiang-
   login: JCTGY
