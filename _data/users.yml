@@ -4361,8 +4361,8 @@
     fork: 1
     public: 0
     repo: 0
-    total: 21
-    watch_started: 9
+    total: 22
+    watch_started: 10
   intra: fredsiik
   login: fredsiika
   node_id: MDQ6VXNlcjMyMjYxMTEz
@@ -5461,11 +5461,11 @@
 41515891:
   avatar_url: https://avatars3.githubusercontent.com/u/41515891?v=4
   event_counts:
-    follow: 6
+    follow: 10
     fork: 0
     public: 0
-    repo: 5
-    total: 11
+    repo: 6
+    total: 16
     watch_started: 0
   intra: sechang
   login: sechang01
@@ -5749,11 +5749,11 @@
 44511996:
   avatar_url: https://avatars3.githubusercontent.com/u/44511996?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 1
     repo: 2
-    total: 4
+    total: 5
     watch_started: 0
   intra: dromansk
   login: bigdiggysquiggle
