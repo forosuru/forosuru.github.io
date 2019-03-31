@@ -4732,8 +4732,8 @@
     follow: 0
     fork: 0
     public: 1
-    repo: 1
-    total: 5
+    repo: 3
+    total: 7
     watch_started: 3
   intra: ashih
   login: ashih42
