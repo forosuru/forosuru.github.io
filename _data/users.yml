@@ -1972,8 +1972,8 @@
     follow: 2
     fork: 0
     public: 0
-    repo: 5
-    total: 7
+    repo: 6
+    total: 8
     watch_started: 0
   intra: kkozlov
   login: BimManager
@@ -2449,11 +2449,11 @@
 20745447:
   avatar_url: https://avatars3.githubusercontent.com/u/20745447?v=4
   event_counts:
-    follow: 0
+    follow: 2
     fork: 0
     public: 0
     repo: 3
-    total: 3
+    total: 5
     watch_started: 0
   intra: dstolz
   login: donald-stolz
@@ -3832,8 +3832,8 @@
     follow: 6
     fork: 1
     public: 0
-    repo: 5
-    total: 13
+    repo: 6
+    total: 14
     watch_started: 1
   intra: hirenpat
   login: hirenpateldotnex
@@ -5331,9 +5331,9 @@
   event_counts:
     follow: 2
     fork: 0
-    public: 0
+    public: 1
     repo: 1
-    total: 3
+    total: 4
     watch_started: 0
   intra: cschulle
   login: tasertasertaser
@@ -5737,11 +5737,11 @@
 44458369:
   avatar_url: https://avatars0.githubusercontent.com/u/44458369?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 0
     public: 0
     repo: 4
-    total: 9
+    total: 10
     watch_started: 0
   intra: osfally
   login: shaparder
