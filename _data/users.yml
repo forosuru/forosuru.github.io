@@ -2057,8 +2057,8 @@
     fork: 1
     public: 4
     repo: 2
-    total: 15
-    watch_started: 4
+    total: 16
+    watch_started: 5
   intra: hvillasa
   login: hectorsvill
   node_id: MDQ6VXNlcjE4MjQ5Mzk1
@@ -5212,8 +5212,8 @@
     follow: 10
     fork: 5
     public: 0
-    repo: 11
-    total: 35
+    repo: 12
+    total: 36
     watch_started: 9
   intra: pdeguing
   login: pdeguing
@@ -5860,8 +5860,8 @@
     follow: 2
     fork: 0
     public: 0
-    repo: 2
-    total: 4
+    repo: 3
+    total: 5
     watch_started: 0
   intra: tcherret
   login: tcheee
