@@ -652,8 +652,8 @@
     follow: 7
     fork: 1
     public: 0
-    repo: 11
-    total: 32
+    repo: 12
+    total: 33
     watch_started: 13
   intra: qpeng
   login: sayakura
@@ -4693,11 +4693,11 @@
 34431218:
   avatar_url: https://avatars2.githubusercontent.com/u/34431218?v=4
   event_counts:
-    follow: 7
+    follow: 9
     fork: 1
     public: 8
     repo: 3
-    total: 19
+    total: 21
     watch_started: 0
   intra: acarlson
   login: bombblob
