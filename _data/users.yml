@@ -964,8 +964,8 @@
     follow: 0
     fork: 2
     public: 0
-    repo: 0
-    total: 2
+    repo: 1
+    total: 3
     watch_started: 0
   intra: kfonda
   login: KalindiFonda
@@ -1609,11 +1609,11 @@
 14841261:
   avatar_url: https://avatars3.githubusercontent.com/u/14841261?v=4
   event_counts:
-    follow: 19
+    follow: 20
     fork: 7
     public: 1
     repo: 2
-    total: 70
+    total: 71
     watch_started: 41
   intra: ztisnes
   login: zedin27
@@ -4384,8 +4384,8 @@
     follow: 2
     fork: 0
     public: 1
-    repo: 18
-    total: 21
+    repo: 19
+    total: 22
     watch_started: 0
   intra: ytuz
   login: yenertuz
