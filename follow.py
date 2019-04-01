@@ -117,8 +117,10 @@ if __name__ == '__main__':
         uid = int(gh_data['id'])
         if uid in users:
             print('updating existing record')
-
-        users[uid] = record
+        else:
+            print('creating new record')
+            users[uid] = record             # do not overwrite existing event counts
+            
         fp.seek(0, 0)   #move file pointer
         yaml.dump(users, fp, default_flow_style=False)
         fp.close()
