@@ -1621,11 +1621,11 @@
 14947372:
   avatar_url: https://avatars3.githubusercontent.com/u/14947372?v=4
   event_counts:
-    follow: 4
+    follow: 5
     fork: 1
     public: 1
     repo: 3
-    total: 16
+    total: 17
     watch_started: 7
   intra: jcrisp
   login: zill4
@@ -5139,9 +5139,9 @@
   event_counts:
     follow: 2
     fork: 0
-    public: 3
+    public: 4
     repo: 10
-    total: 18
+    total: 19
     watch_started: 3
   intra: jcasian
   login: JuanCasian
