@@ -1780,8 +1780,8 @@
     follow: 2
     fork: 0
     public: 0
-    repo: 1
-    total: 7
+    repo: 2
+    total: 8
     watch_started: 4
   intra: zfaria
   login: ZacheryFaria
@@ -2752,8 +2752,8 @@
     follow: 2
     fork: 0
     public: 1
-    repo: 6
-    total: 9
+    repo: 7
+    total: 10
     watch_started: 0
   intra: bcastro
   login: brayanmcz
