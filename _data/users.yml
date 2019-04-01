@@ -1228,8 +1228,8 @@
     follow: 1
     fork: 0
     public: 0
-    repo: 2
-    total: 3
+    repo: 3
+    total: 4
     watch_started: 0
   intra: apasos-g
   login: RafaelPasos
@@ -3098,10 +3098,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/24237467?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 0
     repo: 3
-    total: 3
+    total: 4
     watch_started: 0
   intra: thomkim
   login: swp0107
@@ -3877,11 +3877,11 @@
 28512672:
   avatar_url: https://avatars2.githubusercontent.com/u/28512672?v=4
   event_counts:
-    follow: 10
+    follow: 11
     fork: 28
     public: 0
     repo: 3
-    total: 73
+    total: 74
     watch_started: 32
   intra: xwang
   login: daxwann
