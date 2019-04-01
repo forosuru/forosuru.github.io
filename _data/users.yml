@@ -85,11 +85,11 @@
 1437013:
   avatar_url: https://avatars0.githubusercontent.com/u/1437013?v=4
   event_counts:
-    follow: 7
+    follow: 8
     fork: 0
     public: 0
     repo: 1
-    total: 10
+    total: 11
     watch_started: 2
   intra: ltanenba
   login: LeoTD
@@ -3121,11 +3121,11 @@
 24299306:
   avatar_url: https://avatars1.githubusercontent.com/u/24299306?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 0
-    total: 0
+    total: 1
     watch_started: 0
   intra: jfleisch
   login: Obnoxious713
@@ -5739,9 +5739,9 @@
   event_counts:
     follow: 6
     fork: 0
-    public: 0
+    public: 1
     repo: 4
-    total: 10
+    total: 11
     watch_started: 0
   intra: osfally
   login: shaparder
