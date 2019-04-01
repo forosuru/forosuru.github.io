@@ -1888,8 +1888,8 @@
     follow: 1
     fork: 0
     public: 0
-    repo: 0
-    total: 1
+    repo: 1
+    total: 2
     watch_started: 0
   intra: saolivei
   login: SLO42
@@ -2293,11 +2293,11 @@
 20023687:
   avatar_url: https://avatars1.githubusercontent.com/u/20023687?v=4
   event_counts:
-    follow: 25
+    follow: 26
     fork: 1
     public: 0
     repo: 6
-    total: 37
+    total: 38
     watch_started: 5
   intra: aabdrakh
   login: hhaakkimm
@@ -2356,8 +2356,8 @@
     follow: 0
     fork: 1
     public: 0
-    repo: 2
-    total: 3
+    repo: 3
+    total: 4
     watch_started: 0
   intra: lbeserra
   login: crlucasdias
@@ -3389,8 +3389,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 60
-    watch_started: 55
+    total: 61
+    watch_started: 56
   intra: scollet
   login: scollet1
   node_id: MDQ6VXNlcjI1MjU3OTg2
@@ -5618,10 +5618,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/43390886?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 0
     repo: 1
-    total: 1
+    total: 2
     watch_started: 0
   intra: thjiang
   login: Gshfrez
