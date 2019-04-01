@@ -617,8 +617,8 @@
     fork: 0
     public: 0
     repo: 7
-    total: 17
-    watch_started: 4
+    total: 18
+    watch_started: 5
   intra: jcope
   login: Jemmeh
   node_id: MDQ6VXNlcjY2NTMwODA=
@@ -1661,8 +1661,8 @@
     fork: 0
     public: 3
     repo: 1
-    total: 50
-    watch_started: 38
+    total: 51
+    watch_started: 39
   intra: syamada
   login: Yatty1
   node_id: MDQ6VXNlcjE1MTE4OTk5
@@ -2977,11 +2977,11 @@
 23408540:
   avatar_url: https://avatars0.githubusercontent.com/u/23408540?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 1
     public: 0
     repo: 0
-    total: 1
+    total: 2
     watch_started: 0
   intra: rle
   login: sudoryan
