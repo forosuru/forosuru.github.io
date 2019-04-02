@@ -1,0 +1,11 @@
+---
+layout: default
+intra: cgleason
+login: crgl
+id: 36055314
+avatar_url: https://avatars0.githubusercontent.com/u/36055314?v=4
+---
+{% assign events = site.events | where: "author_id","36055314" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

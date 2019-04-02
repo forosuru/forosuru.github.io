@@ -2977,11 +2977,11 @@
 23408540:
   avatar_url: https://avatars0.githubusercontent.com/u/23408540?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 1
     public: 0
     repo: 0
-    total: 2
+    total: 3
     watch_started: 0
   intra: rle
   login: sudoryan
@@ -4732,8 +4732,8 @@
     follow: 0
     fork: 0
     public: 1
-    repo: 5
-    total: 9
+    repo: 6
+    total: 10
     watch_started: 3
   intra: ashih
   login: ashih42
@@ -4876,8 +4876,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 0
-    total: 0
+    repo: 1
+    total: 1
     watch_started: 0
   intra: cgleason
   login: crgl
