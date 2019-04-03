@@ -1,0 +1,9 @@
+---
+layout: default
+language: PLpgSQL
+filename: PLpgSQL.html
+---
+{% assign events = site.events | where: "language","PLpgSQL" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
