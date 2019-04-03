@@ -1,0 +1,9 @@
+---
+layout: default
+language: Game Maker Language
+filename: Game_Maker_Language.html
+---
+{% assign events = site.events | where: "language","Game Maker Language" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
