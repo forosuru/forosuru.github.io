@@ -1204,8 +1204,8 @@
     follow: 0
     fork: 3
     public: 0
-    repo: 3
-    total: 13
+    repo: 5
+    total: 15
     watch_started: 7
   intra: ikourkji
   login: naregjan
@@ -1420,8 +1420,8 @@
     follow: 12
     fork: 1
     public: 4
-    repo: 3
-    total: 22
+    repo: 4
+    total: 23
     watch_started: 2
   intra: bogoncha
   login: bgoncharov
@@ -2701,11 +2701,11 @@
 22091600:
   avatar_url: https://avatars1.githubusercontent.com/u/22091600?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 1
     public: 0
     repo: 1
-    total: 103
+    total: 104
     watch_started: 96
   intra: gguiulfo
   login: giacomoguiulfo
@@ -3352,8 +3352,8 @@
     follow: 2
     fork: 0
     public: 1
-    repo: 2
-    total: 8
+    repo: 3
+    total: 9
     watch_started: 3
   intra: sjones
   login: seanjones2848
@@ -5210,11 +5210,11 @@
   avatar_url: https://avatars1.githubusercontent.com/u/39034711?v=4
   event_counts:
     follow: 12
-    fork: 5
-    public: 0
+    fork: 6
+    public: 1
     repo: 12
-    total: 38
-    watch_started: 9
+    total: 46
+    watch_started: 15
   intra: pdeguing
   login: pdeguing
   node_id: MDQ6VXNlcjM5MDM0NzEx
@@ -5488,8 +5488,8 @@
     follow: 3
     fork: 0
     public: 0
-    repo: 7
-    total: 16
+    repo: 8
+    total: 17
     watch_started: 6
   intra: jawatter
   login: wubswurld
