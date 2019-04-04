@@ -2317,11 +2317,11 @@
 20195689:
   avatar_url: https://avatars0.githubusercontent.com/u/20195689?v=4
   event_counts:
-    follow: 4
+    follow: 5
     fork: 0
     public: 2
     repo: 1
-    total: 12
+    total: 13
     watch_started: 5
   intra: callen
   login: MrChafeits
@@ -2749,11 +2749,11 @@
 22286783:
   avatar_url: https://avatars3.githubusercontent.com/u/22286783?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 0
     public: 1
     repo: 8
-    total: 11
+    total: 12
     watch_started: 0
   intra: bcastro
   login: brayanmcz
@@ -4792,8 +4792,8 @@
     follow: 4
     fork: 0
     public: 0
-    repo: 3
-    total: 7
+    repo: 4
+    total: 8
     watch_started: 0
   intra: majones
   login: mjjply42
