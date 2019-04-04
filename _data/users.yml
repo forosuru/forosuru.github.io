@@ -2245,11 +2245,11 @@
 19478839:
   avatar_url: https://avatars0.githubusercontent.com/u/19478839?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 0
-    total: 1
+    total: 2
     watch_started: 1
   intra: kdrumm
   login: kaidrumm
@@ -3805,11 +3805,11 @@
 28167905:
   avatar_url: https://avatars0.githubusercontent.com/u/28167905?v=4
   event_counts:
-    follow: 7
+    follow: 8
     fork: 0
     public: 0
     repo: 1
-    total: 9
+    total: 10
     watch_started: 1
   intra: amohamed
   login: abdulrahmannmohamed
@@ -4324,8 +4324,8 @@
     follow: 12
     fork: 0
     public: 0
-    repo: 10
-    total: 22
+    repo: 11
+    total: 23
     watch_started: 0
   intra: gfielder
   login: gavinfielder
@@ -5489,8 +5489,8 @@
     fork: 0
     public: 0
     repo: 9
-    total: 19
-    watch_started: 6
+    total: 20
+    watch_started: 7
   intra: jawatter
   login: wubswurld
   node_id: MDQ6VXNlcjQxODA3MjE5
