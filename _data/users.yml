@@ -5293,11 +5293,11 @@
 40049861:
   avatar_url: https://avatars2.githubusercontent.com/u/40049861?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 6
-    total: 6
+    total: 7
     watch_started: 0
   intra: smonroe
   login: smonroe4242
@@ -5632,8 +5632,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 8
-    total: 8
+    repo: 10
+    total: 10
     watch_started: 0
   intra: nkirkby
   login: galacticgargleblaster
