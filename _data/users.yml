@@ -724,8 +724,8 @@
     follow: 0
     fork: 2
     public: 0
-    repo: 4
-    total: 7
+    repo: 6
+    total: 9
     watch_started: 1
   intra: jcapling
   login: jcap93
@@ -2449,11 +2449,11 @@
 20745447:
   avatar_url: https://avatars3.githubusercontent.com/u/20745447?v=4
   event_counts:
-    follow: 2
+    follow: 4
     fork: 0
     public: 0
-    repo: 3
-    total: 5
+    repo: 5
+    total: 9
     watch_started: 0
   intra: dstolz
   login: donald-stolz
@@ -4729,11 +4729,11 @@
 34532080:
   avatar_url: https://avatars3.githubusercontent.com/u/34532080?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 1
-    repo: 6
-    total: 10
+    repo: 7
+    total: 12
     watch_started: 3
   intra: ashih
   login: ashih42
@@ -5200,8 +5200,8 @@
     follow: 30
     fork: 0
     public: 0
-    repo: 0
-    total: 30
+    repo: 1
+    total: 31
     watch_started: 0
   intra: debaxter
   login: drb3000
@@ -5485,11 +5485,11 @@
 41807219:
   avatar_url: https://avatars3.githubusercontent.com/u/41807219?v=4
   event_counts:
-    follow: 3
+    follow: 4
     fork: 0
     public: 0
-    repo: 8
-    total: 17
+    repo: 9
+    total: 19
     watch_started: 6
   intra: jawatter
   login: wubswurld
