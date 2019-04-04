@@ -904,8 +904,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 3
-    total: 3
+    repo: 4
+    total: 4
     watch_started: 0
   intra: alkozma
   login: NotHawthorne
@@ -961,12 +961,12 @@
 9532690:
   avatar_url: https://avatars0.githubusercontent.com/u/9532690?v=4
   event_counts:
-    follow: 0
+    follow: 8
     fork: 2
     public: 0
     repo: 1
-    total: 3
-    watch_started: 0
+    total: 12
+    watch_started: 1
   intra: kfonda
   login: KalindiFonda
   node_id: MDQ6VXNlcjk1MzI2OTA=
@@ -1192,8 +1192,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 0
-    total: 1
+    repo: 1
+    total: 2
     watch_started: 1
   intra: olkovale
   login: okovko
@@ -2319,9 +2319,9 @@
   event_counts:
     follow: 4
     fork: 0
-    public: 1
+    public: 2
     repo: 1
-    total: 11
+    total: 12
     watch_started: 5
   intra: callen
   login: MrChafeits
@@ -2701,12 +2701,12 @@
 22091600:
   avatar_url: https://avatars1.githubusercontent.com/u/22091600?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 1
     public: 0
     repo: 1
-    total: 104
-    watch_started: 96
+    total: 109
+    watch_started: 100
   intra: gguiulfo
   login: giacomoguiulfo
   node_id: MDQ6VXNlcjIyMDkxNjAw
@@ -3617,8 +3617,8 @@
     fork: 1
     public: 0
     repo: 1
-    total: 14
-    watch_started: 12
+    total: 15
+    watch_started: 13
   intra: dfan
   login: dayfine
   node_id: MDQ6VXNlcjI2NDIzNTA0
@@ -4441,11 +4441,11 @@
 32473067:
   avatar_url: https://avatars0.githubusercontent.com/u/32473067?v=4
   event_counts:
-    follow: 23
+    follow: 24
     fork: 2
     public: 0
     repo: 2
-    total: 27
+    total: 28
     watch_started: 0
   intra: ynenakho
   login: ynenakho
@@ -4945,11 +4945,11 @@
 36604610:
   avatar_url: https://avatars1.githubusercontent.com/u/36604610?v=4
   event_counts:
-    follow: 7
+    follow: 8
     fork: 0
     public: 0
     repo: 1
-    total: 9
+    total: 10
     watch_started: 1
   intra: cdimitro
   login: coolguycam
@@ -5557,11 +5557,11 @@
 42279868:
   avatar_url: https://avatars2.githubusercontent.com/u/42279868?v=4
   event_counts:
-    follow: 7
+    follow: 9
     fork: 0
     public: 0
     repo: 6
-    total: 13
+    total: 15
     watch_started: 0
   intra: mpas
   login: mashenkaPas
