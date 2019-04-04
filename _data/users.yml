@@ -1529,8 +1529,8 @@
     fork: 1
     public: 0
     repo: 1
-    total: 2
-    watch_started: 0
+    total: 3
+    watch_started: 1
   intra: msharpe
   login: StrikeAlpha0
   node_id: MDQ6VXNlcjEzNzc3MDQ5
@@ -4780,8 +4780,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 3
-    total: 3
+    repo: 4
+    total: 4
     watch_started: 0
   intra: agifford
   login: amandagifford33
@@ -4945,11 +4945,11 @@
 36604610:
   avatar_url: https://avatars1.githubusercontent.com/u/36604610?v=4
   event_counts:
-    follow: 8
+    follow: 9
     fork: 0
     public: 0
     repo: 1
-    total: 10
+    total: 11
     watch_started: 1
   intra: cdimitro
   login: coolguycam
@@ -5209,11 +5209,11 @@
 39034711:
   avatar_url: https://avatars1.githubusercontent.com/u/39034711?v=4
   event_counts:
-    follow: 13
+    follow: 15
     fork: 6
     public: 1
-    repo: 13
-    total: 48
+    repo: 14
+    total: 51
     watch_started: 15
   intra: pdeguing
   login: pdeguing
