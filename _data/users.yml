@@ -1225,11 +1225,11 @@
 11045597:
   avatar_url: https://avatars0.githubusercontent.com/u/11045597?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 0
     repo: 4
-    total: 5
+    total: 6
     watch_started: 0
   intra: apasos-g
   login: RafaelPasos
@@ -3736,8 +3736,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 1
-    total: 1
+    repo: 2
+    total: 2
     watch_started: 0
   intra: medun
   login: eddie0mohammed
