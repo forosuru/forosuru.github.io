@@ -137,8 +137,8 @@
     fork: 1
     public: 0
     repo: 2
-    total: 16
-    watch_started: 11
+    total: 17
+    watch_started: 12
   intra: seli
   login: Evilcat325
   node_id: MDQ6VXNlcjIzNTU3NjM=
@@ -5737,11 +5737,11 @@
 44458369:
   avatar_url: https://avatars0.githubusercontent.com/u/44458369?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 0
     public: 1
     repo: 4
-    total: 11
+    total: 12
     watch_started: 0
   intra: osfally
   login: shaparder
@@ -6037,11 +6037,11 @@
 47834540:
   avatar_url: https://avatars2.githubusercontent.com/u/47834540?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 1
     repo: 1
-    total: 3
+    total: 4
     watch_started: 0
   intra: ibotnaru
   login: ibotnaru
