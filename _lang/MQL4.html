@@ -1,0 +1,9 @@
+---
+layout: default
+language: MQL4
+filename: MQL4.html
+---
+{% assign events = site.events | where: "language","MQL4" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
