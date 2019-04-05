@@ -2573,8 +2573,8 @@
     fork: 1
     public: 4
     repo: 0
-    total: 46
-    watch_started: 33
+    total: 47
+    watch_started: 34
   intra: tkobb
   login: thk2b
   node_id: MDQ6VXNlcjIxMDA5NTk0
@@ -3041,8 +3041,8 @@
     fork: 1
     public: 0
     repo: 0
-    total: 22
-    watch_started: 18
+    total: 23
+    watch_started: 19
   intra: jbrown
   login: panterarocks49
   node_id: MDQ6VXNlcjIzNjQ3ODM3
@@ -5341,11 +5341,11 @@
 40527955:
   avatar_url: https://avatars0.githubusercontent.com/u/40527955?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 0
     repo: 0
-    total: 1
+    total: 2
     watch_started: 0
   intra: jahong
   login: jahongOf1
@@ -5764,8 +5764,8 @@
     follow: 1
     fork: 2
     public: 0
-    repo: 2
-    total: 5
+    repo: 3
+    total: 6
     watch_started: 0
   intra: jtaylor
   login: jt-taylor
@@ -6040,8 +6040,8 @@
     follow: 2
     fork: 0
     public: 1
-    repo: 1
-    total: 4
+    repo: 2
+    total: 5
     watch_started: 0
   intra: ibotnaru
   login: ibotnaru
