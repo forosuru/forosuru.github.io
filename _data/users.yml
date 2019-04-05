@@ -2125,11 +2125,11 @@
 18608979:
   avatar_url: https://avatars2.githubusercontent.com/u/18608979?v=4
   event_counts:
-    follow: 9
+    follow: 10
     fork: 1
     public: 0
     repo: 5
-    total: 24
+    total: 25
     watch_started: 9
   intra: nobrien
   login: nickisobrien
@@ -2725,11 +2725,11 @@
 22158877:
   avatar_url: https://avatars1.githubusercontent.com/u/22158877?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 0
     public: 1
     repo: 1
-    total: 10
+    total: 11
     watch_started: 3
   intra: rzarate
   login: RafaelZarate
@@ -4828,8 +4828,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 3
-    total: 3
+    repo: 4
+    total: 4
     watch_started: 0
   intra: jobirech
   login: jbirech
