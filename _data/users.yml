@@ -194,10 +194,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/2942306?v=4
   event_counts:
     follow: 1
-    fork: 0
+    fork: 1
     public: 0
     repo: 2
-    total: 3
+    total: 4
     watch_started: 0
   intra: rhallste
   login: rjhallsted
@@ -217,12 +217,12 @@
 3181870:
   avatar_url: https://avatars1.githubusercontent.com/u/3181870?v=4
   event_counts:
-    follow: 8
+    follow: 9
     fork: 0
     public: 0
     repo: 4
-    total: 73
-    watch_started: 61
+    total: 76
+    watch_started: 63
   intra: mbrave
   login: michaelbrave
   node_id: MDQ6VXNlcjMxODE4NzA=
