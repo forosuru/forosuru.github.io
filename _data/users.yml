@@ -628,8 +628,8 @@
     follow: 2
     fork: 0
     public: 2
-    repo: 1
-    total: 6
+    repo: 2
+    total: 7
     watch_started: 1
   intra: fbueno-m
   login: fredmurakawa
@@ -3256,8 +3256,8 @@
     follow: 4
     fork: 0
     public: 1
-    repo: 3
-    total: 8
+    repo: 4
+    total: 9
     watch_started: 0
   intra: wlin
   login: autopylot
@@ -4144,8 +4144,8 @@
     follow: 4
     fork: 0
     public: 2
-    repo: 1
-    total: 7
+    repo: 2
+    total: 8
     watch_started: 0
   intra: apickett
   login: j-pickett
@@ -4324,8 +4324,8 @@
     follow: 12
     fork: 0
     public: 0
-    repo: 12
-    total: 24
+    repo: 13
+    total: 25
     watch_started: 0
   intra: gfielder
   login: gavinfielder
@@ -4780,8 +4780,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 4
-    total: 4
+    repo: 5
+    total: 5
     watch_started: 0
   intra: agifford
   login: amandagifford33
@@ -5141,8 +5141,8 @@
     fork: 0
     public: 4
     repo: 10
-    total: 21
-    watch_started: 4
+    total: 22
+    watch_started: 5
   intra: jcasian
   login: JuanCasian
   node_id: MDQ6VXNlcjM4NDM2MzAz
@@ -5353,11 +5353,11 @@
 40966821:
   avatar_url: https://avatars0.githubusercontent.com/u/40966821?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 0
-    total: 0
+    total: 1
     watch_started: 0
   intra: hderan
   login: hderan
