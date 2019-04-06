@@ -1657,12 +1657,12 @@
 15118999:
   avatar_url: https://avatars3.githubusercontent.com/u/15118999?v=4
   event_counts:
-    follow: 8
+    follow: 9
     fork: 0
     public: 3
     repo: 1
-    total: 54
-    watch_started: 42
+    total: 56
+    watch_started: 43
   intra: syamada
   login: Yatty1
   node_id: MDQ6VXNlcjE1MTE4OTk5
@@ -1961,8 +1961,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 17
-    watch_started: 2
+    total: 18
+    watch_started: 3
   intra: asansyzb
   login: asansyzb
   node_id: MDQ6VXNlcjE3NTkzMDcw
@@ -3805,11 +3805,11 @@
 28167905:
   avatar_url: https://avatars0.githubusercontent.com/u/28167905?v=4
   event_counts:
-    follow: 8
+    follow: 9
     fork: 0
     public: 0
     repo: 2
-    total: 11
+    total: 12
     watch_started: 1
   intra: amohamed
   login: abdulrahmannmohamed
@@ -4525,11 +4525,11 @@
 32823323:
   avatar_url: https://avatars2.githubusercontent.com/u/32823323?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 2
-    total: 2
+    total: 3
     watch_started: 0
   intra: amagnan
   login: arnauze
@@ -5584,8 +5584,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 6
-    total: 6
+    repo: 7
+    total: 7
     watch_started: 0
   intra: hbhuiyan
   login: havi-b
