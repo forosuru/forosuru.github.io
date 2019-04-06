@@ -1621,11 +1621,11 @@
 14947372:
   avatar_url: https://avatars3.githubusercontent.com/u/14947372?v=4
   event_counts:
-    follow: 5
+    follow: 10
     fork: 1
     public: 1
-    repo: 8
-    total: 22
+    repo: 11
+    total: 30
     watch_started: 7
   intra: jcrisp
   login: zill4
