@@ -4657,11 +4657,11 @@
 34216832:
   avatar_url: https://avatars2.githubusercontent.com/u/34216832?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 0
     public: 0
     repo: 18
-    total: 27
+    total: 28
     watch_started: 3
   intra: jdiaz
   login: diazjuli
@@ -5548,8 +5548,8 @@
     follow: 3
     fork: 0
     public: 0
-    repo: 6
-    total: 9
+    repo: 7
+    total: 10
     watch_started: 0
   intra: mtaylor
   login: motaylormo
