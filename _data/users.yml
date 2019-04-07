@@ -3389,8 +3389,8 @@
     fork: 0
     public: 0
     repo: 1
-    total: 66
-    watch_started: 60
+    total: 67
+    watch_started: 61
   intra: scollet
   login: scollet1
   node_id: MDQ6VXNlcjI1MjU3OTg2
@@ -4192,8 +4192,8 @@
     follow: 2
     fork: 0
     public: 0
-    repo: 9
-    total: 11
+    repo: 10
+    total: 12
     watch_started: 0
   intra: hnam
   login: naamoonoo
@@ -5572,8 +5572,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 0
-    total: 0
+    repo: 1
+    total: 1
     watch_started: 0
   intra: ale-goff
   login: Alexx42
