@@ -1850,10 +1850,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/16748473?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 0
     repo: 0
-    total: 0
+    total: 1
     watch_started: 0
   intra: mzaneri
   login: mzaneri
@@ -2079,9 +2079,9 @@
   event_counts:
     follow: 0
     fork: 0
-    public: 0
+    public: 1
     repo: 0
-    total: 0
+    total: 1
     watch_started: 0
   intra: cfranco
   login: cristianmusic7
