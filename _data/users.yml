@@ -1621,11 +1621,11 @@
 14947372:
   avatar_url: https://avatars3.githubusercontent.com/u/14947372?v=4
   event_counts:
-    follow: 10
+    follow: 11
     fork: 1
     public: 1
     repo: 12
-    total: 31
+    total: 32
     watch_started: 7
   intra: jcrisp
   login: zill4
@@ -1957,11 +1957,11 @@
 17593070:
   avatar_url: https://avatars0.githubusercontent.com/u/17593070?v=4
   event_counts:
-    follow: 16
+    follow: 17
     fork: 0
     public: 0
-    repo: 3
-    total: 22
+    repo: 4
+    total: 24
     watch_started: 3
   intra: asansyzb
   login: asansyzb
@@ -5689,11 +5689,11 @@
 43770376:
   avatar_url: https://avatars3.githubusercontent.com/u/43770376?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 3
-    total: 3
+    total: 4
     watch_started: 0
   intra: ieropaie
   login: eropaev
