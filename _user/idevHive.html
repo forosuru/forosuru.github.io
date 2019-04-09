@@ -1,0 +1,11 @@
+---
+layout: default
+intra: rtorres-
+login: idevHive
+id: 4603587
+avatar_url: https://avatars3.githubusercontent.com/u/4603587?v=4
+---
+{% assign events = site.events | where: "author_id","4603587" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
