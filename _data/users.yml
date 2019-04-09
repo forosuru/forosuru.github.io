@@ -614,11 +614,11 @@
   avatar_url: https://avatars2.githubusercontent.com/u/6653080?v=4
   event_counts:
     follow: 6
-    fork: 0
-    public: 0
+    fork: 1
+    public: 1
     repo: 7
-    total: 18
-    watch_started: 5
+    total: 21
+    watch_started: 6
   intra: jcope
   login: Jemmeh
   node_id: MDQ6VXNlcjY2NTMwODA=
@@ -1957,11 +1957,11 @@
 17593070:
   avatar_url: https://avatars0.githubusercontent.com/u/17593070?v=4
   event_counts:
-    follow: 15
+    follow: 16
     fork: 0
     public: 0
     repo: 1
-    total: 19
+    total: 20
     watch_started: 3
   intra: asansyzb
   login: asansyzb
@@ -5308,8 +5308,8 @@
     follow: 2
     fork: 0
     public: 1
-    repo: 2
-    total: 5
+    repo: 3
+    total: 6
     watch_started: 0
   intra: brfeltz
   login: elloimbrandon
@@ -5857,11 +5857,11 @@
 45823872:
   avatar_url: https://avatars3.githubusercontent.com/u/45823872?v=4
   event_counts:
-    follow: 2
+    follow: 4
     fork: 0
     public: 0
     repo: 3
-    total: 5
+    total: 7
     watch_started: 0
   intra: tcherret
   login: tcheee
@@ -6004,8 +6004,8 @@
     follow: 3
     fork: 1
     public: 0
-    repo: 3
-    total: 7
+    repo: 4
+    total: 8
     watch_started: 0
   intra: mchi
   login: 2ne1ugly
@@ -6025,11 +6025,11 @@
 47709344:
   avatar_url: https://avatars1.githubusercontent.com/u/47709344?v=4
   event_counts:
-    follow: 4
+    follow: 5
     fork: 0
     public: 0
     repo: 7
-    total: 11
+    total: 12
     watch_started: 0
   intra: jinpark
   login: Seojun-Park
