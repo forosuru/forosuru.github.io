@@ -1225,11 +1225,11 @@
 11045597:
   avatar_url: https://avatars0.githubusercontent.com/u/11045597?v=4
   event_counts:
-    follow: 2
+    follow: 4
     fork: 0
     public: 0
     repo: 4
-    total: 6
+    total: 8
     watch_started: 0
   intra: apasos-g
   login: RafaelPasos
@@ -1420,8 +1420,8 @@
     follow: 12
     fork: 1
     public: 4
-    repo: 4
-    total: 23
+    repo: 5
+    total: 24
     watch_started: 2
   intra: bogoncha
   login: bgoncharov
@@ -2249,8 +2249,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 2
-    watch_started: 1
+    total: 3
+    watch_started: 2
   intra: kdrumm
   login: kaidrumm
   node_id: MDQ6VXNlcjE5NDc4ODM5
@@ -5308,8 +5308,8 @@
     follow: 2
     fork: 0
     public: 1
-    repo: 4
-    total: 7
+    repo: 5
+    total: 8
     watch_started: 0
   intra: brfeltz
   login: elloimbrandon
