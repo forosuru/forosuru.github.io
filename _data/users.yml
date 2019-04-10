@@ -3724,8 +3724,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 2
-    total: 2
+    repo: 3
+    total: 3
     watch_started: 0
   intra: fwutschk
   login: wutschkef42
@@ -3916,8 +3916,8 @@
     follow: 3
     fork: 0
     public: 0
-    repo: 8
-    total: 11
+    repo: 9
+    total: 12
     watch_started: 0
   intra: calamber
   login: mueslimak3r
