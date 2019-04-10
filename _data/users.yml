@@ -1336,8 +1336,8 @@
     follow: 6
     fork: 4
     public: 0
-    repo: 7
-    total: 21
+    repo: 8
+    total: 22
     watch_started: 4
   intra: chsu
   login: enhsu
@@ -3184,8 +3184,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 1
-    total: 2
+    repo: 2
+    total: 3
     watch_started: 1
   intra: kmurray
   login: indy728
