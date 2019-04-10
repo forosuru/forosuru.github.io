@@ -1925,8 +1925,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 0
-    watch_started: 0
+    total: 1
+    watch_started: 1
   intra: azinnatu
   login: zinartcode
   node_id: MDQ6VXNlcjE3MjY3MzYx
@@ -2729,8 +2729,8 @@
     fork: 0
     public: 1
     repo: 1
-    total: 11
-    watch_started: 3
+    total: 12
+    watch_started: 4
   intra: rzarate
   login: RafaelZarate
   node_id: MDQ6VXNlcjIyMTU4ODc3
@@ -4681,11 +4681,11 @@
 34428368:
   avatar_url: https://avatars2.githubusercontent.com/u/34428368?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 0
     public: 0
     repo: 8
-    total: 20
+    total: 21
     watch_started: 7
   intra: dmendelo
   login: DavidMendelovits
@@ -5209,12 +5209,12 @@
 39034711:
   avatar_url: https://avatars1.githubusercontent.com/u/39034711?v=4
   event_counts:
-    follow: 16
+    follow: 17
     fork: 6
     public: 1
     repo: 17
-    total: 58
-    watch_started: 18
+    total: 61
+    watch_started: 20
   intra: pdeguing
   login: pdeguing
   node_id: MDQ6VXNlcjM5MDM0NzEx
