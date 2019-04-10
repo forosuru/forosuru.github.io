@@ -2161,11 +2161,11 @@
 18674131:
   avatar_url: https://avatars0.githubusercontent.com/u/18674131?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 0
     public: 0
     repo: 0
-    total: 7
+    total: 8
     watch_started: 2
   intra: wfung
   login: yayimadinosaur
@@ -5909,8 +5909,8 @@
     fork: 0
     public: 0
     repo: 1
-    total: 10
-    watch_started: 3
+    total: 11
+    watch_started: 4
   intra: dfonarev
   login: ruv1nce
   node_id: MDQ6VXNlcjQ2MTcwOTU0
