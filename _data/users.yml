@@ -1322,11 +1322,11 @@
   avatar_url: https://avatars1.githubusercontent.com/u/12044063?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 0
-    repo: 3
-    total: 6
-    watch_started: 3
+    repo: 4
+    total: 9
+    watch_started: 4
   intra: kblack
   login: kab11
   node_id: MDQ6VXNlcjEyMDQ0MDYz
@@ -1360,9 +1360,9 @@
     follow: 29
     fork: 1
     public: 0
-    repo: 4
-    total: 178
-    watch_started: 144
+    repo: 5
+    total: 180
+    watch_started: 145
   intra: mfernand
   login: MatiasFMolinari
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -2573,8 +2573,8 @@
     fork: 1
     public: 5
     repo: 0
-    total: 51
-    watch_started: 37
+    total: 52
+    watch_started: 38
   intra: tkobb
   login: thk2b
   node_id: MDQ6VXNlcjIxMDA5NTk0
@@ -4009,11 +4009,11 @@
 29266089:
   avatar_url: https://avatars2.githubusercontent.com/u/29266089?v=4
   event_counts:
-    follow: 9
+    follow: 10
     fork: 3
     public: 0
     repo: 2
-    total: 19
+    total: 20
     watch_started: 5
   intra: twalton
   login: theo-walton
@@ -4443,9 +4443,9 @@
   event_counts:
     follow: 24
     fork: 2
-    public: 0
+    public: 1
     repo: 2
-    total: 28
+    total: 29
     watch_started: 0
   intra: ynenakho
   login: ynenakho
@@ -5776,8 +5776,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 1
-    total: 1
+    repo: 2
+    total: 2
     watch_started: 0
   intra: rsmith
   login: Apathorr
