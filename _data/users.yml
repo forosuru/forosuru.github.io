@@ -532,8 +532,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 0
-    total: 2
+    repo: 1
+    total: 3
     watch_started: 2
   intra: myoung
   login: qst0
@@ -733,11 +733,11 @@
 7871693:
   avatar_url: https://avatars1.githubusercontent.com/u/7871693?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 1
     public: 0
     repo: 9
-    total: 12
+    total: 13
     watch_started: 1
   intra: achavez
   login: anthony-chavez
@@ -4192,8 +4192,8 @@
     follow: 2
     fork: 0
     public: 0
-    repo: 10
-    total: 12
+    repo: 11
+    total: 13
     watch_started: 0
   intra: hnam
   login: naamoonoo
@@ -4972,8 +4972,8 @@
     follow: 8
     fork: 0
     public: 0
-    repo: 3
-    total: 11
+    repo: 4
+    total: 12
     watch_started: 0
   intra: mhwangbo
   login: mhwangbo
@@ -5305,11 +5305,11 @@
 40344495:
   avatar_url: https://avatars1.githubusercontent.com/u/40344495?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 0
-    public: 1
+    public: 2
     repo: 5
-    total: 8
+    total: 10
     watch_started: 0
   intra: brfeltz
   login: elloimbrandon
