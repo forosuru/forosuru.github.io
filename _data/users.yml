@@ -1361,8 +1361,8 @@
     fork: 2
     public: 0
     repo: 5
-    total: 182
-    watch_started: 146
+    total: 184
+    watch_started: 148
   intra: mfernand
   login: MatiasFMolinari
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -1649,8 +1649,8 @@
     fork: 2
     public: 0
     repo: 3
-    total: 5
-    watch_started: 0
+    total: 6
+    watch_started: 1
   intra: ahoussei
   login: Abil27
   node_id: MDQ6VXNlcjE1MDEwNjMw
@@ -4189,11 +4189,11 @@
 30615804:
   avatar_url: https://avatars3.githubusercontent.com/u/30615804?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 0
     public: 0
     repo: 11
-    total: 13
+    total: 14
     watch_started: 0
   intra: hnam
   login: naamoonoo
@@ -4625,8 +4625,8 @@
     fork: 1
     public: 0
     repo: 4
-    total: 20
-    watch_started: 10
+    total: 22
+    watch_started: 12
   intra: khou
   login: UniKlo
   node_id: MDQ6VXNlcjMzNjkzOTQx
