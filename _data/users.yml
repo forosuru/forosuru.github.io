@@ -1645,11 +1645,11 @@
 15010630:
   avatar_url: https://avatars2.githubusercontent.com/u/15010630?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 2
     public: 0
     repo: 3
-    total: 6
+    total: 7
     watch_started: 1
   intra: ahoussei
   login: Abil27
