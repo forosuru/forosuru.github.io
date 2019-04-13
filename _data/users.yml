@@ -2749,11 +2749,11 @@
 22286783:
   avatar_url: https://avatars3.githubusercontent.com/u/22286783?v=4
   event_counts:
-    follow: 3
+    follow: 6
     fork: 0
     public: 1
     repo: 8
-    total: 12
+    total: 15
     watch_started: 0
   intra: bcastro
   login: brayanmcz
@@ -4358,11 +4358,11 @@
   avatar_url: https://avatars1.githubusercontent.com/u/32261113?v=4
   event_counts:
     follow: 14
-    fork: 3
+    fork: 4
     public: 1
     repo: 0
-    total: 31
-    watch_started: 13
+    total: 34
+    watch_started: 15
   intra: fredsiik
   login: fredsiika
   node_id: MDQ6VXNlcjMyMjYxMTEz
@@ -4695,9 +4695,9 @@
   event_counts:
     follow: 9
     fork: 1
-    public: 8
+    public: 9
     repo: 3
-    total: 21
+    total: 22
     watch_started: 0
   intra: acarlson
   login: bombblob
@@ -4729,11 +4729,11 @@
 34532080:
   avatar_url: https://avatars3.githubusercontent.com/u/34532080?v=4
   event_counts:
-    follow: 1
+    follow: 3
     fork: 0
     public: 1
     repo: 7
-    total: 13
+    total: 15
     watch_started: 4
   intra: ashih
   login: ashih42
@@ -5557,11 +5557,11 @@
 42279868:
   avatar_url: https://avatars2.githubusercontent.com/u/42279868?v=4
   event_counts:
-    follow: 11
+    follow: 12
     fork: 0
     public: 0
     repo: 6
-    total: 17
+    total: 18
     watch_started: 0
   intra: mpas
   login: mashenkaPas
