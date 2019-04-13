@@ -1361,8 +1361,8 @@
     fork: 2
     public: 0
     repo: 5
-    total: 184
-    watch_started: 148
+    total: 185
+    watch_started: 149
   intra: mfernand
   login: MatiasFMolinari
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -1897,11 +1897,11 @@
 16930139:
   avatar_url: https://avatars0.githubusercontent.com/u/16930139?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 0
     public: 0
     repo: 9
-    total: 16
+    total: 17
     watch_started: 1
   intra: amelikia
   login: allenARM
@@ -2917,11 +2917,11 @@
 22827125:
   avatar_url: https://avatars2.githubusercontent.com/u/22827125?v=4
   event_counts:
-    follow: 10
+    follow: 11
     fork: 0
     public: 2
     repo: 3
-    total: 17
+    total: 18
     watch_started: 2
   intra: maljean
   login: Maljean
@@ -5980,8 +5980,8 @@
     follow: 0
     fork: 0
     public: 1
-    repo: 0
-    total: 1
+    repo: 1
+    total: 2
     watch_started: 0
   intra: jchiang-
   login: JCTGY
