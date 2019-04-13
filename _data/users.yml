@@ -3158,10 +3158,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/24439848?v=4
   event_counts:
     follow: 0
-    fork: 1
+    fork: 2
     public: 0
     repo: 0
-    total: 6
+    total: 7
     watch_started: 5
   intra: ssalaues
   login: ssalaues
@@ -5920,8 +5920,8 @@
     follow: 7
     fork: 0
     public: 0
-    repo: 2
-    total: 9
+    repo: 3
+    total: 10
     watch_started: 0
   intra: marrodri
   login: marrodri
