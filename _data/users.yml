@@ -5537,8 +5537,8 @@
     fork: 4
     public: 0
     repo: 1
-    total: 11
-    watch_started: 2
+    total: 12
+    watch_started: 3
   intra: lmalagon
   login: Lcmalagon
   node_id: MDQ6VXNlcjQyMTU3NDE0
@@ -5979,9 +5979,9 @@
   event_counts:
     follow: 0
     fork: 0
-    public: 1
+    public: 2
     repo: 1
-    total: 2
+    total: 3
     watch_started: 0
   intra: jchiang-
   login: JCTGY
