@@ -541,11 +541,11 @@
 5904938:
   avatar_url: https://avatars1.githubusercontent.com/u/5904938?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 1
     public: 0
     repo: 0
-    total: 2
+    total: 3
     watch_started: 1
   intra: mhurd
   login: Matt-Hurd
@@ -4444,8 +4444,8 @@
     follow: 24
     fork: 2
     public: 1
-    repo: 2
-    total: 29
+    repo: 3
+    total: 30
     watch_started: 0
   intra: ynenakho
   login: ynenakho
