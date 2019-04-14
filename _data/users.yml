@@ -2137,11 +2137,11 @@
 18649645:
   avatar_url: https://avatars2.githubusercontent.com/u/18649645?v=4
   event_counts:
-    follow: 7
+    follow: 8
     fork: 1
     public: 0
     repo: 6
-    total: 14
+    total: 15
     watch_started: 0
   intra: awindham
   login: arwn
@@ -2573,8 +2573,8 @@
     fork: 1
     public: 5
     repo: 0
-    total: 52
-    watch_started: 38
+    total: 54
+    watch_started: 40
   intra: tkobb
   login: thk2b
   node_id: MDQ6VXNlcjIxMDA5NTk0
@@ -4324,8 +4324,8 @@
     follow: 12
     fork: 0
     public: 0
-    repo: 13
-    total: 26
+    repo: 14
+    total: 27
     watch_started: 1
   intra: gfielder
   login: gavinfielder
@@ -4780,8 +4780,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 6
-    total: 6
+    repo: 7
+    total: 7
     watch_started: 0
   intra: agifford
   login: amandagifford33
