@@ -1357,11 +1357,11 @@
 12145119:
   avatar_url: https://avatars0.githubusercontent.com/u/12145119?v=4
   event_counts:
-    follow: 29
+    follow: 31
     fork: 2
     public: 0
     repo: 5
-    total: 187
+    total: 189
     watch_started: 151
   intra: mfernand
   login: MatiasFMolinari
@@ -3245,8 +3245,8 @@
     fork: 0
     public: 0
     repo: 1
-    total: 53
-    watch_started: 48
+    total: 54
+    watch_started: 49
   intra: cchao
   login: kizombaciao
   node_id: MDQ6VXNlcjI0Njg3MzU2
@@ -4297,11 +4297,11 @@
 32104410:
   avatar_url: https://avatars3.githubusercontent.com/u/32104410?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 2
-    total: 2
+    total: 3
     watch_started: 0
   intra: jizheng
   login: jinzh3ng
@@ -5489,8 +5489,8 @@
     fork: 2
     public: 0
     repo: 12
-    total: 27
-    watch_started: 9
+    total: 30
+    watch_started: 12
   intra: jawatter
   login: wubswurld
   node_id: MDQ6VXNlcjQxODA3MjE5
@@ -5869,11 +5869,11 @@
 45890848:
   avatar_url: https://avatars2.githubusercontent.com/u/45890848?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 2
-    total: 2
+    total: 3
     watch_started: 0
   intra: anttran
   login: anthonykhoa
