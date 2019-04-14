@@ -1696,8 +1696,8 @@
     follow: 0
     fork: 1
     public: 1
-    repo: 3
-    total: 5
+    repo: 4
+    total: 6
     watch_started: 0
   intra: akassil
   login: alexkassil
@@ -4192,8 +4192,8 @@
     follow: 3
     fork: 0
     public: 0
-    repo: 11
-    total: 14
+    repo: 12
+    total: 15
     watch_started: 0
   intra: hnam
   login: naamoonoo
@@ -4730,10 +4730,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/34532080?v=4
   event_counts:
     follow: 3
-    fork: 0
+    fork: 1
     public: 1
-    repo: 8
-    total: 16
+    repo: 9
+    total: 18
     watch_started: 4
   intra: ashih
   login: ashih42
