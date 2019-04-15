@@ -709,11 +709,11 @@
 7669375:
   avatar_url: https://avatars3.githubusercontent.com/u/7669375?v=4
   event_counts:
-    follow: 9
+    follow: 10
     fork: 1
     public: 0
     repo: 9
-    total: 22
+    total: 23
     watch_started: 3
   intra: cbagdon
   login: cbg119
@@ -2476,8 +2476,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 0
-    total: 0
+    repo: 1
+    total: 1
     watch_started: 0
   intra: chansen
   login: chan-sen
@@ -4780,8 +4780,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 7
-    total: 7
+    repo: 8
+    total: 8
     watch_started: 0
   intra: agifford
   login: amandagifford33
