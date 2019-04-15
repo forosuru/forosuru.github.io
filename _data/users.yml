@@ -497,8 +497,8 @@
     fork: 1
     public: 0
     repo: 2
-    total: 22
-    watch_started: 12
+    total: 25
+    watch_started: 15
   intra: dkotov
   login: stubisdon
   node_id: MDQ6VXNlcjU1MTQ0NzE=
@@ -2449,11 +2449,11 @@
 20745447:
   avatar_url: https://avatars3.githubusercontent.com/u/20745447?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 0
     public: 0
     repo: 5
-    total: 10
+    total: 11
     watch_started: 0
   intra: dstolz
   login: donald-stolz
@@ -5451,9 +5451,9 @@
   event_counts:
     follow: 9
     fork: 1
-    public: 0
+    public: 1
     repo: 18
-    total: 50
+    total: 51
     watch_started: 22
   intra: vmuradia
   login: ValeriiaMur
@@ -5596,8 +5596,8 @@
     follow: 1
     fork: 0
     public: 0
-    repo: 0
-    total: 1
+    repo: 1
+    total: 2
     watch_started: 0
   intra: jmocniak
   login: joshmocniak
@@ -5641,11 +5641,11 @@
 43462450:
   avatar_url: https://avatars3.githubusercontent.com/u/43462450?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 0
     repo: 0
-    total: 1
+    total: 2
     watch_started: 0
   intra: dcordova
   login: DanielCordovaV
