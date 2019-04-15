@@ -712,8 +712,8 @@
     follow: 10
     fork: 1
     public: 0
-    repo: 9
-    total: 23
+    repo: 10
+    total: 24
     watch_started: 3
   intra: cbagdon
   login: cbg119
@@ -2223,9 +2223,9 @@
   event_counts:
     follow: 5
     fork: 0
-    public: 2
+    public: 3
     repo: 5
-    total: 15
+    total: 16
     watch_started: 3
   intra: jcruz-y-
   login: josecyc
@@ -3245,8 +3245,8 @@
     fork: 0
     public: 0
     repo: 1
-    total: 54
-    watch_started: 49
+    total: 55
+    watch_started: 50
   intra: cchao
   login: kizombaciao
   node_id: MDQ6VXNlcjI0Njg3MzU2
@@ -4384,8 +4384,8 @@
     follow: 2
     fork: 0
     public: 2
-    repo: 19
-    total: 23
+    repo: 20
+    total: 24
     watch_started: 0
   intra: ytuz
   login: yenertuz
@@ -5524,8 +5524,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 1
-    total: 1
+    repo: 2
+    total: 2
     watch_started: 0
   intra: fprevela
   login: prevelat
