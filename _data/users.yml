@@ -1969,12 +1969,12 @@
 17707958:
   avatar_url: https://avatars1.githubusercontent.com/u/17707958?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 0
     public: 0
     repo: 6
-    total: 8
-    watch_started: 0
+    total: 12
+    watch_started: 3
   intra: kkozlov
   login: BimManager
   node_id: MDQ6VXNlcjE3NzA3OTU4
