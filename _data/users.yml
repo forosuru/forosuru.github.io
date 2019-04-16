@@ -221,8 +221,8 @@
     fork: 1
     public: 0
     repo: 5
-    total: 90
-    watch_started: 75
+    total: 91
+    watch_started: 76
   intra: mbrave
   login: michaelbrave
   node_id: MDQ6VXNlcjMxODE4NzA=
@@ -5679,9 +5679,9 @@
   event_counts:
     follow: 0
     fork: 1
-    public: 1
+    public: 2
     repo: 2
-    total: 5
+    total: 6
     watch_started: 1
   intra: jamwang
   login: jameswangdr
