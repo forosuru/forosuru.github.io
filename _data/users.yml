@@ -3184,8 +3184,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 2
-    total: 3
+    repo: 3
+    total: 4
     watch_started: 1
   intra: kmurray
   login: indy728
@@ -4467,9 +4467,9 @@
   event_counts:
     follow: 2
     fork: 0
-    public: 1
+    public: 2
     repo: 3
-    total: 9
+    total: 10
     watch_started: 3
   intra: agrodzin
   login: blairclair
@@ -4853,8 +4853,8 @@
     fork: 0
     public: 1
     repo: 5
-    total: 14
-    watch_started: 6
+    total: 15
+    watch_started: 7
   intra: maparmar
   login: Manmeet2018
   node_id: MDQ6VXNlcjM1NjE4ODU4
@@ -5175,9 +5175,9 @@
   event_counts:
     follow: 8
     fork: 0
-    public: 2
+    public: 3
     repo: 4
-    total: 15
+    total: 16
     watch_started: 1
   intra: jochang
   login: MagicHatJo
@@ -5342,10 +5342,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/40527955?v=4
   event_counts:
     follow: 2
-    fork: 0
+    fork: 1
     public: 0
     repo: 0
-    total: 2
+    total: 3
     watch_started: 0
   intra: jahong
   login: jahongOf1
