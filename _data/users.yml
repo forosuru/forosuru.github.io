@@ -221,8 +221,8 @@
     fork: 1
     public: 0
     repo: 5
-    total: 91
-    watch_started: 76
+    total: 92
+    watch_started: 77
   intra: mbrave
   login: michaelbrave
   node_id: MDQ6VXNlcjMxODE4NzA=
@@ -793,11 +793,11 @@
 8315103:
   avatar_url: https://avatars2.githubusercontent.com/u/8315103?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 1
     public: 0
     repo: 0
-    total: 3
+    total: 4
     watch_started: 1
   intra: ssmith
   login: seanwessmith
@@ -818,10 +818,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/8336384?v=4
   event_counts:
     follow: 2
-    fork: 4
+    fork: 5
     public: 1
     repo: 1
-    total: 9
+    total: 10
     watch_started: 1
   intra: adrean
   login: alexdrean
@@ -1777,11 +1777,11 @@
 16404134:
   avatar_url: https://avatars2.githubusercontent.com/u/16404134?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 0
     public: 0
     repo: 4
-    total: 10
+    total: 11
     watch_started: 4
   intra: zfaria
   login: ZacheryFaria
@@ -3481,11 +3481,11 @@
 25774045:
   avatar_url: https://avatars1.githubusercontent.com/u/25774045?v=4
   event_counts:
-    follow: 9
+    follow: 10
     fork: 1
     public: 7
     repo: 4
-    total: 24
+    total: 25
     watch_started: 3
   intra: jkaplin
   login: jkaplin
@@ -5173,11 +5173,11 @@
 38716012:
   avatar_url: https://avatars1.githubusercontent.com/u/38716012?v=4
   event_counts:
-    follow: 7
+    follow: 8
     fork: 0
     public: 2
     repo: 4
-    total: 14
+    total: 15
     watch_started: 1
   intra: jochang
   login: MagicHatJo
