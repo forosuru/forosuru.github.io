@@ -4731,9 +4731,9 @@
   event_counts:
     follow: 3
     fork: 1
-    public: 1
+    public: 23
     repo: 9
-    total: 18
+    total: 40
     watch_started: 4
   intra: ashih
   login: ashih42
