@@ -1264,8 +1264,8 @@
     follow: 0
     fork: 1
     public: 0
-    repo: 2
-    total: 4
+    repo: 3
+    total: 5
     watch_started: 1
   intra: brabo-hi
   login: brabo-hi
@@ -2561,8 +2561,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 3
-    watch_started: 3
+    total: 4
+    watch_started: 4
   intra: lwang
   login: Lijun21
   node_id: MDQ6VXNlcjIwOTgxNzQ1
@@ -5162,10 +5162,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/38508413?v=4
   event_counts:
     follow: 0
-    fork: 1
+    fork: 2
     public: 1
     repo: 11
-    total: 13
+    total: 14
     watch_started: 0
   intra: emamenko
   login: zhenya-mamenko
@@ -5689,11 +5689,11 @@
 43770376:
   avatar_url: https://avatars3.githubusercontent.com/u/43770376?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 0
     repo: 3
-    total: 4
+    total: 5
     watch_started: 0
   intra: ieropaie
   login: eropaev
