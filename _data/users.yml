@@ -149,8 +149,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 5
-    watch_started: 1
+    total: 6
+    watch_started: 2
   intra: mgould
   login: theporpoise
   node_id: MDQ6VXNlcjI1NTk1ODQ=
@@ -3028,8 +3028,8 @@
     follow: 3
     fork: 0
     public: 0
-    repo: 0
-    total: 3
+    repo: 1
+    total: 4
     watch_started: 0
   intra: bbixby
   login: brianbixby
