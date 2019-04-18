@@ -1229,8 +1229,8 @@
     fork: 0
     public: 0
     repo: 5
-    total: 11
-    watch_started: 2
+    total: 12
+    watch_started: 3
   intra: apasos-g
   login: RafaelPasos
   node_id: MDQ6VXNlcjExMDQ1NTk3
@@ -4371,9 +4371,9 @@
   event_counts:
     follow: 2
     fork: 0
-    public: 4
+    public: 5
     repo: 4
-    total: 17
+    total: 18
     watch_started: 7
   intra: asarandi
   login: asarandi
@@ -5209,11 +5209,11 @@
 39034711:
   avatar_url: https://avatars1.githubusercontent.com/u/39034711?v=4
   event_counts:
-    follow: 19
+    follow: 20
     fork: 6
     public: 1
     repo: 17
-    total: 63
+    total: 64
     watch_started: 20
   intra: pdeguing
   login: pdeguing
@@ -5345,8 +5345,8 @@
     fork: 1
     public: 0
     repo: 0
-    total: 3
-    watch_started: 0
+    total: 4
+    watch_started: 1
   intra: jahong
   login: jahongOf1
   node_id: MDQ6VXNlcjQwNTI3OTU1
@@ -5569,11 +5569,11 @@
 42305636:
   avatar_url: https://avatars1.githubusercontent.com/u/42305636?v=4
   event_counts:
-    follow: 0
+    follow: 2
     fork: 1
     public: 2
     repo: 1
-    total: 4
+    total: 6
     watch_started: 0
   intra: ale-goff
   login: Alexx42
