@@ -1589,8 +1589,8 @@
     fork: 4
     public: 0
     repo: 4
-    total: 17
-    watch_started: 6
+    total: 18
+    watch_started: 7
   intra: yijhuang
   login: hyj1204
   node_id: MDQ6VXNlcjE0MjQ4MjQ1
@@ -5570,10 +5570,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/42305636?v=4
   event_counts:
     follow: 2
-    fork: 1
+    fork: 2
     public: 2
     repo: 1
-    total: 6
+    total: 7
     watch_started: 0
   intra: ale-goff
   login: Alexx42
