@@ -1225,11 +1225,11 @@
 11045597:
   avatar_url: https://avatars0.githubusercontent.com/u/11045597?v=4
   event_counts:
-    follow: 4
+    follow: 5
     fork: 0
     public: 0
     repo: 5
-    total: 12
+    total: 13
     watch_started: 3
   intra: apasos-g
   login: RafaelPasos
@@ -5509,11 +5509,11 @@
 41839667:
   avatar_url: https://avatars2.githubusercontent.com/u/41839667?v=4
   event_counts:
-    follow: 7
+    follow: 8
     fork: 0
     public: 0
     repo: 5
-    total: 13
+    total: 14
     watch_started: 1
   intra: kmira
   login: MrColour
@@ -5593,11 +5593,11 @@
 42951515:
   avatar_url: https://avatars3.githubusercontent.com/u/42951515?v=4
   event_counts:
-    follow: 1
+    follow: 16
     fork: 0
     public: 0
     repo: 1
-    total: 2
+    total: 17
     watch_started: 0
   intra: jmocniak
   login: joshmocniak
@@ -5776,8 +5776,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 2
-    total: 2
+    repo: 3
+    total: 3
     watch_started: 0
   intra: rsmith
   login: Apathorr
@@ -6004,8 +6004,8 @@
     follow: 4
     fork: 1
     public: 0
-    repo: 5
-    total: 10
+    repo: 6
+    total: 11
     watch_started: 0
   intra: mchi
   login: 2ne1ugly
