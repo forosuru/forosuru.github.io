@@ -3841,11 +3841,11 @@
 28422206:
   avatar_url: https://avatars2.githubusercontent.com/u/28422206?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 0
     public: 0
     repo: 0
-    total: 5
+    total: 6
     watch_started: 0
   intra: pnunez
   login: PedroNunezCode
@@ -4192,8 +4192,8 @@
     follow: 3
     fork: 0
     public: 0
-    repo: 12
-    total: 15
+    repo: 14
+    total: 17
     watch_started: 0
   intra: hnam
   login: naamoonoo
@@ -5548,8 +5548,8 @@
     follow: 3
     fork: 0
     public: 0
-    repo: 7
-    total: 10
+    repo: 8
+    total: 11
     watch_started: 0
   intra: mtaylor
   login: motaylormo
