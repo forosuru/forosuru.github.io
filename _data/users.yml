@@ -4060,8 +4060,8 @@
     follow: 0
     fork: 1
     public: 0
-    repo: 0
-    total: 2
+    repo: 1
+    total: 3
     watch_started: 1
   intra: tyang
   login: rdmcolorz
