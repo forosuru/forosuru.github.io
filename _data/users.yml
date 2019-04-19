@@ -793,11 +793,11 @@
 8315103:
   avatar_url: https://avatars2.githubusercontent.com/u/8315103?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 1
     public: 0
     repo: 0
-    total: 4
+    total: 5
     watch_started: 1
   intra: ssmith
   login: seanwessmith
@@ -1790,10 +1790,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/16520152?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 0
     repo: 1
-    total: 7
+    total: 8
     watch_started: 6
   intra: jnederlo
   login: jnederlo
@@ -4792,8 +4792,8 @@
     follow: 4
     fork: 0
     public: 0
-    repo: 4
-    total: 8
+    repo: 5
+    total: 9
     watch_started: 0
   intra: majones
   login: mjjply42
