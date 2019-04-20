@@ -529,11 +529,11 @@
 5866757:
   avatar_url: https://avatars1.githubusercontent.com/u/5866757?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 1
-    total: 3
+    total: 4
     watch_started: 2
   intra: myoung
   login: qst0
@@ -5812,8 +5812,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 1
-    total: 1
+    repo: 2
+    total: 2
     watch_started: 0
   intra: vlahorba
   login: VladyslavHorbachenko
