@@ -160,8 +160,8 @@
     follow: 3
     fork: 0
     public: 0
-    repo: 0
-    total: 46
+    repo: 1
+    total: 47
     watch_started: 43
   intra: crenfrow
   login: ChrisRenfrow
@@ -2705,8 +2705,8 @@
     fork: 1
     public: 0
     repo: 1
-    total: 112
-    watch_started: 103
+    total: 113
+    watch_started: 104
   intra: gguiulfo
   login: giacomoguiulfo
   node_id: MDQ6VXNlcjIyMDkxNjAw
@@ -4888,8 +4888,8 @@
     follow: 1
     fork: 1
     public: 1
-    repo: 5
-    total: 12
+    repo: 6
+    total: 13
     watch_started: 4
   intra: akharrou
   login: akharrou
@@ -5509,11 +5509,11 @@
 41839667:
   avatar_url: https://avatars2.githubusercontent.com/u/41839667?v=4
   event_counts:
-    follow: 9
+    follow: 10
     fork: 0
     public: 0
     repo: 5
-    total: 15
+    total: 16
     watch_started: 1
   intra: kmira
   login: MrColour
