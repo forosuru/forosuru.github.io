@@ -1864,8 +1864,8 @@
     follow: 7
     fork: 0
     public: 0
-    repo: 14
-    total: 23
+    repo: 15
+    total: 24
     watch_started: 2
   intra: jadawson
   login: JamieDawson
@@ -2449,11 +2449,11 @@
 20745447:
   avatar_url: https://avatars3.githubusercontent.com/u/20745447?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 0
     public: 0
     repo: 5
-    total: 11
+    total: 12
     watch_started: 0
   intra: dstolz
   login: donald-stolz
