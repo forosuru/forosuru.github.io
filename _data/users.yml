@@ -485,8 +485,8 @@
     fork: 2
     public: 0
     repo: 0
-    total: 20
-    watch_started: 17
+    total: 22
+    watch_started: 19
   intra: azhuk
   login: ug02fast
   node_id: MDQ6VXNlcjU1MDc3MDc=
@@ -1361,8 +1361,8 @@
     fork: 2
     public: 0
     repo: 5
-    total: 196
-    watch_started: 157
+    total: 197
+    watch_started: 158
   intra: mfernand
   login: MatiasFMolinari
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -1525,11 +1525,11 @@
 13777049:
   avatar_url: https://avatars0.githubusercontent.com/u/13777049?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 1
     public: 0
     repo: 2
-    total: 4
+    total: 5
     watch_started: 1
   intra: msharpe
   login: StrikeAlpha0
@@ -4069,11 +4069,11 @@
 29716181:
   avatar_url: https://avatars2.githubusercontent.com/u/29716181?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 0
-    total: 0
+    total: 1
     watch_started: 0
   intra: mlu
   login: Lunairi
@@ -5077,11 +5077,11 @@
 38030381:
   avatar_url: https://avatars0.githubusercontent.com/u/38030381?v=4
   event_counts:
-    follow: 0
+    follow: 2
     fork: 0
     public: 0
     repo: 0
-    total: 0
+    total: 2
     watch_started: 0
   intra: rsilva
   login: rsilva42
