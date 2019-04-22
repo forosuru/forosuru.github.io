@@ -1261,11 +1261,11 @@
 11316434:
   avatar_url: https://avatars1.githubusercontent.com/u/11316434?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 1
     public: 0
     repo: 3
-    total: 5
+    total: 6
     watch_started: 1
   intra: brabo-hi
   login: brabo-hi
@@ -4155,9 +4155,9 @@
   event_counts:
     follow: 5
     fork: 0
-    public: 0
+    public: 1
     repo: 0
-    total: 5
+    total: 6
     watch_started: 0
   intra: sjuery
   login: sjuery
