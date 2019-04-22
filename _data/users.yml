@@ -1780,8 +1780,8 @@
     follow: 3
     fork: 0
     public: 0
-    repo: 4
-    total: 11
+    repo: 6
+    total: 13
     watch_started: 4
   intra: zfaria
   login: ZacheryFaria
@@ -2141,8 +2141,8 @@
     fork: 1
     public: 0
     repo: 6
-    total: 15
-    watch_started: 0
+    total: 16
+    watch_started: 1
   intra: awindham
   login: arwn
   node_id: MDQ6VXNlcjE4NjQ5NjQ1
@@ -3913,11 +3913,11 @@
 28824542:
   avatar_url: https://avatars3.githubusercontent.com/u/28824542?v=4
   event_counts:
-    follow: 3
+    follow: 4
     fork: 0
     public: 0
     repo: 9
-    total: 12
+    total: 13
     watch_started: 0
   intra: calamber
   login: mueslimak3r
@@ -5077,11 +5077,11 @@
 38030381:
   avatar_url: https://avatars0.githubusercontent.com/u/38030381?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 0
     public: 0
     repo: 0
-    total: 2
+    total: 3
     watch_started: 0
   intra: rsilva
   login: rsilva42
@@ -5509,11 +5509,11 @@
 41839667:
   avatar_url: https://avatars2.githubusercontent.com/u/41839667?v=4
   event_counts:
-    follow: 10
+    follow: 11
     fork: 0
     public: 0
-    repo: 5
-    total: 16
+    repo: 6
+    total: 18
     watch_started: 1
   intra: kmira
   login: MrColour
