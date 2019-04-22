@@ -3482,10 +3482,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/25774045?v=4
   event_counts:
     follow: 11
-    fork: 1
+    fork: 2
     public: 7
     repo: 4
-    total: 26
+    total: 27
     watch_started: 3
   intra: jkaplin
   login: jkaplin
@@ -3865,11 +3865,11 @@
 28497902:
   avatar_url: https://avatars1.githubusercontent.com/u/28497902?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 0
-    total: 0
+    total: 1
     watch_started: 0
   intra: dysotoma
   login: dsotomay
@@ -4742,10 +4742,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/34832274?v=4
   event_counts:
     follow: 1
-    fork: 2
+    fork: 4
     public: 1
-    repo: 3
-    total: 9
+    repo: 4
+    total: 12
     watch_started: 2
   intra: fhong
   login: hongfu12321
@@ -5786,10 +5786,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/45217215?v=4
   event_counts:
     follow: 1
-    fork: 0
+    fork: 1
     public: 0
     repo: 5
-    total: 6
+    total: 7
     watch_started: 0
   intra: llelias
   login: lukefreeman42

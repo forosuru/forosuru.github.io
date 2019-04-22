@@ -1,0 +1,11 @@
+---
+layout: default
+intra: dysotoma
+login: dsotomay
+id: 28497902
+avatar_url: https://avatars1.githubusercontent.com/u/28497902?v=4
+---
+{% assign events = site.events | where: "author_id","28497902" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
