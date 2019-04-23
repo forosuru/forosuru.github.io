@@ -1753,11 +1753,11 @@
 16214757:
   avatar_url: https://avatars1.githubusercontent.com/u/16214757?v=4
   event_counts:
-    follow: 4
+    follow: 6
     fork: 0
     public: 0
     repo: 5
-    total: 13
+    total: 15
     watch_started: 4
   intra: jbeall
   login: jacksonwb
@@ -2053,11 +2053,11 @@
 18249395:
   avatar_url: https://avatars1.githubusercontent.com/u/18249395?v=4
   event_counts:
-    follow: 5
-    fork: 2
+    follow: 6
+    fork: 4
     public: 4
     repo: 3
-    total: 23
+    total: 26
     watch_started: 9
   intra: hvillasa
   login: hectorsvill
@@ -2296,8 +2296,8 @@
     follow: 28
     fork: 1
     public: 0
-    repo: 6
-    total: 40
+    repo: 7
+    total: 41
     watch_started: 5
   intra: aabdrakh
   login: hhaakkimm
@@ -2569,11 +2569,11 @@
 21009594:
   avatar_url: https://avatars3.githubusercontent.com/u/21009594?v=4
   event_counts:
-    follow: 8
+    follow: 9
     fork: 1
     public: 5
     repo: 0
-    total: 56
+    total: 57
     watch_started: 42
   intra: tkobb
   login: thk2b
@@ -3856,8 +3856,8 @@
     follow: 0
     fork: 3
     public: 0
-    repo: 3
-    total: 9
+    repo: 4
+    total: 10
     watch_started: 3
   intra: zmagauin
   login: zhagm
@@ -4141,11 +4141,11 @@
 30271496:
   avatar_url: https://avatars1.githubusercontent.com/u/30271496?v=4
   event_counts:
-    follow: 4
+    follow: 5
     fork: 0
     public: 9
     repo: 3
-    total: 16
+    total: 17
     watch_started: 0
   intra: apickett
   login: j-pickett
@@ -4693,11 +4693,11 @@
 34431218:
   avatar_url: https://avatars2.githubusercontent.com/u/34431218?v=4
   event_counts:
-    follow: 11
+    follow: 12
     fork: 1
     public: 9
     repo: 4
-    total: 25
+    total: 26
     watch_started: 0
   intra: acarlson
   login: bombblob
