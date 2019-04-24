@@ -221,8 +221,8 @@
     fork: 1
     public: 0
     repo: 5
-    total: 103
-    watch_started: 88
+    total: 104
+    watch_started: 89
   intra: mbrave
   login: michaelbrave
   node_id: MDQ6VXNlcjMxODE4NzA=
@@ -845,8 +845,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 0
-    watch_started: 0
+    total: 1
+    watch_started: 1
   intra: fromo
   login: felromo
   node_id: MDQ6VXNlcjg0NjMzNjY=
@@ -2776,8 +2776,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 4
-    total: 4
+    repo: 5
+    total: 5
     watch_started: 0
   intra: rmanese
   login: rmanese
@@ -5197,11 +5197,11 @@
 39015941:
   avatar_url: https://avatars3.githubusercontent.com/u/39015941?v=4
   event_counts:
-    follow: 30
+    follow: 31
     fork: 0
     public: 0
     repo: 1
-    total: 31
+    total: 32
     watch_started: 0
   intra: debaxter
   login: drb3000
