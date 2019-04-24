@@ -339,9 +339,9 @@
   event_counts:
     follow: 0
     fork: 1
-    public: 0
+    public: 1
     repo: 0
-    total: 1
+    total: 2
     watch_started: 0
   intra: avongdar
   login: vongdarakia
