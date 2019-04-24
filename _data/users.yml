@@ -2389,11 +2389,11 @@
 20530669:
   avatar_url: https://avatars0.githubusercontent.com/u/20530669?v=4
   event_counts:
-    follow: 3
+    follow: 4
     fork: 0
     public: 1
     repo: 1
-    total: 10
+    total: 11
     watch_started: 5
   intra: lweinste
   login: LevinWeinstein
@@ -2681,8 +2681,8 @@
     fork: 1
     public: 2
     repo: 2
-    total: 10
-    watch_started: 2
+    total: 11
+    watch_started: 3
   intra: ckrommen
   login: cpk42
   node_id: MDQ6VXNlcjIxMjA5ODAz
