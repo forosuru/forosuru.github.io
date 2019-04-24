@@ -1861,11 +1861,11 @@
 16840579:
   avatar_url: https://avatars2.githubusercontent.com/u/16840579?v=4
   event_counts:
-    follow: 7
+    follow: 8
     fork: 0
     public: 0
     repo: 18
-    total: 27
+    total: 28
     watch_started: 2
   intra: jadawson
   login: JamieDawson
@@ -3041,8 +3041,8 @@
     fork: 1
     public: 0
     repo: 0
-    total: 24
-    watch_started: 20
+    total: 25
+    watch_started: 21
   intra: jbrown
   login: panterarocks49
   node_id: MDQ6VXNlcjIzNjQ3ODM3
@@ -5248,8 +5248,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 0
-    total: 0
+    repo: 1
+    total: 1
     watch_started: 0
   intra: kbui
   login: khoab
@@ -5689,11 +5689,11 @@
 43770376:
   avatar_url: https://avatars3.githubusercontent.com/u/43770376?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 0
     public: 0
     repo: 3
-    total: 5
+    total: 6
     watch_started: 0
   intra: ieropaie
   login: eropaev
