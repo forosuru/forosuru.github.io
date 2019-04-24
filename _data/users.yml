@@ -1937,8 +1937,8 @@
     fork: 1
     public: 0
     repo: 7
-    total: 14
-    watch_started: 3
+    total: 15
+    watch_started: 4
   intra: ikozlov
   login: IvanKozlov95
   node_id: MDQ6VXNlcjE3Mjk5NjQ3
@@ -2053,11 +2053,11 @@
 18249395:
   avatar_url: https://avatars1.githubusercontent.com/u/18249395?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 4
     public: 4
     repo: 3
-    total: 26
+    total: 27
     watch_started: 9
   intra: hvillasa
   login: hectorsvill
@@ -3661,12 +3661,12 @@
 26906556:
   avatar_url: https://avatars1.githubusercontent.com/u/26906556?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 0
-    total: 3
-    watch_started: 3
+    total: 5
+    watch_started: 4
   intra: esurdam
   login: zomsc
   node_id: MDQ6VXNlcjI2OTA2NTU2
