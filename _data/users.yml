@@ -733,11 +733,11 @@
 7871693:
   avatar_url: https://avatars1.githubusercontent.com/u/7871693?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 1
     public: 0
     repo: 9
-    total: 13
+    total: 14
     watch_started: 1
   intra: achavez
   login: anthony-chavez
@@ -5137,12 +5137,12 @@
 38436303:
   avatar_url: https://avatars0.githubusercontent.com/u/38436303?v=4
   event_counts:
-    follow: 3
+    follow: 4
     fork: 0
     public: 4
     repo: 11
-    total: 23
-    watch_started: 5
+    total: 25
+    watch_started: 6
   intra: jcasian
   login: JuanCasian
   node_id: MDQ6VXNlcjM4NDM2MzAz
@@ -5908,8 +5908,8 @@
     follow: 7
     fork: 0
     public: 0
-    repo: 1
-    total: 16
+    repo: 2
+    total: 17
     watch_started: 8
   intra: dfonarev
   login: ruv1nce
