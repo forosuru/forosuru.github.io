@@ -577,11 +577,11 @@
 6034652:
   avatar_url: https://avatars2.githubusercontent.com/u/6034652?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 1
     repo: 4
-    total: 10
+    total: 11
     watch_started: 4
   intra: rramirez
   login: rene415
@@ -1829,8 +1829,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 0
-    watch_started: 0
+    total: 2
+    watch_started: 2
   intra: cwilson
   login: cwils
   node_id: MDQ6VXNlcjE2NTg3NjM4
