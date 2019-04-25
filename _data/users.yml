@@ -4189,11 +4189,11 @@
 30615804:
   avatar_url: https://avatars3.githubusercontent.com/u/30615804?v=4
   event_counts:
-    follow: 4
+    follow: 6
     fork: 1
     public: 0
     repo: 16
-    total: 21
+    total: 23
     watch_started: 0
   intra: hnam
   login: naamoonoo
@@ -4600,8 +4600,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 4
-    total: 4
+    repo: 5
+    total: 5
     watch_started: 0
   intra: lmartine
   login: naota650
@@ -5534,10 +5534,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/42157414?v=4
   event_counts:
     follow: 4
-    fork: 5
+    fork: 7
     public: 0
     repo: 1
-    total: 14
+    total: 16
     watch_started: 4
   intra: lmalagon
   login: Lcmalagon
@@ -5668,8 +5668,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 4
-    total: 4
+    repo: 5
+    total: 5
     watch_started: 0
   intra: knaumov
   login: KirillVNaumov
