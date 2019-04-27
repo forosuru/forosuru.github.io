@@ -1,0 +1,9 @@
+---
+layout: default
+language: Elixir
+filename: Elixir.html
+---
+{% assign events = site.events | where: "language","Elixir" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
