@@ -781,11 +781,11 @@
 8131174:
   avatar_url: https://avatars3.githubusercontent.com/u/8131174?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 0
     repo: 0
-    total: 8
+    total: 9
     watch_started: 7
   intra: erintala
   login: adagiox
@@ -1613,8 +1613,8 @@
     fork: 8
     public: 1
     repo: 2
-    total: 76
-    watch_started: 44
+    total: 77
+    watch_started: 45
   intra: ztisnes
   login: zedin27
   node_id: MDQ6VXNlcjE0ODQxMjYx
@@ -2449,11 +2449,11 @@
 20745447:
   avatar_url: https://avatars3.githubusercontent.com/u/20745447?v=4
   event_counts:
-    follow: 8
+    follow: 9
     fork: 0
     public: 0
     repo: 5
-    total: 13
+    total: 14
     watch_started: 0
   intra: dstolz
   login: donald-stolz
