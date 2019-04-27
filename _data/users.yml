@@ -2104,8 +2104,8 @@
     follow: 3
     fork: 0
     public: 1
-    repo: 8
-    total: 14
+    repo: 9
+    total: 15
     watch_started: 2
   intra: kmckee
   login: KyleAMcKee
@@ -2449,11 +2449,11 @@
 20745447:
   avatar_url: https://avatars3.githubusercontent.com/u/20745447?v=4
   event_counts:
-    follow: 7
+    follow: 8
     fork: 0
     public: 0
     repo: 5
-    total: 12
+    total: 13
     watch_started: 0
   intra: dstolz
   login: donald-stolz
@@ -5461,11 +5461,11 @@
 41515891:
   avatar_url: https://avatars3.githubusercontent.com/u/41515891?v=4
   event_counts:
-    follow: 13
+    follow: 14
     fork: 0
     public: 0
     repo: 6
-    total: 21
+    total: 22
     watch_started: 2
   intra: sechang
   login: sechang01
@@ -5476,8 +5476,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 11
-    total: 11
+    repo: 12
+    total: 12
     watch_started: 0
   intra: hchung
   login: CodeChung
@@ -5509,11 +5509,11 @@
 41839667:
   avatar_url: https://avatars2.githubusercontent.com/u/41839667?v=4
   event_counts:
-    follow: 12
+    follow: 13
     fork: 0
     public: 0
     repo: 6
-    total: 19
+    total: 20
     watch_started: 1
   intra: kmira
   login: MrColour
