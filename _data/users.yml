@@ -2057,8 +2057,8 @@
     fork: 7
     public: 4
     repo: 3
-    total: 30
-    watch_started: 9
+    total: 31
+    watch_started: 10
   intra: hvillasa
   login: hectorsvill
   node_id: MDQ6VXNlcjE4MjQ5Mzk1
@@ -3617,8 +3617,8 @@
     fork: 1
     public: 0
     repo: 1
-    total: 18
-    watch_started: 16
+    total: 19
+    watch_started: 17
   intra: dfan
   login: dayfine
   node_id: MDQ6VXNlcjI2NDIzNTA0
@@ -4321,11 +4321,11 @@
 32149526:
   avatar_url: https://avatars0.githubusercontent.com/u/32149526?v=4
   event_counts:
-    follow: 12
+    follow: 13
     fork: 0
     public: 0
     repo: 16
-    total: 29
+    total: 30
     watch_started: 1
   intra: gfielder
   login: gavinfielder
@@ -5917,11 +5917,11 @@
 46203279:
   avatar_url: https://avatars2.githubusercontent.com/u/46203279?v=4
   event_counts:
-    follow: 7
+    follow: 10
     fork: 0
     public: 0
     repo: 3
-    total: 10
+    total: 13
     watch_started: 0
   intra: marrodri
   login: marrodri
@@ -5965,11 +5965,11 @@
 46500040:
   avatar_url: https://avatars2.githubusercontent.com/u/46500040?v=4
   event_counts:
-    follow: 2
+    follow: 4
     fork: 0
     public: 0
     repo: 8
-    total: 11
+    total: 13
     watch_started: 1
   intra: obuksha
   login: ksanabuka
