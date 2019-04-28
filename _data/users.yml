@@ -137,8 +137,8 @@
     fork: 1
     public: 0
     repo: 2
-    total: 27
-    watch_started: 22
+    total: 28
+    watch_started: 23
   intra: seli
   login: Evilcat325
   node_id: MDQ6VXNlcjIzNTU3NjM=
@@ -1861,11 +1861,11 @@
 16840579:
   avatar_url: https://avatars2.githubusercontent.com/u/16840579?v=4
   event_counts:
-    follow: 8
+    follow: 15
     fork: 0
     public: 0
     repo: 18
-    total: 28
+    total: 35
     watch_started: 2
   intra: jadawson
   login: JamieDawson
