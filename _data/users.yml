@@ -532,8 +532,8 @@
     follow: 1
     fork: 0
     public: 0
-    repo: 1
-    total: 5
+    repo: 2
+    total: 6
     watch_started: 3
   intra: myoung
   login: qst0
@@ -997,11 +997,11 @@
 9650600:
   avatar_url: https://avatars0.githubusercontent.com/u/9650600?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 1
     public: 0
-    repo: 7
-    total: 10
+    repo: 8
+    total: 12
     watch_started: 0
   intra: gaguirre
   login: its-gio
@@ -1361,8 +1361,8 @@
     fork: 2
     public: 0
     repo: 5
-    total: 206
-    watch_started: 166
+    total: 207
+    watch_started: 167
   intra: mfernand
   login: MatiasFMolinari
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -2101,11 +2101,11 @@
 18459408:
   avatar_url: https://avatars2.githubusercontent.com/u/18459408?v=4
   event_counts:
-    follow: 3
+    follow: 4
     fork: 0
     public: 1
     repo: 9
-    total: 15
+    total: 16
     watch_started: 2
   intra: kmckee
   login: KyleAMcKee
@@ -3100,8 +3100,8 @@
     follow: 0
     fork: 2
     public: 0
-    repo: 5
-    total: 7
+    repo: 6
+    total: 8
     watch_started: 0
   intra: thomkim
   login: swp0107
@@ -5380,8 +5380,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 1
-    total: 1
+    repo: 2
+    total: 2
     watch_started: 0
   intra: tdiaz
   login: tfdiaz
@@ -5474,10 +5474,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/41598527?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 0
     repo: 12
-    total: 12
+    total: 13
     watch_started: 0
   intra: hchung
   login: CodeChung
