@@ -137,8 +137,8 @@
     fork: 1
     public: 0
     repo: 3
-    total: 29
-    watch_started: 23
+    total: 30
+    watch_started: 24
   intra: seli
   login: Evilcat325
   node_id: MDQ6VXNlcjIzNTU3NjM=
@@ -1324,8 +1324,8 @@
     follow: 0
     fork: 1
     public: 0
-    repo: 5
-    total: 10
+    repo: 6
+    total: 11
     watch_started: 4
   intra: kblack
   login: kab11
@@ -1852,8 +1852,8 @@
     follow: 0
     fork: 1
     public: 0
-    repo: 4
-    total: 5
+    repo: 5
+    total: 6
     watch_started: 0
   intra: mzaneri
   login: mzaneri
@@ -1945,12 +1945,12 @@
 17434599:
   avatar_url: https://avatars3.githubusercontent.com/u/17434599?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 0
     repo: 0
-    total: 1
-    watch_started: 0
+    total: 4
+    watch_started: 2
   intra: klongric
   login: Klongrich
   node_id: MDQ6VXNlcjE3NDM0NTk5
@@ -2054,10 +2054,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/18249395?v=4
   event_counts:
     follow: 7
-    fork: 7
+    fork: 8
     public: 4
     repo: 3
-    total: 31
+    total: 32
     watch_started: 10
   intra: hvillasa
   login: hectorsvill
@@ -3041,8 +3041,8 @@
     fork: 1
     public: 0
     repo: 0
-    total: 25
-    watch_started: 21
+    total: 26
+    watch_started: 22
   intra: jbrown
   login: panterarocks49
   node_id: MDQ6VXNlcjIzNjQ3ODM3
