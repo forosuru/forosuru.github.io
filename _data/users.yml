@@ -1972,8 +1972,8 @@
     follow: 3
     fork: 0
     public: 0
-    repo: 7
-    total: 13
+    repo: 8
+    total: 14
     watch_started: 3
   intra: kkozlov
   login: BimManager
@@ -3508,8 +3508,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 1
-    total: 1
+    repo: 2
+    total: 2
     watch_started: 0
   intra: jkertgat
   login: ckoranec
