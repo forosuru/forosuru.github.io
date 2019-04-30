@@ -2977,11 +2977,11 @@
 23408540:
   avatar_url: https://avatars0.githubusercontent.com/u/23408540?v=4
   event_counts:
-    follow: 2
+    follow: 5
     fork: 1
     public: 0
     repo: 0
-    total: 3
+    total: 6
     watch_started: 0
   intra: rle
   login: sudoryan
@@ -3856,8 +3856,8 @@
     follow: 0
     fork: 3
     public: 0
-    repo: 4
-    total: 10
+    repo: 5
+    total: 11
     watch_started: 3
   intra: zmagauin
   login: zhagm
@@ -5690,10 +5690,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/43770376?v=4
   event_counts:
     follow: 3
-    fork: 0
+    fork: 1
     public: 0
     repo: 3
-    total: 6
+    total: 7
     watch_started: 0
   intra: ieropaie
   login: eropaev
@@ -5786,10 +5786,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/45217215?v=4
   event_counts:
     follow: 1
-    fork: 1
+    fork: 2
     public: 0
     repo: 5
-    total: 7
+    total: 8
     watch_started: 0
   intra: llelias
   login: lukefreeman42
