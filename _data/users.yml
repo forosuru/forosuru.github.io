@@ -1885,11 +1885,11 @@
 16868451:
   avatar_url: https://avatars3.githubusercontent.com/u/16868451?v=4
   event_counts:
-    follow: 1
-    fork: 0
+    follow: 2
+    fork: 1
     public: 0
     repo: 1
-    total: 2
+    total: 4
     watch_started: 0
   intra: saolivei
   login: SLO42
@@ -4024,8 +4024,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 4
-    total: 4
+    repo: 5
+    total: 5
     watch_started: 0
   intra: aderby
   login: derbya
@@ -4444,8 +4444,8 @@
     follow: 24
     fork: 2
     public: 1
-    repo: 4
-    total: 31
+    repo: 5
+    total: 32
     watch_started: 0
   intra: ynenakho
   login: ynenakho
