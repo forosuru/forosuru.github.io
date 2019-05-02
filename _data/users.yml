@@ -2031,9 +2031,9 @@
   event_counts:
     follow: 0
     fork: 0
-    public: 0
+    public: 1
     repo: 2
-    total: 4
+    total: 5
     watch_started: 2
   intra: lhurt
   login: lhurt51
@@ -4588,8 +4588,8 @@
     follow: 1
     fork: 0
     public: 0
-    repo: 13
-    total: 14
+    repo: 14
+    total: 15
     watch_started: 0
   intra: atemunov
   login: temun17
