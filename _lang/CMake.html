@@ -1,0 +1,9 @@
+---
+layout: default
+language: CMake
+filename: CMake.html
+---
+{% assign events = site.events | where: "language","CMake" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
