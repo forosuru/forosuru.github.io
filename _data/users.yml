@@ -533,8 +533,8 @@
     fork: 0
     public: 0
     repo: 2
-    total: 6
-    watch_started: 3
+    total: 7
+    watch_started: 4
   intra: myoung
   login: qst0
   node_id: MDQ6VXNlcjU4NjY3NTc=
@@ -1540,8 +1540,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 2
-    total: 3
+    repo: 3
+    total: 4
     watch_started: 1
   intra: spoole
   login: spoole50
@@ -1613,8 +1613,8 @@
     fork: 8
     public: 1
     repo: 2
-    total: 77
-    watch_started: 45
+    total: 78
+    watch_started: 46
   intra: ztisnes
   login: zedin27
   node_id: MDQ6VXNlcjE0ODQxMjYx
@@ -3856,8 +3856,8 @@
     follow: 0
     fork: 3
     public: 0
-    repo: 6
-    total: 12
+    repo: 7
+    total: 13
     watch_started: 3
   intra: zmagauin
   login: zhagm
@@ -4285,11 +4285,11 @@
 32094053:
   avatar_url: https://avatars3.githubusercontent.com/u/32094053?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 0
     public: 0
     repo: 0
-    total: 2
+    total: 3
     watch_started: 0
   intra: anjansse
   login: Themancrazy
