@@ -136,8 +136,8 @@
     follow: 2
     fork: 1
     public: 0
-    repo: 4
-    total: 34
+    repo: 5
+    total: 35
     watch_started: 27
   intra: seli
   login: Evilcat325
@@ -157,12 +157,12 @@
 2700549:
   avatar_url: https://avatars3.githubusercontent.com/u/2700549?v=4
   event_counts:
-    follow: 3
+    follow: 5
     fork: 0
     public: 0
     repo: 1
-    total: 48
-    watch_started: 44
+    total: 53
+    watch_started: 47
   intra: crenfrow
   login: ChrisRenfrow
   node_id: MDQ6VXNlcjI3MDA1NDk=
@@ -1336,9 +1336,9 @@
     follow: 6
     fork: 4
     public: 0
-    repo: 10
-    total: 24
-    watch_started: 4
+    repo: 11
+    total: 26
+    watch_started: 5
   intra: chsu
   login: enhsu
   node_id: MDQ6VXNlcjEyMDQ1MTU0
@@ -4372,8 +4372,8 @@
     follow: 2
     fork: 0
     public: 5
-    repo: 4
-    total: 18
+    repo: 5
+    total: 19
     watch_started: 7
   intra: asarandi
   login: asarandi
