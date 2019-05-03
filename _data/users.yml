@@ -1421,8 +1421,8 @@
     fork: 1
     public: 5
     repo: 6
-    total: 26
-    watch_started: 2
+    total: 27
+    watch_started: 3
   intra: bogoncha
   login: bgoncharov
   node_id: MDQ6VXNlcjEzMDM2NzYx
@@ -1864,8 +1864,8 @@
     follow: 16
     fork: 0
     public: 0
-    repo: 20
-    total: 38
+    repo: 21
+    total: 39
     watch_started: 2
   intra: jadawson
   login: JamieDawson
@@ -4741,11 +4741,11 @@
 34832274:
   avatar_url: https://avatars3.githubusercontent.com/u/34832274?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 4
     public: 2
     repo: 5
-    total: 15
+    total: 16
     watch_started: 3
   intra: fhong
   login: hongfu12321
@@ -5977,11 +5977,11 @@
 46547632:
   avatar_url: https://avatars1.githubusercontent.com/u/46547632?v=4
   event_counts:
-    follow: 0
+    follow: 3
     fork: 0
     public: 3
     repo: 1
-    total: 4
+    total: 7
     watch_started: 0
   intra: jchiang-
   login: JCTGY
