@@ -3856,8 +3856,8 @@
     follow: 0
     fork: 3
     public: 0
-    repo: 7
-    total: 13
+    repo: 8
+    total: 14
     watch_started: 3
   intra: zmagauin
   login: zhagm
@@ -4361,8 +4361,8 @@
     fork: 5
     public: 1
     repo: 0
-    total: 47
-    watch_started: 23
+    total: 48
+    watch_started: 24
   intra: fredsiik
   login: fredsiika
   node_id: MDQ6VXNlcjMyMjYxMTEz
@@ -5571,9 +5571,9 @@
   event_counts:
     follow: 6
     fork: 2
-    public: 3
+    public: 4
     repo: 1
-    total: 12
+    total: 13
     watch_started: 0
   intra: ale-goff
   login: Alexx42
