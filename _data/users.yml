@@ -629,8 +629,8 @@
     fork: 0
     public: 2
     repo: 2
-    total: 7
-    watch_started: 1
+    total: 8
+    watch_started: 2
   intra: fbueno-m
   login: fredmurakawa
   node_id: MDQ6VXNlcjY2NTgxNTM=
@@ -1861,11 +1861,11 @@
 16840579:
   avatar_url: https://avatars2.githubusercontent.com/u/16840579?v=4
   event_counts:
-    follow: 16
+    follow: 17
     fork: 0
     public: 0
     repo: 21
-    total: 39
+    total: 40
     watch_started: 2
   intra: jadawson
   login: JamieDawson
@@ -2033,8 +2033,8 @@
     fork: 0
     public: 1
     repo: 2
-    total: 5
-    watch_started: 2
+    total: 6
+    watch_started: 3
   intra: lhurt
   login: lhurt51
   node_id: MDQ6VXNlcjE4MTMwNDI4
@@ -4792,8 +4792,8 @@
     follow: 4
     fork: 0
     public: 0
-    repo: 6
-    total: 10
+    repo: 7
+    total: 11
     watch_started: 0
   intra: majones
   login: mjjply42
