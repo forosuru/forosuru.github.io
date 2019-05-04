@@ -1094,10 +1094,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/10384761?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 0
     repo: 1
-    total: 1
+    total: 2
     watch_started: 0
   intra: mmorel
   login: Aegistov
@@ -2402,10 +2402,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/20563775?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 0
     repo: 0
-    total: 1
+    total: 2
     watch_started: 1
   intra: iiliuk
   login: Julsy
@@ -3041,8 +3041,8 @@
     fork: 1
     public: 0
     repo: 0
-    total: 26
-    watch_started: 22
+    total: 27
+    watch_started: 23
   intra: jbrown
   login: panterarocks49
   node_id: MDQ6VXNlcjIzNjQ3ODM3
