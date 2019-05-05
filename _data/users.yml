@@ -3880,8 +3880,8 @@
     follow: 14
     fork: 28
     public: 0
-    repo: 6
-    total: 86
+    repo: 7
+    total: 87
     watch_started: 38
   intra: xwang
   login: daxwann
@@ -6037,11 +6037,11 @@
 47834540:
   avatar_url: https://avatars2.githubusercontent.com/u/47834540?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 0
     public: 2
     repo: 2
-    total: 6
+    total: 7
     watch_started: 0
   intra: ibotnaru
   login: ibotnaru
