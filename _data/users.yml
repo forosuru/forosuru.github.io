@@ -904,8 +904,8 @@
     follow: 0
     fork: 0
     public: 1
-    repo: 6
-    total: 7
+    repo: 8
+    total: 9
     watch_started: 0
   intra: alkozma
   login: NotHawthorne
@@ -4361,8 +4361,8 @@
     fork: 5
     public: 1
     repo: 0
-    total: 49
-    watch_started: 24
+    total: 50
+    watch_started: 25
   intra: fredsiik
   login: fredsiika
   node_id: MDQ6VXNlcjMyMjYxMTEz
