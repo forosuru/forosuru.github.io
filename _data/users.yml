@@ -2054,10 +2054,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/18249395?v=4
   event_counts:
     follow: 8
-    fork: 14
+    fork: 15
     public: 4
     repo: 3
-    total: 39
+    total: 40
     watch_started: 10
   intra: hvillasa
   login: hectorsvill
@@ -4886,10 +4886,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/36056254?v=4
   event_counts:
     follow: 1
-    fork: 1
+    fork: 3
     public: 1
-    repo: 8
-    total: 15
+    repo: 9
+    total: 18
     watch_started: 4
   intra: akharrou
   login: akharrou
@@ -5546,10 +5546,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/42254557?v=4
   event_counts:
     follow: 3
-    fork: 0
+    fork: 3
     public: 0
     repo: 10
-    total: 13
+    total: 16
     watch_started: 0
   intra: mtaylor
   login: motaylormo
