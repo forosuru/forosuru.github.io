@@ -533,8 +533,8 @@
     fork: 0
     public: 0
     repo: 3
-    total: 12
-    watch_started: 8
+    total: 14
+    watch_started: 10
   intra: myoung
   login: qst0
   node_id: MDQ6VXNlcjU4NjY3NTc=
@@ -2872,8 +2872,8 @@
     follow: 0
     fork: 3
     public: 0
-    repo: 1
-    total: 21
+    repo: 2
+    total: 22
     watch_started: 17
   intra: rhaque
   login: Rahisulhaque
@@ -5917,11 +5917,11 @@
 46203279:
   avatar_url: https://avatars2.githubusercontent.com/u/46203279?v=4
   event_counts:
-    follow: 10
+    follow: 12
     fork: 0
     public: 0
     repo: 3
-    total: 13
+    total: 15
     watch_started: 0
   intra: marrodri
   login: marrodri
