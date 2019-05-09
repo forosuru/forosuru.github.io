@@ -100,8 +100,8 @@
     follow: 2
     fork: 1
     public: 0
-    repo: 8
-    total: 17
+    repo: 9
+    total: 18
     watch_started: 6
   intra: eubotnar
   login: ebv-gh
@@ -712,8 +712,8 @@
     follow: 10
     fork: 1
     public: 0
-    repo: 17
-    total: 31
+    repo: 18
+    total: 32
     watch_started: 3
   intra: cbagdon
   login: cbg119
@@ -2957,8 +2957,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 2
-    watch_started: 1
+    total: 3
+    watch_started: 2
   intra: tpan
   login: tpan
   node_id: MDQ6VXNlcjIzMzAwNzg4
@@ -4325,8 +4325,8 @@
     fork: 1
     public: 0
     repo: 16
-    total: 36
-    watch_started: 1
+    total: 37
+    watch_started: 2
   intra: gfielder
   login: gavinfielder
   node_id: MDQ6VXNlcjMyMTQ5NTI2
@@ -4888,8 +4888,8 @@
     follow: 1
     fork: 3
     public: 1
-    repo: 9
-    total: 18
+    repo: 13
+    total: 22
     watch_started: 4
   intra: akharrou
   login: akharrou
@@ -5749,11 +5749,11 @@
 44511996:
   avatar_url: https://avatars3.githubusercontent.com/u/44511996?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 1
     public: 1
     repo: 2
-    total: 6
+    total: 7
     watch_started: 0
   intra: dromansk
   login: bigdiggysquiggle
@@ -5905,11 +5905,11 @@
 46170954:
   avatar_url: https://avatars3.githubusercontent.com/u/46170954?v=4
   event_counts:
-    follow: 8
+    follow: 9
     fork: 0
     public: 0
     repo: 2
-    total: 22
+    total: 23
     watch_started: 12
   intra: dfonarev
   login: ruv1nce
