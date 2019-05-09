@@ -1,0 +1,9 @@
+---
+layout: default
+language: Metal
+filename: Metal.html
+---
+{% assign events = site.events | where: "language","Metal" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
