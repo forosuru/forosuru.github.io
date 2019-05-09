@@ -2569,11 +2569,11 @@
 21009594:
   avatar_url: https://avatars3.githubusercontent.com/u/21009594?v=4
   event_counts:
-    follow: 12
+    follow: 13
     fork: 1
     public: 5
     repo: 0
-    total: 60
+    total: 61
     watch_started: 42
   intra: tkobb
   login: thk2b
@@ -4024,8 +4024,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 5
-    total: 5
+    repo: 6
+    total: 6
     watch_started: 0
   intra: aderby
   login: derbya
@@ -4886,10 +4886,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/36056254?v=4
   event_counts:
     follow: 1
-    fork: 3
+    fork: 5
     public: 1
-    repo: 13
-    total: 22
+    repo: 14
+    total: 25
     watch_started: 4
   intra: akharrou
   login: akharrou
