@@ -1589,8 +1589,8 @@
     fork: 4
     public: 0
     repo: 4
-    total: 22
-    watch_started: 10
+    total: 23
+    watch_started: 11
   intra: yijhuang
   login: hyj1204
   node_id: MDQ6VXNlcjE0MjQ4MjQ1
@@ -2125,11 +2125,11 @@
 18608979:
   avatar_url: https://avatars2.githubusercontent.com/u/18608979?v=4
   event_counts:
-    follow: 10
+    follow: 11
     fork: 1
     public: 0
     repo: 5
-    total: 26
+    total: 27
     watch_started: 10
   intra: nobrien
   login: nickisobrien
@@ -3829,11 +3829,11 @@
 28375715:
   avatar_url: https://avatars3.githubusercontent.com/u/28375715?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 1
     public: 0
     repo: 6
-    total: 14
+    total: 15
     watch_started: 1
   intra: hirenpat
   login: hirenpateldotnex
@@ -4348,8 +4348,8 @@
     follow: 0
     fork: 0
     public: 3
-    repo: 3
-    total: 6
+    repo: 4
+    total: 7
     watch_started: 0
   intra: hasmith
   login: DStar1
