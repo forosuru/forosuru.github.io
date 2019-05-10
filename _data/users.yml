@@ -2573,8 +2573,8 @@
     fork: 1
     public: 5
     repo: 0
-    total: 62
-    watch_started: 43
+    total: 63
+    watch_started: 44
   intra: tkobb
   login: thk2b
   node_id: MDQ6VXNlcjIxMDA5NTk0
@@ -3829,11 +3829,11 @@
 28375715:
   avatar_url: https://avatars3.githubusercontent.com/u/28375715?v=4
   event_counts:
-    follow: 7
+    follow: 8
     fork: 1
     public: 0
     repo: 6
-    total: 15
+    total: 16
     watch_started: 1
   intra: hirenpat
   login: hirenpateldotnex
@@ -4489,11 +4489,11 @@
 32720718:
   avatar_url: https://avatars0.githubusercontent.com/u/32720718?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 0
     repo: 4
-    total: 6
+    total: 7
     watch_started: 1
   intra: pdavid
   login: phoenixtahoe
@@ -4885,11 +4885,11 @@
 36056254:
   avatar_url: https://avatars1.githubusercontent.com/u/36056254?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 8
     public: 1
     repo: 15
-    total: 29
+    total: 30
     watch_started: 4
   intra: akharrou
   login: akharrou
@@ -5139,9 +5139,9 @@
   event_counts:
     follow: 4
     fork: 0
-    public: 4
+    public: 5
     repo: 11
-    total: 27
+    total: 28
     watch_started: 8
   intra: jcasian
   login: JuanCasian
@@ -5413,11 +5413,11 @@
 41272025:
   avatar_url: https://avatars1.githubusercontent.com/u/41272025?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 3
-    total: 3
+    total: 4
     watch_started: 0
   intra: vkostenk
   login: vkostenk
