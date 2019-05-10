@@ -136,8 +136,8 @@
     follow: 2
     fork: 1
     public: 0
-    repo: 9
-    total: 42
+    repo: 10
+    total: 43
     watch_started: 30
   intra: seli
   login: Evilcat325
@@ -218,10 +218,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/3181870?v=4
   event_counts:
     follow: 10
-    fork: 1
+    fork: 2
     public: 0
     repo: 5
-    total: 136
+    total: 137
     watch_started: 120
   intra: mbrave
   login: michaelbrave
