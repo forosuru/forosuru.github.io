@@ -2137,11 +2137,11 @@
 18649645:
   avatar_url: https://avatars2.githubusercontent.com/u/18649645?v=4
   event_counts:
-    follow: 8
+    follow: 9
     fork: 1
     public: 1
     repo: 10
-    total: 21
+    total: 22
     watch_started: 1
   intra: awindham
   login: arwn
@@ -3865,11 +3865,11 @@
 28497902:
   avatar_url: https://avatars1.githubusercontent.com/u/28497902?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 0
-    repo: 0
-    total: 1
+    repo: 1
+    total: 3
     watch_started: 0
   intra: dysotoma
   login: dsotomay
@@ -5692,8 +5692,8 @@
     follow: 3
     fork: 1
     public: 0
-    repo: 3
-    total: 7
+    repo: 4
+    total: 8
     watch_started: 0
   intra: ieropaie
   login: eropaev
