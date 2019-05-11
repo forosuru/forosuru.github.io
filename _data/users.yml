@@ -161,8 +161,8 @@
     fork: 0
     public: 0
     repo: 1
-    total: 59
-    watch_started: 53
+    total: 60
+    watch_started: 54
   intra: crenfrow
   login: ChrisRenfrow
   node_id: MDQ6VXNlcjI3MDA1NDk=
@@ -1540,8 +1540,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 3
-    total: 4
+    repo: 8
+    total: 9
     watch_started: 1
   intra: spoole
   login: spoole50
@@ -4469,8 +4469,8 @@
     fork: 0
     public: 2
     repo: 3
-    total: 10
-    watch_started: 3
+    total: 11
+    watch_started: 4
   intra: agrodzin
   login: blairclair
   node_id: MDQ6VXNlcjMyNTk0ODc0
@@ -4780,8 +4780,8 @@
     follow: 0
     fork: 1
     public: 0
-    repo: 12
-    total: 13
+    repo: 13
+    total: 14
     watch_started: 0
   intra: agifford
   login: amandagifford33
