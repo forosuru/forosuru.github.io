@@ -1192,8 +1192,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 1
-    total: 2
+    repo: 2
+    total: 3
     watch_started: 1
   intra: olkovale
   login: okovko
@@ -1361,8 +1361,8 @@
     fork: 2
     public: 0
     repo: 5
-    total: 221
-    watch_started: 177
+    total: 225
+    watch_started: 181
   intra: mfernand
   login: MatiasFMolinari
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -2053,11 +2053,11 @@
 18249395:
   avatar_url: https://avatars1.githubusercontent.com/u/18249395?v=4
   event_counts:
-    follow: 8
+    follow: 9
     fork: 17
     public: 4
     repo: 4
-    total: 43
+    total: 44
     watch_started: 10
   intra: hvillasa
   login: hectorsvill
@@ -3245,8 +3245,8 @@
     fork: 3
     public: 0
     repo: 4
-    total: 73
-    watch_started: 60
+    total: 74
+    watch_started: 61
   intra: cchao
   login: kizombaciao
   node_id: MDQ6VXNlcjI0Njg3MzU2
