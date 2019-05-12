@@ -269,8 +269,8 @@
     fork: 3
     public: 0
     repo: 3
-    total: 30
-    watch_started: 14
+    total: 31
+    watch_started: 15
   intra: kchenna
   login: hashb
   node_id: MDQ6VXNlcjM4MjEwNDM=
@@ -290,10 +290,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/3984265?v=4
   event_counts:
     follow: 0
-    fork: 5
+    fork: 7
     public: 0
     repo: 9
-    total: 16
+    total: 18
     watch_started: 2
   intra: jrameau
   login: R4meau
