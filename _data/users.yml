@@ -1972,8 +1972,8 @@
     follow: 3
     fork: 0
     public: 0
-    repo: 8
-    total: 14
+    repo: 9
+    total: 15
     watch_started: 3
   intra: kkozlov
   login: BimManager
@@ -3673,11 +3673,11 @@
 26943750:
   avatar_url: https://avatars0.githubusercontent.com/u/26943750?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 1
-    total: 5
+    total: 6
     watch_started: 4
   intra: elopez
   login: elopez17
