@@ -303,9 +303,9 @@
   event_counts:
     follow: 1
     fork: 1
-    public: 0
+    public: 1
     repo: 4
-    total: 6
+    total: 7
     watch_started: 0
   intra: nmolina
   login: nilsonmolina
@@ -5786,10 +5786,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/45217215?v=4
   event_counts:
     follow: 1
-    fork: 5
+    fork: 6
     public: 0
     repo: 5
-    total: 11
+    total: 12
     watch_started: 0
   intra: llelias
   login: lukefreeman42
