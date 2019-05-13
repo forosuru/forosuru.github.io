@@ -221,8 +221,8 @@
     fork: 2
     public: 0
     repo: 5
-    total: 141
-    watch_started: 124
+    total: 143
+    watch_started: 126
   intra: mbrave
   login: michaelbrave
   node_id: MDQ6VXNlcjMxODE4NzA=
@@ -2091,9 +2091,9 @@
   event_counts:
     follow: 0
     fork: 2
-    public: 0
+    public: 1
     repo: 7
-    total: 9
+    total: 10
     watch_started: 0
   intra: tmckinno
   login: tmacro
@@ -2137,11 +2137,11 @@
 18649645:
   avatar_url: https://avatars2.githubusercontent.com/u/18649645?v=4
   event_counts:
-    follow: 9
+    follow: 10
     fork: 1
     public: 1
     repo: 10
-    total: 22
+    total: 23
     watch_started: 1
   intra: awindham
   login: arwn

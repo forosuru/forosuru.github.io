@@ -1,0 +1,9 @@
+---
+layout: default
+language: Pascal
+filename: Pascal.html
+---
+{% assign events = site.events | where: "language","Pascal" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
