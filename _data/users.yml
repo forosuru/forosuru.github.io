@@ -2571,9 +2571,9 @@
   event_counts:
     follow: 13
     fork: 1
-    public: 6
+    public: 7
     repo: 0
-    total: 64
+    total: 65
     watch_started: 44
   intra: tkobb
   login: thk2b
