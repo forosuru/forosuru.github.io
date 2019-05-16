@@ -857,10 +857,10 @@
     fork: 0
     public: 0
     repo: 1
-    total: 2
-    watch_started: 0
+    total: 4
+    watch_started: 2
   intra: yolabi
-  login: Sino-
+  login: Sino
   node_id: MDQ6VXNlcjg1NzE0MTA=
 8573367:
   avatar_url: https://avatars0.githubusercontent.com/u/8573367?v=4
@@ -1661,8 +1661,8 @@
     fork: 0
     public: 3
     repo: 1
-    total: 64
-    watch_started: 50
+    total: 65
+    watch_started: 51
   intra: syamada
   login: Yatty1
   node_id: MDQ6VXNlcjE1MTE4OTk5
@@ -3245,8 +3245,8 @@
     fork: 4
     public: 0
     repo: 4
-    total: 80
-    watch_started: 66
+    total: 81
+    watch_started: 67
   intra: cchao
   login: kizombaciao
   node_id: MDQ6VXNlcjI0Njg3MzU2
