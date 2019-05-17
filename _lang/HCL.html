@@ -1,0 +1,9 @@
+---
+layout: default
+language: HCL
+filename: HCL.html
+---
+{% assign events = site.events | where: "language","HCL" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

@@ -305,8 +305,8 @@
     fork: 1
     public: 1
     repo: 4
-    total: 7
-    watch_started: 0
+    total: 8
+    watch_started: 1
   intra: nmolina
   login: nilsonmolina
   node_id: MDQ6VXNlcjQxNDIyMzA=
@@ -853,11 +853,11 @@
 8571410:
   avatar_url: https://avatars3.githubusercontent.com/u/8571410?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 0
     repo: 1
-    total: 4
+    total: 5
     watch_started: 2
   intra: yolabi
   login: Sino
@@ -1241,8 +1241,8 @@
     fork: 20
     public: 2
     repo: 0
-    total: 89
-    watch_started: 65
+    total: 92
+    watch_started: 68
   intra: jaleman
   login: jraleman
   node_id: MDQ6VXNlcjExMjIyOTgw
@@ -1361,8 +1361,8 @@
     fork: 2
     public: 0
     repo: 5
-    total: 249
-    watch_started: 202
+    total: 253
+    watch_started: 206
   intra: mfernand
   login: MatiasFMolinari
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -2573,8 +2573,8 @@
     fork: 1
     public: 7
     repo: 0
-    total: 65
-    watch_started: 44
+    total: 66
+    watch_started: 45
   intra: tkobb
   login: thk2b
   node_id: MDQ6VXNlcjIxMDA5NTk0
@@ -2705,8 +2705,8 @@
     fork: 1
     public: 0
     repo: 1
-    total: 114
-    watch_started: 105
+    total: 115
+    watch_started: 106
   intra: gguiulfo
   login: giacomoguiulfo
   node_id: MDQ6VXNlcjIyMDkxNjAw
@@ -3245,8 +3245,8 @@
     fork: 4
     public: 0
     repo: 4
-    total: 89
-    watch_started: 74
+    total: 90
+    watch_started: 75
   intra: cchao
   login: kizombaciao
   node_id: MDQ6VXNlcjI0Njg3MzU2
@@ -5332,8 +5332,8 @@
     follow: 3
     fork: 0
     public: 1
-    repo: 1
-    total: 5
+    repo: 2
+    total: 6
     watch_started: 0
   intra: cschulle
   login: tasertasertaser
@@ -5380,8 +5380,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 6
-    total: 6
+    repo: 7
+    total: 7
     watch_started: 0
   intra: tdiaz
   login: tfdiaz
@@ -5476,8 +5476,8 @@
     follow: 0
     fork: 1
     public: 1
-    repo: 16
-    total: 18
+    repo: 17
+    total: 19
     watch_started: 0
   intra: hchung
   login: CodeChung
