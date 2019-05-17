@@ -485,8 +485,8 @@
     fork: 2
     public: 0
     repo: 0
-    total: 25
-    watch_started: 21
+    total: 26
+    watch_started: 22
   intra: azhuk
   login: ug02fast
   node_id: MDQ6VXNlcjU1MDc3MDc=
@@ -4141,11 +4141,11 @@
 30271496:
   avatar_url: https://avatars1.githubusercontent.com/u/30271496?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 0
     public: 9
     repo: 4
-    total: 18
+    total: 19
     watch_started: 0
   intra: apickett
   login: j-pickett
@@ -5977,11 +5977,11 @@
 46547632:
   avatar_url: https://avatars1.githubusercontent.com/u/46547632?v=4
   event_counts:
-    follow: 3
+    follow: 4
     fork: 0
     public: 4
     repo: 1
-    total: 8
+    total: 9
     watch_started: 0
   intra: jchiang-
   login: JCTGY
