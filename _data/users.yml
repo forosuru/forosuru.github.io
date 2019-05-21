@@ -734,10 +734,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/7871693?v=4
   event_counts:
     follow: 3
-    fork: 1
+    fork: 2
     public: 0
     repo: 9
-    total: 14
+    total: 15
     watch_started: 1
   intra: achavez
   login: anthony-chavez
@@ -1358,10 +1358,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/12145119?v=4
   event_counts:
     follow: 40
-    fork: 2
+    fork: 3
     public: 0
     repo: 5
-    total: 264
+    total: 265
     watch_started: 217
   intra: mfernand
   login: MatiasFMolinari
@@ -1817,8 +1817,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 56
-    watch_started: 54
+    total: 59
+    watch_started: 57
   intra: irhett
   login: izcet
   node_id: MDQ6VXNlcjE2NTY4OTU2
@@ -2031,9 +2031,9 @@
   event_counts:
     follow: 0
     fork: 0
-    public: 7
-    repo: 2
-    total: 12
+    public: 8
+    repo: 3
+    total: 14
     watch_started: 3
   intra: lhurt
   login: lhurt51
@@ -3376,8 +3376,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 1
-    total: 1
+    repo: 2
+    total: 2
     watch_started: 0
   intra: cwartell
   login: coconutCDXX
@@ -4780,8 +4780,8 @@
     follow: 0
     fork: 1
     public: 0
-    repo: 13
-    total: 14
+    repo: 14
+    total: 15
     watch_started: 0
   intra: agifford
   login: amandagifford33
