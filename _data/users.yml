@@ -904,8 +904,8 @@
     follow: 0
     fork: 0
     public: 1
-    repo: 8
-    total: 9
+    repo: 9
+    total: 10
     watch_started: 0
   intra: alkozma
   login: NotHawthorne
@@ -1936,8 +1936,8 @@
     follow: 4
     fork: 1
     public: 0
-    repo: 8
-    total: 18
+    repo: 9
+    total: 19
     watch_started: 5
   intra: ikozlov
   login: IvanKozlov95
@@ -5163,9 +5163,9 @@
   event_counts:
     follow: 0
     fork: 2
-    public: 1
+    public: 2
     repo: 12
-    total: 15
+    total: 16
     watch_started: 0
   intra: emamenko
   login: zhenya-mamenko
