@@ -1,0 +1,9 @@
+---
+layout: default
+language: Visual Basic
+filename: Visual_Basic.html
+---
+{% assign events = site.events | where: "language","Visual Basic" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
