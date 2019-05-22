@@ -808,8 +808,8 @@
     follow: 1
     fork: 0
     public: 0
-    repo: 0
-    total: 1
+    repo: 1
+    total: 2
     watch_started: 0
   intra: pmigeon
   login: Pierre-Migeon
@@ -1361,8 +1361,8 @@
     fork: 3
     public: 0
     repo: 5
-    total: 270
-    watch_started: 222
+    total: 271
+    watch_started: 223
   intra: mfernand
   login: MatiasFMolinari
   node_id: MDQ6VXNlcjEyMTQ1MTE5
