@@ -38,10 +38,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/978263?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 0
     repo: 0
-    total: 1
+    total: 2
     watch_started: 1
   intra: jkrause
   login: SuperSpyTX
@@ -4071,9 +4071,9 @@
   event_counts:
     follow: 1
     fork: 0
-    public: 0
+    public: 1
     repo: 0
-    total: 1
+    total: 2
     watch_started: 0
   intra: mlu
   login: Lunairi
@@ -4321,11 +4321,11 @@
 32149526:
   avatar_url: https://avatars0.githubusercontent.com/u/32149526?v=4
   event_counts:
-    follow: 22
+    follow: 23
     fork: 1
     public: 0
     repo: 19
-    total: 46
+    total: 47
     watch_started: 4
   intra: gfielder
   login: gavinfielder
@@ -5965,11 +5965,11 @@
 46500040:
   avatar_url: https://avatars2.githubusercontent.com/u/46500040?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 0
     public: 0
     repo: 10
-    total: 17
+    total: 18
     watch_started: 1
   intra: obuksha
   login: ksanabuka
