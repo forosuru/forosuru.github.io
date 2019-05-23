@@ -626,11 +626,11 @@
   avatar_url: https://avatars2.githubusercontent.com/u/6658153?v=4
   event_counts:
     follow: 2
-    fork: 0
+    fork: 1
     public: 2
     repo: 2
-    total: 8
-    watch_started: 2
+    total: 10
+    watch_started: 3
   intra: fbueno-m
   login: fredmurakawa
   node_id: MDQ6VXNlcjY2NTgxNTM=
@@ -1069,11 +1069,11 @@
 10343470:
   avatar_url: https://avatars0.githubusercontent.com/u/10343470?v=4
   event_counts:
-    follow: 4
+    follow: 5
     fork: 4
     public: 0
     repo: 3
-    total: 18
+    total: 19
     watch_started: 7
   intra: nocardoz
   login: NoahCardoza
