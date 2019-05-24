@@ -2569,11 +2569,11 @@
 21009594:
   avatar_url: https://avatars3.githubusercontent.com/u/21009594?v=4
   event_counts:
-    follow: 13
+    follow: 14
     fork: 1
     public: 8
     repo: 0
-    total: 69
+    total: 70
     watch_started: 47
   intra: tkobb
   login: thk2b
@@ -3241,11 +3241,11 @@
 24687356:
   avatar_url: https://avatars1.githubusercontent.com/u/24687356?v=4
   event_counts:
-    follow: 8
+    follow: 9
     fork: 4
     public: 0
     repo: 5
-    total: 94
+    total: 95
     watch_started: 77
   intra: cchao
   login: kizombaciao
@@ -5212,8 +5212,8 @@
     follow: 23
     fork: 6
     public: 1
-    repo: 23
-    total: 78
+    repo: 24
+    total: 79
     watch_started: 25
   intra: pdeguing
   login: pdeguing
@@ -5509,11 +5509,11 @@
 41839667:
   avatar_url: https://avatars2.githubusercontent.com/u/41839667?v=4
   event_counts:
-    follow: 18
+    follow: 19
     fork: 0
     public: 0
     repo: 8
-    total: 27
+    total: 28
     watch_started: 1
   intra: kmira
   login: MrColour
