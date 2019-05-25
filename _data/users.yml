@@ -233,8 +233,8 @@
     fork: 0
     public: 0
     repo: 3
-    total: 3
-    watch_started: 0
+    total: 4
+    watch_started: 1
   intra: edal-san
   login: EDalSanto
   node_id: MDQ6VXNlcjM1MjQ4NjM=
@@ -2053,11 +2053,11 @@
 18249395:
   avatar_url: https://avatars1.githubusercontent.com/u/18249395?v=4
   event_counts:
-    follow: 11
+    follow: 12
     fork: 24
     public: 4
     repo: 6
-    total: 56
+    total: 57
     watch_started: 11
   intra: hvillasa
   login: hectorsvill
@@ -5509,11 +5509,11 @@
 41839667:
   avatar_url: https://avatars2.githubusercontent.com/u/41839667?v=4
   event_counts:
-    follow: 19
+    follow: 20
     fork: 0
     public: 0
     repo: 8
-    total: 28
+    total: 29
     watch_started: 1
   intra: kmira
   login: MrColour
