@@ -3245,8 +3245,8 @@
     fork: 4
     public: 0
     repo: 5
-    total: 96
-    watch_started: 78
+    total: 97
+    watch_started: 79
   intra: cchao
   login: kizombaciao
   node_id: MDQ6VXNlcjI0Njg3MzU2
@@ -5845,11 +5845,11 @@
 45741029:
   avatar_url: https://avatars0.githubusercontent.com/u/45741029?v=4
   event_counts:
-    follow: 4
+    follow: 6
     fork: 0
     public: 0
     repo: 5
-    total: 9
+    total: 11
     watch_started: 0
   intra: eagulov
   login: eagulov
