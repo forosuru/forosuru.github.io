@@ -3805,11 +3805,11 @@
 28167905:
   avatar_url: https://avatars0.githubusercontent.com/u/28167905?v=4
   event_counts:
-    follow: 11
+    follow: 13
     fork: 0
     public: 1
     repo: 3
-    total: 18
+    total: 20
     watch_started: 3
   intra: amohamed
   login: abdulrahmannmohamed
@@ -3829,11 +3829,11 @@
 28375715:
   avatar_url: https://avatars3.githubusercontent.com/u/28375715?v=4
   event_counts:
-    follow: 11
+    follow: 12
     fork: 1
     public: 0
     repo: 9
-    total: 22
+    total: 23
     watch_started: 1
   intra: hirenpat
   login: hirenpateldotnex
