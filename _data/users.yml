@@ -38,10 +38,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/978263?v=4
   event_counts:
     follow: 0
-    fork: 1
+    fork: 2
     public: 0
     repo: 0
-    total: 2
+    total: 3
     watch_started: 1
   intra: jkrause
   login: SuperSpyTX
@@ -5969,8 +5969,8 @@
     fork: 0
     public: 0
     repo: 10
-    total: 18
-    watch_started: 1
+    total: 19
+    watch_started: 2
   intra: obuksha
   login: ksanabuka
   node_id: MDQ6VXNlcjQ2NTAwMDQw
