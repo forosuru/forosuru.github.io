@@ -3601,11 +3601,11 @@
 26353225:
   avatar_url: https://avatars1.githubusercontent.com/u/26353225?v=4
   event_counts:
-    follow: 20
+    follow: 21
     fork: 0
     public: 1
     repo: 0
-    total: 47
+    total: 48
     watch_started: 26
   intra: gmalpart
   login: regien
@@ -5044,8 +5044,8 @@
     follow: 1
     fork: 2
     public: 0
-    repo: 2
-    total: 5
+    repo: 3
+    total: 6
     watch_started: 0
   intra: minakim
   login: cookietho
