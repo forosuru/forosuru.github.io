@@ -3889,11 +3889,11 @@
 28543848:
   avatar_url: https://avatars1.githubusercontent.com/u/28543848?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 1
-    total: 6
+    total: 7
     watch_started: 5
   intra: jmeier
   login: fakejoshmeier
@@ -5175,9 +5175,9 @@
   event_counts:
     follow: 11
     fork: 0
-    public: 3
+    public: 5
     repo: 6
-    total: 21
+    total: 23
     watch_started: 1
   intra: jochang
   login: MagicHatJo
@@ -5786,10 +5786,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/45217215?v=4
   event_counts:
     follow: 1
-    fork: 7
+    fork: 8
     public: 0
     repo: 7
-    total: 15
+    total: 16
     watch_started: 0
   intra: llelias
   login: lukefreeman42
