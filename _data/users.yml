@@ -4325,8 +4325,8 @@
     fork: 1
     public: 0
     repo: 19
-    total: 47
-    watch_started: 4
+    total: 48
+    watch_started: 5
   intra: gfielder
   login: gavinfielder
   node_id: MDQ6VXNlcjMyMTQ5NTI2
@@ -5845,11 +5845,11 @@
 45741029:
   avatar_url: https://avatars0.githubusercontent.com/u/45741029?v=4
   event_counts:
-    follow: 6
+    follow: 8
     fork: 0
     public: 0
     repo: 5
-    total: 11
+    total: 13
     watch_started: 0
   intra: eagulov
   login: eagulov
