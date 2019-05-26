@@ -1,0 +1,9 @@
+---
+layout: default
+language: PowerShell
+filename: PowerShell.html
+---
+{% assign events = site.events | where: "language","PowerShell" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

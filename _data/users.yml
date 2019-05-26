@@ -530,10 +530,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/5866757?v=4
   event_counts:
     follow: 2
-    fork: 0
+    fork: 1
     public: 0
     repo: 3
-    total: 18
+    total: 19
     watch_started: 13
   intra: myoung
   login: qst0
