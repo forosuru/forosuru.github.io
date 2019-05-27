@@ -1621,11 +1621,11 @@
 14947372:
   avatar_url: https://avatars3.githubusercontent.com/u/14947372?v=4
   event_counts:
-    follow: 15
+    follow: 17
     fork: 1
     public: 1
     repo: 17
-    total: 45
+    total: 47
     watch_started: 11
   intra: jcrisp
   login: zill4
@@ -4021,11 +4021,11 @@
 29287060:
   avatar_url: https://avatars3.githubusercontent.com/u/29287060?v=4
   event_counts:
-    follow: 1
+    follow: 5
     fork: 0
     public: 0
-    repo: 6
-    total: 7
+    repo: 7
+    total: 12
     watch_started: 0
   intra: aderby
   login: derbya
@@ -4849,11 +4849,11 @@
 35618858:
   avatar_url: https://avatars2.githubusercontent.com/u/35618858?v=4
   event_counts:
-    follow: 2
+    follow: 6
     fork: 0
     public: 1
     repo: 7
-    total: 19
+    total: 23
     watch_started: 9
   intra: maparmar
   login: Manmeet2018
@@ -5812,8 +5812,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 5
-    total: 5
+    repo: 6
+    total: 6
     watch_started: 0
   intra: vlahorba
   login: VladyslavHorbachenko
