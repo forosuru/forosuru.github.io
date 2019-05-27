@@ -3831,9 +3831,9 @@
   event_counts:
     follow: 12
     fork: 1
-    public: 0
-    repo: 9
-    total: 23
+    public: 1
+    repo: 10
+    total: 25
     watch_started: 1
   intra: hirenpat
   login: hirenpateldotnex
@@ -5571,9 +5571,9 @@
   event_counts:
     follow: 8
     fork: 2
-    public: 4
+    public: 5
     repo: 1
-    total: 15
+    total: 16
     watch_started: 0
   intra: ale-goff
   login: Alexx42
