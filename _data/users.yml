@@ -613,11 +613,11 @@
 6653080:
   avatar_url: https://avatars2.githubusercontent.com/u/6653080?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 2
     public: 1
     repo: 7
-    total: 25
+    total: 26
     watch_started: 9
   intra: jcope
   login: Jemmeh
@@ -3483,9 +3483,9 @@
   event_counts:
     follow: 11
     fork: 2
-    public: 7
+    public: 8
     repo: 4
-    total: 27
+    total: 28
     watch_started: 3
   intra: jkaplin
   login: jkaplin
@@ -3989,8 +3989,8 @@
     fork: 2
     public: 1
     repo: 4
-    total: 15
-    watch_started: 6
+    total: 16
+    watch_started: 7
   intra: arherrer
   login: geostran
   node_id: MDQ6VXNlcjI5MTY1MTA5
@@ -4322,10 +4322,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/32149526?v=4
   event_counts:
     follow: 23
-    fork: 1
+    fork: 2
     public: 0
     repo: 19
-    total: 48
+    total: 49
     watch_started: 5
   intra: gfielder
   login: gavinfielder
@@ -5665,12 +5665,12 @@
 43657972:
   avatar_url: https://avatars0.githubusercontent.com/u/43657972?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
-    repo: 8
-    total: 8
-    watch_started: 0
+    repo: 9
+    total: 11
+    watch_started: 1
   intra: knaumov
   login: KirillVNaumov
   node_id: MDQ6VXNlcjQzNjU3OTcy
