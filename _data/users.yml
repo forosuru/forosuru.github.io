@@ -2573,8 +2573,8 @@
     fork: 1
     public: 9
     repo: 0
-    total: 74
-    watch_started: 49
+    total: 75
+    watch_started: 50
   intra: tkobb
   login: thk2b
   node_id: MDQ6VXNlcjIxMDA5NTk0
@@ -3989,8 +3989,8 @@
     fork: 2
     public: 1
     repo: 4
-    total: 14
-    watch_started: 5
+    total: 15
+    watch_started: 6
   intra: arherrer
   login: geostran
   node_id: MDQ6VXNlcjI5MTY1MTA5
@@ -5329,11 +5329,11 @@
 40524078:
   avatar_url: https://avatars2.githubusercontent.com/u/40524078?v=4
   event_counts:
-    follow: 3
+    follow: 4
     fork: 0
     public: 1
     repo: 2
-    total: 6
+    total: 7
     watch_started: 0
   intra: cschulle
   login: tasertasertaser
