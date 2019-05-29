@@ -446,10 +446,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/5116338?v=4
   event_counts:
     follow: 0
-    fork: 1
+    fork: 2
     public: 0
     repo: 4
-    total: 6
+    total: 7
     watch_started: 1
   intra: thendric
   login: hat
@@ -1753,11 +1753,11 @@
 16214757:
   avatar_url: https://avatars1.githubusercontent.com/u/16214757?v=4
   event_counts:
-    follow: 6
+    follow: 8
     fork: 0
     public: 0
-    repo: 5
-    total: 15
+    repo: 6
+    total: 18
     watch_started: 4
   intra: jbeall
   login: jacksonwb
@@ -3605,8 +3605,8 @@
     fork: 0
     public: 1
     repo: 0
-    total: 52
-    watch_started: 28
+    total: 53
+    watch_started: 29
   intra: gmalpart
   login: regien
   node_id: MDQ6VXNlcjI2MzUzMjI1
@@ -5404,8 +5404,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 2
-    total: 2
+    repo: 3
+    total: 3
     watch_started: 0
   intra: albarret
   login: alanbarrett2
