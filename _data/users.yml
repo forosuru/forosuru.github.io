@@ -3988,8 +3988,8 @@
     follow: 2
     fork: 2
     public: 1
-    repo: 4
-    total: 16
+    repo: 5
+    total: 17
     watch_started: 7
   intra: arherrer
   login: geostran
@@ -4849,11 +4849,11 @@
 35618858:
   avatar_url: https://avatars2.githubusercontent.com/u/35618858?v=4
   event_counts:
-    follow: 7
+    follow: 8
     fork: 0
     public: 1
     repo: 7
-    total: 24
+    total: 25
     watch_started: 9
   intra: maparmar
   login: Manmeet2018
@@ -5920,8 +5920,8 @@
     follow: 17
     fork: 0
     public: 0
-    repo: 3
-    total: 22
+    repo: 4
+    total: 23
     watch_started: 2
   intra: marrodri
   login: marrodri
