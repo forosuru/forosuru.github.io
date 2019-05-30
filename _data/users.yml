@@ -4214,11 +4214,11 @@
   avatar_url: https://avatars1.githubusercontent.com/u/30805959?v=4
   event_counts:
     follow: 7
-    fork: 10
+    fork: 11
     public: 1
     repo: 6
-    total: 24
-    watch_started: 0
+    total: 26
+    watch_started: 1
   intra: shagazi
   login: shagazi
   node_id: MDQ6VXNlcjMwODA1OTU5
@@ -5812,8 +5812,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 6
-    total: 6
+    repo: 7
+    total: 7
     watch_started: 0
   intra: vlahorba
   login: VladyslavHorbachenko
