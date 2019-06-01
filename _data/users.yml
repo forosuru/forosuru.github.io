@@ -3245,8 +3245,8 @@
     fork: 4
     public: 0
     repo: 5
-    total: 104
-    watch_started: 86
+    total: 106
+    watch_started: 88
   intra: cchao
   login: kizombaciao
   node_id: MDQ6VXNlcjI0Njg3MzU2
@@ -3988,8 +3988,8 @@
     follow: 6
     fork: 3
     public: 1
-    repo: 8
-    total: 27
+    repo: 9
+    total: 28
     watch_started: 9
   intra: arherrer
   login: geostran
@@ -5197,11 +5197,11 @@
 39015941:
   avatar_url: https://avatars3.githubusercontent.com/u/39015941?v=4
   event_counts:
-    follow: 31
+    follow: 32
     fork: 0
     public: 0
     repo: 1
-    total: 32
+    total: 33
     watch_started: 0
   intra: debaxter
   login: drb3000
@@ -5416,8 +5416,8 @@
     follow: 1
     fork: 0
     public: 0
-    repo: 3
-    total: 4
+    repo: 4
+    total: 5
     watch_started: 0
   intra: vkostenk
   login: vkostenk
@@ -6004,8 +6004,8 @@
     follow: 5
     fork: 1
     public: 0
-    repo: 9
-    total: 15
+    repo: 10
+    total: 16
     watch_started: 0
   intra: mchi
   login: 2ne1ugly
