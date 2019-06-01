@@ -616,8 +616,8 @@
     follow: 8
     fork: 2
     public: 1
-    repo: 7
-    total: 28
+    repo: 8
+    total: 29
     watch_started: 10
   intra: jcope
   login: Jemmeh
@@ -4945,11 +4945,11 @@
 36604610:
   avatar_url: https://avatars1.githubusercontent.com/u/36604610?v=4
   event_counts:
-    follow: 10
+    follow: 11
     fork: 0
     public: 0
     repo: 3
-    total: 14
+    total: 15
     watch_started: 1
   intra: cdimitro
   login: coolguycam
@@ -5041,11 +5041,11 @@
 37281879:
   avatar_url: https://avatars2.githubusercontent.com/u/37281879?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 2
     public: 0
     repo: 3
-    total: 6
+    total: 7
     watch_started: 0
   intra: minakim
   login: cookietho
@@ -5680,8 +5680,8 @@
     follow: 0
     fork: 1
     public: 2
-    repo: 2
-    total: 6
+    repo: 3
+    total: 7
     watch_started: 1
   intra: jamwang
   login: jameswangdr
