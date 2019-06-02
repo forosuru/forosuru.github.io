@@ -3916,8 +3916,8 @@
     follow: 4
     fork: 1
     public: 0
-    repo: 10
-    total: 15
+    repo: 11
+    total: 16
     watch_started: 0
   intra: calamber
   login: mueslimak3r
@@ -4695,9 +4695,9 @@
   event_counts:
     follow: 16
     fork: 1
-    public: 10
+    public: 12
     repo: 4
-    total: 32
+    total: 34
     watch_started: 1
   intra: acarlson
   login: acarlson99
