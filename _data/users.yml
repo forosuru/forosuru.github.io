@@ -832,8 +832,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 0
-    total: 0
+    repo: 1
+    total: 1
     watch_started: 0
   intra: hkalia
   login: hkalia
@@ -2293,11 +2293,11 @@
 20023687:
   avatar_url: https://avatars1.githubusercontent.com/u/20023687?v=4
   event_counts:
-    follow: 45
+    follow: 46
     fork: 1
     public: 0
     repo: 8
-    total: 60
+    total: 61
     watch_started: 6
   intra: aabdrakh
   login: hhaakkimm
@@ -5788,8 +5788,8 @@
     follow: 1
     fork: 8
     public: 0
-    repo: 7
-    total: 16
+    repo: 8
+    total: 17
     watch_started: 0
   intra: llelias
   login: lukefreeman42
