@@ -340,8 +340,8 @@
     follow: 0
     fork: 1
     public: 1
-    repo: 0
-    total: 2
+    repo: 1
+    total: 3
     watch_started: 0
   intra: avongdar
   login: vongdarakia
@@ -3988,8 +3988,8 @@
     follow: 6
     fork: 3
     public: 1
-    repo: 11
-    total: 30
+    repo: 12
+    total: 31
     watch_started: 9
   intra: arherrer
   login: geostran
