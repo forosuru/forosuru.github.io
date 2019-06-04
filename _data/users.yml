@@ -39,9 +39,9 @@
   event_counts:
     follow: 0
     fork: 2
-    public: 0
-    repo: 0
-    total: 3
+    public: 2
+    repo: 1
+    total: 6
     watch_started: 1
   intra: jkrause
   login: SuperSpyTX
@@ -1361,8 +1361,8 @@
     fork: 3
     public: 0
     repo: 5
-    total: 314
-    watch_started: 261
+    total: 315
+    watch_started: 262
   intra: mfernand
   login: MatiasFMolinari
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -4443,9 +4443,9 @@
   event_counts:
     follow: 25
     fork: 2
-    public: 1
+    public: 4
     repo: 6
-    total: 34
+    total: 37
     watch_started: 0
   intra: ynenakho
   login: ynenakho
