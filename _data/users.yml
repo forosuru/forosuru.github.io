@@ -3291,9 +3291,9 @@
   event_counts:
     follow: 0
     fork: 0
-    public: 2
+    public: 3
     repo: 0
-    total: 2
+    total: 3
     watch_started: 0
   intra: gsolis
   login: corezip
