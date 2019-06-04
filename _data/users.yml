@@ -1237,12 +1237,12 @@
 11222980:
   avatar_url: https://avatars3.githubusercontent.com/u/11222980?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 21
     public: 2
     repo: 1
-    total: 96
-    watch_started: 70
+    total: 98
+    watch_started: 71
   intra: jaleman
   login: jraleman
   node_id: MDQ6VXNlcjExMjIyOTgw
