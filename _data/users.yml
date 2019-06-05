@@ -1779,9 +1779,9 @@
   event_counts:
     follow: 4
     fork: 1
-    public: 0
+    public: 1
     repo: 10
-    total: 20
+    total: 21
     watch_started: 5
   intra: zfaria
   login: ZacheryFaria
@@ -2054,10 +2054,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/18249395?v=4
   event_counts:
     follow: 12
-    fork: 28
+    fork: 29
     public: 4
     repo: 6
-    total: 61
+    total: 62
     watch_started: 11
   intra: hvillasa
   login: hectorsvill
@@ -2140,8 +2140,8 @@
     follow: 10
     fork: 1
     public: 1
-    repo: 13
-    total: 26
+    repo: 14
+    total: 27
     watch_started: 1
   intra: awindham
   login: arwn
@@ -2245,11 +2245,11 @@
 19478839:
   avatar_url: https://avatars0.githubusercontent.com/u/19478839?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 0
     public: 0
     repo: 0
-    total: 7
+    total: 8
     watch_started: 5
   intra: kdrumm
   login: kaidrumm
@@ -4324,8 +4324,8 @@
     follow: 25
     fork: 3
     public: 0
-    repo: 20
-    total: 53
+    repo: 21
+    total: 54
     watch_started: 5
   intra: gfielder
   login: gavinfielder
@@ -5305,11 +5305,11 @@
 40344495:
   avatar_url: https://avatars1.githubusercontent.com/u/40344495?v=4
   event_counts:
-    follow: 3
+    follow: 4
     fork: 0
     public: 2
     repo: 7
-    total: 12
+    total: 13
     watch_started: 0
   intra: brfeltz
   login: elloimbrandon
