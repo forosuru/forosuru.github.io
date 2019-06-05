@@ -1361,8 +1361,8 @@
     fork: 3
     public: 0
     repo: 5
-    total: 315
-    watch_started: 262
+    total: 316
+    watch_started: 263
   intra: mfernand
   login: MatiasFMolinari
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -1393,11 +1393,11 @@
 12647839:
   avatar_url: https://avatars0.githubusercontent.com/u/12647839?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 0
-    total: 0
+    total: 1
     watch_started: 0
   intra: aganesh
   login: ashwin-ganesh23
@@ -4321,11 +4321,11 @@
 32149526:
   avatar_url: https://avatars0.githubusercontent.com/u/32149526?v=4
   event_counts:
-    follow: 24
+    follow: 25
     fork: 3
     public: 0
     repo: 20
-    total: 52
+    total: 53
     watch_started: 5
   intra: gfielder
   login: gavinfielder
