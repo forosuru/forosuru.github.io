@@ -5416,8 +5416,8 @@
     follow: 1
     fork: 0
     public: 0
-    repo: 4
-    total: 5
+    repo: 5
+    total: 6
     watch_started: 0
   intra: vkostenk
   login: vkostenk
@@ -5509,11 +5509,11 @@
 41839667:
   avatar_url: https://avatars2.githubusercontent.com/u/41839667?v=4
   event_counts:
-    follow: 20
+    follow: 21
     fork: 0
     public: 0
     repo: 10
-    total: 31
+    total: 32
     watch_started: 1
   intra: kmira
   login: MrColour
