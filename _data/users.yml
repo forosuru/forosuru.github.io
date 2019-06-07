@@ -1585,11 +1585,11 @@
 14248245:
   avatar_url: https://avatars2.githubusercontent.com/u/14248245?v=4
   event_counts:
-    follow: 4
+    follow: 5
     fork: 4
     public: 0
     repo: 5
-    total: 25
+    total: 26
     watch_started: 12
   intra: yijhuang
   login: hyj1204
@@ -2749,11 +2749,11 @@
 22286783:
   avatar_url: https://avatars3.githubusercontent.com/u/22286783?v=4
   event_counts:
-    follow: 7
+    follow: 8
     fork: 1
     public: 1
     repo: 10
-    total: 19
+    total: 20
     watch_started: 0
   intra: bcastro
   login: brayanmcz
@@ -3988,8 +3988,8 @@
     follow: 6
     fork: 3
     public: 1
-    repo: 17
-    total: 36
+    repo: 18
+    total: 37
     watch_started: 9
   intra: arherrer
   login: geostran
@@ -4588,8 +4588,8 @@
     follow: 1
     fork: 1
     public: 0
-    repo: 17
-    total: 19
+    repo: 18
+    total: 20
     watch_started: 0
   intra: atemunov
   login: temun17
@@ -5800,8 +5800,8 @@
     follow: 5
     fork: 0
     public: 0
-    repo: 2
-    total: 7
+    repo: 3
+    total: 8
     watch_started: 0
   intra: mschroed
   login: CptBang
