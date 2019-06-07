@@ -533,8 +533,8 @@
     fork: 1
     public: 0
     repo: 4
-    total: 21
-    watch_started: 14
+    total: 22
+    watch_started: 15
   intra: myoung
   login: qst0
   node_id: MDQ6VXNlcjU4NjY3NTc=
@@ -5966,10 +5966,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/46500040?v=4
   event_counts:
     follow: 12
-    fork: 0
+    fork: 1
     public: 0
     repo: 11
-    total: 28
+    total: 29
     watch_started: 5
   intra: obuksha
   login: ksanabuka
