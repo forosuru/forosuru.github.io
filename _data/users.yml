@@ -221,8 +221,8 @@
     fork: 3
     public: 0
     repo: 8
-    total: 184
-    watch_started: 158
+    total: 187
+    watch_started: 161
   intra: mbrave
   login: michaelbrave
   node_id: MDQ6VXNlcjMxODE4NzA=
@@ -2521,11 +2521,11 @@
 20910111:
   avatar_url: https://avatars3.githubusercontent.com/u/20910111?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 0
     repo: 0
-    total: 1
+    total: 2
     watch_started: 0
   intra: apineda
   login: humbamp123
