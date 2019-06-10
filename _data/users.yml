@@ -1661,8 +1661,8 @@
     fork: 0
     public: 3
     repo: 1
-    total: 65
-    watch_started: 51
+    total: 66
+    watch_started: 52
   intra: syamada
   login: Yatty1
   node_id: MDQ6VXNlcjE1MTE4OTk5
@@ -3987,9 +3987,9 @@
   event_counts:
     follow: 6
     fork: 4
-    public: 1
+    public: 3
     repo: 18
-    total: 38
+    total: 40
     watch_started: 9
   intra: arherrer
   login: geostran
@@ -5029,11 +5029,11 @@
 37248747:
   avatar_url: https://avatars3.githubusercontent.com/u/37248747?v=4
   event_counts:
-    follow: 12
+    follow: 13
     fork: 0
     public: 7
     repo: 0
-    total: 42
+    total: 43
     watch_started: 23
   intra: mjacques
   login: maxencejded
