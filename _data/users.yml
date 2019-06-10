@@ -650,10 +650,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/6834761?v=4
   event_counts:
     follow: 11
-    fork: 2
+    fork: 3
     public: 0
     repo: 18
-    total: 48
+    total: 49
     watch_started: 17
   intra: qpeng
   login: sayakura
@@ -1861,12 +1861,12 @@
 16840579:
   avatar_url: https://avatars2.githubusercontent.com/u/16840579?v=4
   event_counts:
-    follow: 18
+    follow: 20
     fork: 0
     public: 0
     repo: 21
-    total: 41
-    watch_started: 2
+    total: 44
+    watch_started: 3
   intra: jadawson
   login: JamieDawson
   node_id: MDQ6VXNlcjE2ODQwNTc5
