@@ -1,0 +1,9 @@
+---
+layout: default
+language: XSLT
+filename: XSLT.html
+---
+{% assign events = site.events | where: "language","XSLT" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
