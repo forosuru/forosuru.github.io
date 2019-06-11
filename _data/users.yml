@@ -2054,10 +2054,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/18249395?v=4
   event_counts:
     follow: 12
-    fork: 32
+    fork: 33
     public: 4
     repo: 6
-    total: 65
+    total: 66
     watch_started: 11
   intra: hvillasa
   login: hectorsvill
@@ -3493,11 +3493,11 @@
 25859894:
   avatar_url: https://avatars2.githubusercontent.com/u/25859894?v=4
   event_counts:
-    follow: 10
+    follow: 11
     fork: 0
     public: 0
     repo: 8
-    total: 24
+    total: 25
     watch_started: 6
   intra: juochen
   login: pootitan
