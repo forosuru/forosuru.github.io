@@ -2129,8 +2129,8 @@
     fork: 1
     public: 0
     repo: 5
-    total: 29
-    watch_started: 11
+    total: 30
+    watch_started: 12
   intra: nobrien
   login: nickisobrien
   node_id: MDQ6VXNlcjE4NjA4OTc5
@@ -3257,8 +3257,8 @@
     fork: 0
     public: 1
     repo: 4
-    total: 15
-    watch_started: 6
+    total: 16
+    watch_started: 7
   intra: wlin
   login: autopylot
   node_id: MDQ6VXNlcjI0ODg1MDE1
@@ -3723,9 +3723,9 @@
   event_counts:
     follow: 0
     fork: 0
-    public: 0
+    public: 1
     repo: 3
-    total: 3
+    total: 4
     watch_started: 0
   intra: fwutschk
   login: wutschkef42
