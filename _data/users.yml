@@ -1238,10 +1238,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/11222980?v=4
   event_counts:
     follow: 3
-    fork: 22
+    fork: 23
     public: 3
     repo: 1
-    total: 101
+    total: 102
     watch_started: 72
   intra: jaleman
   login: jraleman
@@ -1864,8 +1864,8 @@
     follow: 20
     fork: 0
     public: 0
-    repo: 21
-    total: 44
+    repo: 23
+    total: 46
     watch_started: 3
   intra: jadawson
   login: JamieDawson
@@ -2449,11 +2449,11 @@
 20745447:
   avatar_url: https://avatars3.githubusercontent.com/u/20745447?v=4
   event_counts:
-    follow: 11
+    follow: 12
     fork: 1
     public: 0
     repo: 5
-    total: 17
+    total: 18
     watch_started: 0
   intra: dstolz
   login: donald-stolz
@@ -3184,8 +3184,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 4
-    total: 5
+    repo: 5
+    total: 6
     watch_started: 1
   intra: kmurray
   login: indy728
@@ -3617,8 +3617,8 @@
     fork: 1
     public: 0
     repo: 3
-    total: 25
-    watch_started: 21
+    total: 26
+    watch_started: 22
   intra: dfan
   login: dayfine
   node_id: MDQ6VXNlcjI2NDIzNTA0
@@ -5609,8 +5609,8 @@
     fork: 0
     public: 1
     repo: 0
-    total: 4
-    watch_started: 1
+    total: 5
+    watch_started: 2
   intra: tholzheu
   login: ThomasH88
   node_id: MDQ6VXNlcjQzMzUyNTQy
@@ -5857,11 +5857,11 @@
 45823872:
   avatar_url: https://avatars3.githubusercontent.com/u/45823872?v=4
   event_counts:
-    follow: 8
+    follow: 9
     fork: 1
     public: 0
     repo: 8
-    total: 17
+    total: 18
     watch_started: 0
   intra: tcherret
   login: tcheee
