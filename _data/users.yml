@@ -2725,12 +2725,12 @@
 22158877:
   avatar_url: https://avatars1.githubusercontent.com/u/22158877?v=4
   event_counts:
-    follow: 8
+    follow: 9
     fork: 1
     public: 2
     repo: 1
-    total: 24
-    watch_started: 12
+    total: 29
+    watch_started: 16
   intra: rzarate
   login: RafaelZarate
   node_id: MDQ6VXNlcjIyMTU4ODc3
