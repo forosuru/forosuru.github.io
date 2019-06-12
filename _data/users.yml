@@ -3601,11 +3601,11 @@
 26353225:
   avatar_url: https://avatars1.githubusercontent.com/u/26353225?v=4
   event_counts:
-    follow: 23
+    follow: 24
     fork: 0
     public: 1
     repo: 0
-    total: 53
+    total: 54
     watch_started: 29
   intra: gmalpart
   login: regien
@@ -4048,8 +4048,8 @@
     follow: 4
     fork: 1
     public: 0
-    repo: 2
-    total: 9
+    repo: 3
+    total: 10
     watch_started: 2
   intra: rsathiad
   login: Traezar
@@ -4741,11 +4741,11 @@
 34832274:
   avatar_url: https://avatars3.githubusercontent.com/u/34832274?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 4
     public: 2
     repo: 5
-    total: 23
+    total: 24
     watch_started: 6
   intra: fhong
   login: hongfu12321
