@@ -1957,11 +1957,11 @@
 17593070:
   avatar_url: https://avatars0.githubusercontent.com/u/17593070?v=4
   event_counts:
-    follow: 19
+    follow: 20
     fork: 0
     public: 0
     repo: 4
-    total: 27
+    total: 28
     watch_started: 4
   intra: asansyzb
   login: asansyzb
@@ -2054,10 +2054,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/18249395?v=4
   event_counts:
     follow: 12
-    fork: 33
+    fork: 34
     public: 4
     repo: 6
-    total: 66
+    total: 67
     watch_started: 11
   intra: hvillasa
   login: hectorsvill
