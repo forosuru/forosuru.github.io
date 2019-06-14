@@ -1361,8 +1361,8 @@
     fork: 3
     public: 0
     repo: 5
-    total: 328
-    watch_started: 271
+    total: 329
+    watch_started: 272
   intra: mfernand
   login: MatiasFMolinari
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -5509,11 +5509,11 @@
 41839667:
   avatar_url: https://avatars2.githubusercontent.com/u/41839667?v=4
   event_counts:
-    follow: 22
+    follow: 24
     fork: 0
     public: 0
     repo: 10
-    total: 33
+    total: 35
     watch_started: 1
   intra: kmira
   login: MrColour
