@@ -221,8 +221,8 @@
     fork: 3
     public: 0
     repo: 8
-    total: 201
-    watch_started: 173
+    total: 202
+    watch_started: 174
   intra: mbrave
   login: michaelbrave
   node_id: MDQ6VXNlcjMxODE4NzA=
@@ -1885,11 +1885,11 @@
 16868451:
   avatar_url: https://avatars3.githubusercontent.com/u/16868451?v=4
   event_counts:
-    follow: 4
+    follow: 5
     fork: 1
     public: 0
     repo: 1
-    total: 6
+    total: 7
     watch_started: 0
   intra: saolivei
   login: SLO42
@@ -2270,10 +2270,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/19755860?v=4
   event_counts:
     follow: 4
-    fork: 2
+    fork: 3
     public: 3
     repo: 9
-    total: 21
+    total: 22
     watch_started: 3
   intra: lhernand
   login: amnotme
@@ -3245,8 +3245,8 @@
     fork: 4
     public: 0
     repo: 5
-    total: 115
-    watch_started: 97
+    total: 117
+    watch_started: 99
   intra: cchao
   login: kizombaciao
   node_id: MDQ6VXNlcjI0Njg3MzU2
@@ -5549,8 +5549,8 @@
     fork: 3
     public: 0
     repo: 16
-    total: 23
-    watch_started: 1
+    total: 24
+    watch_started: 2
   intra: mtaylor
   login: motaylormo
   node_id: MDQ6VXNlcjQyMjU0NTU3
@@ -5797,11 +5797,11 @@
 45247529:
   avatar_url: https://avatars0.githubusercontent.com/u/45247529?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 0
     public: 0
     repo: 3
-    total: 10
+    total: 11
     watch_started: 1
   intra: mschroed
   login: CptBang
