@@ -2033,8 +2033,8 @@
     fork: 0
     public: 8
     repo: 5
-    total: 18
-    watch_started: 5
+    total: 19
+    watch_started: 6
   intra: lhurt
   login: lhurt51
   node_id: MDQ6VXNlcjE4MTMwNDI4
@@ -3244,8 +3244,8 @@
     follow: 9
     fork: 4
     public: 0
-    repo: 5
-    total: 117
+    repo: 6
+    total: 118
     watch_started: 99
   intra: cchao
   login: kizombaciao
@@ -3617,8 +3617,8 @@
     fork: 1
     public: 0
     repo: 3
-    total: 26
-    watch_started: 22
+    total: 27
+    watch_started: 23
   intra: dfan
   login: dayfine
   node_id: MDQ6VXNlcjI2NDIzNTA0
@@ -4323,9 +4323,9 @@
   event_counts:
     follow: 25
     fork: 3
-    public: 0
+    public: 1
     repo: 21
-    total: 54
+    total: 55
     watch_started: 5
   intra: gfielder
   login: gavinfielder
@@ -4741,11 +4741,11 @@
 34832274:
   avatar_url: https://avatars3.githubusercontent.com/u/34832274?v=4
   event_counts:
-    follow: 7
+    follow: 8
     fork: 4
     public: 2
     repo: 5
-    total: 24
+    total: 25
     watch_started: 6
   intra: fhong
   login: hongfu12321
@@ -5331,9 +5331,9 @@
   event_counts:
     follow: 5
     fork: 0
-    public: 1
+    public: 2
     repo: 2
-    total: 8
+    total: 9
     watch_started: 0
   intra: cschulle
   login: tasertasertaser
