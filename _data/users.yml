@@ -3497,8 +3497,8 @@
     fork: 0
     public: 0
     repo: 8
-    total: 28
-    watch_started: 7
+    total: 29
+    watch_started: 8
   intra: juochen
   login: pootitan
   node_id: MDQ6VXNlcjI1ODU5ODk0
@@ -5497,12 +5497,12 @@
 41812945:
   avatar_url: https://avatars0.githubusercontent.com/u/41812945?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 0
     public: 2
     repo: 1
-    total: 6
-    watch_started: 1
+    total: 8
+    watch_started: 2
   intra: gcaixeta
   login: guilhemarcf
   node_id: MDQ6VXNlcjQxODEyOTQ1
@@ -5607,9 +5607,9 @@
   event_counts:
     follow: 2
     fork: 0
-    public: 1
+    public: 2
     repo: 0
-    total: 5
+    total: 6
     watch_started: 2
   intra: tholzheu
   login: ThomasH88
