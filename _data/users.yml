@@ -1263,9 +1263,9 @@
   event_counts:
     follow: 1
     fork: 1
-    public: 0
+    public: 1
     repo: 4
-    total: 7
+    total: 8
     watch_started: 1
   intra: brabo-hi
   login: brabo-hi
@@ -1861,11 +1861,11 @@
 16840579:
   avatar_url: https://avatars2.githubusercontent.com/u/16840579?v=4
   event_counts:
-    follow: 20
+    follow: 21
     fork: 0
     public: 0
     repo: 23
-    total: 46
+    total: 47
     watch_started: 3
   intra: jadawson
   login: JamieDawson
@@ -4322,10 +4322,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/32149526?v=4
   event_counts:
     follow: 25
-    fork: 3
+    fork: 4
     public: 1
     repo: 21
-    total: 55
+    total: 56
     watch_started: 5
   intra: gfielder
   login: gavinfielder
