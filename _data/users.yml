@@ -652,8 +652,8 @@
     follow: 11
     fork: 4
     public: 0
-    repo: 18
-    total: 50
+    repo: 19
+    total: 51
     watch_started: 17
   intra: qpeng
   login: sayakura
@@ -3601,11 +3601,11 @@
 26353225:
   avatar_url: https://avatars1.githubusercontent.com/u/26353225?v=4
   event_counts:
-    follow: 24
+    follow: 25
     fork: 0
     public: 1
     repo: 0
-    total: 54
+    total: 55
     watch_started: 29
   intra: gmalpart
   login: regien
@@ -5605,11 +5605,11 @@
 43352542:
   avatar_url: https://avatars2.githubusercontent.com/u/43352542?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 0
     public: 3
     repo: 0
-    total: 7
+    total: 8
     watch_started: 2
   intra: tholzheu
   login: ThomasH88
