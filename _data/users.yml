@@ -3916,8 +3916,8 @@
     follow: 4
     fork: 1
     public: 0
-    repo: 11
-    total: 16
+    repo: 12
+    total: 17
     watch_started: 0
   intra: calamber
   login: mueslimak3r
@@ -5329,11 +5329,11 @@
 40524078:
   avatar_url: https://avatars2.githubusercontent.com/u/40524078?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 0
     public: 2
     repo: 2
-    total: 10
+    total: 11
     watch_started: 0
   intra: cschulle
   login: tasertasertaser
