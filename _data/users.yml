@@ -374,11 +374,11 @@
   avatar_url: https://avatars3.githubusercontent.com/u/4603587?v=4
   event_counts:
     follow: 0
-    fork: 1
+    fork: 2
     public: 0
     repo: 0
-    total: 3
-    watch_started: 2
+    total: 5
+    watch_started: 3
   intra: rtorres-
   login: idevHive
   node_id: MDQ6VXNlcjQ2MDM1ODc=
@@ -3829,11 +3829,11 @@
 28375715:
   avatar_url: https://avatars3.githubusercontent.com/u/28375715?v=4
   event_counts:
-    follow: 12
+    follow: 15
     fork: 1
     public: 1
     repo: 10
-    total: 25
+    total: 28
     watch_started: 1
   intra: hirenpat
   login: hirenpateldotnex
