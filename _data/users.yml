@@ -5031,9 +5031,9 @@
   event_counts:
     follow: 13
     fork: 1
-    public: 7
+    public: 8
     repo: 0
-    total: 45
+    total: 46
     watch_started: 24
   intra: mjacques
   login: maxencejded
@@ -5607,9 +5607,9 @@
   event_counts:
     follow: 2
     fork: 0
-    public: 2
+    public: 3
     repo: 0
-    total: 6
+    total: 7
     watch_started: 2
   intra: tholzheu
   login: ThomasH88
