@@ -39,9 +39,9 @@
   event_counts:
     follow: 1
     fork: 2
-    public: 4
+    public: 5
     repo: 1
-    total: 9
+    total: 10
     watch_started: 1
   intra: jkrause
   login: SuperSpyTX
@@ -373,11 +373,11 @@
 4603587:
   avatar_url: https://avatars3.githubusercontent.com/u/4603587?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 2
     public: 0
     repo: 0
-    total: 5
+    total: 6
     watch_started: 3
   intra: rtorres-
   login: idevHive
@@ -1337,8 +1337,8 @@
     fork: 5
     public: 0
     repo: 15
-    total: 34
-    watch_started: 8
+    total: 35
+    watch_started: 9
   intra: chsu
   login: enhsu
   node_id: MDQ6VXNlcjEyMDQ1MTU0
@@ -1864,8 +1864,8 @@
     follow: 21
     fork: 0
     public: 0
-    repo: 23
-    total: 47
+    repo: 24
+    total: 48
     watch_started: 3
   intra: jadawson
   login: JamieDawson
@@ -3244,8 +3244,8 @@
     follow: 9
     fork: 4
     public: 0
-    repo: 6
-    total: 122
+    repo: 7
+    total: 123
     watch_started: 103
   intra: cchao
   login: kizombaciao
@@ -4321,11 +4321,11 @@
 32149526:
   avatar_url: https://avatars0.githubusercontent.com/u/32149526?v=4
   event_counts:
-    follow: 25
+    follow: 26
     fork: 4
     public: 1
     repo: 21
-    total: 56
+    total: 57
     watch_started: 5
   intra: gfielder
   login: gavinfielder
@@ -5296,8 +5296,8 @@
     follow: 1
     fork: 0
     public: 0
-    repo: 6
-    total: 8
+    repo: 7
+    total: 9
     watch_started: 1
   intra: smonroe
   login: smonroe4242
@@ -5569,11 +5569,11 @@
 42305636:
   avatar_url: https://avatars1.githubusercontent.com/u/42305636?v=4
   event_counts:
-    follow: 9
+    follow: 10
     fork: 3
     public: 6
     repo: 4
-    total: 25
+    total: 26
     watch_started: 3
   intra: ale-goff
   login: Alexx42
