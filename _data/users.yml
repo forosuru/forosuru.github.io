@@ -709,11 +709,11 @@
 7669375:
   avatar_url: https://avatars3.githubusercontent.com/u/7669375?v=4
   event_counts:
-    follow: 11
+    follow: 12
     fork: 2
     public: 0
     repo: 20
-    total: 36
+    total: 37
     watch_started: 3
   intra: cbagdon
   login: cbg119
@@ -2054,10 +2054,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/18249395?v=4
   event_counts:
     follow: 12
-    fork: 35
+    fork: 36
     public: 4
     repo: 6
-    total: 74
+    total: 75
     watch_started: 17
   intra: hvillasa
   login: hectorsvill
@@ -2092,8 +2092,8 @@
     follow: 0
     fork: 3
     public: 1
-    repo: 7
-    total: 11
+    repo: 9
+    total: 13
     watch_started: 0
   intra: tmckinno
   login: tmacro
@@ -3352,8 +3352,8 @@
     follow: 3
     fork: 0
     public: 1
-    repo: 3
-    total: 10
+    repo: 5
+    total: 12
     watch_started: 3
   intra: sjones
   login: seanjones2848
@@ -5786,10 +5786,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/45217215?v=4
   event_counts:
     follow: 1
-    fork: 11
+    fork: 12
     public: 0
     repo: 9
-    total: 21
+    total: 22
     watch_started: 0
   intra: llelias
   login: lukefreeman42
