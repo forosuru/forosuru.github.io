@@ -626,10 +626,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/6658153?v=4
   event_counts:
     follow: 2
-    fork: 1
+    fork: 2
     public: 2
     repo: 2
-    total: 10
+    total: 11
     watch_started: 3
   intra: fbueno-m
   login: fredmurakawa
@@ -1417,11 +1417,11 @@
 13036761:
   avatar_url: https://avatars3.githubusercontent.com/u/13036761?v=4
   event_counts:
-    follow: 12
+    follow: 13
     fork: 1
     public: 5
     repo: 6
-    total: 27
+    total: 28
     watch_started: 3
   intra: bogoncha
   login: bgoncharov
@@ -4193,8 +4193,8 @@
     fork: 1
     public: 0
     repo: 24
-    total: 35
-    watch_started: 0
+    total: 36
+    watch_started: 1
   intra: hnam
   login: naamoonoo
   node_id: MDQ6VXNlcjMwNjE1ODA0
@@ -5857,11 +5857,11 @@
 45823872:
   avatar_url: https://avatars3.githubusercontent.com/u/45823872?v=4
   event_counts:
-    follow: 10
+    follow: 12
     fork: 1
     public: 0
     repo: 9
-    total: 20
+    total: 22
     watch_started: 0
   intra: tcherret
   login: tcheee
