@@ -161,8 +161,8 @@
     fork: 0
     public: 0
     repo: 1
-    total: 65
-    watch_started: 59
+    total: 66
+    watch_started: 60
   intra: crenfrow
   login: ChrisRenfrow
   node_id: MDQ6VXNlcjI3MDA1NDk=
@@ -2056,8 +2056,8 @@
     follow: 12
     fork: 36
     public: 4
-    repo: 6
-    total: 75
+    repo: 7
+    total: 76
     watch_started: 17
   intra: hvillasa
   login: hectorsvill
@@ -5979,9 +5979,9 @@
   event_counts:
     follow: 5
     fork: 0
-    public: 4
+    public: 5
     repo: 2
-    total: 11
+    total: 12
     watch_started: 0
   intra: jchiang-
   login: JCTGY
