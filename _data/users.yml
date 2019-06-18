@@ -3793,12 +3793,12 @@
 28164574:
   avatar_url: https://avatars3.githubusercontent.com/u/28164574?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 0
     repo: 1
-    total: 2
-    watch_started: 0
+    total: 4
+    watch_started: 1
   intra: mtan
   login: mgia
   node_id: MDQ6VXNlcjI4MTY0NTc0
