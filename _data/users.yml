@@ -269,8 +269,8 @@
     fork: 4
     public: 0
     repo: 3
-    total: 42
-    watch_started: 20
+    total: 43
+    watch_started: 21
   intra: kchenna
   login: hashb
   node_id: MDQ6VXNlcjM4MjEwNDM=
@@ -613,11 +613,11 @@
 6653080:
   avatar_url: https://avatars2.githubusercontent.com/u/6653080?v=4
   event_counts:
-    follow: 9
+    follow: 10
     fork: 2
     public: 1
-    repo: 8
-    total: 33
+    repo: 9
+    total: 35
     watch_started: 13
   intra: jcope
   login: Jemmeh
@@ -1585,11 +1585,11 @@
 14248245:
   avatar_url: https://avatars2.githubusercontent.com/u/14248245?v=4
   event_counts:
-    follow: 7
+    follow: 8
     fork: 4
     public: 0
     repo: 6
-    total: 29
+    total: 30
     watch_started: 12
   intra: yijhuang
   login: hyj1204
@@ -1841,8 +1841,8 @@
     fork: 2
     public: 0
     repo: 6
-    total: 30
-    watch_started: 7
+    total: 31
+    watch_started: 8
   intra: tvandivi
   login: fractalfox01
   node_id: MDQ6VXNlcjE2NjYxMjg5
@@ -3617,8 +3617,8 @@
     fork: 1
     public: 0
     repo: 3
-    total: 27
-    watch_started: 23
+    total: 28
+    watch_started: 24
   intra: dfan
   login: dayfine
   node_id: MDQ6VXNlcjI2NDIzNTA0
@@ -4361,8 +4361,8 @@
     fork: 6
     public: 1
     repo: 0
-    total: 57
-    watch_started: 30
+    total: 58
+    watch_started: 31
   intra: fredsiik
   login: fredsiika
   node_id: MDQ6VXNlcjMyMjYxMTEz
@@ -5917,11 +5917,11 @@
 46203279:
   avatar_url: https://avatars2.githubusercontent.com/u/46203279?v=4
   event_counts:
-    follow: 19
+    follow: 20
     fork: 0
     public: 0
     repo: 4
-    total: 26
+    total: 27
     watch_started: 3
   intra: marrodri
   login: marrodri
