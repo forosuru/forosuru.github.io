@@ -3257,8 +3257,8 @@
     fork: 0
     public: 1
     repo: 4
-    total: 19
-    watch_started: 10
+    total: 20
+    watch_started: 11
   intra: wlin
   login: autopylot
   node_id: MDQ6VXNlcjI0ODg1MDE1
@@ -5557,11 +5557,11 @@
 42279868:
   avatar_url: https://avatars2.githubusercontent.com/u/42279868?v=4
   event_counts:
-    follow: 12
+    follow: 13
     fork: 0
     public: 0
     repo: 16
-    total: 28
+    total: 29
     watch_started: 0
   intra: mpas
   login: mashenkaPas
@@ -6025,11 +6025,11 @@
 47709344:
   avatar_url: https://avatars1.githubusercontent.com/u/47709344?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 0
     public: 0
     repo: 10
-    total: 15
+    total: 16
     watch_started: 0
   intra: jinpark
   login: Seojun-Park
