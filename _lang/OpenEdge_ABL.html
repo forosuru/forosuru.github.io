@@ -1,0 +1,9 @@
+---
+layout: default
+language: OpenEdge ABL
+filename: OpenEdge_ABL.html
+---
+{% assign events = site.events | where: "language","OpenEdge ABL" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
