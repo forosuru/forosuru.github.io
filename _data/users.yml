@@ -3985,11 +3985,11 @@
 29165109:
   avatar_url: https://avatars3.githubusercontent.com/u/29165109?v=4
   event_counts:
-    follow: 8
+    follow: 10
     fork: 4
     public: 3
     repo: 18
-    total: 42
+    total: 44
     watch_started: 9
   intra: arherrer
   login: geostran
@@ -5041,11 +5041,11 @@
 37281879:
   avatar_url: https://avatars2.githubusercontent.com/u/37281879?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 2
     public: 0
     repo: 4
-    total: 8
+    total: 9
     watch_started: 0
   intra: minakim
   login: cookietho
@@ -5305,11 +5305,11 @@
 40344495:
   avatar_url: https://avatars1.githubusercontent.com/u/40344495?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 0
     public: 2
     repo: 8
-    total: 15
+    total: 16
     watch_started: 0
   intra: brfeltz
   login: elloimbrandon
