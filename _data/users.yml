@@ -1672,8 +1672,8 @@
     follow: 0
     fork: 0
     public: 1
-    repo: 2
-    total: 4
+    repo: 3
+    total: 5
     watch_started: 1
   intra: imurawsk
   login: helloitsian
@@ -5512,8 +5512,8 @@
     follow: 25
     fork: 0
     public: 0
-    repo: 10
-    total: 36
+    repo: 11
+    total: 37
     watch_started: 1
   intra: kmira
   login: MrColour
@@ -5704,8 +5704,8 @@
     follow: 11
     fork: 0
     public: 0
-    repo: 8
-    total: 20
+    repo: 9
+    total: 21
     watch_started: 1
   intra: tkatolik
   login: katolikyan
