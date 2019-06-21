@@ -2725,11 +2725,11 @@
 22158877:
   avatar_url: https://avatars1.githubusercontent.com/u/22158877?v=4
   event_counts:
-    follow: 9
+    follow: 10
     fork: 1
     public: 2
     repo: 1
-    total: 31
+    total: 32
     watch_started: 18
   intra: rzarate
   login: RafaelZarate
@@ -3245,8 +3245,8 @@
     fork: 4
     public: 0
     repo: 8
-    total: 129
-    watch_started: 108
+    total: 130
+    watch_started: 109
   intra: cchao
   login: kizombaciao
   node_id: MDQ6VXNlcjI0Njg3MzU2
