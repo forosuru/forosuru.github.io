@@ -2126,10 +2126,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/18608979?v=4
   event_counts:
     follow: 12
-    fork: 1
+    fork: 2
     public: 0
     repo: 5
-    total: 30
+    total: 31
     watch_started: 12
   intra: nobrien
   login: nickisobrien
@@ -2293,11 +2293,11 @@
 20023687:
   avatar_url: https://avatars1.githubusercontent.com/u/20023687?v=4
   event_counts:
-    follow: 48
+    follow: 50
     fork: 1
     public: 0
     repo: 8
-    total: 63
+    total: 65
     watch_started: 6
   intra: aabdrakh
   login: hhaakkimm
@@ -4144,8 +4144,8 @@
     follow: 7
     fork: 1
     public: 9
-    repo: 4
-    total: 21
+    repo: 5
+    total: 22
     watch_started: 0
   intra: apickett
   login: j-pickett
@@ -4945,11 +4945,11 @@
 36604610:
   avatar_url: https://avatars1.githubusercontent.com/u/36604610?v=4
   event_counts:
-    follow: 11
+    follow: 12
     fork: 0
     public: 0
-    repo: 4
-    total: 16
+    repo: 5
+    total: 18
     watch_started: 1
   intra: cdimitro
   login: coolguycam
@@ -5488,8 +5488,8 @@
     follow: 4
     fork: 2
     public: 0
-    repo: 21
-    total: 39
+    repo: 22
+    total: 40
     watch_started: 12
   intra: jawatter
   login: wubswurld
