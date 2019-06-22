@@ -2126,11 +2126,11 @@
   avatar_url: https://avatars2.githubusercontent.com/u/18608979?v=4
   event_counts:
     follow: 12
-    fork: 2
+    fork: 3
     public: 0
     repo: 5
-    total: 31
-    watch_started: 12
+    total: 33
+    watch_started: 13
   intra: nobrien
   login: nickisobrien
   node_id: MDQ6VXNlcjE4NjA4OTc5
@@ -3916,8 +3916,8 @@
     follow: 4
     fork: 1
     public: 0
-    repo: 12
-    total: 17
+    repo: 13
+    total: 18
     watch_started: 0
   intra: calamber
   login: mueslimak3r
