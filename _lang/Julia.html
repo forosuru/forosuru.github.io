@@ -1,0 +1,9 @@
+---
+layout: default
+language: Julia
+filename: Julia.html
+---
+{% assign events = site.events | where: "language","Julia" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
