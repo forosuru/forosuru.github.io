@@ -3617,8 +3617,8 @@
     fork: 2
     public: 0
     repo: 3
-    total: 29
-    watch_started: 24
+    total: 30
+    watch_started: 25
   intra: dfan
   login: dayfine
   node_id: MDQ6VXNlcjI2NDIzNTA0
@@ -4564,8 +4564,8 @@
     follow: 8
     fork: 0
     public: 0
-    repo: 0
-    total: 8
+    repo: 1
+    total: 9
     watch_started: 0
   intra: tle-huu-
   login: tle-huu
@@ -4981,11 +4981,11 @@
 36874036:
   avatar_url: https://avatars2.githubusercontent.com/u/36874036?v=4
   event_counts:
-    follow: 7
+    follow: 13
     fork: 0
     public: 0
     repo: 1
-    total: 11
+    total: 17
     watch_started: 3
   intra: mmoros
   login: maxmoros
