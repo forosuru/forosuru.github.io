@@ -2,10 +2,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/627891?v=4
   event_counts:
     follow: 0
-    fork: 3
+    fork: 4
     public: 0
     repo: 0
-    total: 4
+    total: 5
     watch_started: 1
   intra: kyork
   login: riking
@@ -1661,8 +1661,8 @@
     fork: 0
     public: 3
     repo: 1
-    total: 66
-    watch_started: 52
+    total: 67
+    watch_started: 53
   intra: syamada
   login: Yatty1
   node_id: MDQ6VXNlcjE1MTE4OTk5
@@ -5177,8 +5177,8 @@
     fork: 0
     public: 5
     repo: 6
-    total: 23
-    watch_started: 1
+    total: 24
+    watch_started: 2
   intra: jochang
   login: MagicHatJo
   node_id: MDQ6VXNlcjM4NzE2MDEy
