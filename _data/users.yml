@@ -244,8 +244,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 1
-    total: 1
+    repo: 2
+    total: 2
     watch_started: 0
   intra: ewilliam
   login: ertw
@@ -3353,8 +3353,8 @@
     fork: 0
     public: 1
     repo: 5
-    total: 12
-    watch_started: 3
+    total: 13
+    watch_started: 4
   intra: sjones
   login: seanjones2848
   node_id: MDQ6VXNlcjI1MTkyNDA3
