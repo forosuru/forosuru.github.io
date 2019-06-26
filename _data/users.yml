@@ -161,8 +161,8 @@
     fork: 0
     public: 0
     repo: 1
-    total: 69
-    watch_started: 63
+    total: 70
+    watch_started: 64
   intra: crenfrow
   login: ChrisRenfrow
   node_id: MDQ6VXNlcjI3MDA1NDk=
@@ -557,8 +557,8 @@
     fork: 0
     public: 1
     repo: 10
-    total: 13
-    watch_started: 1
+    total: 14
+    watch_started: 2
   intra: chrsilva
   login: Crybyte
   node_id: MDQ6VXNlcjYwMjYyMjc=
@@ -769,11 +769,11 @@
 7916909:
   avatar_url: https://avatars0.githubusercontent.com/u/7916909?v=4
   event_counts:
-    follow: 0
+    follow: 2
     fork: 1
-    public: 1
+    public: 3
     repo: 1
-    total: 14
+    total: 18
     watch_started: 11
   intra: lkaser
   login: logankaser
@@ -1465,11 +1465,11 @@
 13155397:
   avatar_url: https://avatars2.githubusercontent.com/u/13155397?v=4
   event_counts:
-    follow: 0
+    follow: 2
     fork: 0
     public: 0
     repo: 1
-    total: 1
+    total: 3
     watch_started: 0
   intra: kbaker
   login: KevinTBaker
@@ -2054,10 +2054,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/18249395?v=4
   event_counts:
     follow: 12
-    fork: 42
+    fork: 43
     public: 4
-    repo: 7
-    total: 82
+    repo: 8
+    total: 84
     watch_started: 17
   intra: hvillasa
   login: hectorsvill
@@ -5788,8 +5788,8 @@
     follow: 1
     fork: 12
     public: 0
-    repo: 9
-    total: 23
+    repo: 10
+    total: 24
     watch_started: 1
   intra: llelias
   login: lukefreeman42
