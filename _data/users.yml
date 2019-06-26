@@ -1237,11 +1237,11 @@
 11222980:
   avatar_url: https://avatars3.githubusercontent.com/u/11222980?v=4
   event_counts:
-    follow: 3
+    follow: 5
     fork: 23
     public: 3
     repo: 2
-    total: 104
+    total: 106
     watch_started: 73
   intra: jaleman
   login: jraleman
@@ -1753,11 +1753,11 @@
 16214757:
   avatar_url: https://avatars1.githubusercontent.com/u/16214757?v=4
   event_counts:
-    follow: 8
+    follow: 9
     fork: 0
     public: 1
     repo: 6
-    total: 20
+    total: 21
     watch_started: 5
   intra: jbeall
   login: jacksonwb
@@ -4324,8 +4324,8 @@
     follow: 27
     fork: 4
     public: 1
-    repo: 22
-    total: 59
+    repo: 23
+    total: 60
     watch_started: 5
   intra: gfielder
   login: gavinfielder
@@ -5572,8 +5572,8 @@
     follow: 10
     fork: 3
     public: 7
-    repo: 4
-    total: 27
+    repo: 5
+    total: 28
     watch_started: 3
   intra: ale-goff
   login: Alexx42
@@ -5797,11 +5797,11 @@
 45247529:
   avatar_url: https://avatars0.githubusercontent.com/u/45247529?v=4
   event_counts:
-    follow: 10
+    follow: 11
     fork: 0
     public: 0
     repo: 3
-    total: 14
+    total: 15
     watch_started: 1
   intra: mschroed
   login: CptBang
