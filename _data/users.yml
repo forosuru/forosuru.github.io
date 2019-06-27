@@ -1802,10 +1802,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/16522024?v=4
   event_counts:
     follow: 10
-    fork: 0
+    fork: 1
     public: 1
     repo: 8
-    total: 19
+    total: 20
     watch_started: 0
   intra: jtahirov
   login: JohnnyJumper
@@ -2137,11 +2137,11 @@
 18649645:
   avatar_url: https://avatars2.githubusercontent.com/u/18649645?v=4
   event_counts:
-    follow: 13
+    follow: 14
     fork: 1
     public: 2
     repo: 15
-    total: 33
+    total: 34
     watch_started: 2
   intra: awindham
   login: arwn
@@ -2957,8 +2957,8 @@
     fork: 0
     public: 1
     repo: 1
-    total: 10
-    watch_started: 6
+    total: 11
+    watch_started: 7
   intra: tpan
   login: tpan
   node_id: MDQ6VXNlcjIzMzAwNzg4
@@ -3985,11 +3985,11 @@
 29165109:
   avatar_url: https://avatars3.githubusercontent.com/u/29165109?v=4
   event_counts:
-    follow: 15
+    follow: 16
     fork: 4
     public: 4
     repo: 18
-    total: 50
+    total: 51
     watch_started: 9
   intra: arherrer
   login: geostran
@@ -5197,11 +5197,11 @@
 39015941:
   avatar_url: https://avatars3.githubusercontent.com/u/39015941?v=4
   event_counts:
-    follow: 33
+    follow: 34
     fork: 0
     public: 0
     repo: 1
-    total: 34
+    total: 35
     watch_started: 0
   intra: debaxter
   login: drb3000
