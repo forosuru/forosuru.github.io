@@ -424,8 +424,8 @@
     follow: 6
     fork: 1
     public: 0
-    repo: 3
-    total: 19
+    repo: 4
+    total: 20
     watch_started: 9
   intra: tmatthew
   login: Travmatth
@@ -580,9 +580,9 @@
     follow: 3
     fork: 0
     public: 1
-    repo: 5
-    total: 13
-    watch_started: 4
+    repo: 6
+    total: 15
+    watch_started: 5
   intra: rramirez
   login: rene415
   node_id: MDQ6VXNlcjYwMzQ2NTI=
@@ -1817,8 +1817,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 68
-    watch_started: 66
+    total: 69
+    watch_started: 67
   intra: irhett
   login: izcet
   node_id: MDQ6VXNlcjE2NTY4OTU2
@@ -2955,9 +2955,9 @@
   event_counts:
     follow: 2
     fork: 0
-    public: 0
+    public: 1
     repo: 1
-    total: 9
+    total: 10
     watch_started: 6
   intra: tpan
   login: tpan
@@ -3843,9 +3843,9 @@
   event_counts:
     follow: 6
     fork: 0
-    public: 0
+    public: 1
     repo: 0
-    total: 6
+    total: 7
     watch_started: 0
   intra: pnunez
   login: PedroNunezCode
@@ -3985,11 +3985,11 @@
 29165109:
   avatar_url: https://avatars3.githubusercontent.com/u/29165109?v=4
   event_counts:
-    follow: 14
+    follow: 15
     fork: 4
     public: 4
     repo: 18
-    total: 49
+    total: 50
     watch_started: 9
   intra: arherrer
   login: geostran
@@ -4945,11 +4945,11 @@
 36604610:
   avatar_url: https://avatars1.githubusercontent.com/u/36604610?v=4
   event_counts:
-    follow: 12
+    follow: 13
     fork: 0
     public: 0
     repo: 5
-    total: 18
+    total: 19
     watch_started: 1
   intra: cdimitro
   login: coolguycam
