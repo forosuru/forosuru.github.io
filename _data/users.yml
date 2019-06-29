@@ -532,8 +532,8 @@
     follow: 2
     fork: 1
     public: 0
-    repo: 4
-    total: 25
+    repo: 5
+    total: 26
     watch_started: 18
   intra: myoung
   login: qst0
@@ -2573,8 +2573,8 @@
     fork: 1
     public: 9
     repo: 0
-    total: 77
-    watch_started: 51
+    total: 78
+    watch_started: 52
   intra: tkobb
   login: thk2b
   node_id: MDQ6VXNlcjIxMDA5NTk0
@@ -3245,8 +3245,8 @@
     fork: 4
     public: 0
     repo: 11
-    total: 142
-    watch_started: 117
+    total: 143
+    watch_started: 118
   intra: cchao
   login: kizombaciao
   node_id: MDQ6VXNlcjI0Njg3MzU2
@@ -4661,8 +4661,8 @@
     fork: 0
     public: 0
     repo: 20
-    total: 30
-    watch_started: 3
+    total: 31
+    watch_started: 4
   intra: jdiaz
   login: julianD-infiswift
   node_id: MDQ6VXNlcjM0MjE2ODMy
