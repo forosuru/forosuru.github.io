@@ -257,8 +257,8 @@
     fork: 1
     public: 0
     repo: 1
-    total: 5
-    watch_started: 0
+    total: 7
+    watch_started: 2
   intra: sgardner
   login: stephen-gardner
   node_id: MDQ6VXNlcjM2NTE4MDM=
@@ -650,10 +650,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/6834761?v=4
   event_counts:
     follow: 11
-    fork: 4
+    fork: 5
     public: 0
     repo: 19
-    total: 51
+    total: 52
     watch_started: 17
   intra: qpeng
   login: sayakura
@@ -3028,8 +3028,8 @@
     follow: 3
     fork: 0
     public: 0
-    repo: 1
-    total: 6
+    repo: 2
+    total: 7
     watch_started: 2
   intra: bbixby
   login: brianbixby
