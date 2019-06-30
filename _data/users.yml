@@ -2869,11 +2869,11 @@
 22650155:
   avatar_url: https://avatars1.githubusercontent.com/u/22650155?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 3
     public: 0
     repo: 2
-    total: 30
+    total: 31
     watch_started: 24
   intra: rhaque
   login: Rahisulhaque
@@ -5581,11 +5581,11 @@
 42398310:
   avatar_url: https://avatars3.githubusercontent.com/u/42398310?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 7
-    total: 7
+    total: 8
     watch_started: 0
   intra: hbhuiyan
   login: havi-b
