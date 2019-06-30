@@ -529,11 +529,11 @@
 5866757:
   avatar_url: https://avatars1.githubusercontent.com/u/5866757?v=4
   event_counts:
-    follow: 2
+    follow: 4
     fork: 1
     public: 0
     repo: 5
-    total: 26
+    total: 28
     watch_started: 18
   intra: myoung
   login: qst0
@@ -2956,8 +2956,8 @@
     follow: 2
     fork: 0
     public: 1
-    repo: 1
-    total: 11
+    repo: 2
+    total: 12
     watch_started: 7
   intra: tpan
   login: tpan
@@ -3245,8 +3245,8 @@
     fork: 4
     public: 0
     repo: 11
-    total: 143
-    watch_started: 118
+    total: 144
+    watch_started: 119
   intra: cchao
   login: kizombaciao
   node_id: MDQ6VXNlcjI0Njg3MzU2
@@ -4948,8 +4948,8 @@
     follow: 13
     fork: 0
     public: 0
-    repo: 5
-    total: 19
+    repo: 6
+    total: 20
     watch_started: 1
   intra: cdimitro
   login: coolguycam
