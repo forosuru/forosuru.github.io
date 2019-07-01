@@ -2845,11 +2845,11 @@
 22582055:
   avatar_url: https://avatars0.githubusercontent.com/u/22582055?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 8
-    total: 13
+    total: 14
     watch_started: 5
   intra: abarnett
   login: alan23394
