@@ -1753,11 +1753,11 @@
 16214757:
   avatar_url: https://avatars1.githubusercontent.com/u/16214757?v=4
   event_counts:
-    follow: 9
+    follow: 10
     fork: 0
     public: 1
     repo: 6
-    total: 21
+    total: 22
     watch_started: 5
   intra: jbeall
   login: jacksonwb
@@ -5177,8 +5177,8 @@
     fork: 0
     public: 6
     repo: 6
-    total: 25
-    watch_started: 2
+    total: 26
+    watch_started: 3
   intra: jochang
   login: MagicHatJo
   node_id: MDQ6VXNlcjM4NzE2MDEy
@@ -5917,11 +5917,11 @@
 46203279:
   avatar_url: https://avatars2.githubusercontent.com/u/46203279?v=4
   event_counts:
-    follow: 23
+    follow: 24
     fork: 0
     public: 0
     repo: 4
-    total: 30
+    total: 31
     watch_started: 3
   intra: marrodri
   login: marrodri
