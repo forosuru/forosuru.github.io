@@ -292,8 +292,8 @@
     follow: 0
     fork: 10
     public: 0
-    repo: 9
-    total: 23
+    repo: 10
+    total: 24
     watch_started: 4
   intra: jrameau
   login: R4meau
@@ -3617,8 +3617,8 @@
     fork: 2
     public: 0
     repo: 3
-    total: 33
-    watch_started: 27
+    total: 34
+    watch_started: 28
   intra: dfan
   login: dayfine
   node_id: MDQ6VXNlcjI2NDIzNTA0
@@ -5521,11 +5521,11 @@
 41985981:
   avatar_url: https://avatars3.githubusercontent.com/u/41985981?v=4
   event_counts:
-    follow: 0
+    follow: 3
     fork: 0
     public: 0
     repo: 2
-    total: 2
+    total: 5
     watch_started: 0
   intra: fprevela
   login: prevelat
@@ -5545,11 +5545,11 @@
 42254557:
   avatar_url: https://avatars2.githubusercontent.com/u/42254557?v=4
   event_counts:
-    follow: 5
+    follow: 7
     fork: 3
     public: 0
     repo: 17
-    total: 27
+    total: 29
     watch_started: 2
   intra: mtaylor
   login: motaylormo
@@ -5725,11 +5725,11 @@
 44330039:
   avatar_url: https://avatars0.githubusercontent.com/u/44330039?v=4
   event_counts:
-    follow: 8
+    follow: 9
     fork: 3
     public: 0
     repo: 6
-    total: 30
+    total: 31
     watch_started: 13
   intra: viwade
   login: vwade
