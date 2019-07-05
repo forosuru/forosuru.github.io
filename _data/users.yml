@@ -613,12 +613,12 @@
 6653080:
   avatar_url: https://avatars2.githubusercontent.com/u/6653080?v=4
   event_counts:
-    follow: 13
+    follow: 24
     fork: 2
     public: 1
     repo: 11
-    total: 40
-    watch_started: 13
+    total: 52
+    watch_started: 14
   intra: jcope
   login: Jemmeh
   node_id: MDQ6VXNlcjY2NTMwODA=
