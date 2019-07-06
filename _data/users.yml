@@ -244,8 +244,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 2
-    total: 2
+    repo: 3
+    total: 3
     watch_started: 0
   intra: ewilliam
   login: ertw
@@ -3797,8 +3797,8 @@
     fork: 1
     public: 0
     repo: 2
-    total: 7
-    watch_started: 2
+    total: 8
+    watch_started: 3
   intra: mtan
   login: mgia
   node_id: MDQ6VXNlcjI4MTY0NTc0
