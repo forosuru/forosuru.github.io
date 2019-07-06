@@ -529,11 +529,11 @@
 5866757:
   avatar_url: https://avatars1.githubusercontent.com/u/5866757?v=4
   event_counts:
-    follow: 4
+    follow: 6
     fork: 1
     public: 0
     repo: 5
-    total: 29
+    total: 31
     watch_started: 19
   intra: myoung
   login: qst0
@@ -1036,8 +1036,8 @@
     follow: 12
     fork: 0
     public: 0
-    repo: 6
-    total: 21
+    repo: 7
+    total: 22
     watch_started: 3
   intra: pdoherty
   login: paulrobertdoherty
@@ -1468,8 +1468,8 @@
     follow: 3
     fork: 0
     public: 0
-    repo: 1
-    total: 4
+    repo: 2
+    total: 5
     watch_started: 0
   intra: kbaker
   login: KevinTBaker
@@ -2461,11 +2461,11 @@
 20746155:
   avatar_url: https://avatars2.githubusercontent.com/u/20746155?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 2
     public: 0
     repo: 0
-    total: 2
+    total: 3
     watch_started: 0
   intra: rpassafa
   login: blockco
@@ -3245,8 +3245,8 @@
     fork: 4
     public: 0
     repo: 11
-    total: 152
-    watch_started: 126
+    total: 153
+    watch_started: 127
   intra: cchao
   login: kizombaciao
   node_id: MDQ6VXNlcjI0Njg3MzU2
@@ -5764,8 +5764,8 @@
     follow: 1
     fork: 2
     public: 0
-    repo: 7
-    total: 10
+    repo: 9
+    total: 12
     watch_started: 0
   intra: jtaylor
   login: jt-taylor
@@ -5980,8 +5980,8 @@
     follow: 5
     fork: 0
     public: 6
-    repo: 2
-    total: 13
+    repo: 3
+    total: 14
     watch_started: 0
   intra: jchiang-
   login: JCTGY
