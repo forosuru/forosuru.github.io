@@ -1,0 +1,9 @@
+---
+layout: default
+language: F#
+filename: Fsharp.html
+---
+{% assign events = site.events | where: "language","F#" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
