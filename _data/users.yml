@@ -3617,8 +3617,8 @@
     fork: 2
     public: 0
     repo: 3
-    total: 34
-    watch_started: 28
+    total: 35
+    watch_started: 29
   intra: dfan
   login: dayfine
   node_id: MDQ6VXNlcjI2NDIzNTA0
@@ -5221,11 +5221,11 @@
 39035841:
   avatar_url: https://avatars1.githubusercontent.com/u/39035841?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 0
     public: 0
     repo: 2
-    total: 9
+    total: 10
     watch_started: 1
   intra: rreedy
   login: mint42
@@ -5980,8 +5980,8 @@
     follow: 5
     fork: 0
     public: 6
-    repo: 3
-    total: 14
+    repo: 5
+    total: 16
     watch_started: 0
   intra: jchiang-
   login: JCTGY
