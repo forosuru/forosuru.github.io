@@ -3028,8 +3028,8 @@
     follow: 3
     fork: 0
     public: 0
-    repo: 3
-    total: 8
+    repo: 4
+    total: 9
     watch_started: 2
   intra: bbixby
   login: brianbixby
@@ -5581,11 +5581,11 @@
 42398310:
   avatar_url: https://avatars3.githubusercontent.com/u/42398310?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 0
     repo: 7
-    total: 8
+    total: 9
     watch_started: 0
   intra: hbhuiyan
   login: havi-b
