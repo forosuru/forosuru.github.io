@@ -2812,8 +2812,8 @@
     follow: 0
     fork: 1
     public: 0
-    repo: 4
-    total: 5
+    repo: 6
+    total: 7
     watch_started: 0
   intra: jcarpio-
   login: laughtt
@@ -2845,11 +2845,11 @@
 22582055:
   avatar_url: https://avatars0.githubusercontent.com/u/22582055?v=4
   event_counts:
-    follow: 4
+    follow: 5
     fork: 0
     public: 0
     repo: 9
-    total: 19
+    total: 20
     watch_started: 6
   intra: abarnett
   login: alan23394
@@ -3041,8 +3041,8 @@
     fork: 1
     public: 0
     repo: 1
-    total: 35
-    watch_started: 29
+    total: 37
+    watch_started: 31
   intra: jbrown
   login: panterarocks49
   node_id: MDQ6VXNlcjIzNjQ3ODM3
