@@ -1,0 +1,9 @@
+---
+layout: default
+language: ABAP
+filename: ABAP.html
+---
+{% assign events = site.events | where: "language","ABAP" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
