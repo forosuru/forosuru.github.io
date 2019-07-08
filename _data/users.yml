@@ -2573,8 +2573,8 @@
     fork: 1
     public: 9
     repo: 0
-    total: 82
-    watch_started: 53
+    total: 83
+    watch_started: 54
   intra: tkobb
   login: thk2b
   node_id: MDQ6VXNlcjIxMDA5NTk0
@@ -2776,8 +2776,8 @@
     follow: 0
     fork: 0
     public: 1
-    repo: 5
-    total: 6
+    repo: 6
+    total: 7
     watch_started: 0
   intra: rmanese
   login: rmanese
@@ -3041,8 +3041,8 @@
     fork: 1
     public: 0
     repo: 1
-    total: 37
-    watch_started: 31
+    total: 38
+    watch_started: 32
   intra: jbrown
   login: panterarocks49
   node_id: MDQ6VXNlcjIzNjQ3ODM3
@@ -5701,11 +5701,11 @@
 43802339:
   avatar_url: https://avatars1.githubusercontent.com/u/43802339?v=4
   event_counts:
-    follow: 11
+    follow: 17
     fork: 0
     public: 0
     repo: 10
-    total: 22
+    total: 28
     watch_started: 1
   intra: tkatolik
   login: katolikyan
