@@ -1936,8 +1936,8 @@
     follow: 4
     fork: 1
     public: 0
-    repo: 10
-    total: 20
+    repo: 11
+    total: 21
     watch_started: 5
   intra: ikozlov
   login: IvanKozlov95
@@ -3134,10 +3134,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/24300177?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 0
     repo: 1
-    total: 5
+    total: 6
     watch_started: 4
   intra: ekelen
   login: ekelen
@@ -4889,8 +4889,8 @@
     fork: 9
     public: 1
     repo: 19
-    total: 38
-    watch_started: 5
+    total: 39
+    watch_started: 6
   intra: akharrou
   login: akharrou
   node_id: MDQ6VXNlcjM2MDU2MjU0
