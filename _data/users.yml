@@ -2557,11 +2557,11 @@
 20981745:
   avatar_url: https://avatars3.githubusercontent.com/u/20981745?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 0
-    total: 7
+    total: 8
     watch_started: 7
   intra: lwang
   login: Lijun21
