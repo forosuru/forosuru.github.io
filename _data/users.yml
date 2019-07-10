@@ -1885,11 +1885,11 @@
 16868451:
   avatar_url: https://avatars3.githubusercontent.com/u/16868451?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 1
     public: 0
     repo: 1
-    total: 7
+    total: 8
     watch_started: 0
   intra: saolivei
   login: SLO42
@@ -4141,11 +4141,11 @@
 30271496:
   avatar_url: https://avatars1.githubusercontent.com/u/30271496?v=4
   event_counts:
-    follow: 7
+    follow: 13
     fork: 1
     public: 9
     repo: 6
-    total: 23
+    total: 29
     watch_started: 0
   intra: apickett
   login: j-pickett
@@ -4780,8 +4780,8 @@
     follow: 0
     fork: 1
     public: 0
-    repo: 17
-    total: 18
+    repo: 18
+    total: 19
     watch_started: 0
   intra: agifford
   login: amandagifford33
