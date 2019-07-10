@@ -161,8 +161,8 @@
     fork: 0
     public: 0
     repo: 1
-    total: 71
-    watch_started: 65
+    total: 72
+    watch_started: 66
   intra: crenfrow
   login: ChrisRenfrow
   node_id: MDQ6VXNlcjI3MDA1NDk=
@@ -289,11 +289,11 @@
 3984265:
   avatar_url: https://avatars2.githubusercontent.com/u/3984265?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 10
     public: 0
     repo: 10
-    total: 24
+    total: 25
     watch_started: 4
   intra: jrameau
   login: R4meau
@@ -3133,11 +3133,11 @@
 24300177:
   avatar_url: https://avatars2.githubusercontent.com/u/24300177?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 1
     public: 0
     repo: 1
-    total: 6
+    total: 7
     watch_started: 4
   intra: ekelen
   login: ekelen
