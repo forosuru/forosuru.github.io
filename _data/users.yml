@@ -1154,10 +1154,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/10602798?v=4
   event_counts:
     follow: 4
-    fork: 0
+    fork: 1
     public: 0
     repo: 2
-    total: 19
+    total: 20
     watch_started: 13
   intra: aakin-al
   login: akinfemi
@@ -3088,8 +3088,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 0
-    total: 0
+    repo: 1
+    total: 1
     watch_started: 0
   intra: jaaaron
   login: jaaaron
@@ -3389,8 +3389,8 @@
     fork: 0
     public: 1
     repo: 1
-    total: 81
-    watch_started: 73
+    total: 84
+    watch_started: 76
   intra: scollet
   login: scollet1
   node_id: MDQ6VXNlcjI1MjU3OTg2
@@ -5512,8 +5512,8 @@
     follow: 26
     fork: 0
     public: 0
-    repo: 12
-    total: 39
+    repo: 13
+    total: 40
     watch_started: 1
   intra: kmira
   login: MrColour
