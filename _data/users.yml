@@ -988,8 +988,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 2
-    total: 2
+    repo: 3
+    total: 3
     watch_started: 0
   intra: csummers
   login: reallocf
@@ -1873,11 +1873,11 @@
 16845621:
   avatar_url: https://avatars1.githubusercontent.com/u/16845621?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 0
-    total: 1
+    total: 2
     watch_started: 1
   intra: pnarayan
   login: PragathiNS
@@ -2137,11 +2137,11 @@
 18649645:
   avatar_url: https://avatars2.githubusercontent.com/u/18649645?v=4
   event_counts:
-    follow: 14
+    follow: 15
     fork: 1
     public: 2
     repo: 17
-    total: 37
+    total: 38
     watch_started: 3
   intra: awindham
   login: arwn
@@ -2569,11 +2569,11 @@
 21009594:
   avatar_url: https://avatars3.githubusercontent.com/u/21009594?v=4
   event_counts:
-    follow: 19
+    follow: 20
     fork: 1
     public: 9
     repo: 0
-    total: 83
+    total: 84
     watch_started: 54
   intra: tkobb
   login: thk2b
@@ -4418,10 +4418,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/32380295?v=4
   event_counts:
     follow: 0
-    fork: 2
+    fork: 3
     public: 0
     repo: 9
-    total: 15
+    total: 16
     watch_started: 4
   intra: bchapman
   login: boredomdenied
@@ -5513,8 +5513,8 @@
     fork: 0
     public: 0
     repo: 13
-    total: 40
-    watch_started: 1
+    total: 42
+    watch_started: 3
   intra: kmira
   login: MrColour
   node_id: MDQ6VXNlcjQxODM5NjY3
@@ -5548,8 +5548,8 @@
     follow: 7
     fork: 4
     public: 0
-    repo: 17
-    total: 30
+    repo: 18
+    total: 31
     watch_started: 2
   intra: mtaylor
   login: motaylormo
