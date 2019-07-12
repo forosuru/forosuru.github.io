@@ -1851,9 +1851,9 @@
   event_counts:
     follow: 0
     fork: 1
-    public: 0
+    public: 1
     repo: 6
-    total: 7
+    total: 8
     watch_started: 0
   intra: mzaneri
   login: mzaneri
@@ -5330,10 +5330,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/40524078?v=4
   event_counts:
     follow: 8
-    fork: 0
+    fork: 1
     public: 2
     repo: 2
-    total: 12
+    total: 13
     watch_started: 0
   intra: cschulle
   login: tasertasertaser
