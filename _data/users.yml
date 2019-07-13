@@ -554,10 +554,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/6026227?v=4
   event_counts:
     follow: 1
-    fork: 0
+    fork: 1
     public: 1
     repo: 10
-    total: 17
+    total: 18
     watch_started: 5
   intra: chrsilva
   login: Crybyte
