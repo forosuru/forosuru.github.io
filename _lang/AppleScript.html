@@ -1,0 +1,9 @@
+---
+layout: default
+language: AppleScript
+filename: AppleScript.html
+---
+{% assign events = site.events | where: "language","AppleScript" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
