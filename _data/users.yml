@@ -557,8 +557,8 @@
     fork: 1
     public: 1
     repo: 10
-    total: 18
-    watch_started: 5
+    total: 19
+    watch_started: 6
   intra: chrsilva
   login: Crybyte
   node_id: MDQ6VXNlcjYwMjYyMjc=
@@ -3135,9 +3135,9 @@
   event_counts:
     follow: 1
     fork: 1
-    public: 0
+    public: 1
     repo: 1
-    total: 7
+    total: 8
     watch_started: 4
   intra: ekelen
   login: ekelen
