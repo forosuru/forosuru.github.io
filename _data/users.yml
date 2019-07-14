@@ -217,11 +217,11 @@
 3181870:
   avatar_url: https://avatars1.githubusercontent.com/u/3181870?v=4
   event_counts:
-    follow: 23
+    follow: 24
     fork: 4
     public: 0
     repo: 17
-    total: 247
+    total: 248
     watch_started: 203
   intra: mbrave
   login: michaelbrave
@@ -613,11 +613,11 @@
 6653080:
   avatar_url: https://avatars2.githubusercontent.com/u/6653080?v=4
   event_counts:
-    follow: 25
+    follow: 26
     fork: 2
     public: 1
     repo: 12
-    total: 57
+    total: 58
     watch_started: 17
   intra: jcope
   login: Jemmeh
@@ -5221,11 +5221,11 @@
 39035841:
   avatar_url: https://avatars1.githubusercontent.com/u/39035841?v=4
   event_counts:
-    follow: 7
+    follow: 8
     fork: 0
     public: 0
     repo: 2
-    total: 10
+    total: 11
     watch_started: 1
   intra: rreedy
   login: mint42
