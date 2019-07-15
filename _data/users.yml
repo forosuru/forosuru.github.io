@@ -290,10 +290,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/3984265?v=4
   event_counts:
     follow: 1
-    fork: 10
+    fork: 11
     public: 0
     repo: 10
-    total: 25
+    total: 26
     watch_started: 4
   intra: jrameau
   login: R4meau
@@ -1361,8 +1361,8 @@
     fork: 3
     public: 0
     repo: 5
-    total: 353
-    watch_started: 292
+    total: 354
+    watch_started: 293
   intra: mfernand
   login: MatiasFMolinari
   node_id: MDQ6VXNlcjEyMTQ1MTE5
