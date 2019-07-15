@@ -265,11 +265,11 @@
 3821043:
   avatar_url: https://avatars0.githubusercontent.com/u/3821043?v=4
   event_counts:
-    follow: 21
+    follow: 22
     fork: 4
     public: 0
     repo: 5
-    total: 55
+    total: 56
     watch_started: 25
   intra: kchenna
   login: hashb
@@ -1731,9 +1731,9 @@
   event_counts:
     follow: 0
     fork: 0
-    public: 0
+    public: 1
     repo: 0
-    total: 4
+    total: 5
     watch_started: 4
   intra: sescolas
   login: samescolas
