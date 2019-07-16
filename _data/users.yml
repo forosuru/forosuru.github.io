@@ -613,11 +613,11 @@
 6653080:
   avatar_url: https://avatars2.githubusercontent.com/u/6653080?v=4
   event_counts:
-    follow: 28
+    follow: 29
     fork: 2
     public: 1
     repo: 12
-    total: 62
+    total: 63
     watch_started: 19
   intra: jcope
   login: Jemmeh
@@ -1861,11 +1861,11 @@
 16840579:
   avatar_url: https://avatars2.githubusercontent.com/u/16840579?v=4
   event_counts:
-    follow: 24
+    follow: 27
     fork: 0
     public: 0
     repo: 26
-    total: 53
+    total: 56
     watch_started: 3
   intra: jadawson
   login: JamieDawson
@@ -3245,8 +3245,8 @@
     fork: 4
     public: 0
     repo: 11
-    total: 156
-    watch_started: 129
+    total: 157
+    watch_started: 130
   intra: cchao
   login: kizombaciao
   node_id: MDQ6VXNlcjI0Njg3MzU2
@@ -5509,11 +5509,11 @@
 41839667:
   avatar_url: https://avatars2.githubusercontent.com/u/41839667?v=4
   event_counts:
-    follow: 29
+    follow: 31
     fork: 0
     public: 0
     repo: 13
-    total: 45
+    total: 47
     watch_started: 3
   intra: kmira
   login: MrColour
