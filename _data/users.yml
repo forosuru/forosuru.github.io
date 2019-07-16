@@ -613,11 +613,11 @@
 6653080:
   avatar_url: https://avatars2.githubusercontent.com/u/6653080?v=4
   event_counts:
-    follow: 26
+    follow: 28
     fork: 2
     public: 1
     repo: 12
-    total: 60
+    total: 62
     watch_started: 19
   intra: jcope
   login: Jemmeh
@@ -2777,8 +2777,8 @@
     fork: 0
     public: 1
     repo: 6
-    total: 7
-    watch_started: 0
+    total: 9
+    watch_started: 2
   intra: rmanese
   login: rmanese
   node_id: MDQ6VXNlcjIyMzYxNTkz
@@ -3352,8 +3352,8 @@
     follow: 3
     fork: 0
     public: 1
-    repo: 7
-    total: 16
+    repo: 8
+    total: 17
     watch_started: 5
   intra: sjones
   login: seanjones2848
