@@ -1419,9 +1419,9 @@
   event_counts:
     follow: 14
     fork: 2
-    public: 6
+    public: 7
     repo: 6
-    total: 31
+    total: 32
     watch_started: 3
   intra: bogoncha
   login: bgoncharov
@@ -5680,8 +5680,8 @@
     follow: 0
     fork: 3
     public: 2
-    repo: 3
-    total: 9
+    repo: 4
+    total: 10
     watch_started: 1
   intra: jamwang
   login: jameswangdr
