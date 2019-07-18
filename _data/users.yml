@@ -771,9 +771,9 @@
   event_counts:
     follow: 2
     fork: 1
-    public: 3
+    public: 4
     repo: 1
-    total: 18
+    total: 19
     watch_started: 11
   intra: lkaser
   login: logankaser
@@ -3841,11 +3841,11 @@
 28422206:
   avatar_url: https://avatars2.githubusercontent.com/u/28422206?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 0
     public: 1
     repo: 0
-    total: 7
+    total: 8
     watch_started: 0
   intra: pnunez
   login: PedroNunezCode
@@ -5764,8 +5764,8 @@
     follow: 1
     fork: 2
     public: 0
-    repo: 9
-    total: 12
+    repo: 10
+    total: 13
     watch_started: 0
   intra: jtaylor
   login: jt-taylor
