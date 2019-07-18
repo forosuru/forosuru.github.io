@@ -122,10 +122,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/2343554?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 0
     repo: 0
-    total: 23
+    total: 24
     watch_started: 23
   intra: drosa-ta
   login: drrosa
@@ -553,11 +553,11 @@
 6026227:
   avatar_url: https://avatars3.githubusercontent.com/u/6026227?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 1
     public: 1
-    repo: 10
-    total: 20
+    repo: 11
+    total: 22
     watch_started: 7
   intra: chrsilva
   login: Crybyte
@@ -2725,11 +2725,11 @@
 22158877:
   avatar_url: https://avatars1.githubusercontent.com/u/22158877?v=4
   event_counts:
-    follow: 11
+    follow: 12
     fork: 1
     public: 2
     repo: 1
-    total: 41
+    total: 42
     watch_started: 26
   intra: rzarate
   login: RafaelZarate
@@ -3386,10 +3386,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/25257986?v=4
   event_counts:
     follow: 7
-    fork: 0
+    fork: 1
     public: 1
     repo: 1
-    total: 87
+    total: 88
     watch_started: 78
   intra: scollet
   login: scollet1
@@ -4357,11 +4357,11 @@
 32261113:
   avatar_url: https://avatars1.githubusercontent.com/u/32261113?v=4
   event_counts:
-    follow: 21
+    follow: 22
     fork: 7
     public: 1
     repo: 0
-    total: 63
+    total: 64
     watch_started: 34
   intra: fredsiik
   login: fredsiika
@@ -4766,10 +4766,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/35089259?v=4
   event_counts:
     follow: 1
-    fork: 0
+    fork: 1
     public: 0
     repo: 0
-    total: 6
+    total: 7
     watch_started: 5
   intra: amwangal
   login: amwangale
@@ -5329,11 +5329,11 @@
 40524078:
   avatar_url: https://avatars2.githubusercontent.com/u/40524078?v=4
   event_counts:
-    follow: 8
+    follow: 9
     fork: 1
     public: 2
     repo: 2
-    total: 13
+    total: 14
     watch_started: 0
   intra: cschulle
   login: tasertasertaser
