@@ -5583,9 +5583,9 @@
   event_counts:
     follow: 2
     fork: 0
-    public: 0
+    public: 1
     repo: 9
-    total: 11
+    total: 12
     watch_started: 0
   intra: hbhuiyan
   login: havi-b
