@@ -268,8 +268,8 @@
     follow: 22
     fork: 4
     public: 0
-    repo: 5
-    total: 57
+    repo: 6
+    total: 58
     watch_started: 26
   intra: kchenna
   login: hashb
@@ -4287,9 +4287,9 @@
   event_counts:
     follow: 7
     fork: 0
-    public: 0
+    public: 1
     repo: 1
-    total: 8
+    total: 9
     watch_started: 0
   intra: anjansse
   login: Themancrazy
@@ -4924,8 +4924,8 @@
     follow: 2
     fork: 0
     public: 0
-    repo: 7
-    total: 12
+    repo: 8
+    total: 13
     watch_started: 3
   intra: yserkez
   login: yserkez
