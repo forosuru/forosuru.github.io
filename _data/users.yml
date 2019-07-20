@@ -855,9 +855,9 @@
   event_counts:
     follow: 2
     fork: 0
-    public: 0
+    public: 1
     repo: 2
-    total: 9
+    total: 10
     watch_started: 5
   intra: yolabi
   login: Sino
