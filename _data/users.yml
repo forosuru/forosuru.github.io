@@ -3389,8 +3389,8 @@
     fork: 1
     public: 1
     repo: 1
-    total: 89
-    watch_started: 79
+    total: 90
+    watch_started: 80
   intra: scollet
   login: scollet1
   node_id: MDQ6VXNlcjI1MjU3OTg2
@@ -3482,10 +3482,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/25774045?v=4
   event_counts:
     follow: 12
-    fork: 5
+    fork: 6
     public: 8
     repo: 5
-    total: 33
+    total: 34
     watch_started: 3
   intra: jkaplin
   login: jkaplin
