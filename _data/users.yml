@@ -529,11 +529,11 @@
 5866757:
   avatar_url: https://avatars1.githubusercontent.com/u/5866757?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 3
     public: 0
     repo: 8
-    total: 38
+    total: 39
     watch_started: 21
   intra: myoung
   login: qst0
@@ -1157,8 +1157,8 @@
     fork: 1
     public: 0
     repo: 2
-    total: 21
-    watch_started: 14
+    total: 22
+    watch_started: 15
   intra: aakin-al
   login: akinfemi
   node_id: MDQ6VXNlcjEwNjAyNzk4
@@ -5509,11 +5509,11 @@
 41839667:
   avatar_url: https://avatars2.githubusercontent.com/u/41839667?v=4
   event_counts:
-    follow: 31
+    follow: 32
     fork: 0
     public: 0
     repo: 13
-    total: 48
+    total: 49
     watch_started: 4
   intra: kmira
   login: MrColour
