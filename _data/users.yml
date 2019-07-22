@@ -2729,8 +2729,8 @@
     fork: 1
     public: 2
     repo: 1
-    total: 43
-    watch_started: 26
+    total: 46
+    watch_started: 29
   intra: rzarate
   login: RafaelZarate
   node_id: MDQ6VXNlcjIyMTU4ODc3
@@ -3601,11 +3601,11 @@
 26353225:
   avatar_url: https://avatars1.githubusercontent.com/u/26353225?v=4
   event_counts:
-    follow: 25
+    follow: 26
     fork: 0
     public: 1
     repo: 0
-    total: 55
+    total: 56
     watch_started: 29
   intra: gmalpart
   login: regien
@@ -4945,11 +4945,11 @@
 36604610:
   avatar_url: https://avatars1.githubusercontent.com/u/36604610?v=4
   event_counts:
-    follow: 13
+    follow: 15
     fork: 0
     public: 0
     repo: 6
-    total: 20
+    total: 22
     watch_started: 1
   intra: cdimitro
   login: coolguycam
