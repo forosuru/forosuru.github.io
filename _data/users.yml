@@ -4070,10 +4070,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/29716181?v=4
   event_counts:
     follow: 1
-    fork: 0
+    fork: 1
     public: 1
     repo: 0
-    total: 2
+    total: 3
     watch_started: 0
   intra: mlu
   login: Lunairi
