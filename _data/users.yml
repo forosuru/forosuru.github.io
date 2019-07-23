@@ -4745,8 +4745,8 @@
     fork: 4
     public: 2
     repo: 5
-    total: 26
-    watch_started: 6
+    total: 27
+    watch_started: 7
   intra: fhong
   login: hongfu12321
   node_id: MDQ6VXNlcjM0ODMyMjc0
@@ -5701,11 +5701,11 @@
 43802339:
   avatar_url: https://avatars1.githubusercontent.com/u/43802339?v=4
   event_counts:
-    follow: 18
+    follow: 19
     fork: 0
     public: 0
     repo: 10
-    total: 29
+    total: 30
     watch_started: 1
   intra: tkatolik
   login: katolikyan
@@ -6025,11 +6025,11 @@
 47709344:
   avatar_url: https://avatars1.githubusercontent.com/u/47709344?v=4
   event_counts:
-    follow: 8
+    follow: 9
     fork: 0
     public: 0
     repo: 13
-    total: 21
+    total: 22
     watch_started: 0
   intra: jinpark
   login: Seojun-Park
