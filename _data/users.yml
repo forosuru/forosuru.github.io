@@ -1589,8 +1589,8 @@
     fork: 4
     public: 0
     repo: 8
-    total: 33
-    watch_started: 13
+    total: 36
+    watch_started: 16
   intra: yijhuang
   login: hyj1204
   node_id: MDQ6VXNlcjE0MjQ4MjQ1
@@ -3085,11 +3085,11 @@
 24196286:
   avatar_url: https://avatars3.githubusercontent.com/u/24196286?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 1
     public: 0
     repo: 1
-    total: 4
+    total: 5
     watch_started: 1
   intra: jaaaron
   login: jaaaron
@@ -4393,11 +4393,11 @@
 32313105:
   avatar_url: https://avatars2.githubusercontent.com/u/32313105?v=4
   event_counts:
-    follow: 0
+    follow: 2
     fork: 0
     public: 0
     repo: 0
-    total: 0
+    total: 2
     watch_started: 0
   intra: dmontoya
   login: dmontoyain
