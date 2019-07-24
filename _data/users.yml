@@ -617,8 +617,8 @@
     fork: 2
     public: 1
     repo: 12
-    total: 66
-    watch_started: 22
+    total: 67
+    watch_started: 23
   intra: jcope
   login: Jemmeh
   node_id: MDQ6VXNlcjY2NTMwODA=
@@ -3482,10 +3482,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/25774045?v=4
   event_counts:
     follow: 12
-    fork: 6
+    fork: 7
     public: 8
     repo: 5
-    total: 34
+    total: 35
     watch_started: 3
   intra: jkaplin
   login: jkaplin
