@@ -1573,11 +1573,11 @@
 14208431:
   avatar_url: https://avatars0.githubusercontent.com/u/14208431?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 1
     public: 0
     repo: 1
-    total: 2
+    total: 3
     watch_started: 0
   intra: jkalia
   login: JibranKalia
@@ -1801,11 +1801,11 @@
 16522024:
   avatar_url: https://avatars0.githubusercontent.com/u/16522024?v=4
   event_counts:
-    follow: 10
+    follow: 11
     fork: 2
     public: 1
     repo: 8
-    total: 21
+    total: 22
     watch_started: 0
   intra: jtahirov
   login: JohnnyJumper
@@ -5141,8 +5141,8 @@
     fork: 1
     public: 5
     repo: 11
-    total: 33
-    watch_started: 8
+    total: 34
+    watch_started: 9
   intra: jcasian
   login: JuanCasian
   node_id: MDQ6VXNlcjM4NDM2MzAz
