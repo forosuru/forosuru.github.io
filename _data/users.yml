@@ -796,8 +796,8 @@
     follow: 3
     fork: 1
     public: 0
-    repo: 0
-    total: 6
+    repo: 1
+    total: 7
     watch_started: 2
   intra: ssmith
   login: seanwessmith
@@ -2129,8 +2129,8 @@
     fork: 3
     public: 0
     repo: 5
-    total: 33
-    watch_started: 13
+    total: 34
+    watch_started: 14
   intra: nobrien
   login: nickisobrien
   node_id: MDQ6VXNlcjE4NjA4OTc5
@@ -3757,11 +3757,11 @@
 27903649:
   avatar_url: https://avatars0.githubusercontent.com/u/27903649?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 0
-    total: 18
+    total: 19
     watch_started: 18
   intra: vyudushk
   login: vyudushk
