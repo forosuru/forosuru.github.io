@@ -217,11 +217,11 @@
 3181870:
   avatar_url: https://avatars1.githubusercontent.com/u/3181870?v=4
   event_counts:
-    follow: 25
+    follow: 27
     fork: 4
     public: 0
     repo: 17
-    total: 264
+    total: 266
     watch_started: 218
   intra: mbrave
   login: michaelbrave
@@ -904,8 +904,8 @@
     follow: 0
     fork: 0
     public: 1
-    repo: 11
-    total: 13
+    repo: 13
+    total: 15
     watch_started: 1
   intra: alkozma
   login: NotHawthorne
@@ -1864,8 +1864,8 @@
     follow: 27
     fork: 0
     public: 0
-    repo: 28
-    total: 58
+    repo: 29
+    total: 59
     watch_started: 3
   intra: jadawson
   login: JamieDawson
@@ -5749,11 +5749,11 @@
 44511996:
   avatar_url: https://avatars3.githubusercontent.com/u/44511996?v=4
   event_counts:
-    follow: 6
+    follow: 8
     fork: 1
     public: 1
     repo: 3
-    total: 12
+    total: 14
     watch_started: 1
   intra: dromansk
   login: bigdiggysquiggle
@@ -5801,8 +5801,8 @@
     fork: 0
     public: 0
     repo: 5
-    total: 20
-    watch_started: 1
+    total: 40
+    watch_started: 21
   intra: mschroed
   login: CptBang
   node_id: MDQ6VXNlcjQ1MjQ3NTI5
