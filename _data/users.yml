@@ -1432,8 +1432,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 2
-    total: 2
+    repo: 3
+    total: 3
     watch_started: 0
   intra: ycao
   login: caoyucen
@@ -2450,10 +2450,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/20745447?v=4
   event_counts:
     follow: 18
-    fork: 1
+    fork: 2
     public: 0
     repo: 5
-    total: 24
+    total: 25
     watch_started: 0
   intra: dstolz
   login: donald-stolz
@@ -5569,11 +5569,11 @@
 42305636:
   avatar_url: https://avatars1.githubusercontent.com/u/42305636?v=4
   event_counts:
-    follow: 10
+    follow: 13
     fork: 4
     public: 11
     repo: 7
-    total: 35
+    total: 38
     watch_started: 3
   intra: ale-goff
   login: Alexx42
