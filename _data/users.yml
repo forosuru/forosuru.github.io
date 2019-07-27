@@ -424,8 +424,8 @@
     follow: 6
     fork: 1
     public: 1
-    repo: 4
-    total: 21
+    repo: 5
+    total: 22
     watch_started: 9
   intra: tmatthew
   login: Travmatth
@@ -3482,10 +3482,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/25774045?v=4
   event_counts:
     follow: 12
-    fork: 7
+    fork: 8
     public: 8
     repo: 5
-    total: 35
+    total: 36
     watch_started: 3
   intra: jkaplin
   login: jkaplin
