@@ -3386,11 +3386,11 @@
   avatar_url: https://avatars0.githubusercontent.com/u/25257986?v=4
   event_counts:
     follow: 7
-    fork: 1
-    public: 1
+    fork: 2
+    public: 2
     repo: 1
-    total: 91
-    watch_started: 81
+    total: 97
+    watch_started: 85
   intra: scollet
   login: scollet1
   node_id: MDQ6VXNlcjI1MjU3OTg2
@@ -5669,8 +5669,8 @@
     fork: 0
     public: 0
     repo: 12
-    total: 15
-    watch_started: 2
+    total: 16
+    watch_started: 3
   intra: knaumov
   login: KirillVNaumov
   node_id: MDQ6VXNlcjQzNjU3OTcy
