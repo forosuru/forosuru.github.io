@@ -4625,8 +4625,8 @@
     fork: 2
     public: 0
     repo: 5
-    total: 24
-    watch_started: 12
+    total: 25
+    watch_started: 13
   intra: khou
   login: UniKlo
   node_id: MDQ6VXNlcjMzNjkzOTQx
@@ -6003,9 +6003,9 @@
   event_counts:
     follow: 7
     fork: 1
-    public: 2
+    public: 3
     repo: 12
-    total: 22
+    total: 23
     watch_started: 0
   intra: mchi
   login: 2ne1ugly
