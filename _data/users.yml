@@ -1804,8 +1804,8 @@
     follow: 11
     fork: 2
     public: 1
-    repo: 9
-    total: 23
+    repo: 10
+    total: 24
     watch_started: 0
   intra: jtahirov
   login: JohnnyJumper
@@ -4468,8 +4468,8 @@
     follow: 2
     fork: 0
     public: 3
-    repo: 5
-    total: 14
+    repo: 6
+    total: 15
     watch_started: 4
   intra: agrodzin
   login: blairclair
@@ -4982,10 +4982,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/36874036?v=4
   event_counts:
     follow: 20
-    fork: 2
+    fork: 3
     public: 0
     repo: 1
-    total: 26
+    total: 27
     watch_started: 3
   intra: mmoros
   login: maxmoros
@@ -5917,11 +5917,11 @@
 46203279:
   avatar_url: https://avatars2.githubusercontent.com/u/46203279?v=4
   event_counts:
-    follow: 25
+    follow: 26
     fork: 0
     public: 0
     repo: 5
-    total: 34
+    total: 35
     watch_started: 4
   intra: marrodri
   login: marrodri
