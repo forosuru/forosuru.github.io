@@ -1361,8 +1361,8 @@
     fork: 3
     public: 0
     repo: 5
-    total: 360
-    watch_started: 297
+    total: 361
+    watch_started: 298
   intra: mfernand
   login: MatiasFMolinari
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -3952,8 +3952,8 @@
     follow: 5
     fork: 0
     public: 0
-    repo: 9
-    total: 14
+    repo: 10
+    total: 15
     watch_started: 0
   intra: chford
   login: Chris7Ford
@@ -4059,9 +4059,9 @@
   event_counts:
     follow: 0
     fork: 1
-    public: 0
+    public: 1
     repo: 1
-    total: 6
+    total: 7
     watch_started: 4
   intra: tyang
   login: rdmcolorz
@@ -6005,8 +6005,8 @@
     fork: 1
     public: 3
     repo: 12
-    total: 23
-    watch_started: 0
+    total: 24
+    watch_started: 1
   intra: mchi
   login: 2ne1ugly
   node_id: MDQ6VXNlcjQ3NjE2Nzcy
