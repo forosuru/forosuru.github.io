@@ -4885,11 +4885,11 @@
 36056254:
   avatar_url: https://avatars1.githubusercontent.com/u/36056254?v=4
   event_counts:
-    follow: 4
+    follow: 5
     fork: 9
     public: 1
     repo: 19
-    total: 39
+    total: 40
     watch_started: 6
   intra: akharrou
   login: akharrou
@@ -5510,10 +5510,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/41839667?v=4
   event_counts:
     follow: 32
-    fork: 0
+    fork: 1
     public: 0
     repo: 13
-    total: 49
+    total: 50
     watch_started: 4
   intra: kmira
   login: MrColour
