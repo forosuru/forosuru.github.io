@@ -325,11 +325,11 @@
 4257656:
   avatar_url: https://avatars3.githubusercontent.com/u/4257656?v=4
   event_counts:
-    follow: 4
+    follow: 5
     fork: 0
     public: 0
     repo: 5
-    total: 10
+    total: 11
     watch_started: 1
   intra: ssnelgro
   login: ssnelgrove314
@@ -1757,8 +1757,8 @@
     fork: 0
     public: 2
     repo: 6
-    total: 23
-    watch_started: 5
+    total: 24
+    watch_started: 6
   intra: jbeall
   login: jacksonwb
   node_id: MDQ6VXNlcjE2MjE0NzU3
@@ -3097,11 +3097,11 @@
 24237467:
   avatar_url: https://avatars2.githubusercontent.com/u/24237467?v=4
   event_counts:
-    follow: 0
+    follow: 3
     fork: 3
     public: 0
     repo: 12
-    total: 15
+    total: 18
     watch_started: 0
   intra: thomkim
   login: swp0107
@@ -4347,9 +4347,9 @@
   event_counts:
     follow: 0
     fork: 0
-    public: 4
+    public: 5
     repo: 4
-    total: 8
+    total: 9
     watch_started: 0
   intra: hasmith
   login: DStar1
