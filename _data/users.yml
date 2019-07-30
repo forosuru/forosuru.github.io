@@ -245,8 +245,8 @@
     fork: 0
     public: 0
     repo: 9
-    total: 9
-    watch_started: 0
+    total: 10
+    watch_started: 1
   intra: ewilliam
   login: ertw
   node_id: MDQ6VXNlcjM2NTA2MjM=
@@ -3721,11 +3721,11 @@
 27217085:
   avatar_url: https://avatars2.githubusercontent.com/u/27217085?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 1
     repo: 5
-    total: 6
+    total: 7
     watch_started: 0
   intra: fwutschk
   login: wutschkef42
@@ -6037,11 +6037,11 @@
 47834540:
   avatar_url: https://avatars2.githubusercontent.com/u/47834540?v=4
   event_counts:
-    follow: 5
+    follow: 8
     fork: 0
     public: 5
     repo: 3
-    total: 13
+    total: 16
     watch_started: 0
   intra: ibotnaru
   login: ibotnaru
