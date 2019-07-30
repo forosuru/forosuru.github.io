@@ -1336,8 +1336,8 @@
     follow: 8
     fork: 5
     public: 1
-    repo: 16
-    total: 41
+    repo: 17
+    total: 42
     watch_started: 11
   intra: chsu
   login: enhsu
@@ -2293,11 +2293,11 @@
 20023687:
   avatar_url: https://avatars1.githubusercontent.com/u/20023687?v=4
   event_counts:
-    follow: 56
+    follow: 57
     fork: 1
     public: 0
     repo: 8
-    total: 72
+    total: 73
     watch_started: 7
   intra: aabdrakh
   login: hhaakkimm
@@ -3617,8 +3617,8 @@
     fork: 2
     public: 0
     repo: 5
-    total: 45
-    watch_started: 37
+    total: 46
+    watch_started: 38
   intra: dfan
   login: dayfine
   node_id: MDQ6VXNlcjI2NDIzNTA0
@@ -6028,8 +6028,8 @@
     follow: 9
     fork: 0
     public: 0
-    repo: 13
-    total: 22
+    repo: 14
+    total: 23
     watch_started: 0
   intra: jinpark
   login: Seojun-Park
