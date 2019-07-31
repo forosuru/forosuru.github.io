@@ -2245,11 +2245,11 @@
 19478839:
   avatar_url: https://avatars0.githubusercontent.com/u/19478839?v=4
   event_counts:
-    follow: 4
+    follow: 5
     fork: 0
     public: 0
     repo: 0
-    total: 10
+    total: 11
     watch_started: 6
   intra: kdrumm
   login: kaidrumm
@@ -2321,8 +2321,8 @@
     fork: 0
     public: 3
     repo: 2
-    total: 29
-    watch_started: 17
+    total: 30
+    watch_started: 18
   intra: callen
   login: MrChafeits
   node_id: MDQ6VXNlcjIwMTk1Njg5
