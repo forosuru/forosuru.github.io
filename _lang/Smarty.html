@@ -1,0 +1,9 @@
+---
+layout: default
+language: Smarty
+filename: Smarty.html
+---
+{% assign events = site.events | where: "language","Smarty" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
