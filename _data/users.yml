@@ -269,8 +269,8 @@
     fork: 4
     public: 0
     repo: 6
-    total: 60
-    watch_started: 28
+    total: 61
+    watch_started: 29
   intra: kchenna
   login: hashb
   node_id: MDQ6VXNlcjM4MjEwNDM=
@@ -1885,11 +1885,11 @@
 16868451:
   avatar_url: https://avatars3.githubusercontent.com/u/16868451?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 1
     public: 0
     repo: 1
-    total: 8
+    total: 9
     watch_started: 0
   intra: saolivei
   login: SLO42
@@ -2729,8 +2729,8 @@
     fork: 1
     public: 2
     repo: 1
-    total: 55
-    watch_started: 36
+    total: 56
+    watch_started: 37
   intra: rzarate
   login: RafaelZarate
   node_id: MDQ6VXNlcjIyMTU4ODc3
@@ -3385,12 +3385,12 @@
 25257986:
   avatar_url: https://avatars0.githubusercontent.com/u/25257986?v=4
   event_counts:
-    follow: 7
+    follow: 8
     fork: 2
     public: 2
     repo: 1
-    total: 97
-    watch_started: 85
+    total: 99
+    watch_started: 86
   intra: scollet
   login: scollet1
   node_id: MDQ6VXNlcjI1MjU3OTg2
@@ -4766,11 +4766,11 @@
   avatar_url: https://avatars2.githubusercontent.com/u/35089259?v=4
   event_counts:
     follow: 1
-    fork: 1
+    fork: 2
     public: 0
     repo: 0
-    total: 7
-    watch_started: 5
+    total: 10
+    watch_started: 7
   intra: amwangal
   login: amwangale
   node_id: MDQ6VXNlcjM1MDg5MjU5
@@ -5953,11 +5953,11 @@
 46473420:
   avatar_url: https://avatars0.githubusercontent.com/u/46473420?v=4
   event_counts:
-    follow: 0
+    follow: 2
     fork: 1
     public: 0
     repo: 8
-    total: 9
+    total: 11
     watch_started: 0
   intra: snechaev
   login: NechaevaS
