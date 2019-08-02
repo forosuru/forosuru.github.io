@@ -1241,8 +1241,8 @@
     fork: 23
     public: 3
     repo: 2
-    total: 117
-    watch_started: 84
+    total: 119
+    watch_started: 86
   intra: jaleman
   login: jraleman
   node_id: MDQ6VXNlcjExMjIyOTgw
@@ -1361,8 +1361,8 @@
     fork: 3
     public: 0
     repo: 5
-    total: 362
-    watch_started: 298
+    total: 363
+    watch_started: 299
   intra: mfernand
   login: MatiasFMolinari
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -2126,10 +2126,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/18608979?v=4
   event_counts:
     follow: 12
-    fork: 3
+    fork: 4
     public: 0
     repo: 5
-    total: 35
+    total: 36
     watch_started: 15
   intra: nobrien
   login: nickisobrien
@@ -3700,8 +3700,8 @@
     follow: 3
     fork: 0
     public: 1
-    repo: 0
-    total: 4
+    repo: 1
+    total: 5
     watch_started: 0
   intra: eserebry
   login: eserebry
@@ -4286,10 +4286,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/32094053?v=4
   event_counts:
     follow: 8
-    fork: 0
+    fork: 1
     public: 1
     repo: 1
-    total: 10
+    total: 11
     watch_started: 0
   intra: anjansse
   login: Themancrazy
