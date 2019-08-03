@@ -157,12 +157,12 @@
 2700549:
   avatar_url: https://avatars3.githubusercontent.com/u/2700549?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 0
     public: 0
     repo: 1
-    total: 74
-    watch_started: 68
+    total: 76
+    watch_started: 69
   intra: crenfrow
   login: ChrisRenfrow
   node_id: MDQ6VXNlcjI3MDA1NDk=
@@ -269,8 +269,8 @@
     fork: 4
     public: 0
     repo: 6
-    total: 62
-    watch_started: 30
+    total: 63
+    watch_started: 31
   intra: kchenna
   login: hashb
   node_id: MDQ6VXNlcjM4MjEwNDM=
