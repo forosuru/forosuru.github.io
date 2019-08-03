@@ -2956,8 +2956,8 @@
     follow: 4
     fork: 0
     public: 2
-    repo: 2
-    total: 15
+    repo: 3
+    total: 16
     watch_started: 7
   intra: tpan
   login: tpan
@@ -3304,8 +3304,8 @@
     follow: 0
     fork: 1
     public: 0
-    repo: 0
-    total: 1
+    repo: 1
+    total: 2
     watch_started: 0
   intra: lyoung
   login: youngalou
@@ -5329,11 +5329,11 @@
 40524078:
   avatar_url: https://avatars2.githubusercontent.com/u/40524078?v=4
   event_counts:
-    follow: 10
+    follow: 11
     fork: 1
     public: 2
     repo: 3
-    total: 16
+    total: 17
     watch_started: 0
   intra: cschulle
   login: tasertasertaser
