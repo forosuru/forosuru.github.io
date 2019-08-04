@@ -853,11 +853,11 @@
 8571410:
   avatar_url: https://avatars3.githubusercontent.com/u/8571410?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 0
     public: 2
     repo: 2
-    total: 11
+    total: 12
     watch_started: 5
   intra: yolabi
   login: Sino
@@ -1865,8 +1865,8 @@
     fork: 0
     public: 0
     repo: 29
-    total: 59
-    watch_started: 3
+    total: 60
+    watch_started: 4
   intra: jadawson
   login: JamieDawson
   node_id: MDQ6VXNlcjE2ODQwNTc5
