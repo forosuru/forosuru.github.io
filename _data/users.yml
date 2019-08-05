@@ -1817,8 +1817,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 79
-    watch_started: 77
+    total: 80
+    watch_started: 78
   intra: irhett
   login: izcet
   node_id: MDQ6VXNlcjE2NTY4OTU2
@@ -3493,12 +3493,12 @@
 25859894:
   avatar_url: https://avatars2.githubusercontent.com/u/25859894?v=4
   event_counts:
-    follow: 13
+    follow: 14
     fork: 0
     public: 0
     repo: 8
-    total: 30
-    watch_started: 9
+    total: 32
+    watch_started: 10
   intra: juochen
   login: pootitan
   node_id: MDQ6VXNlcjI1ODU5ODk0
@@ -3697,11 +3697,11 @@
 27170840:
   avatar_url: https://avatars2.githubusercontent.com/u/27170840?v=4
   event_counts:
-    follow: 3
+    follow: 4
     fork: 0
     public: 1
     repo: 1
-    total: 5
+    total: 6
     watch_started: 0
   intra: eserebry
   login: eserebry
@@ -6001,11 +6001,11 @@
 47616772:
   avatar_url: https://avatars1.githubusercontent.com/u/47616772?v=4
   event_counts:
-    follow: 7
+    follow: 8
     fork: 1
     public: 3
     repo: 12
-    total: 24
+    total: 25
     watch_started: 1
   intra: mchi
   login: 2ne1ugly
