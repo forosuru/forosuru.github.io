@@ -4168,8 +4168,8 @@
     follow: 1
     fork: 1
     public: 1
-    repo: 0
-    total: 6
+    repo: 1
+    total: 7
     watch_started: 3
   intra: dpearson
   login: Wittiest
@@ -5116,8 +5116,8 @@
     follow: 15
     fork: 1
     public: 0
-    repo: 11
-    total: 27
+    repo: 12
+    total: 28
     watch_started: 0
   intra: apetrech
   login: petrechenko
