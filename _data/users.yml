@@ -217,12 +217,12 @@
 3181870:
   avatar_url: https://avatars1.githubusercontent.com/u/3181870?v=4
   event_counts:
-    follow: 27
+    follow: 28
     fork: 4
     public: 0
     repo: 17
-    total: 268
-    watch_started: 220
+    total: 270
+    watch_started: 221
   intra: mbrave
   login: michaelbrave
   node_id: MDQ6VXNlcjMxODE4NzA=
@@ -315,9 +315,9 @@
   event_counts:
     follow: 0
     fork: 2
-    public: 0
+    public: 1
     repo: 1
-    total: 3
+    total: 4
     watch_started: 0
   intra: aho
   login: annieholly
@@ -5189,8 +5189,8 @@
     fork: 0
     public: 0
     repo: 2
-    total: 4
-    watch_started: 1
+    total: 6
+    watch_started: 3
   intra: xzhu
   login: xlz447
   node_id: MDQ6VXNlcjM4ODI2MDg3
