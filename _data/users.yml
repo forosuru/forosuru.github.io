@@ -3086,10 +3086,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/24196286?v=4
   event_counts:
     follow: 2
-    fork: 1
+    fork: 2
     public: 0
     repo: 1
-    total: 5
+    total: 6
     watch_started: 1
   intra: jaaaron
   login: jaaaron
@@ -5177,8 +5177,8 @@
     fork: 0
     public: 6
     repo: 6
-    total: 28
-    watch_started: 5
+    total: 30
+    watch_started: 7
   intra: jochang
   login: MagicHatJo
   node_id: MDQ6VXNlcjM4NzE2MDEy
