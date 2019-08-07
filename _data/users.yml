@@ -1336,8 +1336,8 @@
     follow: 8
     fork: 5
     public: 1
-    repo: 17
-    total: 42
+    repo: 18
+    total: 43
     watch_started: 11
   intra: chsu
   login: enhsu
@@ -5175,9 +5175,9 @@
   event_counts:
     follow: 11
     fork: 0
-    public: 6
+    public: 7
     repo: 6
-    total: 30
+    total: 31
     watch_started: 7
   intra: jochang
   login: MagicHatJo
