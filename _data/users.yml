@@ -1238,11 +1238,11 @@
   avatar_url: https://avatars3.githubusercontent.com/u/11222980?v=4
   event_counts:
     follow: 5
-    fork: 23
+    fork: 24
     public: 3
     repo: 2
-    total: 120
-    watch_started: 87
+    total: 122
+    watch_started: 88
   intra: jaleman
   login: jraleman
   node_id: MDQ6VXNlcjExMjIyOTgw
@@ -2138,10 +2138,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/18649645?v=4
   event_counts:
     follow: 17
-    fork: 1
+    fork: 2
     public: 2
     repo: 18
-    total: 42
+    total: 43
     watch_started: 4
   intra: awindham
   login: arwn
