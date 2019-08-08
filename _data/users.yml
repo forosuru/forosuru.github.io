@@ -3257,8 +3257,8 @@
     fork: 0
     public: 1
     repo: 5
-    total: 30
-    watch_started: 20
+    total: 31
+    watch_started: 21
   intra: wlin
   login: autopylot
   node_id: MDQ6VXNlcjI0ODg1MDE1
@@ -3664,8 +3664,8 @@
     follow: 3
     fork: 0
     public: 0
-    repo: 0
-    total: 10
+    repo: 2
+    total: 12
     watch_started: 7
   intra: esurdam
   login: zomsc
@@ -5584,8 +5584,8 @@
     follow: 2
     fork: 0
     public: 2
-    repo: 15
-    total: 19
+    repo: 16
+    total: 20
     watch_started: 0
   intra: hbhuiyan
   login: havi-b
