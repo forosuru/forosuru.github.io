@@ -627,9 +627,9 @@
   event_counts:
     follow: 3
     fork: 2
-    public: 2
+    public: 4
     repo: 5
-    total: 15
+    total: 17
     watch_started: 3
   intra: fbueno-m
   login: fredmurakawa
