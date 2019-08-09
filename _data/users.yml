@@ -652,9 +652,9 @@
     follow: 13
     fork: 5
     public: 0
-    repo: 19
-    total: 60
-    watch_started: 23
+    repo: 20
+    total: 63
+    watch_started: 25
   intra: qpeng
   login: sayakura
   node_id: MDQ6VXNlcjY4MzQ3NjE=
@@ -5329,11 +5329,11 @@
 40524078:
   avatar_url: https://avatars2.githubusercontent.com/u/40524078?v=4
   event_counts:
-    follow: 11
+    follow: 12
     fork: 1
     public: 2
     repo: 3
-    total: 18
+    total: 19
     watch_started: 1
   intra: cschulle
   login: tasertasertaser
@@ -5416,8 +5416,8 @@
     follow: 1
     fork: 0
     public: 0
-    repo: 9
-    total: 10
+    repo: 10
+    total: 11
     watch_started: 0
   intra: vkostenk
   login: vkostenk
