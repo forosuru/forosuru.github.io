@@ -629,8 +629,8 @@
     fork: 2
     public: 4
     repo: 5
-    total: 17
-    watch_started: 3
+    total: 18
+    watch_started: 4
   intra: fbueno-m
   login: fredmurakawa
   node_id: MDQ6VXNlcjY2NTgxNTM=
@@ -4189,11 +4189,11 @@
 30615804:
   avatar_url: https://avatars3.githubusercontent.com/u/30615804?v=4
   event_counts:
-    follow: 17
+    follow: 22
     fork: 1
     public: 1
     repo: 31
-    total: 51
+    total: 56
     watch_started: 1
   intra: hnam
   login: naamoonoo
@@ -4693,11 +4693,11 @@
 34431218:
   avatar_url: https://avatars2.githubusercontent.com/u/34431218?v=4
   event_counts:
-    follow: 22
+    follow: 23
     fork: 3
     public: 13
     repo: 4
-    total: 43
+    total: 44
     watch_started: 1
   intra: acarlson
   login: acarlson99
@@ -5701,11 +5701,11 @@
 43802339:
   avatar_url: https://avatars1.githubusercontent.com/u/43802339?v=4
   event_counts:
-    follow: 20
+    follow: 21
     fork: 0
     public: 0
     repo: 11
-    total: 34
+    total: 35
     watch_started: 3
   intra: tkatolik
   login: katolikyan
@@ -6028,8 +6028,8 @@
     follow: 9
     fork: 0
     public: 0
-    repo: 14
-    total: 23
+    repo: 15
+    total: 24
     watch_started: 0
   intra: jinpark
   login: Seojun-Park
