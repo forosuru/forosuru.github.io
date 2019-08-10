@@ -1241,8 +1241,8 @@
     fork: 24
     public: 3
     repo: 2
-    total: 124
-    watch_started: 90
+    total: 125
+    watch_started: 91
   intra: jaleman
   login: jraleman
   node_id: MDQ6VXNlcjExMjIyOTgw
@@ -1357,12 +1357,12 @@
 12145119:
   avatar_url: https://avatars0.githubusercontent.com/u/12145119?v=4
   event_counts:
-    follow: 56
+    follow: 57
     fork: 3
     public: 0
     repo: 5
-    total: 365
-    watch_started: 301
+    total: 367
+    watch_started: 302
   intra: mfernand
   login: MatiasFMolinari
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -1948,8 +1948,8 @@
     follow: 2
     fork: 0
     public: 0
-    repo: 0
-    total: 4
+    repo: 1
+    total: 5
     watch_started: 2
   intra: klongric
   login: Klongrich
