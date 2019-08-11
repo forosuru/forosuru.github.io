@@ -341,8 +341,8 @@
     fork: 1
     public: 1
     repo: 2
-    total: 6
-    watch_started: 1
+    total: 7
+    watch_started: 2
   intra: avongdar
   login: vongdarakia
   node_id: MDQ6VXNlcjQyODUyNjE=
@@ -1945,11 +1945,11 @@
 17434599:
   avatar_url: https://avatars3.githubusercontent.com/u/17434599?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 0
     public: 0
     repo: 1
-    total: 5
+    total: 6
     watch_started: 2
   intra: klongric
   login: Klongrich
@@ -2725,11 +2725,11 @@
 22158877:
   avatar_url: https://avatars1.githubusercontent.com/u/22158877?v=4
   event_counts:
-    follow: 15
+    follow: 16
     fork: 1
     public: 2
     repo: 1
-    total: 71
+    total: 72
     watch_started: 52
   intra: rzarate
   login: RafaelZarate
