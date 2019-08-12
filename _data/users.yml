@@ -421,11 +421,11 @@
 4915173:
   avatar_url: https://avatars0.githubusercontent.com/u/4915173?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 1
     public: 1
     repo: 5
-    total: 26
+    total: 27
     watch_started: 13
   intra: tmatthew
   login: Travmatth
@@ -1949,8 +1949,8 @@
     fork: 0
     public: 0
     repo: 1
-    total: 16
-    watch_started: 12
+    total: 17
+    watch_started: 13
   intra: klongric
   login: Klongrich
   node_id: MDQ6VXNlcjE3NDM0NTk5
