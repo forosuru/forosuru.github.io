@@ -2992,8 +2992,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 0
-    total: 0
+    repo: 1
+    total: 1
     watch_started: 0
   intra: kcheung
   login: Kcheung42
@@ -3041,8 +3041,8 @@
     fork: 1
     public: 0
     repo: 1
-    total: 39
-    watch_started: 33
+    total: 40
+    watch_started: 34
   intra: jbrown
   login: panterarocks49
   node_id: MDQ6VXNlcjIzNjQ3ODM3
