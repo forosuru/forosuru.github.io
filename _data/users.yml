@@ -1949,8 +1949,8 @@
     fork: 0
     public: 0
     repo: 1
-    total: 6
-    watch_started: 2
+    total: 7
+    watch_started: 3
   intra: klongric
   login: Klongrich
   node_id: MDQ6VXNlcjE3NDM0NTk5
@@ -5509,11 +5509,11 @@
 41839667:
   avatar_url: https://avatars2.githubusercontent.com/u/41839667?v=4
   event_counts:
-    follow: 34
+    follow: 35
     fork: 1
     public: 0
     repo: 14
-    total: 53
+    total: 54
     watch_started: 4
   intra: kmira
   login: MrColour
@@ -5701,11 +5701,11 @@
 43802339:
   avatar_url: https://avatars1.githubusercontent.com/u/43802339?v=4
   event_counts:
-    follow: 22
+    follow: 23
     fork: 0
     public: 0
     repo: 11
-    total: 36
+    total: 37
     watch_started: 3
   intra: tkatolik
   login: katolikyan
