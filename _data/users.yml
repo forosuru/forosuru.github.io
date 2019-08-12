@@ -1913,8 +1913,8 @@
     fork: 2
     public: 2
     repo: 1
-    total: 48
-    watch_started: 36
+    total: 49
+    watch_started: 37
   intra: dgaitsgo
   login: dgaitsgo
   node_id: MDQ6VXNlcjE3MTI3NjIy
@@ -2033,8 +2033,8 @@
     fork: 0
     public: 8
     repo: 5
-    total: 21
-    watch_started: 7
+    total: 22
+    watch_started: 8
   intra: lhurt
   login: lhurt51
   node_id: MDQ6VXNlcjE4MTMwNDI4
@@ -5665,11 +5665,11 @@
 43657972:
   avatar_url: https://avatars0.githubusercontent.com/u/43657972?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 0
     repo: 12
-    total: 16
+    total: 17
     watch_started: 3
   intra: knaumov
   login: KirillVNaumov
