@@ -1478,10 +1478,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/13356428?v=4
   event_counts:
     follow: 3
-    fork: 2
+    fork: 3
     public: 3
     repo: 6
-    total: 22
+    total: 23
     watch_started: 8
   intra: bvautour
   login: bvautour
@@ -1949,8 +1949,8 @@
     fork: 0
     public: 0
     repo: 1
-    total: 17
-    watch_started: 13
+    total: 19
+    watch_started: 15
   intra: klongric
   login: Klongrich
   node_id: MDQ6VXNlcjE3NDM0NTk5
@@ -2140,8 +2140,8 @@
     follow: 17
     fork: 2
     public: 2
-    repo: 18
-    total: 44
+    repo: 19
+    total: 45
     watch_started: 5
   intra: awindham
   login: arwn
@@ -2729,8 +2729,8 @@
     fork: 1
     public: 2
     repo: 1
-    total: 72
-    watch_started: 52
+    total: 73
+    watch_started: 53
   intra: rzarate
   login: RafaelZarate
   node_id: MDQ6VXNlcjIyMTU4ODc3
@@ -5728,8 +5728,8 @@
     follow: 9
     fork: 3
     public: 0
-    repo: 6
-    total: 32
+    repo: 7
+    total: 33
     watch_started: 14
   intra: viwade
   login: vwade
@@ -5764,8 +5764,8 @@
     follow: 5
     fork: 3
     public: 0
-    repo: 11
-    total: 19
+    repo: 12
+    total: 20
     watch_started: 0
   intra: jtaylor
   login: jt-taylor
