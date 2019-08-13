@@ -1889,8 +1889,8 @@
     fork: 1
     public: 0
     repo: 1
-    total: 9
-    watch_started: 0
+    total: 10
+    watch_started: 1
   intra: saolivei
   login: SLO42
   node_id: MDQ6VXNlcjE2ODY4NDUx
@@ -2414,10 +2414,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/20563908?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 0
     repo: 0
-    total: 0
+    total: 1
     watch_started: 0
   intra: akalmyko
   login: amkv
@@ -3677,8 +3677,8 @@
     fork: 0
     public: 0
     repo: 3
-    total: 9
-    watch_started: 4
+    total: 10
+    watch_started: 5
   intra: elopez
   login: elopez17
   node_id: MDQ6VXNlcjI2OTQzNzUw
@@ -4876,8 +4876,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 1
-    total: 1
+    repo: 2
+    total: 2
     watch_started: 0
   intra: cgleason
   login: crgl
