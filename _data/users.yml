@@ -808,8 +808,8 @@
     follow: 1
     fork: 0
     public: 0
-    repo: 2
-    total: 4
+    repo: 3
+    total: 5
     watch_started: 1
   intra: pmigeon
   login: Pierre-Migeon
@@ -3497,8 +3497,8 @@
     fork: 0
     public: 0
     repo: 8
-    total: 32
-    watch_started: 10
+    total: 33
+    watch_started: 11
   intra: juochen
   login: pootitan
   node_id: MDQ6VXNlcjI1ODU5ODk0
@@ -3953,8 +3953,8 @@
     fork: 0
     public: 1
     repo: 14
-    total: 23
-    watch_started: 1
+    total: 25
+    watch_started: 3
   intra: chford
   login: Chris7Ford
   node_id: MDQ6VXNlcjI5MDAzNzQz
@@ -4792,9 +4792,9 @@
     follow: 6
     fork: 0
     public: 0
-    repo: 9
-    total: 15
-    watch_started: 0
+    repo: 10
+    total: 17
+    watch_started: 1
   intra: majones
   login: mjjply42
   node_id: MDQ6VXNlcjM1MjM0ODA2
