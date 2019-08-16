@@ -1,0 +1,11 @@
+---
+layout: default
+intra: snorth
+login: s-r-north
+id: 29343874
+avatar_url: https://avatars1.githubusercontent.com/u/29343874?v=4
+---
+{% assign events = site.events | where: "author_id","29343874" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
