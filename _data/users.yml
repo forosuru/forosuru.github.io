@@ -2750,10 +2750,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/22286783?v=4
   event_counts:
     follow: 13
-    fork: 1
+    fork: 3
     public: 2
     repo: 12
-    total: 28
+    total: 30
     watch_started: 0
   intra: bcastro
   login: brayanmcz
@@ -2953,11 +2953,11 @@
 23300788:
   avatar_url: https://avatars3.githubusercontent.com/u/23300788?v=4
   event_counts:
-    follow: 4
+    follow: 5
     fork: 0
     public: 2
     repo: 4
-    total: 17
+    total: 18
     watch_started: 7
   intra: tpan
   login: tpan
