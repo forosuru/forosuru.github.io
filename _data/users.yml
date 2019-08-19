@@ -4732,8 +4732,8 @@
     follow: 3
     fork: 1
     public: 23
-    repo: 13
-    total: 44
+    repo: 14
+    total: 45
     watch_started: 4
   intra: ashih
   login: ashih42
@@ -4925,8 +4925,8 @@
     fork: 0
     public: 0
     repo: 9
-    total: 14
-    watch_started: 3
+    total: 16
+    watch_started: 5
   intra: yserkez
   login: yserkez
   node_id: MDQ6VXNlcjM2NDU2OTAw
@@ -5331,9 +5331,9 @@
   event_counts:
     follow: 12
     fork: 1
-    public: 2
+    public: 3
     repo: 3
-    total: 19
+    total: 20
     watch_started: 1
   intra: cschulle
   login: tasertasertaser
@@ -5821,11 +5821,11 @@
 45500862:
   avatar_url: https://avatars3.githubusercontent.com/u/45500862?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 0
     public: 0
     repo: 2
-    total: 4
+    total: 5
     watch_started: 0
   intra: vsmolii
   login: VPetrovi4
