@@ -76,8 +76,8 @@
     follow: 0
     fork: 3
     public: 0
-    repo: 0
-    total: 5
+    repo: 1
+    total: 6
     watch_started: 2
   intra: amittal
   login: anurag4DSB
@@ -1864,8 +1864,8 @@
     follow: 27
     fork: 1
     public: 0
-    repo: 33
-    total: 65
+    repo: 34
+    total: 66
     watch_started: 4
   intra: jadawson
   login: JamieDawson
@@ -4732,8 +4732,8 @@
     follow: 3
     fork: 1
     public: 23
-    repo: 14
-    total: 45
+    repo: 15
+    total: 46
     watch_started: 4
   intra: ashih
   login: ashih42
@@ -5857,11 +5857,11 @@
 45823872:
   avatar_url: https://avatars3.githubusercontent.com/u/45823872?v=4
   event_counts:
-    follow: 13
+    follow: 14
     fork: 1
     public: 0
     repo: 10
-    total: 24
+    total: 25
     watch_started: 0
   intra: tcherret
   login: tcheee
