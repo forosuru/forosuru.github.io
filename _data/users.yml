@@ -2932,8 +2932,8 @@
     follow: 7
     fork: 0
     public: 0
-    repo: 7
-    total: 18
+    repo: 8
+    total: 19
     watch_started: 4
   intra: kbelov
   login: KonstantinBelov
@@ -3494,10 +3494,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/25859894?v=4
   event_counts:
     follow: 14
-    fork: 0
+    fork: 1
     public: 0
     repo: 8
-    total: 33
+    total: 34
     watch_started: 11
   intra: juochen
   login: pootitan
