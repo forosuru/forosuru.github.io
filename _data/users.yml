@@ -2749,11 +2749,11 @@
 22286783:
   avatar_url: https://avatars3.githubusercontent.com/u/22286783?v=4
   event_counts:
-    follow: 13
+    follow: 14
     fork: 3
     public: 2
     repo: 12
-    total: 30
+    total: 31
     watch_started: 0
   intra: bcastro
   login: brayanmcz
@@ -5473,11 +5473,11 @@
 41598527:
   avatar_url: https://avatars1.githubusercontent.com/u/41598527?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 4
     public: 2
     repo: 44
-    total: 51
+    total: 52
     watch_started: 0
   intra: hchung
   login: CodeChung
