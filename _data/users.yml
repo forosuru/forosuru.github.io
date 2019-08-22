@@ -2476,8 +2476,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 1
-    total: 1
+    repo: 2
+    total: 2
     watch_started: 0
   intra: chansen
   login: chan-sen
@@ -4877,8 +4877,8 @@
     fork: 0
     public: 0
     repo: 2
-    total: 3
-    watch_started: 1
+    total: 5
+    watch_started: 3
   intra: cgleason
   login: crgl
   node_id: MDQ6VXNlcjM2MDU1MzE0
