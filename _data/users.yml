@@ -2845,11 +2845,11 @@
 22582055:
   avatar_url: https://avatars0.githubusercontent.com/u/22582055?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 0
     public: 0
     repo: 11
-    total: 23
+    total: 24
     watch_started: 7
   intra: abarnett
   login: alan23394
@@ -5749,11 +5749,11 @@
 44511996:
   avatar_url: https://avatars3.githubusercontent.com/u/44511996?v=4
   event_counts:
-    follow: 8
+    follow: 9
     fork: 1
     public: 1
     repo: 3
-    total: 14
+    total: 15
     watch_started: 1
   intra: dromansk
   login: bigdiggysquiggle
@@ -5929,11 +5929,11 @@
 46205241:
   avatar_url: https://avatars2.githubusercontent.com/u/46205241?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 0
-    total: 0
+    total: 1
     watch_started: 0
   intra: maseidua
   login: Madisem
