@@ -497,8 +497,8 @@
     fork: 1
     public: 0
     repo: 2
-    total: 27
-    watch_started: 16
+    total: 28
+    watch_started: 17
   intra: dkotov
   login: stubisdon
   node_id: MDQ6VXNlcjU1MTQ0NzE=
@@ -1909,11 +1909,11 @@
 17127622:
   avatar_url: https://avatars0.githubusercontent.com/u/17127622?v=4
   event_counts:
-    follow: 7
+    follow: 8
     fork: 3
     public: 2
     repo: 1
-    total: 51
+    total: 52
     watch_started: 38
   intra: dgaitsgo
   login: dgaitsgo
@@ -4731,9 +4731,9 @@
   event_counts:
     follow: 3
     fork: 1
-    public: 23
+    public: 24
     repo: 16
-    total: 47
+    total: 48
     watch_started: 4
   intra: ashih
   login: ashih42
