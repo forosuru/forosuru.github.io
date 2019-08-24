@@ -1033,11 +1033,11 @@
 10013170:
   avatar_url: https://avatars3.githubusercontent.com/u/10013170?v=4
   event_counts:
-    follow: 12
+    follow: 13
     fork: 0
     public: 0
     repo: 7
-    total: 22
+    total: 23
     watch_started: 3
   intra: pdoherty
   login: paulrobertdoherty
@@ -2150,10 +2150,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/18673569?v=4
   event_counts:
     follow: 0
-    fork: 5
+    fork: 6
     public: 0
     repo: 1
-    total: 7
+    total: 8
     watch_started: 1
   intra: jgelbard
   login: joshgelbard
@@ -2701,11 +2701,11 @@
 22091600:
   avatar_url: https://avatars1.githubusercontent.com/u/22091600?v=4
   event_counts:
-    follow: 7
+    follow: 8
     fork: 1
     public: 0
     repo: 1
-    total: 116
+    total: 117
     watch_started: 107
   intra: gguiulfo
   login: giacomoguiulfo
@@ -3389,8 +3389,8 @@
     fork: 2
     public: 2
     repo: 1
-    total: 100
-    watch_started: 87
+    total: 101
+    watch_started: 88
   intra: scollet
   login: scollet1
   node_id: MDQ6VXNlcjI1MjU3OTg2
@@ -5296,8 +5296,8 @@
     follow: 1
     fork: 0
     public: 0
-    repo: 7
-    total: 9
+    repo: 8
+    total: 10
     watch_started: 1
   intra: smonroe
   login: smonroe4242
