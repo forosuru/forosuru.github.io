@@ -1611,9 +1611,9 @@
   event_counts:
     follow: 33
     fork: 8
-    public: 1
+    public: 2
     repo: 2
-    total: 92
+    total: 93
     watch_started: 48
   intra: ztisnes
   login: zedin27
