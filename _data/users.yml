@@ -1033,11 +1033,11 @@
 10013170:
   avatar_url: https://avatars3.githubusercontent.com/u/10013170?v=4
   event_counts:
-    follow: 13
+    follow: 14
     fork: 0
     public: 0
     repo: 7
-    total: 23
+    total: 24
     watch_started: 3
   intra: pdoherty
   login: paulrobertdoherty
@@ -4732,8 +4732,8 @@
     follow: 3
     fork: 1
     public: 24
-    repo: 18
-    total: 50
+    repo: 19
+    total: 51
     watch_started: 4
   intra: ashih
   login: ashih42
@@ -5329,11 +5329,11 @@
 40524078:
   avatar_url: https://avatars2.githubusercontent.com/u/40524078?v=4
   event_counts:
-    follow: 12
+    follow: 13
     fork: 1
     public: 3
     repo: 3
-    total: 20
+    total: 21
     watch_started: 1
   intra: cschulle
   login: tasertasertaser
