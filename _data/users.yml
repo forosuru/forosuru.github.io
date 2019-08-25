@@ -2980,8 +2980,8 @@
     follow: 6
     fork: 1
     public: 0
-    repo: 0
-    total: 7
+    repo: 1
+    total: 8
     watch_started: 0
   intra: rle
   login: sudoryan
@@ -4732,8 +4732,8 @@
     follow: 3
     fork: 1
     public: 24
-    repo: 19
-    total: 51
+    repo: 20
+    total: 52
     watch_started: 4
   intra: ashih
   login: ashih42
