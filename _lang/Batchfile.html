@@ -1,0 +1,9 @@
+---
+layout: default
+language: Batchfile
+filename: Batchfile.html
+---
+{% assign events = site.events | where: "language","Batchfile" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
