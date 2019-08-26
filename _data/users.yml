@@ -917,8 +917,8 @@
     fork: 0
     public: 0
     repo: 1
-    total: 1
-    watch_started: 0
+    total: 2
+    watch_started: 1
   intra: mburson
   login: maxburs
   node_id: MDQ6VXNlcjg4OTAzMTI=
@@ -1361,8 +1361,8 @@
     fork: 4
     public: 0
     repo: 5
-    total: 393
-    watch_started: 320
+    total: 394
+    watch_started: 321
   intra: mfernand
   login: MatiasFMolinari
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -4587,9 +4587,9 @@
   event_counts:
     follow: 1
     fork: 2
-    public: 0
+    public: 1
     repo: 19
-    total: 22
+    total: 23
     watch_started: 0
   intra: atemunov
   login: temun17
