@@ -37,11 +37,11 @@
 978263:
   avatar_url: https://avatars1.githubusercontent.com/u/978263?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 2
-    public: 6
+    public: 7
     repo: 1
-    total: 17
+    total: 19
     watch_started: 6
   intra: jkrause
   login: SuperSpyTX
@@ -137,8 +137,8 @@
     fork: 2
     public: 0
     repo: 11
-    total: 58
-    watch_started: 43
+    total: 59
+    watch_started: 44
   intra: seli
   login: Evilcat325
   node_id: MDQ6VXNlcjIzNTU3NjM=
