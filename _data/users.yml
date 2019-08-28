@@ -2872,8 +2872,8 @@
     follow: 2
     fork: 3
     public: 0
-    repo: 2
-    total: 32
+    repo: 3
+    total: 33
     watch_started: 25
   intra: rhaque
   login: Rahisulhaque
@@ -3481,11 +3481,11 @@
 25774045:
   avatar_url: https://avatars1.githubusercontent.com/u/25774045?v=4
   event_counts:
-    follow: 12
+    follow: 18
     fork: 8
     public: 8
     repo: 5
-    total: 36
+    total: 42
     watch_started: 3
   intra: jkaplin
   login: jkaplin
