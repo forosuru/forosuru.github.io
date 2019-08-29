@@ -125,8 +125,8 @@
     fork: 1
     public: 0
     repo: 0
-    total: 25
-    watch_started: 24
+    total: 27
+    watch_started: 26
   intra: drosa-ta
   login: drrosa
   node_id: MDQ6VXNlcjIzNDM1NTQ=
@@ -1862,10 +1862,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/16840579?v=4
   event_counts:
     follow: 29
-    fork: 1
+    fork: 2
     public: 0
     repo: 34
-    total: 68
+    total: 69
     watch_started: 4
   intra: jadawson
   login: JamieDawson
@@ -4357,12 +4357,12 @@
 32261113:
   avatar_url: https://avatars1.githubusercontent.com/u/32261113?v=4
   event_counts:
-    follow: 25
+    follow: 28
     fork: 7
     public: 1
     repo: 0
-    total: 68
-    watch_started: 35
+    total: 72
+    watch_started: 36
   intra: fredsiik
   login: fredsiika
   node_id: MDQ6VXNlcjMyMjYxMTEz
