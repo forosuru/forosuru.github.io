@@ -1849,11 +1849,11 @@
 16748473:
   avatar_url: https://avatars3.githubusercontent.com/u/16748473?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 1
     public: 1
     repo: 8
-    total: 11
+    total: 12
     watch_started: 1
   intra: mzaneri
   login: mzaneri
@@ -5764,8 +5764,8 @@
     follow: 12
     fork: 3
     public: 0
-    repo: 12
-    total: 27
+    repo: 13
+    total: 28
     watch_started: 0
   intra: jtaylor
   login: jt-taylor
