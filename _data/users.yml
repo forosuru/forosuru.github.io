@@ -1361,8 +1361,8 @@
     fork: 4
     public: 0
     repo: 5
-    total: 397
-    watch_started: 323
+    total: 398
+    watch_started: 324
   intra: mfernand
   login: MatiasFMolinari
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -1539,9 +1539,9 @@
   event_counts:
     follow: 1
     fork: 0
-    public: 0
+    public: 1
     repo: 10
-    total: 12
+    total: 13
     watch_started: 1
   intra: spoole
   login: spoole50
@@ -4732,8 +4732,8 @@
     follow: 3
     fork: 1
     public: 24
-    repo: 23
-    total: 55
+    repo: 24
+    total: 56
     watch_started: 4
   intra: ashih
   login: ashih42
@@ -5308,8 +5308,8 @@
     follow: 7
     fork: 0
     public: 2
-    repo: 10
-    total: 19
+    repo: 11
+    total: 20
     watch_started: 0
   intra: brfeltz
   login: elloimbrandon
