@@ -4166,10 +4166,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/30442914?v=4
   event_counts:
     follow: 1
-    fork: 1
+    fork: 2
     public: 1
     repo: 1
-    total: 10
+    total: 11
     watch_started: 6
   intra: dpearson
   login: Wittiest
@@ -4697,8 +4697,8 @@
     fork: 3
     public: 13
     repo: 4
-    total: 45
-    watch_started: 1
+    total: 46
+    watch_started: 2
   intra: acarlson
   login: acarlson99
   node_id: MDQ6VXNlcjM0NDMxMjE4
