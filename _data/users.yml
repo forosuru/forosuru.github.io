@@ -185,8 +185,8 @@
     fork: 1
     public: 0
     repo: 0
-    total: 1
-    watch_started: 0
+    total: 2
+    watch_started: 1
   intra: jpollore
   login: JacobPolloreno
   node_id: MDQ6VXNlcjI4OTQ4Nzg=
@@ -2461,11 +2461,11 @@
 20746155:
   avatar_url: https://avatars2.githubusercontent.com/u/20746155?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 2
     public: 0
     repo: 1
-    total: 4
+    total: 5
     watch_started: 0
   intra: rpassafa
   login: blockco
