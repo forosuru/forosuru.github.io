@@ -1,0 +1,9 @@
+---
+layout: default
+language: D
+filename: D.html
+---
+{% assign events = site.events | where: "language","D" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
