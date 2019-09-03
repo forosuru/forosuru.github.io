@@ -4695,9 +4695,9 @@
   event_counts:
     follow: 24
     fork: 3
-    public: 13
+    public: 14
     repo: 4
-    total: 46
+    total: 47
     watch_started: 2
   intra: acarlson
   login: acarlson99
@@ -4874,10 +4874,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/36055314?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 0
     repo: 3
-    total: 6
+    total: 7
     watch_started: 3
   intra: cgleason
   login: crgl
