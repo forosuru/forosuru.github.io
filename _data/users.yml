@@ -2464,8 +2464,8 @@
     follow: 2
     fork: 2
     public: 0
-    repo: 1
-    total: 5
+    repo: 2
+    total: 6
     watch_started: 0
   intra: rpassafa
   login: blockco
@@ -5485,11 +5485,11 @@
 41807219:
   avatar_url: https://avatars3.githubusercontent.com/u/41807219?v=4
   event_counts:
-    follow: 4
+    follow: 5
     fork: 2
     public: 0
     repo: 24
-    total: 42
+    total: 43
     watch_started: 12
   intra: jawatter
   login: wubswurld
