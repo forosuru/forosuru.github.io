@@ -1228,8 +1228,8 @@
     follow: 5
     fork: 0
     public: 0
-    repo: 5
-    total: 14
+    repo: 6
+    total: 15
     watch_started: 4
   intra: apasos-g
   login: RafaelPasos
@@ -1755,9 +1755,9 @@
   event_counts:
     follow: 10
     fork: 1
-    public: 5
+    public: 6
     repo: 6
-    total: 30
+    total: 31
     watch_started: 8
   intra: jbeall
   login: jacksonwb
@@ -2461,11 +2461,11 @@
 20746155:
   avatar_url: https://avatars2.githubusercontent.com/u/20746155?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 2
     public: 0
     repo: 2
-    total: 6
+    total: 7
     watch_started: 0
   intra: rpassafa
   login: blockco
