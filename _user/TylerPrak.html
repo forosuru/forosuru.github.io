@@ -1,0 +1,11 @@
+---
+layout: default
+intra: tprak
+login: TylerPrak
+id: 22762686
+avatar_url: https://avatars3.githubusercontent.com/u/22762686?v=4
+---
+{% assign events = site.events | where: "author_id","22762686" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
