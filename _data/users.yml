@@ -1025,8 +1025,8 @@
     fork: 0
     public: 1
     repo: 7
-    total: 27
-    watch_started: 16
+    total: 28
+    watch_started: 17
   intra: vlazuka
   login: recluse27
   node_id: MDQ6VXNlcjk5OTIwMzA=
@@ -2749,12 +2749,12 @@
 22286783:
   avatar_url: https://avatars3.githubusercontent.com/u/22286783?v=4
   event_counts:
-    follow: 14
+    follow: 15
     fork: 3
     public: 2
     repo: 12
-    total: 31
-    watch_started: 0
+    total: 33
+    watch_started: 1
   intra: bcastro
   login: brayanmcz
   node_id: MDQ6VXNlcjIyMjg2Nzgz
