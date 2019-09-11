@@ -1157,8 +1157,8 @@
     fork: 1
     public: 0
     repo: 2
-    total: 22
-    watch_started: 15
+    total: 23
+    watch_started: 16
   intra: aakin-al
   login: akinfemi
   node_id: MDQ6VXNlcjEwNjAyNzk4
@@ -2729,8 +2729,8 @@
     fork: 1
     public: 2
     repo: 1
-    total: 85
-    watch_started: 63
+    total: 87
+    watch_started: 65
   intra: rzarate
   login: RafaelZarate
   node_id: MDQ6VXNlcjIyMTU4ODc3
@@ -3508,8 +3508,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 3
-    total: 3
+    repo: 4
+    total: 4
     watch_started: 0
   intra: jkertgat
   login: ckoranec
@@ -5917,11 +5917,11 @@
 46203279:
   avatar_url: https://avatars2.githubusercontent.com/u/46203279?v=4
   event_counts:
-    follow: 29
+    follow: 30
     fork: 0
     public: 0
     repo: 6
-    total: 41
+    total: 42
     watch_started: 6
   intra: marrodri
   login: marrodri
