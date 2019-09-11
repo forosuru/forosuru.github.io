@@ -1,0 +1,9 @@
+---
+layout: default
+language: Jsonnet
+filename: Jsonnet.html
+---
+{% assign events = site.events | where: "language","Jsonnet" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
