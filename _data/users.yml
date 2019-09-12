@@ -145,11 +145,11 @@
 2559584:
   avatar_url: https://avatars0.githubusercontent.com/u/2559584?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 0
     public: 0
     repo: 0
-    total: 8
+    total: 9
     watch_started: 2
   intra: mgould
   login: theporpoise
@@ -688,8 +688,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 4
-    total: 4
+    repo: 5
+    total: 5
     watch_started: 0
   intra: ktjhan
   login: ktjhan
@@ -1241,8 +1241,8 @@
     fork: 24
     public: 3
     repo: 2
-    total: 140
-    watch_started: 104
+    total: 141
+    watch_started: 105
   intra: jaleman
   login: jraleman
   node_id: MDQ6VXNlcjExMjIyOTgw
@@ -2223,9 +2223,9 @@
   event_counts:
     follow: 6
     fork: 1
-    public: 3
+    public: 4
     repo: 5
-    total: 32
+    total: 33
     watch_started: 17
   intra: jcruz-y-
   login: josecyc
@@ -3916,8 +3916,8 @@
     follow: 4
     fork: 1
     public: 0
-    repo: 15
-    total: 21
+    repo: 16
+    total: 22
     watch_started: 1
   intra: calamber
   login: mueslimak3r
