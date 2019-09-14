@@ -557,8 +557,8 @@
     fork: 1
     public: 1
     repo: 11
-    total: 58
-    watch_started: 37
+    total: 59
+    watch_started: 38
   intra: chrsilva
   login: Crybyte
   node_id: MDQ6VXNlcjYwMjYyMjc=
@@ -1861,11 +1861,11 @@
 16840579:
   avatar_url: https://avatars2.githubusercontent.com/u/16840579?v=4
   event_counts:
-    follow: 31
+    follow: 32
     fork: 3
     public: 0
     repo: 35
-    total: 73
+    total: 74
     watch_started: 4
   intra: jadawson
   login: JamieDawson
@@ -2917,11 +2917,11 @@
 22827125:
   avatar_url: https://avatars2.githubusercontent.com/u/22827125?v=4
   event_counts:
-    follow: 14
+    follow: 15
     fork: 0
     public: 2
     repo: 5
-    total: 23
+    total: 24
     watch_started: 2
   intra: maljean
   login: Maljean
