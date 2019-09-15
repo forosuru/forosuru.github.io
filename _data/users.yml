@@ -493,11 +493,11 @@
 5514471:
   avatar_url: https://avatars3.githubusercontent.com/u/5514471?v=4
   event_counts:
-    follow: 10
+    follow: 11
     fork: 1
     public: 0
     repo: 2
-    total: 31
+    total: 32
     watch_started: 18
   intra: dkotov
   login: stubisdon
@@ -1613,8 +1613,8 @@
     fork: 9
     public: 2
     repo: 2
-    total: 101
-    watch_started: 50
+    total: 102
+    watch_started: 51
   intra: ztisnes
   login: zedin27
   node_id: MDQ6VXNlcjE0ODQxMjYx
@@ -1957,11 +1957,11 @@
 17593070:
   avatar_url: https://avatars0.githubusercontent.com/u/17593070?v=4
   event_counts:
-    follow: 22
+    follow: 24
     fork: 0
     public: 0
     repo: 4
-    total: 30
+    total: 32
     watch_started: 4
   intra: asansyzb
   login: asansyzb
@@ -5821,11 +5821,11 @@
 45500862:
   avatar_url: https://avatars3.githubusercontent.com/u/45500862?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 0
     public: 0
     repo: 2
-    total: 7
+    total: 8
     watch_started: 0
   intra: vsmolii
   login: VPetrovi4
