@@ -2846,11 +2846,11 @@
   avatar_url: https://avatars0.githubusercontent.com/u/22582055?v=4
   event_counts:
     follow: 6
-    fork: 0
+    fork: 1
     public: 0
     repo: 12
-    total: 26
-    watch_started: 8
+    total: 28
+    watch_started: 9
   intra: abarnett
   login: alan23394
   node_id: MDQ6VXNlcjIyNTgyMDU1
