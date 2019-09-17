@@ -1817,8 +1817,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 121
-    watch_started: 117
+    total: 122
+    watch_started: 118
   intra: irhett
   login: izcet
   node_id: MDQ6VXNlcjE2NTY4OTU2
@@ -2729,8 +2729,8 @@
     fork: 1
     public: 2
     repo: 1
-    total: 87
-    watch_started: 65
+    total: 91
+    watch_started: 69
   intra: rzarate
   login: RafaelZarate
   node_id: MDQ6VXNlcjIyMTU4ODc3
@@ -4732,8 +4732,8 @@
     follow: 3
     fork: 1
     public: 25
-    repo: 26
-    total: 59
+    repo: 27
+    total: 60
     watch_started: 4
   intra: ashih
   login: ashih42
@@ -6037,11 +6037,11 @@
 47834540:
   avatar_url: https://avatars2.githubusercontent.com/u/47834540?v=4
   event_counts:
-    follow: 16
+    follow: 17
     fork: 0
     public: 5
     repo: 6
-    total: 28
+    total: 29
     watch_started: 1
   intra: ibotnaru
   login: ibotnaru
