@@ -601,11 +601,11 @@
 6652610:
   avatar_url: https://avatars2.githubusercontent.com/u/6652610?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 0
-    total: 0
+    total: 1
     watch_started: 0
   intra: pkumar
   login: ToxicNachos
@@ -1790,10 +1790,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/16520152?v=4
   event_counts:
     follow: 3
-    fork: 6
+    fork: 7
     public: 0
     repo: 1
-    total: 19
+    total: 20
     watch_started: 9
   intra: jnederlo
   login: jnederlo
