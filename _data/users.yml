@@ -1790,10 +1790,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/16520152?v=4
   event_counts:
     follow: 3
-    fork: 7
+    fork: 8
     public: 0
     repo: 1
-    total: 20
+    total: 21
     watch_started: 9
   intra: jnederlo
   login: jnederlo
@@ -3421,11 +3421,11 @@
 25519889:
   avatar_url: https://avatars2.githubusercontent.com/u/25519889?v=4
   event_counts:
-    follow: 0
-    fork: 0
+    follow: 33
+    fork: 2
     public: 0
-    repo: 2
-    total: 2
+    repo: 3
+    total: 38
     watch_started: 0
   intra: iwagner
   login: dawag415
