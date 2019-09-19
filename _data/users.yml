@@ -425,8 +425,8 @@
     fork: 1
     public: 1
     repo: 6
-    total: 31
-    watch_started: 16
+    total: 33
+    watch_started: 18
   intra: tmatthew
   login: Travmatth
   node_id: MDQ6VXNlcjQ5MTUxNzM=
@@ -676,8 +676,8 @@
     follow: 1
     fork: 0
     public: 0
-    repo: 0
-    total: 2
+    repo: 1
+    total: 3
     watch_started: 1
   intra: evanheum
   login: eliotv
@@ -3567,9 +3567,9 @@
   event_counts:
     follow: 5
     fork: 0
-    public: 1
+    public: 2
     repo: 3
-    total: 14
+    total: 15
     watch_started: 5
   intra: dgerard
   login: dgerard42
