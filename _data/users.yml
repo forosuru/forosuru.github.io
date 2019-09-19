@@ -3937,11 +3937,11 @@
 28944029:
   avatar_url: https://avatars0.githubusercontent.com/u/28944029?v=4
   event_counts:
-    follow: 0
+    follow: 2
     fork: 0
     public: 0
     repo: 0
-    total: 0
+    total: 2
     watch_started: 0
   intra: rliu
   login: liuleen
@@ -5680,8 +5680,8 @@
     follow: 0
     fork: 4
     public: 2
-    repo: 7
-    total: 15
+    repo: 9
+    total: 17
     watch_started: 2
   intra: jamwang
   login: jameswangdr
