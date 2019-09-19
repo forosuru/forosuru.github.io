@@ -5,8 +5,8 @@
     fork: 6
     public: 0
     repo: 0
-    total: 10
-    watch_started: 4
+    total: 11
+    watch_started: 5
   intra: kyork
   login: riking
   node_id: MDQ6VXNlcjYyNzg5MQ==
@@ -831,9 +831,9 @@
   event_counts:
     follow: 1
     fork: 0
-    public: 0
+    public: 1
     repo: 1
-    total: 2
+    total: 3
     watch_started: 0
   intra: hkalia
   login: hkalia
@@ -5728,8 +5728,8 @@
     follow: 11
     fork: 4
     public: 0
-    repo: 8
-    total: 45
+    repo: 9
+    total: 46
     watch_started: 22
   intra: viwade
   login: vwade
@@ -5764,8 +5764,8 @@
     follow: 12
     fork: 3
     public: 0
-    repo: 15
-    total: 31
+    repo: 16
+    total: 32
     watch_started: 1
   intra: jtaylor
   login: jt-taylor
