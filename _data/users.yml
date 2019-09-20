@@ -529,11 +529,11 @@
 5866757:
   avatar_url: https://avatars1.githubusercontent.com/u/5866757?v=4
   event_counts:
-    follow: 8
+    follow: 42
     fork: 3
     public: 0
     repo: 9
-    total: 47
+    total: 81
     watch_started: 27
   intra: myoung
   login: qst0
@@ -3565,12 +3565,12 @@
 26103179:
   avatar_url: https://avatars0.githubusercontent.com/u/26103179?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 0
     public: 2
     repo: 3
-    total: 15
-    watch_started: 5
+    total: 17
+    watch_started: 6
   intra: dgerard
   login: dgerard42
   node_id: MDQ6VXNlcjI2MTAzMTc5
@@ -4467,9 +4467,9 @@
   event_counts:
     follow: 4
     fork: 1
-    public: 4
+    public: 5
     repo: 6
-    total: 19
+    total: 20
     watch_started: 4
   intra: agrodzin
   login: blairclair
@@ -4889,8 +4889,8 @@
     fork: 9
     public: 1
     repo: 23
-    total: 45
-    watch_started: 7
+    total: 46
+    watch_started: 8
   intra: akharrou
   login: akharrou
   node_id: MDQ6VXNlcjM2MDU2MjU0
@@ -5233,11 +5233,11 @@
 39091276:
   avatar_url: https://avatars1.githubusercontent.com/u/39091276?v=4
   event_counts:
-    follow: 1
+    follow: 3
     fork: 0
     public: 0
     repo: 9
-    total: 10
+    total: 12
     watch_started: 0
   intra: bvilla
   login: villabryan88
@@ -5308,8 +5308,8 @@
     follow: 8
     fork: 0
     public: 2
-    repo: 13
-    total: 23
+    repo: 14
+    total: 24
     watch_started: 0
   intra: brfeltz
   login: elloimbrandon
