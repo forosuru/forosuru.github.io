@@ -1537,11 +1537,11 @@
 13891114:
   avatar_url: https://avatars2.githubusercontent.com/u/13891114?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 1
     repo: 10
-    total: 13
+    total: 14
     watch_started: 1
   intra: spoole
   login: spoole50
@@ -2956,8 +2956,8 @@
     follow: 5
     fork: 0
     public: 3
-    repo: 4
-    total: 21
+    repo: 5
+    total: 22
     watch_started: 9
   intra: tpan
   login: tpan
@@ -3961,11 +3961,11 @@
 29007632:
   avatar_url: https://avatars3.githubusercontent.com/u/29007632?v=4
   event_counts:
-    follow: 0
+    follow: 2
     fork: 0
     public: 0
     repo: 0
-    total: 0
+    total: 2
     watch_started: 0
   intra: enennige
   login: elidlocke
@@ -5078,10 +5078,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/38030381?v=4
   event_counts:
     follow: 3
-    fork: 0
+    fork: 1
     public: 0
-    repo: 0
-    total: 4
+    repo: 1
+    total: 6
     watch_started: 1
   intra: rsilva
   login: rsilva42
@@ -5581,12 +5581,12 @@
 42398310:
   avatar_url: https://avatars3.githubusercontent.com/u/42398310?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 0
     public: 2
     repo: 17
-    total: 21
-    watch_started: 0
+    total: 24
+    watch_started: 2
   intra: hbhuiyan
   login: havi-b
   node_id: MDQ6VXNlcjQyMzk4MzEw
