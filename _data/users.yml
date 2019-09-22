@@ -2705,8 +2705,8 @@
     fork: 2
     public: 0
     repo: 1
-    total: 122
-    watch_started: 109
+    total: 123
+    watch_started: 110
   intra: gguiulfo
   login: giacomoguiulfo
   node_id: MDQ6VXNlcjIyMDkxNjAw
@@ -2871,9 +2871,9 @@
   event_counts:
     follow: 2
     fork: 3
-    public: 1
+    public: 2
     repo: 3
-    total: 35
+    total: 36
     watch_started: 26
   intra: rhaque
   login: Rahisulhaque
