@@ -2933,8 +2933,8 @@
     fork: 0
     public: 0
     repo: 11
-    total: 23
-    watch_started: 5
+    total: 24
+    watch_started: 6
   intra: kbelov
   login: KonstantinBelov
   node_id: MDQ6VXNlcjIyOTQyNjIx
@@ -5509,11 +5509,11 @@
 41839667:
   avatar_url: https://avatars2.githubusercontent.com/u/41839667?v=4
   event_counts:
-    follow: 36
+    follow: 37
     fork: 1
     public: 0
     repo: 16
-    total: 57
+    total: 58
     watch_started: 4
   intra: kmira
   login: MrColour
