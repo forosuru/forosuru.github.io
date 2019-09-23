@@ -913,11 +913,11 @@
 8890312:
   avatar_url: https://avatars1.githubusercontent.com/u/8890312?v=4
   event_counts:
-    follow: 0
+    follow: 2
     fork: 0
     public: 2
     repo: 2
-    total: 5
+    total: 7
     watch_started: 1
   intra: mburson
   login: maxburs
@@ -1361,8 +1361,8 @@
     fork: 6
     public: 0
     repo: 5
-    total: 437
-    watch_started: 353
+    total: 439
+    watch_started: 355
   intra: mfernand
   login: MatiasFMolinari
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -3389,8 +3389,8 @@
     fork: 2
     public: 2
     repo: 1
-    total: 108
-    watch_started: 93
+    total: 110
+    watch_started: 95
   intra: scollet
   login: scollet1
   node_id: MDQ6VXNlcjI1MjU3OTg2
@@ -3605,8 +3605,8 @@
     fork: 0
     public: 1
     repo: 0
-    total: 58
-    watch_started: 30
+    total: 60
+    watch_started: 32
   intra: gmalpart
   login: regien
   node_id: MDQ6VXNlcjI2MzUzMjI1
