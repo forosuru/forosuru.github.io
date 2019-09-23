@@ -915,9 +915,9 @@
   event_counts:
     follow: 0
     fork: 0
-    public: 0
+    public: 2
     repo: 2
-    total: 3
+    total: 5
     watch_started: 1
   intra: mburson
   login: maxburs
@@ -1357,12 +1357,12 @@
 12145119:
   avatar_url: https://avatars0.githubusercontent.com/u/12145119?v=4
   event_counts:
-    follow: 70
+    follow: 73
     fork: 6
     public: 0
     repo: 5
-    total: 430
-    watch_started: 349
+    total: 436
+    watch_started: 352
   intra: mfernand
   login: MatiasFMolinari
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -2849,8 +2849,8 @@
     fork: 2
     public: 0
     repo: 12
-    total: 29
-    watch_started: 9
+    total: 30
+    watch_started: 10
   intra: abarnett
   login: alan23394
   node_id: MDQ6VXNlcjIyNTgyMDU1
