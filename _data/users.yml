@@ -2702,10 +2702,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/22091600?v=4
   event_counts:
     follow: 10
-    fork: 2
+    fork: 3
     public: 0
     repo: 1
-    total: 123
+    total: 124
     watch_started: 110
   intra: gguiulfo
   login: giacomoguiulfo
@@ -5476,8 +5476,8 @@
     follow: 2
     fork: 4
     public: 2
-    repo: 51
-    total: 60
+    repo: 52
+    total: 61
     watch_started: 1
   intra: hchung
   login: CodeChung
