@@ -2716,8 +2716,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 0
-    total: 0
+    repo: 2
+    total: 2
     watch_started: 0
   intra: ayip
   login: ayip001
@@ -3567,9 +3567,9 @@
   event_counts:
     follow: 6
     fork: 0
-    public: 2
+    public: 3
     repo: 3
-    total: 17
+    total: 18
     watch_started: 6
   intra: dgerard
   login: dgerard42
@@ -4192,8 +4192,8 @@
     follow: 24
     fork: 3
     public: 1
-    repo: 32
-    total: 61
+    repo: 33
+    total: 62
     watch_started: 1
   intra: hnam
   login: naamoonoo
