@@ -809,8 +809,8 @@
     fork: 0
     public: 0
     repo: 9
-    total: 11
-    watch_started: 1
+    total: 12
+    watch_started: 2
   intra: pmigeon
   login: Pierre-Migeon
   node_id: MDQ6VXNlcjgzMjE2Mzk=
@@ -1325,8 +1325,8 @@
     fork: 1
     public: 0
     repo: 7
-    total: 15
-    watch_started: 7
+    total: 16
+    watch_started: 8
   intra: kblack
   login: kab11
   node_id: MDQ6VXNlcjEyMDQ0MDYz
@@ -3784,8 +3784,8 @@
     follow: 2
     fork: 0
     public: 6
-    repo: 2
-    total: 10
+    repo: 3
+    total: 11
     watch_started: 0
   intra: mikim
   login: mikim42
@@ -5980,8 +5980,8 @@
     follow: 7
     fork: 1
     public: 6
-    repo: 9
-    total: 23
+    repo: 10
+    total: 24
     watch_started: 0
   intra: jchiang-
   login: JCTGY
