@@ -2497,11 +2497,11 @@
 20824364:
   avatar_url: https://avatars3.githubusercontent.com/u/20824364?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 1
     public: 0
     repo: 1
-    total: 3
+    total: 4
     watch_started: 0
   intra: eurodrig
   login: Billano
@@ -3605,8 +3605,8 @@
     fork: 0
     public: 1
     repo: 0
-    total: 60
-    watch_started: 32
+    total: 61
+    watch_started: 33
   intra: gmalpart
   login: regien
   node_id: MDQ6VXNlcjI2MzUzMjI1
