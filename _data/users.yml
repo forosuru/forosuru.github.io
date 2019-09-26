@@ -253,11 +253,11 @@
 3651803:
   avatar_url: https://avatars3.githubusercontent.com/u/3651803?v=4
   event_counts:
-    follow: 3
+    follow: 5
     fork: 1
-    public: 0
+    public: 1
     repo: 1
-    total: 7
+    total: 10
     watch_started: 2
   intra: sgardner
   login: stephen-gardner
@@ -3697,11 +3697,11 @@
 27170840:
   avatar_url: https://avatars2.githubusercontent.com/u/27170840?v=4
   event_counts:
-    follow: 4
+    follow: 5
     fork: 0
     public: 1
     repo: 1
-    total: 6
+    total: 7
     watch_started: 0
   intra: eserebry
   login: eserebry
@@ -4945,11 +4945,11 @@
 36604610:
   avatar_url: https://avatars1.githubusercontent.com/u/36604610?v=4
   event_counts:
-    follow: 18
+    follow: 19
     fork: 0
     public: 0
     repo: 8
-    total: 28
+    total: 29
     watch_started: 2
   intra: cdimitro
   login: coolguycam
