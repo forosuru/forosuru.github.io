@@ -1730,10 +1730,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/16058877?v=4
   event_counts:
     follow: 0
-    fork: 1
+    fork: 2
     public: 1
     repo: 0
-    total: 6
+    total: 7
     watch_started: 4
   intra: sescolas
   login: samescolas
@@ -3041,8 +3041,8 @@
     fork: 1
     public: 0
     repo: 1
-    total: 46
-    watch_started: 40
+    total: 47
+    watch_started: 41
   intra: jbrown
   login: panterarocks49
   node_id: MDQ6VXNlcjIzNjQ3ODM3
@@ -3161,8 +3161,8 @@
     fork: 3
     public: 0
     repo: 0
-    total: 11
-    watch_started: 8
+    total: 13
+    watch_started: 10
   intra: ssalaues
   login: ssalaues
   node_id: MDQ6VXNlcjI0NDM5ODQ4
@@ -4513,11 +4513,11 @@
 32753024:
   avatar_url: https://avatars3.githubusercontent.com/u/32753024?v=4
   event_counts:
-    follow: 1
+    follow: 3
     fork: 0
     public: 0
     repo: 0
-    total: 1
+    total: 3
     watch_started: 0
   intra: akoller
   login: abkoll
