@@ -1357,12 +1357,12 @@
 12145119:
   avatar_url: https://avatars0.githubusercontent.com/u/12145119?v=4
   event_counts:
-    follow: 73
+    follow: 76
     fork: 6
     public: 0
     repo: 5
-    total: 445
-    watch_started: 361
+    total: 453
+    watch_started: 366
   intra: mfernand
   login: MatiasFMolinari
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -2729,8 +2729,8 @@
     fork: 1
     public: 2
     repo: 1
-    total: 94
-    watch_started: 72
+    total: 96
+    watch_started: 74
   intra: rzarate
   login: RafaelZarate
   node_id: MDQ6VXNlcjIyMTU4ODc3
@@ -3565,11 +3565,11 @@
 26103179:
   avatar_url: https://avatars0.githubusercontent.com/u/26103179?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 0
     public: 3
     repo: 3
-    total: 18
+    total: 19
     watch_started: 6
   intra: dgerard
   login: dgerard42
