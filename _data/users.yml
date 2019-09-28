@@ -533,8 +533,8 @@
     fork: 3
     public: 0
     repo: 9
-    total: 82
-    watch_started: 28
+    total: 83
+    watch_started: 29
   intra: myoung
   login: qst0
   node_id: MDQ6VXNlcjU4NjY3NTc=
@@ -1321,11 +1321,11 @@
 12044063:
   avatar_url: https://avatars1.githubusercontent.com/u/12044063?v=4
   event_counts:
-    follow: 0
+    follow: 2
     fork: 1
     public: 0
     repo: 7
-    total: 21
+    total: 23
     watch_started: 13
   intra: kblack
   login: kab11
