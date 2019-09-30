@@ -194,10 +194,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/2942306?v=4
   event_counts:
     follow: 2
-    fork: 1
+    fork: 2
     public: 0
     repo: 2
-    total: 5
+    total: 6
     watch_started: 0
   intra: rhallste
   login: rjhallsted
@@ -1936,8 +1936,8 @@
     follow: 4
     fork: 2
     public: 0
-    repo: 11
-    total: 22
+    repo: 12
+    total: 23
     watch_started: 5
   intra: ikozlov
   login: IvanKozlov95
@@ -3975,9 +3975,9 @@
   event_counts:
     follow: 1
     fork: 2
-    public: 0
+    public: 1
     repo: 9
-    total: 17
+    total: 18
     watch_started: 5
   intra: skunz
   login: SebastianKunz
