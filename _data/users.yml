@@ -533,8 +533,8 @@
     fork: 3
     public: 0
     repo: 9
-    total: 84
-    watch_started: 29
+    total: 85
+    watch_started: 30
   intra: myoung
   login: qst0
   node_id: MDQ6VXNlcjU4NjY3NTc=
@@ -1661,8 +1661,8 @@
     fork: 1
     public: 3
     repo: 2
-    total: 71
-    watch_started: 55
+    total: 73
+    watch_started: 57
   intra: syamada
   login: Yatty1
   node_id: MDQ6VXNlcjE1MTE4OTk5
@@ -1755,9 +1755,9 @@
   event_counts:
     follow: 11
     fork: 1
-    public: 7
+    public: 8
     repo: 6
-    total: 33
+    total: 34
     watch_started: 8
   intra: jbeall
   login: jacksonwb
