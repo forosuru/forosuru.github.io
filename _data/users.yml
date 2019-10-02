@@ -481,11 +481,11 @@
 5507707:
   avatar_url: https://avatars2.githubusercontent.com/u/5507707?v=4
   event_counts:
-    follow: 3
+    follow: 4
     fork: 2
     public: 0
     repo: 0
-    total: 31
+    total: 32
     watch_started: 26
   intra: azhuk
   login: ug02fast
@@ -4877,8 +4877,8 @@
     fork: 1
     public: 0
     repo: 3
-    total: 7
-    watch_started: 3
+    total: 8
+    watch_started: 4
   intra: cgleason
   login: crgl
   node_id: MDQ6VXNlcjM2MDU1MzE0
