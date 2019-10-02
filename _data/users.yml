@@ -1996,8 +1996,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 0
-    total: 0
+    repo: 1
+    total: 1
     watch_started: 0
   intra: blee
   login: blee3285
@@ -2392,8 +2392,8 @@
     follow: 4
     fork: 1
     public: 1
-    repo: 2
-    total: 14
+    repo: 3
+    total: 15
     watch_started: 6
   intra: lweinste
   login: LevinWeinstein
