@@ -5344,9 +5344,9 @@
     follow: 2
     fork: 1
     public: 0
-    repo: 0
-    total: 4
-    watch_started: 1
+    repo: 1
+    total: 6
+    watch_started: 2
   intra: jahong
   login: jahongOf1
   node_id: MDQ6VXNlcjQwNTI3OTU1
