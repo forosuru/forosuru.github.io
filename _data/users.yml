@@ -1888,8 +1888,8 @@
     follow: 7
     fork: 1
     public: 1
-    repo: 3
-    total: 15
+    repo: 4
+    total: 16
     watch_started: 3
   intra: saolivei
   login: SLO42
@@ -1933,12 +1933,12 @@
 17299647:
   avatar_url: https://avatars1.githubusercontent.com/u/17299647?v=4
   event_counts:
-    follow: 4
+    follow: 5
     fork: 2
     public: 0
     repo: 13
-    total: 24
-    watch_started: 5
+    total: 26
+    watch_started: 6
   intra: ikozlov
   login: IvanKozlov95
   node_id: MDQ6VXNlcjE3Mjk5NjQ3
@@ -2993,8 +2993,8 @@
     fork: 0
     public: 0
     repo: 3
-    total: 3
-    watch_started: 0
+    total: 8
+    watch_started: 5
   intra: kcheung
   login: Kcheung42
   node_id: MDQ6VXNlcjIzNTA2NzI5
