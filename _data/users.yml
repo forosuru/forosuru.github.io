@@ -1853,8 +1853,8 @@
     fork: 1
     public: 1
     repo: 9
-    total: 13
-    watch_started: 1
+    total: 14
+    watch_started: 2
   intra: mzaneri
   login: mzaneri
   node_id: MDQ6VXNlcjE2NzQ4NDcz
@@ -3385,12 +3385,12 @@
 25257986:
   avatar_url: https://avatars0.githubusercontent.com/u/25257986?v=4
   event_counts:
-    follow: 11
+    follow: 12
     fork: 2
     public: 2
     repo: 1
-    total: 113
-    watch_started: 97
+    total: 116
+    watch_started: 99
   intra: scollet
   login: scollet1
   node_id: MDQ6VXNlcjI1MjU3OTg2
