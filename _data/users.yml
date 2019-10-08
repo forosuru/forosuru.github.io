@@ -1885,12 +1885,12 @@
 16868451:
   avatar_url: https://avatars3.githubusercontent.com/u/16868451?v=4
   event_counts:
-    follow: 7
-    fork: 1
+    follow: 8
+    fork: 2
     public: 1
     repo: 4
-    total: 16
-    watch_started: 3
+    total: 19
+    watch_started: 4
   intra: saolivei
   login: SLO42
   node_id: MDQ6VXNlcjE2ODY4NDUx
@@ -4912,8 +4912,8 @@
     follow: 1
     fork: 0
     public: 0
-    repo: 31
-    total: 32
+    repo: 32
+    total: 33
     watch_started: 0
   intra: llee
   login: lununglee
