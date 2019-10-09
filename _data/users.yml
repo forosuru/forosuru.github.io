@@ -305,8 +305,8 @@
     fork: 1
     public: 1
     repo: 6
-    total: 18
-    watch_started: 9
+    total: 19
+    watch_started: 10
   intra: nmolina
   login: nilsonmolina
   node_id: MDQ6VXNlcjQxNDIyMzA=
@@ -1238,10 +1238,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/11222980?v=4
   event_counts:
     follow: 7
-    fork: 24
+    fork: 25
     public: 3
     repo: 2
-    total: 148
+    total: 149
     watch_started: 112
   intra: jaleman
   login: jraleman
