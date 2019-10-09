@@ -1755,9 +1755,9 @@
   event_counts:
     follow: 11
     fork: 1
-    public: 8
+    public: 9
     repo: 6
-    total: 34
+    total: 35
     watch_started: 8
   intra: jbeall
   login: jacksonwb
@@ -2080,8 +2080,8 @@
     follow: 0
     fork: 1
     public: 1
-    repo: 0
-    total: 2
+    repo: 1
+    total: 3
     watch_started: 0
   intra: cfranco
   login: cristianmusic7
@@ -2140,8 +2140,8 @@
     follow: 17
     fork: 6
     public: 3
-    repo: 23
-    total: 57
+    repo: 24
+    total: 58
     watch_started: 8
   intra: awindham
   login: arwn
