@@ -221,8 +221,8 @@
     fork: 6
     public: 0
     repo: 21
-    total: 359
-    watch_started: 297
+    total: 360
+    watch_started: 298
   intra: mbrave
   login: michaelbrave
   node_id: MDQ6VXNlcjMxODE4NzA=
@@ -266,10 +266,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/3821043?v=4
   event_counts:
     follow: 24
-    fork: 4
+    fork: 5
     public: 0
     repo: 6
-    total: 67
+    total: 68
     watch_started: 33
   intra: kchenna
   login: hashb
@@ -686,10 +686,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/7260523?v=4
   event_counts:
     follow: 0
-    fork: 8
+    fork: 9
     public: 0
     repo: 7
-    total: 15
+    total: 16
     watch_started: 0
   intra: ktjhan
   login: ktjhan
@@ -929,8 +929,8 @@
     fork: 1
     public: 0
     repo: 0
-    total: 1
-    watch_started: 0
+    total: 2
+    watch_started: 1
   intra: achan
   login: alexanderchan-scality
   node_id: MDQ6VXNlcjkyMDEwODk=
@@ -3493,11 +3493,11 @@
 25859894:
   avatar_url: https://avatars2.githubusercontent.com/u/25859894?v=4
   event_counts:
-    follow: 14
+    follow: 15
     fork: 1
     public: 1
     repo: 9
-    total: 37
+    total: 38
     watch_started: 12
   intra: juochen
   login: pootitan
@@ -4361,8 +4361,8 @@
     fork: 7
     public: 1
     repo: 0
-    total: 74
-    watch_started: 38
+    total: 75
+    watch_started: 39
   intra: fredsiik
   login: fredsiika
   node_id: MDQ6VXNlcjMyMjYxMTEz
