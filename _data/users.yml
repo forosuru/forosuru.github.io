@@ -686,10 +686,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/7260523?v=4
   event_counts:
     follow: 0
-    fork: 10
+    fork: 11
     public: 0
     repo: 7
-    total: 17
+    total: 18
     watch_started: 0
   intra: ktjhan
   login: ktjhan
@@ -1264,8 +1264,8 @@
     follow: 1
     fork: 7
     public: 1
-    repo: 4
-    total: 14
+    repo: 5
+    total: 15
     watch_started: 1
   intra: brabo-hi
   login: brabo-hi
@@ -2929,11 +2929,11 @@
 22942621:
   avatar_url: https://avatars0.githubusercontent.com/u/22942621?v=4
   event_counts:
-    follow: 7
+    follow: 9
     fork: 0
     public: 0
     repo: 12
-    total: 26
+    total: 28
     watch_started: 7
   intra: kbelov
   login: KonstantinBelov
