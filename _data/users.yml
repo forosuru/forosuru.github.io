@@ -5691,9 +5691,9 @@
   event_counts:
     follow: 10
     fork: 3
-    public: 0
+    public: 1
     repo: 5
-    total: 18
+    total: 19
     watch_started: 0
   intra: ieropaie
   login: eropaev
