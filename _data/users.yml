@@ -1885,11 +1885,11 @@
 16868451:
   avatar_url: https://avatars3.githubusercontent.com/u/16868451?v=4
   event_counts:
-    follow: 8
+    follow: 9
     fork: 2
     public: 2
     repo: 4
-    total: 20
+    total: 21
     watch_started: 4
   intra: saolivei
   login: SLO42
@@ -2138,10 +2138,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/18649645?v=4
   event_counts:
     follow: 17
-    fork: 6
+    fork: 7
     public: 3
     repo: 24
-    total: 58
+    total: 59
     watch_started: 8
   intra: awindham
   login: arwn
@@ -2705,8 +2705,8 @@
     fork: 3
     public: 0
     repo: 1
-    total: 135
-    watch_started: 121
+    total: 136
+    watch_started: 122
   intra: gguiulfo
   login: giacomoguiulfo
   node_id: MDQ6VXNlcjIyMDkxNjAw
