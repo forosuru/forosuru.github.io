@@ -5029,11 +5029,11 @@
 37248747:
   avatar_url: https://avatars3.githubusercontent.com/u/37248747?v=4
   event_counts:
-    follow: 20
+    follow: 21
     fork: 1
     public: 14
     repo: 1
-    total: 63
+    total: 64
     watch_started: 27
   intra: mjacques
   login: maxencejded
@@ -5533,11 +5533,11 @@
 42157414:
   avatar_url: https://avatars0.githubusercontent.com/u/42157414?v=4
   event_counts:
-    follow: 13
+    follow: 14
     fork: 9
     public: 0
     repo: 20
-    total: 49
+    total: 50
     watch_started: 7
   intra: lmalagon
   login: Lcmalagon
