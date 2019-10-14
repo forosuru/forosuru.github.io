@@ -2561,8 +2561,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 8
-    watch_started: 7
+    total: 9
+    watch_started: 8
   intra: lwang
   login: Lijun21
   node_id: MDQ6VXNlcjIwOTgxNzQ1
@@ -4697,8 +4697,8 @@
     fork: 9
     public: 16
     repo: 4
-    total: 58
-    watch_started: 4
+    total: 59
+    watch_started: 5
   intra: acarlson
   login: acarlson99
   node_id: MDQ6VXNlcjM0NDMxMjE4
@@ -5893,11 +5893,11 @@
 45909746:
   avatar_url: https://avatars0.githubusercontent.com/u/45909746?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 1
     public: 0
     repo: 4
-    total: 7
+    total: 8
     watch_started: 1
   intra: ghdesfos
   login: ghdesfos
