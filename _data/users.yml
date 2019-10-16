@@ -2561,8 +2561,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 9
-    watch_started: 8
+    total: 10
+    watch_started: 9
   intra: lwang
   login: Lijun21
   node_id: MDQ6VXNlcjIwOTgxNzQ1
@@ -4695,9 +4695,9 @@
   event_counts:
     follow: 25
     fork: 9
-    public: 16
+    public: 17
     repo: 4
-    total: 59
+    total: 60
     watch_started: 5
   intra: acarlson
   login: acarlson99
@@ -5509,11 +5509,11 @@
 41839667:
   avatar_url: https://avatars2.githubusercontent.com/u/41839667?v=4
   event_counts:
-    follow: 46
+    follow: 47
     fork: 1
     public: 0
     repo: 19
-    total: 70
+    total: 71
     watch_started: 4
   intra: kmira
   login: MrColour
