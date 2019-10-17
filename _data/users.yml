@@ -245,8 +245,8 @@
     fork: 0
     public: 0
     repo: 10
-    total: 12
-    watch_started: 2
+    total: 13
+    watch_started: 3
   intra: ewilliam
   login: ertw
   node_id: MDQ6VXNlcjM2NTA2MjM=
@@ -557,8 +557,8 @@
     fork: 1
     public: 1
     repo: 12
-    total: 62
-    watch_started: 39
+    total: 64
+    watch_started: 41
   intra: chrsilva
   login: Crybyte
   node_id: MDQ6VXNlcjYwMjYyMjc=
@@ -686,10 +686,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/7260523?v=4
   event_counts:
     follow: 0
-    fork: 14
+    fork: 15
     public: 0
     repo: 7
-    total: 21
+    total: 22
     watch_started: 0
   intra: ktjhan
   login: ktjhan
@@ -1361,8 +1361,8 @@
     fork: 6
     public: 0
     repo: 5
-    total: 495
-    watch_started: 399
+    total: 496
+    watch_started: 400
   intra: mfernand
   login: MatiasFMolinari
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -1852,8 +1852,8 @@
     follow: 1
     fork: 1
     public: 1
-    repo: 10
-    total: 15
+    repo: 11
+    total: 16
     watch_started: 2
   intra: mzaneri
   login: mzaneri
@@ -1862,10 +1862,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/16840579?v=4
   event_counts:
     follow: 34
-    fork: 5
+    fork: 6
     public: 0
     repo: 45
-    total: 88
+    total: 89
     watch_started: 4
   intra: jadawson
   login: JamieDawson
@@ -3421,11 +3421,11 @@
 25519889:
   avatar_url: https://avatars2.githubusercontent.com/u/25519889?v=4
   event_counts:
-    follow: 38
+    follow: 39
     fork: 5
     public: 0
     repo: 5
-    total: 48
+    total: 49
     watch_started: 0
   intra: iwagner
   login: dawag415
