@@ -5953,11 +5953,11 @@
 46473420:
   avatar_url: https://avatars0.githubusercontent.com/u/46473420?v=4
   event_counts:
-    follow: 2
+    follow: 4
     fork: 1
     public: 0
     repo: 11
-    total: 14
+    total: 16
     watch_started: 0
   intra: snechaev
   login: NechaevaS
@@ -5965,11 +5965,11 @@
 46500040:
   avatar_url: https://avatars2.githubusercontent.com/u/46500040?v=4
   event_counts:
-    follow: 17
+    follow: 18
     fork: 1
     public: 0
     repo: 12
-    total: 40
+    total: 41
     watch_started: 10
   intra: obuksha
   login: ksanabuka
