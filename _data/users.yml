@@ -3495,9 +3495,9 @@
   event_counts:
     follow: 16
     fork: 1
-    public: 1
+    public: 2
     repo: 9
-    total: 39
+    total: 40
     watch_started: 12
   intra: juochen
   login: pootitan
@@ -3877,11 +3877,11 @@
 28512672:
   avatar_url: https://avatars2.githubusercontent.com/u/28512672?v=4
   event_counts:
-    follow: 20
+    follow: 21
     fork: 29
     public: 0
-    repo: 19
-    total: 119
+    repo: 21
+    total: 122
     watch_started: 51
   intra: xwang
   login: daxwann
