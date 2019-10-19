@@ -4945,12 +4945,12 @@
 36604610:
   avatar_url: https://avatars1.githubusercontent.com/u/36604610?v=4
   event_counts:
-    follow: 20
+    follow: 21
     fork: 0
     public: 0
     repo: 9
-    total: 31
-    watch_started: 2
+    total: 33
+    watch_started: 3
   intra: cdimitro
   login: coolguycam
   node_id: MDQ6VXNlcjM2NjA0NjEw
@@ -4981,11 +4981,11 @@
 36874036:
   avatar_url: https://avatars2.githubusercontent.com/u/36874036?v=4
   event_counts:
-    follow: 20
+    follow: 21
     fork: 3
     public: 0
     repo: 1
-    total: 27
+    total: 28
     watch_started: 3
   intra: mmoros
   login: maxmoros
