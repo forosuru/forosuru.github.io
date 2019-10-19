@@ -1025,8 +1025,8 @@
     fork: 0
     public: 1
     repo: 7
-    total: 30
-    watch_started: 18
+    total: 34
+    watch_started: 22
   intra: vlazuka
   login: recluse27
   node_id: MDQ6VXNlcjk5OTIwMzA=
@@ -3878,10 +3878,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/28512672?v=4
   event_counts:
     follow: 21
-    fork: 29
+    fork: 32
     public: 0
     repo: 21
-    total: 122
+    total: 125
     watch_started: 51
   intra: xwang
   login: daxwann
