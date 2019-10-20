@@ -217,11 +217,11 @@
 3181870:
   avatar_url: https://avatars1.githubusercontent.com/u/3181870?v=4
   event_counts:
-    follow: 35
+    follow: 36
     fork: 6
     public: 0
     repo: 22
-    total: 369
+    total: 370
     watch_started: 306
   intra: mbrave
   login: michaelbrave
@@ -1790,10 +1790,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/16520152?v=4
   event_counts:
     follow: 3
-    fork: 8
+    fork: 9
     public: 0
     repo: 2
-    total: 22
+    total: 23
     watch_started: 9
   intra: jnederlo
   login: jnederlo
