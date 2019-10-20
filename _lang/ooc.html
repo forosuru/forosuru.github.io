@@ -1,0 +1,9 @@
+---
+layout: default
+language: ooc
+filename: ooc.html
+---
+{% assign events = site.events | where: "language","ooc" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
