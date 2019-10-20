@@ -2845,11 +2845,11 @@
 22582055:
   avatar_url: https://avatars0.githubusercontent.com/u/22582055?v=4
   event_counts:
-    follow: 8
+    follow: 9
     fork: 2
     public: 0
     repo: 12
-    total: 32
+    total: 33
     watch_started: 10
   intra: abarnett
   login: alanbarnett
@@ -4525,11 +4525,11 @@
 32823323:
   avatar_url: https://avatars2.githubusercontent.com/u/32823323?v=4
   event_counts:
-    follow: 4
+    follow: 5
     fork: 0
     public: 2
     repo: 6
-    total: 12
+    total: 13
     watch_started: 0
   intra: amagnan
   login: arnauze
@@ -5464,8 +5464,8 @@
     follow: 18
     fork: 0
     public: 2
-    repo: 9
-    total: 34
+    repo: 10
+    total: 35
     watch_started: 5
   intra: sechang
   login: sechang11
