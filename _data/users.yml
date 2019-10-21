@@ -221,8 +221,8 @@
     fork: 6
     public: 0
     repo: 22
-    total: 375
-    watch_started: 311
+    total: 377
+    watch_started: 313
   intra: mbrave
   login: michaelbrave
   node_id: MDQ6VXNlcjMxODE4NzA=
@@ -529,11 +529,11 @@
 5866757:
   avatar_url: https://avatars1.githubusercontent.com/u/5866757?v=4
   event_counts:
-    follow: 43
+    follow: 44
     fork: 3
     public: 0
     repo: 9
-    total: 86
+    total: 87
     watch_started: 31
   intra: myoung
   login: qst0
@@ -1609,11 +1609,11 @@
 14841261:
   avatar_url: https://avatars3.githubusercontent.com/u/14841261?v=4
   event_counts:
-    follow: 44
+    follow: 45
     fork: 9
     public: 2
     repo: 2
-    total: 118
+    total: 119
     watch_started: 61
   intra: ztisnes
   login: zedin27
