@@ -1935,9 +1935,9 @@
   event_counts:
     follow: 6
     fork: 2
-    public: 1
+    public: 2
     repo: 13
-    total: 29
+    total: 30
     watch_started: 7
   intra: ikozlov
   login: IvanKozlov95
@@ -4528,8 +4528,8 @@
     follow: 6
     fork: 0
     public: 2
-    repo: 6
-    total: 14
+    repo: 7
+    total: 15
     watch_started: 0
   intra: amagnan
   login: arnauze
