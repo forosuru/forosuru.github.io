@@ -133,11 +133,11 @@
 2355763:
   avatar_url: https://avatars1.githubusercontent.com/u/2355763?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 2
     public: 0
     repo: 11
-    total: 70
+    total: 71
     watch_started: 55
   intra: seli
   login: Evilcat325
@@ -1609,11 +1609,11 @@
 14841261:
   avatar_url: https://avatars3.githubusercontent.com/u/14841261?v=4
   event_counts:
-    follow: 47
+    follow: 48
     fork: 9
     public: 2
     repo: 2
-    total: 121
+    total: 122
     watch_started: 61
   intra: ztisnes
   login: zedin27
