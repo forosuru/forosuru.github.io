@@ -1933,12 +1933,12 @@
 17299647:
   avatar_url: https://avatars1.githubusercontent.com/u/17299647?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 2
     public: 2
     repo: 13
-    total: 31
-    watch_started: 8
+    total: 33
+    watch_started: 9
   intra: ikozlov
   login: IvanKozlov95
   node_id: MDQ6VXNlcjE3Mjk5NjQ3
@@ -2701,12 +2701,12 @@
 22091600:
   avatar_url: https://avatars1.githubusercontent.com/u/22091600?v=4
   event_counts:
-    follow: 11
+    follow: 12
     fork: 3
     public: 0
     repo: 1
-    total: 154
-    watch_started: 139
+    total: 157
+    watch_started: 141
   intra: gguiulfo
   login: giacomoguiulfo
   node_id: MDQ6VXNlcjIyMDkxNjAw
@@ -4609,11 +4609,11 @@
 33334378:
   avatar_url: https://avatars1.githubusercontent.com/u/33334378?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 1
     repo: 0
-    total: 2
+    total: 3
     watch_started: 0
   intra: apuel
   login: apuel
