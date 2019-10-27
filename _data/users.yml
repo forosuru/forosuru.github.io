@@ -529,12 +529,12 @@
 5866757:
   avatar_url: https://avatars1.githubusercontent.com/u/5866757?v=4
   event_counts:
-    follow: 44
+    follow: 45
     fork: 3
     public: 0
     repo: 9
-    total: 89
-    watch_started: 33
+    total: 92
+    watch_started: 35
   intra: myoung
   login: qst0
   node_id: MDQ6VXNlcjU4NjY3NTc=
@@ -781,12 +781,12 @@
 8131174:
   avatar_url: https://avatars3.githubusercontent.com/u/8131174?v=4
   event_counts:
-    follow: 6
+    follow: 8
     fork: 0
     public: 0
     repo: 0
-    total: 15
-    watch_started: 9
+    total: 18
+    watch_started: 10
   intra: erintala
   login: adagiox
   node_id: MDQ6VXNlcjgxMzExNzQ=
