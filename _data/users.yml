@@ -2920,8 +2920,8 @@
     follow: 16
     fork: 0
     public: 3
-    repo: 5
-    total: 26
+    repo: 6
+    total: 27
     watch_started: 2
   intra: maljean
   login: Maljean
@@ -6037,11 +6037,11 @@
 47834540:
   avatar_url: https://avatars2.githubusercontent.com/u/47834540?v=4
   event_counts:
-    follow: 21
+    follow: 22
     fork: 0
     public: 5
     repo: 9
-    total: 40
+    total: 41
     watch_started: 5
   intra: ibotnaru
   login: ibotnaru
