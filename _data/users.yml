@@ -785,8 +785,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 20
-    watch_started: 12
+    total: 21
+    watch_started: 13
   intra: erintala
   login: adagiox
   node_id: MDQ6VXNlcjgxMzExNzQ=
@@ -2929,11 +2929,11 @@
 22942621:
   avatar_url: https://avatars0.githubusercontent.com/u/22942621?v=4
   event_counts:
-    follow: 10
+    follow: 11
     fork: 0
     public: 0
     repo: 12
-    total: 29
+    total: 30
     watch_started: 7
   intra: kbelov
   login: KonstantinBelov
