@@ -4527,9 +4527,9 @@
   event_counts:
     follow: 6
     fork: 0
-    public: 3
+    public: 4
     repo: 7
-    total: 16
+    total: 17
     watch_started: 0
   intra: amagnan
   login: arnauze
