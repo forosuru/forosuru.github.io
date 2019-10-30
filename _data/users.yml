@@ -289,11 +289,11 @@
 3984265:
   avatar_url: https://avatars2.githubusercontent.com/u/3984265?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 12
     public: 0
     repo: 12
-    total: 35
+    total: 36
     watch_started: 6
   intra: jrameau
   login: R4meau
@@ -2869,11 +2869,11 @@
 22650155:
   avatar_url: https://avatars1.githubusercontent.com/u/22650155?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 7
     public: 2
     repo: 3
-    total: 47
+    total: 48
     watch_started: 30
   intra: rhaque
   login: Rahisulhaque
