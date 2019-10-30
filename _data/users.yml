@@ -1336,8 +1336,8 @@
     follow: 9
     fork: 5
     public: 1
-    repo: 18
-    total: 45
+    repo: 19
+    total: 46
     watch_started: 12
   intra: chsu
   login: enhsu
@@ -2729,8 +2729,8 @@
     fork: 1
     public: 2
     repo: 1
-    total: 114
-    watch_started: 91
+    total: 116
+    watch_started: 93
   intra: rzarate
   login: RafaelZarate
   node_id: MDQ6VXNlcjIyMTU4ODc3
@@ -3423,9 +3423,9 @@
   event_counts:
     follow: 40
     fork: 5
-    public: 0
+    public: 1
     repo: 6
-    total: 52
+    total: 53
     watch_started: 1
   intra: iwagner
   login: dawag415
@@ -3616,8 +3616,8 @@
     follow: 1
     fork: 3
     public: 0
-    repo: 6
-    total: 51
+    repo: 7
+    total: 52
     watch_started: 41
   intra: dfan
   login: dayfine
