@@ -637,11 +637,11 @@
 6814104:
   avatar_url: https://avatars1.githubusercontent.com/u/6814104?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 1
-    total: 1
+    total: 2
     watch_started: 0
   intra: mohhassa
   login: gitmohamed
@@ -3387,9 +3387,9 @@
   event_counts:
     follow: 12
     fork: 2
-    public: 2
+    public: 3
     repo: 1
-    total: 121
+    total: 122
     watch_started: 104
   intra: scollet
   login: scollet1
@@ -3482,10 +3482,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/25774045?v=4
   event_counts:
     follow: 18
-    fork: 10
+    fork: 11
     public: 8
     repo: 5
-    total: 44
+    total: 45
     watch_started: 3
   intra: jkaplin
   login: jkaplin
