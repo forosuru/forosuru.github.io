@@ -125,8 +125,8 @@
     fork: 2
     public: 0
     repo: 0
-    total: 39
-    watch_started: 37
+    total: 40
+    watch_started: 38
   intra: drosa-ta
   login: drrosa
   node_id: MDQ6VXNlcjIzNDM1NTQ=
@@ -529,12 +529,12 @@
 5866757:
   avatar_url: https://avatars1.githubusercontent.com/u/5866757?v=4
   event_counts:
-    follow: 45
+    follow: 46
     fork: 3
     public: 0
     repo: 9
-    total: 92
-    watch_started: 35
+    total: 94
+    watch_started: 36
   intra: myoung
   login: qst0
   node_id: MDQ6VXNlcjU4NjY3NTc=
@@ -5821,11 +5821,11 @@
 45500862:
   avatar_url: https://avatars3.githubusercontent.com/u/45500862?v=4
   event_counts:
-    follow: 10
+    follow: 11
     fork: 2
     public: 0
     repo: 10
-    total: 22
+    total: 23
     watch_started: 0
   intra: vsmolii
   login: VPetrovi4
