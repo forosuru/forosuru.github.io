@@ -1913,8 +1913,8 @@
     fork: 4
     public: 2
     repo: 2
-    total: 66
-    watch_started: 48
+    total: 67
+    watch_started: 49
   intra: dgaitsgo
   login: dgaitsgo
   node_id: MDQ6VXNlcjE3MTI3NjIy
@@ -3385,12 +3385,12 @@
 25257986:
   avatar_url: https://avatars0.githubusercontent.com/u/25257986?v=4
   event_counts:
-    follow: 12
+    follow: 13
     fork: 2
     public: 4
     repo: 1
-    total: 123
-    watch_started: 104
+    total: 125
+    watch_started: 105
   intra: scollet
   login: scollet1
   node_id: MDQ6VXNlcjI1MjU3OTg2
