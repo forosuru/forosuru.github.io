@@ -2524,8 +2524,8 @@
     follow: 11
     fork: 0
     public: 0
-    repo: 0
-    total: 12
+    repo: 1
+    total: 13
     watch_started: 1
   intra: apineda
   login: humbamp123
@@ -2920,8 +2920,8 @@
     follow: 16
     fork: 0
     public: 3
-    repo: 9
-    total: 30
+    repo: 12
+    total: 33
     watch_started: 2
   intra: maljean
   login: Maljean
@@ -3603,9 +3603,9 @@
   event_counts:
     follow: 27
     fork: 0
-    public: 1
+    public: 2
     repo: 0
-    total: 62
+    total: 63
     watch_started: 34
   intra: gmalpart
   login: regien
