@@ -3724,8 +3724,8 @@
     follow: 1
     fork: 0
     public: 1
-    repo: 7
-    total: 9
+    repo: 8
+    total: 10
     watch_started: 0
   intra: fwutschk
   login: wutschkef42
@@ -4876,8 +4876,8 @@
     follow: 0
     fork: 3
     public: 0
-    repo: 3
-    total: 10
+    repo: 4
+    total: 11
     watch_started: 4
   intra: cgleason
   login: crgl
