@@ -2920,8 +2920,8 @@
     follow: 16
     fork: 0
     public: 3
-    repo: 12
-    total: 33
+    repo: 13
+    total: 34
     watch_started: 2
   intra: maljean
   login: Maljean
@@ -3365,8 +3365,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 0
-    watch_started: 0
+    total: 1
+    watch_started: 1
   intra: jeftekha
   login: jeftekhari
   node_id: MDQ6VXNlcjI1MjEyNTIz
@@ -3389,8 +3389,8 @@
     fork: 2
     public: 5
     repo: 1
-    total: 131
-    watch_started: 109
+    total: 133
+    watch_started: 111
   intra: scollet
   login: scollet1
   node_id: MDQ6VXNlcjI1MjU3OTg2
@@ -5824,8 +5824,8 @@
     follow: 11
     fork: 2
     public: 0
-    repo: 10
-    total: 23
+    repo: 11
+    total: 24
     watch_started: 0
   intra: vsmolii
   login: VPetrovi4
