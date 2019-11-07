@@ -1624,8 +1624,8 @@
     follow: 20
     fork: 1
     public: 1
-    repo: 24
-    total: 59
+    repo: 25
+    total: 60
     watch_started: 13
   intra: jcrisp
   login: zill4
@@ -3362,10 +3362,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/25212523?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 0
     repo: 0
-    total: 1
+    total: 2
     watch_started: 1
   intra: jeftekha
   login: jeftekhari
@@ -3389,8 +3389,8 @@
     fork: 2
     public: 5
     repo: 1
-    total: 133
-    watch_started: 111
+    total: 134
+    watch_started: 112
   intra: scollet
   login: scollet1
   node_id: MDQ6VXNlcjI1MjU3OTg2
