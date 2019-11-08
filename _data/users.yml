@@ -1037,8 +1037,8 @@
     fork: 0
     public: 0
     repo: 7
-    total: 27
-    watch_started: 5
+    total: 29
+    watch_started: 7
   intra: pdoherty
   login: paulrobertdoherty
   node_id: MDQ6VXNlcjEwMDEzMTcw
@@ -1885,11 +1885,11 @@
 16868451:
   avatar_url: https://avatars3.githubusercontent.com/u/16868451?v=4
   event_counts:
-    follow: 10
+    follow: 11
     fork: 3
     public: 2
     repo: 4
-    total: 24
+    total: 25
     watch_started: 5
   intra: saolivei
   login: SLO42
@@ -2234,10 +2234,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/19397632?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 0
     repo: 1
-    total: 3
+    total: 4
     watch_started: 2
   intra: rnowell
   login: robertnowell
@@ -2729,8 +2729,8 @@
     fork: 1
     public: 2
     repo: 1
-    total: 122
-    watch_started: 99
+    total: 123
+    watch_started: 100
   intra: rzarate
   login: RafaelZarate
   node_id: MDQ6VXNlcjIyMTU4ODc3
@@ -3277,11 +3277,11 @@
 24942820:
   avatar_url: https://avatars2.githubusercontent.com/u/24942820?v=4
   event_counts:
-    follow: 4
+    follow: 5
     fork: 3
     public: 0
     repo: 0
-    total: 14
+    total: 15
     watch_started: 7
   intra: jchow
   login: kraxx
