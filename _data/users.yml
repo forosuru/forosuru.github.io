@@ -497,8 +497,8 @@
     fork: 1
     public: 0
     repo: 2
-    total: 33
-    watch_started: 19
+    total: 35
+    watch_started: 21
   intra: dkotov
   login: stubisdon
   node_id: MDQ6VXNlcjU1MTQ0NzE=
@@ -2919,9 +2919,9 @@
   event_counts:
     follow: 16
     fork: 0
-    public: 3
+    public: 4
     repo: 13
-    total: 34
+    total: 35
     watch_started: 2
   intra: maljean
   login: Maljean
