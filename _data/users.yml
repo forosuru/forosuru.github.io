@@ -424,8 +424,8 @@
     follow: 7
     fork: 1
     public: 1
-    repo: 9
-    total: 41
+    repo: 10
+    total: 42
     watch_started: 23
   intra: tmatthew
   login: Travmatth
@@ -2317,11 +2317,11 @@
 20195689:
   avatar_url: https://avatars0.githubusercontent.com/u/20195689?v=4
   event_counts:
-    follow: 11
+    follow: 12
     fork: 1
     public: 8
     repo: 2
-    total: 60
+    total: 61
     watch_started: 38
   intra: callen
   login: MrChafeits
@@ -2705,8 +2705,8 @@
     fork: 3
     public: 0
     repo: 1
-    total: 167
-    watch_started: 151
+    total: 168
+    watch_started: 152
   intra: gguiulfo
   login: giacomoguiulfo
   node_id: MDQ6VXNlcjIyMDkxNjAw
@@ -4889,8 +4889,8 @@
     fork: 9
     public: 1
     repo: 24
-    total: 60
-    watch_started: 8
+    total: 61
+    watch_started: 9
   intra: akharrou
   login: akharrou
   node_id: MDQ6VXNlcjM2MDU2MjU0
@@ -4948,8 +4948,8 @@
     follow: 22
     fork: 1
     public: 0
-    repo: 13
-    total: 39
+    repo: 14
+    total: 40
     watch_started: 3
   intra: cdimitro
   login: coolguycam
