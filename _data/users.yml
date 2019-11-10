@@ -3495,9 +3495,9 @@
   event_counts:
     follow: 16
     fork: 2
-    public: 5
+    public: 6
     repo: 10
-    total: 46
+    total: 47
     watch_started: 13
   intra: juochen
   login: pootitan
