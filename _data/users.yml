@@ -2165,8 +2165,8 @@
     fork: 0
     public: 0
     repo: 2
-    total: 15
-    watch_started: 5
+    total: 16
+    watch_started: 6
   intra: wfung
   login: yayimadinosaur
   node_id: MDQ6VXNlcjE4Njc0MTMx
@@ -6037,11 +6037,11 @@
 47834540:
   avatar_url: https://avatars2.githubusercontent.com/u/47834540?v=4
   event_counts:
-    follow: 26
+    follow: 27
     fork: 0
     public: 5
     repo: 9
-    total: 46
+    total: 47
     watch_started: 6
   intra: ibotnaru
   login: ibotnaru
