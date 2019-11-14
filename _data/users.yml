@@ -365,8 +365,8 @@
     fork: 0
     public: 0
     repo: 1
-    total: 11
-    watch_started: 10
+    total: 12
+    watch_started: 11
   intra: jchung
   login: jchung05
   node_id: MDQ6VXNlcjQ0NDMwNDE=
@@ -4527,9 +4527,9 @@
   event_counts:
     follow: 7
     fork: 0
-    public: 4
+    public: 5
     repo: 7
-    total: 18
+    total: 19
     watch_started: 0
   intra: amagnan
   login: arnauze
@@ -5701,11 +5701,11 @@
 43802339:
   avatar_url: https://avatars1.githubusercontent.com/u/43802339?v=4
   event_counts:
-    follow: 31
+    follow: 38
     fork: 0
     public: 0
     repo: 14
-    total: 48
+    total: 55
     watch_started: 3
   intra: tkatolik
   login: katolikyan
@@ -5764,8 +5764,8 @@
     follow: 12
     fork: 3
     public: 0
-    repo: 19
-    total: 35
+    repo: 20
+    total: 36
     watch_started: 1
   intra: jtaylor
   login: jt-taylor
