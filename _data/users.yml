@@ -805,11 +805,11 @@
 8321639:
   avatar_url: https://avatars0.githubusercontent.com/u/8321639?v=4
   event_counts:
-    follow: 4
+    follow: 5
     fork: 1
     public: 0
     repo: 10
-    total: 18
+    total: 19
     watch_started: 3
   intra: pmigeon
   login: Pierre-Migeon
@@ -1241,8 +1241,8 @@
     fork: 25
     public: 3
     repo: 2
-    total: 151
-    watch_started: 114
+    total: 152
+    watch_started: 115
   intra: jaleman
   login: jraleman
   node_id: MDQ6VXNlcjExMjIyOTgw
@@ -3482,10 +3482,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/25774045?v=4
   event_counts:
     follow: 18
-    fork: 17
+    fork: 18
     public: 8
     repo: 5
-    total: 51
+    total: 52
     watch_started: 3
   intra: jkaplin
   login: jkaplin
