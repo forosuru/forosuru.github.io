@@ -4621,12 +4621,12 @@
 33693941:
   avatar_url: https://avatars3.githubusercontent.com/u/33693941?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 2
     public: 0
     repo: 6
-    total: 28
-    watch_started: 15
+    total: 30
+    watch_started: 16
   intra: khou
   login: UniKlo
   node_id: MDQ6VXNlcjMzNjkzOTQx
@@ -4648,8 +4648,8 @@
     follow: 2
     fork: 0
     public: 0
-    repo: 6
-    total: 10
+    repo: 7
+    total: 11
     watch_started: 2
   intra: ssong
   login: ssong42
