@@ -580,8 +580,8 @@
     follow: 6
     fork: 1
     public: 1
-    repo: 8
-    total: 21
+    repo: 9
+    total: 22
     watch_started: 5
   intra: rramirez
   login: rene415
@@ -1419,9 +1419,9 @@
   event_counts:
     follow: 16
     fork: 2
-    public: 9
+    public: 11
     repo: 7
-    total: 37
+    total: 39
     watch_started: 3
   intra: bogoncha
   login: bgoncharov
