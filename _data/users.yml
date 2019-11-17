@@ -2,10 +2,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/627891?v=4
   event_counts:
     follow: 0
-    fork: 8
+    fork: 9
     public: 0
     repo: 0
-    total: 13
+    total: 14
     watch_started: 5
   intra: kyork
   login: riking
@@ -805,11 +805,11 @@
 8321639:
   avatar_url: https://avatars0.githubusercontent.com/u/8321639?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 1
     public: 0
     repo: 10
-    total: 19
+    total: 20
     watch_started: 3
   intra: pmigeon
   login: Pierre-Migeon
@@ -2261,8 +2261,8 @@
     fork: 2
     public: 0
     repo: 1
-    total: 21
-    watch_started: 18
+    total: 24
+    watch_started: 21
   intra: bbauer
   login: brianbauer42
   node_id: MDQ6VXNlcjE5NTIzNjIw
@@ -3041,8 +3041,8 @@
     fork: 1
     public: 0
     repo: 2
-    total: 53
-    watch_started: 46
+    total: 54
+    watch_started: 47
   intra: jbrown
   login: panterarocks49
   node_id: MDQ6VXNlcjIzNjQ3ODM3
@@ -5476,8 +5476,8 @@
     follow: 2
     fork: 4
     public: 2
-    repo: 64
-    total: 73
+    repo: 65
+    total: 74
     watch_started: 1
   intra: hchung
   login: CodeChung
