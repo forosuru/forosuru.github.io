@@ -1934,10 +1934,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/17299647?v=4
   event_counts:
     follow: 8
-    fork: 2
+    fork: 3
     public: 2
     repo: 15
-    total: 37
+    total: 38
     watch_started: 10
   intra: ikozlov
   login: IvanKozlov95
@@ -5464,9 +5464,9 @@
     follow: 18
     fork: 0
     public: 2
-    repo: 11
-    total: 36
-    watch_started: 5
+    repo: 12
+    total: 38
+    watch_started: 6
   intra: sechang
   login: sechang11
   node_id: MDQ6VXNlcjQxNTE1ODkx
