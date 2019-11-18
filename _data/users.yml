@@ -4157,8 +4157,8 @@
     fork: 0
     public: 1
     repo: 2
-    total: 8
-    watch_started: 0
+    total: 9
+    watch_started: 1
   intra: sjuery
   login: sjuery
   node_id: MDQ6VXNlcjMwMzI3ODMx
@@ -4189,11 +4189,11 @@
 30615804:
   avatar_url: https://avatars3.githubusercontent.com/u/30615804?v=4
   event_counts:
-    follow: 27
+    follow: 28
     fork: 3
     public: 1
     repo: 34
-    total: 67
+    total: 68
     watch_started: 2
   intra: hnam
   login: naamoonoo
