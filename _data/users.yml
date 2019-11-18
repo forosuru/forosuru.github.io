@@ -2725,12 +2725,12 @@
 22158877:
   avatar_url: https://avatars1.githubusercontent.com/u/22158877?v=4
   event_counts:
-    follow: 19
+    follow: 20
     fork: 1
     public: 3
     repo: 2
-    total: 141
-    watch_started: 116
+    total: 144
+    watch_started: 118
   intra: rzarate
   login: RafaelZarate
   node_id: MDQ6VXNlcjIyMTU4ODc3
@@ -3877,11 +3877,11 @@
 28512672:
   avatar_url: https://avatars2.githubusercontent.com/u/28512672?v=4
   event_counts:
-    follow: 21
+    follow: 22
     fork: 32
     public: 0
     repo: 23
-    total: 130
+    total: 131
     watch_started: 54
   intra: xwang
   login: daxwann
@@ -4525,11 +4525,11 @@
 32823323:
   avatar_url: https://avatars2.githubusercontent.com/u/32823323?v=4
   event_counts:
-    follow: 7
+    follow: 8
     fork: 0
-    public: 5
+    public: 6
     repo: 7
-    total: 19
+    total: 21
     watch_started: 0
   intra: amagnan
   login: arnauze
