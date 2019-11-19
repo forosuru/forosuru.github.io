@@ -2701,12 +2701,12 @@
 22091600:
   avatar_url: https://avatars1.githubusercontent.com/u/22091600?v=4
   event_counts:
-    follow: 12
+    follow: 15
     fork: 3
     public: 0
     repo: 1
-    total: 173
-    watch_started: 157
+    total: 177
+    watch_started: 158
   intra: gguiulfo
   login: giacomoguiulfo
   node_id: MDQ6VXNlcjIyMDkxNjAw
@@ -2932,8 +2932,8 @@
     follow: 12
     fork: 0
     public: 0
-    repo: 12
-    total: 31
+    repo: 13
+    total: 32
     watch_started: 7
   intra: kbelov
   login: KonstantinBelov
