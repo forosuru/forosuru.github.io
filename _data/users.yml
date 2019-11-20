@@ -3,9 +3,9 @@
   event_counts:
     follow: 0
     fork: 9
-    public: 0
+    public: 1
     repo: 0
-    total: 14
+    total: 15
     watch_started: 5
   intra: kyork
   login: riking
@@ -796,8 +796,8 @@
     follow: 3
     fork: 1
     public: 0
-    repo: 1
-    total: 10
+    repo: 2
+    total: 11
     watch_started: 5
   intra: ssmith
   login: seanwessmith
@@ -1864,8 +1864,8 @@
     follow: 34
     fork: 6
     public: 0
-    repo: 51
-    total: 95
+    repo: 52
+    total: 96
     watch_started: 4
   intra: jadawson
   login: JamieDawson
@@ -5704,8 +5704,8 @@
     follow: 38
     fork: 0
     public: 0
-    repo: 14
-    total: 55
+    repo: 15
+    total: 56
     watch_started: 3
   intra: tkatolik
   login: katolikyan
