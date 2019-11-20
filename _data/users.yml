@@ -2389,12 +2389,12 @@
 20530669:
   avatar_url: https://avatars0.githubusercontent.com/u/20530669?v=4
   event_counts:
-    follow: 4
+    follow: 5
     fork: 1
     public: 1
     repo: 4
-    total: 17
-    watch_started: 7
+    total: 19
+    watch_started: 8
   intra: lweinste
   login: LevinWeinstein
   node_id: MDQ6VXNlcjIwNTMwNjY5
@@ -4022,10 +4022,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/29287060?v=4
   event_counts:
     follow: 5
-    fork: 0
+    fork: 1
     public: 0
     repo: 16
-    total: 21
+    total: 22
     watch_started: 0
   intra: aderby
   login: derbya
@@ -5548,8 +5548,8 @@
     follow: 8
     fork: 5
     public: 0
-    repo: 23
-    total: 38
+    repo: 24
+    total: 39
     watch_started: 2
   intra: mtaylor
   login: motaylormo
