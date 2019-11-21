@@ -1719,9 +1719,9 @@
   event_counts:
     follow: 0
     fork: 2
-    public: 0
+    public: 1
     repo: 0
-    total: 2
+    total: 3
     watch_started: 0
   intra: cbanales
   login: carlosbanales
@@ -2320,8 +2320,8 @@
     follow: 12
     fork: 1
     public: 8
-    repo: 2
-    total: 64
+    repo: 3
+    total: 65
     watch_started: 41
   intra: callen
   login: MrChafeits
