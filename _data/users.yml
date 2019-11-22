@@ -857,8 +857,8 @@
     fork: 1
     public: 2
     repo: 2
-    total: 14
-    watch_started: 5
+    total: 15
+    watch_started: 6
   intra: yolabi
   login: Sino
   node_id: MDQ6VXNlcjg1NzE0MTA=
@@ -3109,11 +3109,11 @@
 24286494:
   avatar_url: https://avatars0.githubusercontent.com/u/24286494?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 2
-    total: 2
+    total: 3
     watch_started: 0
   intra: gselbo
   login: gsailboat
