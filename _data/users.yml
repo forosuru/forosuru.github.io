@@ -1361,8 +1361,8 @@
     fork: 6
     public: 0
     repo: 5
-    total: 508
-    watch_started: 411
+    total: 509
+    watch_started: 412
   intra: mfernand
   login: MatiasFMolinari
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -1419,9 +1419,9 @@
   event_counts:
     follow: 16
     fork: 2
-    public: 11
+    public: 12
     repo: 7
-    total: 39
+    total: 40
     watch_started: 3
   intra: bogoncha
   login: bgoncharov
@@ -3565,11 +3565,11 @@
 26103179:
   avatar_url: https://avatars0.githubusercontent.com/u/26103179?v=4
   event_counts:
-    follow: 9
+    follow: 10
     fork: 0
     public: 4
     repo: 3
-    total: 24
+    total: 25
     watch_started: 8
   intra: dgerard
   login: dgerard42
@@ -4945,11 +4945,11 @@
 36604610:
   avatar_url: https://avatars1.githubusercontent.com/u/36604610?v=4
   event_counts:
-    follow: 22
+    follow: 23
     fork: 1
     public: 0
     repo: 14
-    total: 40
+    total: 41
     watch_started: 3
   intra: cdimitro
   login: coolguycam
