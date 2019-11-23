@@ -808,8 +808,8 @@
     follow: 6
     fork: 1
     public: 0
-    repo: 10
-    total: 20
+    repo: 11
+    total: 21
     watch_started: 3
   intra: pmigeon
   login: Pierre-Migeon
@@ -1265,8 +1265,8 @@
     fork: 7
     public: 1
     repo: 5
-    total: 15
-    watch_started: 1
+    total: 16
+    watch_started: 2
   intra: brabo-hi
   login: brabo-hi
   node_id: MDQ6VXNlcjExMzE2NDM0
@@ -1417,11 +1417,11 @@
 13036761:
   avatar_url: https://avatars3.githubusercontent.com/u/13036761?v=4
   event_counts:
-    follow: 16
+    follow: 17
     fork: 2
     public: 12
     repo: 7
-    total: 40
+    total: 41
     watch_started: 3
   intra: bogoncha
   login: bgoncharov
@@ -2812,8 +2812,8 @@
     follow: 0
     fork: 1
     public: 0
-    repo: 8
-    total: 9
+    repo: 9
+    total: 10
     watch_started: 0
   intra: jcarpio-
   login: laughtt
@@ -5512,8 +5512,8 @@
     follow: 48
     fork: 1
     public: 0
-    repo: 19
-    total: 72
+    repo: 20
+    total: 73
     watch_started: 4
   intra: kmira
   login: MrColour
