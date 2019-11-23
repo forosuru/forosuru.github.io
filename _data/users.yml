@@ -1025,8 +1025,8 @@
     fork: 0
     public: 1
     repo: 8
-    total: 37
-    watch_started: 24
+    total: 38
+    watch_started: 25
   intra: vlazuka
   login: recluse27
   node_id: MDQ6VXNlcjk5OTIwMzA=
@@ -1419,9 +1419,9 @@
   event_counts:
     follow: 17
     fork: 2
-    public: 12
+    public: 13
     repo: 7
-    total: 41
+    total: 42
     watch_started: 3
   intra: bogoncha
   login: bgoncharov
