@@ -2705,8 +2705,8 @@
     fork: 4
     public: 0
     repo: 1
-    total: 179
-    watch_started: 159
+    total: 180
+    watch_started: 160
   intra: gguiulfo
   login: giacomoguiulfo
   node_id: MDQ6VXNlcjIyMDkxNjAw
@@ -3493,11 +3493,11 @@
 25859894:
   avatar_url: https://avatars2.githubusercontent.com/u/25859894?v=4
   event_counts:
-    follow: 17
+    follow: 18
     fork: 2
     public: 6
     repo: 10
-    total: 48
+    total: 49
     watch_started: 13
   intra: juochen
   login: pootitan
