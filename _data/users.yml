@@ -913,11 +913,11 @@
 8890312:
   avatar_url: https://avatars1.githubusercontent.com/u/8890312?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 0
     public: 2
     repo: 2
-    total: 7
+    total: 8
     watch_started: 1
   intra: mburson
   login: maxburs
@@ -2729,8 +2729,8 @@
     fork: 1
     public: 3
     repo: 2
-    total: 149
-    watch_started: 122
+    total: 150
+    watch_started: 123
   intra: rzarate
   login: RafaelZarate
   node_id: MDQ6VXNlcjIyMTU4ODc3
