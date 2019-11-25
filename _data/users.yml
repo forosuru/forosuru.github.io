@@ -1817,8 +1817,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 185
-    watch_started: 180
+    total: 186
+    watch_started: 181
   intra: irhett
   login: izcet
   node_id: MDQ6VXNlcjE2NTY4OTU2
@@ -4563,9 +4563,9 @@
   event_counts:
     follow: 9
     fork: 0
-    public: 1
+    public: 2
     repo: 1
-    total: 11
+    total: 12
     watch_started: 0
   intra: tle-huu-
   login: tle-huu
