@@ -4983,9 +4983,9 @@
   event_counts:
     follow: 21
     fork: 3
-    public: 0
+    public: 1
     repo: 1
-    total: 28
+    total: 29
     watch_started: 3
   intra: mmoros
   login: maxmoros
@@ -5701,11 +5701,11 @@
 43802339:
   avatar_url: https://avatars1.githubusercontent.com/u/43802339?v=4
   event_counts:
-    follow: 38
+    follow: 39
     fork: 0
     public: 0
     repo: 15
-    total: 56
+    total: 57
     watch_started: 3
   intra: tkatolik
   login: katolikyan
