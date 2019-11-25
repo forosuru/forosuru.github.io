@@ -688,9 +688,9 @@
     follow: 11
     fork: 30
     public: 0
-    repo: 7
-    total: 48
-    watch_started: 0
+    repo: 9
+    total: 52
+    watch_started: 2
   intra: ktjhan
   login: ktjhan
   node_id: MDQ6VXNlcjcyNjA1MjM=
@@ -1576,8 +1576,8 @@
     follow: 1
     fork: 2
     public: 0
-    repo: 4
-    total: 7
+    repo: 6
+    total: 9
     watch_started: 0
   intra: jkalia
   login: JibranKalia
@@ -4525,11 +4525,11 @@
 32823323:
   avatar_url: https://avatars2.githubusercontent.com/u/32823323?v=4
   event_counts:
-    follow: 8
+    follow: 9
     fork: 0
     public: 6
     repo: 7
-    total: 21
+    total: 22
     watch_started: 0
   intra: amagnan
   login: arnauze
