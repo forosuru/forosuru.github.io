@@ -1480,8 +1480,8 @@
     follow: 3
     fork: 4
     public: 3
-    repo: 9
-    total: 30
+    repo: 10
+    total: 31
     watch_started: 11
   intra: bvautour
   login: bvautour
@@ -2812,8 +2812,8 @@
     follow: 0
     fork: 1
     public: 0
-    repo: 9
-    total: 10
+    repo: 10
+    total: 11
     watch_started: 0
   intra: jcarpio-
   login: laughtt
