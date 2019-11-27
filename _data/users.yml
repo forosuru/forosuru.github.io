@@ -903,9 +903,9 @@
   event_counts:
     follow: 0
     fork: 0
-    public: 1
+    public: 2
     repo: 14
-    total: 16
+    total: 17
     watch_started: 1
   intra: alkozma
   login: NotHawthorne
@@ -1864,8 +1864,8 @@
     follow: 34
     fork: 6
     public: 0
-    repo: 53
-    total: 97
+    repo: 54
+    total: 98
     watch_started: 4
   intra: jadawson
   login: JamieDawson
