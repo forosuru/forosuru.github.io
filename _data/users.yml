@@ -1417,11 +1417,11 @@
 13036761:
   avatar_url: https://avatars3.githubusercontent.com/u/13036761?v=4
   event_counts:
-    follow: 17
+    follow: 20
     fork: 2
     public: 13
     repo: 7
-    total: 42
+    total: 45
     watch_started: 3
   intra: bogoncha
   login: bgoncharov
@@ -6037,11 +6037,11 @@
 47834540:
   avatar_url: https://avatars2.githubusercontent.com/u/47834540?v=4
   event_counts:
-    follow: 27
+    follow: 28
     fork: 0
     public: 5
     repo: 11
-    total: 49
+    total: 50
     watch_started: 6
   intra: ibotnaru
   login: ibotnaru
