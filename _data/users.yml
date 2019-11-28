@@ -1657,11 +1657,11 @@
 15118999:
   avatar_url: https://avatars3.githubusercontent.com/u/15118999?v=4
   event_counts:
-    follow: 10
+    follow: 11
     fork: 1
     public: 3
     repo: 2
-    total: 78
+    total: 79
     watch_started: 62
   intra: syamada
   login: Yatty1
@@ -5031,9 +5031,9 @@
   event_counts:
     follow: 21
     fork: 1
-    public: 14
+    public: 15
     repo: 1
-    total: 66
+    total: 67
     watch_started: 29
   intra: mjacques
   login: maxencejded
