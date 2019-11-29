@@ -145,11 +145,11 @@
 2559584:
   avatar_url: https://avatars0.githubusercontent.com/u/2559584?v=4
   event_counts:
-    follow: 8
+    follow: 9
     fork: 1
     public: 0
     repo: 1
-    total: 13
+    total: 14
     watch_started: 3
   intra: mgould
   login: theporpoise
@@ -686,10 +686,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/7260523?v=4
   event_counts:
     follow: 11
-    fork: 32
+    fork: 33
     public: 0
     repo: 9
-    total: 54
+    total: 55
     watch_started: 2
   intra: ktjhan
   login: ktjhan
