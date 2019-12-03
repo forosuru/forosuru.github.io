@@ -1241,8 +1241,8 @@
     fork: 25
     public: 3
     repo: 2
-    total: 152
-    watch_started: 115
+    total: 153
+    watch_started: 116
   intra: jaleman
   login: jraleman
   node_id: MDQ6VXNlcjExMjIyOTgw
@@ -2702,10 +2702,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/22091600?v=4
   event_counts:
     follow: 15
-    fork: 4
+    fork: 5
     public: 0
     repo: 1
-    total: 187
+    total: 188
     watch_started: 167
   intra: gguiulfo
   login: giacomoguiulfo
@@ -5512,8 +5512,8 @@
     follow: 49
     fork: 1
     public: 0
-    repo: 20
-    total: 74
+    repo: 21
+    total: 75
     watch_started: 4
   intra: kmira
   login: MrColour
