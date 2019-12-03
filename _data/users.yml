@@ -3073,11 +3073,11 @@
 24176452:
   avatar_url: https://avatars1.githubusercontent.com/u/24176452?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 1
     public: 0
     repo: 0
-    total: 3
+    total: 4
     watch_started: 2
   intra: jcasino
   login: justcasino
