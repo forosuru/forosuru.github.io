@@ -916,8 +916,8 @@
     follow: 3
     fork: 0
     public: 2
-    repo: 2
-    total: 9
+    repo: 3
+    total: 10
     watch_started: 2
   intra: mburson
   login: maxburs
@@ -3160,8 +3160,8 @@
     follow: 0
     fork: 3
     public: 0
-    repo: 0
-    total: 13
+    repo: 1
+    total: 14
     watch_started: 10
   intra: ssalaues
   login: ssalaues
