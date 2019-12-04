@@ -1933,11 +1933,11 @@
 17299647:
   avatar_url: https://avatars1.githubusercontent.com/u/17299647?v=4
   event_counts:
-    follow: 8
+    follow: 9
     fork: 3
     public: 2
-    repo: 15
-    total: 38
+    repo: 16
+    total: 40
     watch_started: 10
   intra: ikozlov
   login: IvanKozlov95
@@ -4827,9 +4827,9 @@
   event_counts:
     follow: 0
     fork: 0
-    public: 0
+    public: 1
     repo: 7
-    total: 7
+    total: 8
     watch_started: 0
   intra: jobirech
   login: jbirech
