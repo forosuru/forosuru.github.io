@@ -964,8 +964,8 @@
     follow: 11
     fork: 2
     public: 0
-    repo: 2
-    total: 17
+    repo: 3
+    total: 18
     watch_started: 2
   intra: kfonda
   login: KalindiFonda
@@ -1300,8 +1300,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 13
-    total: 13
+    repo: 14
+    total: 14
     watch_started: 0
   intra: cflores-
   login: CarlosFlo123
@@ -1503,9 +1503,9 @@
   event_counts:
     follow: 0
     fork: 0
-    public: 0
+    public: 1
     repo: 1
-    total: 1
+    total: 2
     watch_started: 0
   intra: ebucheit
   login: Emszy
@@ -6040,8 +6040,8 @@
     follow: 28
     fork: 0
     public: 5
-    repo: 11
-    total: 50
+    repo: 12
+    total: 51
     watch_started: 6
   intra: ibotnaru
   login: ibotnaru
