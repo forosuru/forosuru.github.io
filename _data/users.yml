@@ -253,11 +253,11 @@
 3651803:
   avatar_url: https://avatars3.githubusercontent.com/u/3651803?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 1
     public: 1
     repo: 4
-    total: 15
+    total: 16
     watch_started: 4
   intra: sgardner
   login: stephen-gardner
@@ -314,10 +314,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/4148695?v=4
   event_counts:
     follow: 0
-    fork: 2
+    fork: 3
     public: 1
     repo: 2
-    total: 7
+    total: 8
     watch_started: 2
   intra: aho
   login: annieholly
