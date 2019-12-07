@@ -221,8 +221,8 @@
     fork: 7
     public: 0
     repo: 26
-    total: 446
-    watch_started: 362
+    total: 447
+    watch_started: 363
   intra: mbrave
   login: michaelbrave
   node_id: MDQ6VXNlcjMxODE4NzA=
@@ -3196,8 +3196,8 @@
     follow: 1
     fork: 0
     public: 0
-    repo: 9
-    total: 12
+    repo: 10
+    total: 13
     watch_started: 2
   intra: awhite
   login: austinlldb
@@ -3387,10 +3387,10 @@
   event_counts:
     follow: 18
     fork: 2
-    public: 6
+    public: 7
     repo: 1
-    total: 162
-    watch_started: 135
+    total: 164
+    watch_started: 136
   intra: scollet
   login: scollet1
   node_id: MDQ6VXNlcjI1MjU3OTg2
@@ -3424,9 +3424,9 @@
     follow: 42
     fork: 5
     public: 2
-    repo: 12
-    total: 62
-    watch_started: 1
+    repo: 13
+    total: 64
+    watch_started: 2
   intra: iwagner
   login: dawag415
   node_id: MDQ6VXNlcjI1NTE5ODg5
