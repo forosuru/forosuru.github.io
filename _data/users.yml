@@ -291,9 +291,9 @@
   event_counts:
     follow: 6
     fork: 12
-    public: 1
+    public: 2
     repo: 12
-    total: 37
+    total: 38
     watch_started: 6
   intra: jrameau
   login: R4meau
@@ -2390,10 +2390,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/20530669?v=4
   event_counts:
     follow: 5
-    fork: 1
+    fork: 2
     public: 1
     repo: 5
-    total: 20
+    total: 21
     watch_started: 8
   intra: lweinste
   login: LevinWeinstein
@@ -4480,8 +4480,8 @@
     follow: 5
     fork: 3
     public: 0
-    repo: 9
-    total: 33
+    repo: 10
+    total: 34
     watch_started: 16
   intra: csinglet
   login: CaseySingleton
@@ -6037,11 +6037,11 @@
 47834540:
   avatar_url: https://avatars2.githubusercontent.com/u/47834540?v=4
   event_counts:
-    follow: 29
+    follow: 30
     fork: 0
     public: 5
     repo: 12
-    total: 52
+    total: 53
     watch_started: 6
   intra: ibotnaru
   login: ibotnaru
