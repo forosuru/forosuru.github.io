@@ -1864,8 +1864,8 @@
     follow: 34
     fork: 6
     public: 0
-    repo: 54
-    total: 98
+    repo: 55
+    total: 99
     watch_started: 4
   intra: jadawson
   login: JamieDawson
@@ -2509,11 +2509,11 @@
 20851408:
   avatar_url: https://avatars0.githubusercontent.com/u/20851408?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 1
-    total: 1
+    total: 2
     watch_started: 0
   intra: cdavila
   login: cdavilarios
