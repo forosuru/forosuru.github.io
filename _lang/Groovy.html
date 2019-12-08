@@ -1,0 +1,9 @@
+---
+layout: default
+language: Groovy
+filename: Groovy.html
+---
+{% assign events = site.events | where: "language","Groovy" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
