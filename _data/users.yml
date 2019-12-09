@@ -929,8 +929,8 @@
     fork: 1
     public: 0
     repo: 0
-    total: 2
-    watch_started: 1
+    total: 3
+    watch_started: 2
   intra: achan
   login: alexanderchan-scality
   node_id: MDQ6VXNlcjkyMDEwODk=
@@ -3389,8 +3389,8 @@
     fork: 2
     public: 7
     repo: 1
-    total: 166
-    watch_started: 138
+    total: 171
+    watch_started: 143
   intra: scollet
   login: scollet1
   node_id: MDQ6VXNlcjI1MjU3OTg2
