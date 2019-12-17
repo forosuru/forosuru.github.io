@@ -220,8 +220,8 @@
     follow: 52
     fork: 7
     public: 0
-    repo: 26
-    total: 463
+    repo: 27
+    total: 464
     watch_started: 378
   intra: mbrave
   login: michaelbrave
@@ -965,8 +965,8 @@
     fork: 2
     public: 0
     repo: 3
-    total: 19
-    watch_started: 3
+    total: 20
+    watch_started: 4
   intra: kfonda
   login: KalindiFonda
   node_id: MDQ6VXNlcjk1MzI2OTA=
@@ -2920,8 +2920,8 @@
     follow: 19
     fork: 0
     public: 4
-    repo: 15
-    total: 40
+    repo: 17
+    total: 42
     watch_started: 2
   intra: maljean
   login: Maljean
@@ -4732,8 +4732,8 @@
     follow: 3
     fork: 1
     public: 25
-    repo: 45
-    total: 78
+    repo: 46
+    total: 79
     watch_started: 4
   intra: ashih
   login: ashih42
@@ -5523,9 +5523,9 @@
   event_counts:
     follow: 6
     fork: 1
-    public: 0
-    repo: 6
-    total: 13
+    public: 3
+    repo: 7
+    total: 17
     watch_started: 0
   intra: fprevela
   login: prevelat
