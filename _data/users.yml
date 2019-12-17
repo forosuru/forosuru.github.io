@@ -1673,8 +1673,8 @@
     fork: 0
     public: 2
     repo: 5
-    total: 9
-    watch_started: 2
+    total: 10
+    watch_started: 3
   intra: imurawsk
   login: helloitsian
   node_id: MDQ6VXNlcjE1MzAxNDc2
@@ -3041,8 +3041,8 @@
     fork: 1
     public: 0
     repo: 2
-    total: 72
-    watch_started: 65
+    total: 73
+    watch_started: 66
   intra: jbrown
   login: panterarocks49
   node_id: MDQ6VXNlcjIzNjQ3ODM3
@@ -3161,8 +3161,8 @@
     fork: 3
     public: 0
     repo: 1
-    total: 16
-    watch_started: 12
+    total: 17
+    watch_started: 13
   intra: ssalaues
   login: ssalaues
   node_id: MDQ6VXNlcjI0NDM5ODQ4
@@ -3868,8 +3868,8 @@
     follow: 4
     fork: 0
     public: 0
-    repo: 9
-    total: 17
+    repo: 10
+    total: 18
     watch_started: 4
   intra: dysotoma
   login: dsotomay
