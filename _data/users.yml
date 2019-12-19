@@ -1861,11 +1861,11 @@
 16840579:
   avatar_url: https://avatars2.githubusercontent.com/u/16840579?v=4
   event_counts:
-    follow: 34
+    follow: 35
     fork: 6
     public: 0
     repo: 58
-    total: 102
+    total: 103
     watch_started: 4
   intra: jadawson
   login: JamieDawson
@@ -2917,11 +2917,11 @@
 22827125:
   avatar_url: https://avatars2.githubusercontent.com/u/22827125?v=4
   event_counts:
-    follow: 19
+    follow: 20
     fork: 0
     public: 4
     repo: 17
-    total: 42
+    total: 43
     watch_started: 2
   intra: maljean
   login: Maljean
@@ -4465,11 +4465,11 @@
 32594874:
   avatar_url: https://avatars3.githubusercontent.com/u/32594874?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 1
     public: 5
     repo: 10
-    total: 26
+    total: 27
     watch_started: 5
   intra: agrodzin
   login: blairclair
@@ -4732,8 +4732,8 @@
     follow: 3
     fork: 1
     public: 25
-    repo: 46
-    total: 79
+    repo: 47
+    total: 80
     watch_started: 4
   intra: ashih
   login: ashih42
@@ -5581,11 +5581,11 @@
 42398310:
   avatar_url: https://avatars3.githubusercontent.com/u/42398310?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 0
     public: 2
     repo: 18
-    total: 30
+    total: 31
     watch_started: 4
   intra: hbhuiyan
   login: havi-b
