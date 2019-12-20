@@ -688,8 +688,8 @@
     follow: 12
     fork: 47
     public: 0
-    repo: 10
-    total: 71
+    repo: 11
+    total: 72
     watch_started: 2
   intra: ktjhan
   login: ktjhan
@@ -2929,12 +2929,12 @@
 22942621:
   avatar_url: https://avatars0.githubusercontent.com/u/22942621?v=4
   event_counts:
-    follow: 13
+    follow: 14
     fork: 0
     public: 0
     repo: 15
-    total: 35
-    watch_started: 7
+    total: 37
+    watch_started: 8
   intra: kbelov
   login: KonstantinBelov
   node_id: MDQ6VXNlcjIyOTQyNjIx
