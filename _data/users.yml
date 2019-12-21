@@ -2701,11 +2701,11 @@
 22091600:
   avatar_url: https://avatars1.githubusercontent.com/u/22091600?v=4
   event_counts:
-    follow: 19
+    follow: 20
     fork: 5
     public: 0
     repo: 1
-    total: 204
+    total: 205
     watch_started: 179
   intra: gguiulfo
   login: giacomoguiulfo
@@ -5224,8 +5224,8 @@
     follow: 10
     fork: 1
     public: 0
-    repo: 6
-    total: 18
+    repo: 7
+    total: 19
     watch_started: 1
   intra: rreedy
   login: mint42
