@@ -805,11 +805,11 @@
 8321639:
   avatar_url: https://avatars0.githubusercontent.com/u/8321639?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 2
     public: 0
     repo: 14
-    total: 25
+    total: 26
     watch_started: 3
   intra: pmigeon
   login: Pierre-Migeon
@@ -2223,9 +2223,9 @@
   event_counts:
     follow: 7
     fork: 1
-    public: 4
+    public: 5
     repo: 5
-    total: 37
+    total: 38
     watch_started: 20
   intra: jcruz-y-
   login: josecyc
