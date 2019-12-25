@@ -1,0 +1,9 @@
+---
+layout: default
+language: NSIS
+filename: NSIS.html
+---
+{% assign events = site.events | where: "language","NSIS" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
