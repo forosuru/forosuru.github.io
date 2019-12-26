@@ -553,11 +553,11 @@
 6026227:
   avatar_url: https://avatars3.githubusercontent.com/u/6026227?v=4
   event_counts:
-    follow: 9
+    follow: 10
     fork: 1
     public: 1
     repo: 12
-    total: 67
+    total: 68
     watch_started: 44
   intra: chrsilva
   login: Crybyte
@@ -2557,11 +2557,11 @@
 20981745:
   avatar_url: https://avatars3.githubusercontent.com/u/20981745?v=4
   event_counts:
-    follow: 3
+    follow: 6
     fork: 2
     public: 0
     repo: 0
-    total: 18
+    total: 21
     watch_started: 13
   intra: lwang
   login: Lijun21
