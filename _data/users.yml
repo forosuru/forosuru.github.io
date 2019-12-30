@@ -2557,11 +2557,11 @@
 20981745:
   avatar_url: https://avatars3.githubusercontent.com/u/20981745?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 2
     public: 0
     repo: 0
-    total: 21
+    total: 22
     watch_started: 13
   intra: lwang
   login: Lijun21
@@ -2705,8 +2705,8 @@
     fork: 5
     public: 0
     repo: 1
-    total: 205
-    watch_started: 179
+    total: 206
+    watch_started: 180
   intra: gguiulfo
   login: giacomoguiulfo
   node_id: MDQ6VXNlcjIyMDkxNjAw
