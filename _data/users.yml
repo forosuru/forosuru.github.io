@@ -4287,9 +4287,9 @@
   event_counts:
     follow: 15
     fork: 3
-    public: 5
-    repo: 7
-    total: 35
+    public: 6
+    repo: 8
+    total: 37
     watch_started: 5
   intra: anjansse
   login: Themancrazy
@@ -4972,8 +4972,8 @@
     follow: 9
     fork: 0
     public: 0
-    repo: 4
-    total: 13
+    repo: 5
+    total: 14
     watch_started: 0
   intra: mhwangbo
   login: mhwangbo
