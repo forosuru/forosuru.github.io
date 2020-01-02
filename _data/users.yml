@@ -1550,10 +1550,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/13951813?v=4
   event_counts:
     follow: 0
-    fork: 1
+    fork: 2
     public: 0
     repo: 0
-    total: 1
+    total: 2
     watch_started: 0
   intra: aschnapp
   login: aschnapp
@@ -5305,11 +5305,11 @@
 40344495:
   avatar_url: https://avatars1.githubusercontent.com/u/40344495?v=4
   event_counts:
-    follow: 10
+    follow: 11
     fork: 0
     public: 4
     repo: 19
-    total: 33
+    total: 34
     watch_started: 0
   intra: brfeltz
   login: elloimbrandon
