@@ -4361,8 +4361,8 @@
     fork: 8
     public: 1
     repo: 0
-    total: 80
-    watch_started: 43
+    total: 81
+    watch_started: 44
   intra: fredsiik
   login: fredsiika
   node_id: MDQ6VXNlcjMyMjYxMTEz
@@ -4563,9 +4563,9 @@
   event_counts:
     follow: 9
     fork: 1
-    public: 3
+    public: 4
     repo: 1
-    total: 15
+    total: 16
     watch_started: 1
   intra: tle-huu-
   login: tle-huu

@@ -67,7 +67,11 @@
             {% assign langs = site.lang | sort: "language" %}
             {% for lang in langs %}
                 <li>
+                {% if site.data.languages[lang.language].color %}
                     <span class="repo-language-color" style="background-color:{{ site.data.languages[lang.language].color }};"></span>
+                {% else %}
+                    <span class="repo-language-color" style="background-color: #CCC;"></span>
+                {% endif %}
                     <a href="{{ site.this_site }}/lang/{{ lang.filename }}">
                     {{ lang.language }}
                     </a>
@@ -100,6 +104,6 @@
 
     </div>
 </div>
-
+This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }} (PST).
 </body>
 </html>
