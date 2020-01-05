@@ -233,8 +233,8 @@
     fork: 0
     public: 0
     repo: 5
-    total: 6
-    watch_started: 1
+    total: 7
+    watch_started: 2
   intra: edal-san
   login: EDalSanto
   node_id: MDQ6VXNlcjM1MjQ4NjM=
@@ -3389,8 +3389,8 @@
     fork: 3
     public: 8
     repo: 1
-    total: 180
-    watch_started: 150
+    total: 181
+    watch_started: 151
   intra: scollet
   login: scollet1
   node_id: MDQ6VXNlcjI1MjU3OTg2
@@ -4527,9 +4527,9 @@
   event_counts:
     follow: 9
     fork: 0
-    public: 6
+    public: 7
     repo: 10
-    total: 25
+    total: 26
     watch_started: 0
   intra: amagnan
   login: arnauze
