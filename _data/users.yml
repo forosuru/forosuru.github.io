@@ -926,10 +926,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/9201089?v=4
   event_counts:
     follow: 0
-    fork: 1
+    fork: 2
     public: 0
     repo: 0
-    total: 3
+    total: 4
     watch_started: 2
   intra: achan
   login: alexanderchan-scality
@@ -2810,10 +2810,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/22533943?v=4
   event_counts:
     follow: 0
-    fork: 1
+    fork: 2
     public: 0
     repo: 16
-    total: 17
+    total: 18
     watch_started: 0
   intra: jcarpio-
   login: laughtt
@@ -3470,10 +3470,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/25755593?v=4
   event_counts:
     follow: 6
-    fork: 0
+    fork: 1
     public: 0
-    repo: 1
-    total: 9
+    repo: 2
+    total: 11
     watch_started: 2
   intra: mgill
   login: mattpaulgill
@@ -3856,8 +3856,8 @@
     follow: 0
     fork: 3
     public: 0
-    repo: 8
-    total: 15
+    repo: 9
+    total: 16
     watch_started: 4
   intra: zmagauin
   login: zhagm
@@ -4407,9 +4407,9 @@
   event_counts:
     follow: 5
     fork: 1
-    public: 0
+    public: 1
     repo: 3
-    total: 50
+    total: 51
     watch_started: 41
   intra: psprawka
   login: psprawka
