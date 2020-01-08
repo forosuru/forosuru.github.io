@@ -125,8 +125,8 @@
     fork: 2
     public: 0
     repo: 0
-    total: 41
-    watch_started: 39
+    total: 42
+    watch_started: 40
   intra: drosa-ta
   login: drrosa
   node_id: MDQ6VXNlcjIzNDM1NTQ=
@@ -1297,11 +1297,11 @@
 11907673:
   avatar_url: https://avatars2.githubusercontent.com/u/11907673?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 0
     public: 0
-    repo: 28
-    total: 30
+    repo: 29
+    total: 32
     watch_started: 0
   intra: cflores-
   login: CarlosFlo123
@@ -1357,12 +1357,12 @@
 12145119:
   avatar_url: https://avatars0.githubusercontent.com/u/12145119?v=4
   event_counts:
-    follow: 90
+    follow: 91
     fork: 6
     public: 0
     repo: 7
-    total: 549
-    watch_started: 446
+    total: 551
+    watch_started: 447
   intra: mfernand
   login: MatiasFMolinari
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -1933,14 +1933,14 @@
 17299647:
   avatar_url: https://avatars1.githubusercontent.com/u/17299647?v=4
   event_counts:
-    follow: 10
+    follow: 11
     fork: 4
     public: 2
     repo: 16
-    total: 42
+    total: 43
     watch_started: 10
   intra: ikozlov
-  login: IvanKozlov95
+  login: another-ivan-kozlov
   node_id: MDQ6VXNlcjE3Mjk5NjQ3
 17434599:
   avatar_url: https://avatars3.githubusercontent.com/u/17434599?v=4
@@ -3184,8 +3184,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 9
-    total: 10
+    repo: 10
+    total: 11
     watch_started: 1
   intra: kmurray
   login: indy728
