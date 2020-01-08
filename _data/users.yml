@@ -1793,8 +1793,8 @@
     fork: 13
     public: 0
     repo: 4
-    total: 29
-    watch_started: 9
+    total: 30
+    watch_started: 10
   intra: jnederlo
   login: jnederlo
   node_id: MDQ6VXNlcjE2NTIwMTUy
@@ -2725,11 +2725,11 @@
 22158877:
   avatar_url: https://avatars1.githubusercontent.com/u/22158877?v=4
   event_counts:
-    follow: 23
+    follow: 24
     fork: 1
     public: 3
     repo: 2
-    total: 162
+    total: 163
     watch_started: 133
   intra: rzarate
   login: RafaelZarate
