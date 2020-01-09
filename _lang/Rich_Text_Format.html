@@ -1,0 +1,9 @@
+---
+layout: default
+language: Rich Text Format
+filename: Rich_Text_Format.html
+---
+{% assign events = site.events | where: "language","Rich Text Format" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
