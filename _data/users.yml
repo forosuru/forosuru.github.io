@@ -1241,8 +1241,8 @@
     fork: 26
     public: 3
     repo: 3
-    total: 158
-    watch_started: 119
+    total: 159
+    watch_started: 120
   intra: jaleman
   login: jraleman
   node_id: MDQ6VXNlcjExMjIyOTgw
@@ -1431,9 +1431,9 @@
   event_counts:
     follow: 0
     fork: 0
-    public: 0
+    public: 1
     repo: 3
-    total: 4
+    total: 5
     watch_started: 1
   intra: ycao
   login: caoyucen
@@ -1862,11 +1862,11 @@
   avatar_url: https://avatars2.githubusercontent.com/u/16840579?v=4
   event_counts:
     follow: 35
-    fork: 6
+    fork: 7
     public: 0
     repo: 60
-    total: 105
-    watch_started: 4
+    total: 107
+    watch_started: 5
   intra: jadawson
   login: JamieDawson
   node_id: MDQ6VXNlcjE2ODQwNTc5
@@ -2197,11 +2197,11 @@
 18733056:
   avatar_url: https://avatars2.githubusercontent.com/u/18733056?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 0
-    total: 0
+    total: 1
     watch_started: 0
   intra: tchan
   login: sctru
