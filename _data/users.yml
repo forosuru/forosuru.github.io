@@ -2066,10 +2066,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/18297039?v=4
   event_counts:
     follow: 0
-    fork: 2
+    fork: 3
     public: 0
     repo: 0
-    total: 2
+    total: 3
     watch_started: 0
   intra: nweizman
   login: netanelweizman
@@ -3842,10 +3842,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/28422206?v=4
   event_counts:
     follow: 8
-    fork: 2
+    fork: 3
     public: 5
     repo: 0
-    total: 16
+    total: 17
     watch_started: 1
   intra: pnunez
   login: PedroNunezCode
@@ -3853,11 +3853,11 @@
 28480488:
   avatar_url: https://avatars3.githubusercontent.com/u/28480488?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 3
     public: 0
     repo: 11
-    total: 18
+    total: 19
     watch_started: 4
   intra: zmagauin
   login: zhagm
