@@ -686,10 +686,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/7260523?v=4
   event_counts:
     follow: 12
-    fork: 50
+    fork: 51
     public: 0
     repo: 11
-    total: 76
+    total: 77
     watch_started: 3
   intra: ktjhan
   login: ktjhan
@@ -998,10 +998,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/9650600?v=4
   event_counts:
     follow: 5
-    fork: 8
+    fork: 9
     public: 0
     repo: 10
-    total: 23
+    total: 24
     watch_started: 0
   intra: gaguirre
   login: its-gio
@@ -1361,8 +1361,8 @@
     fork: 6
     public: 0
     repo: 7
-    total: 559
-    watch_started: 454
+    total: 560
+    watch_started: 455
   intra: mfernand
   login: MatiasFMolinari
   node_id: MDQ6VXNlcjEyMTQ1MTE5
