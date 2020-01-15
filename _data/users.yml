@@ -1757,8 +1757,8 @@
     fork: 1
     public: 10
     repo: 6
-    total: 37
-    watch_started: 9
+    total: 38
+    watch_started: 10
   intra: jbeall
   login: jacksonwb
   node_id: MDQ6VXNlcjE2MjE0NzU3
@@ -2561,8 +2561,8 @@
     fork: 2
     public: 0
     repo: 0
-    total: 23
-    watch_started: 14
+    total: 26
+    watch_started: 17
   intra: lwang
   login: Lijun21
   node_id: MDQ6VXNlcjIwOTgxNzQ1
@@ -2729,8 +2729,8 @@
     fork: 1
     public: 3
     repo: 2
-    total: 170
-    watch_started: 139
+    total: 172
+    watch_started: 141
   intra: rzarate
   login: RafaelZarate
   node_id: MDQ6VXNlcjIyMTU4ODc3
@@ -3245,8 +3245,8 @@
     fork: 5
     public: 0
     repo: 16
-    total: 194
-    watch_started: 160
+    total: 195
+    watch_started: 161
   intra: cchao
   login: kizombaciao
   node_id: MDQ6VXNlcjI0Njg3MzU2
@@ -3856,8 +3856,8 @@
     follow: 2
     fork: 4
     public: 0
-    repo: 14
-    total: 25
+    repo: 15
+    total: 26
     watch_started: 5
   intra: zmagauin
   login: zhagm
@@ -4912,8 +4912,8 @@
     follow: 2
     fork: 0
     public: 0
-    repo: 42
-    total: 44
+    repo: 43
+    total: 45
     watch_started: 0
   intra: llee
   login: lununglee
@@ -5548,8 +5548,8 @@
     follow: 8
     fork: 5
     public: 0
-    repo: 25
-    total: 40
+    repo: 26
+    total: 41
     watch_started: 2
   intra: mtaylor
   login: motaylormo
