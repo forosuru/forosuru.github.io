@@ -1754,10 +1754,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/16214757?v=4
   event_counts:
     follow: 11
-    fork: 1
+    fork: 2
     public: 10
     repo: 6
-    total: 38
+    total: 39
     watch_started: 10
   intra: jbeall
   login: jacksonwb
@@ -3100,8 +3100,8 @@
     follow: 4
     fork: 4
     public: 1
-    repo: 15
-    total: 24
+    repo: 16
+    total: 25
     watch_started: 0
   intra: thomkim
   login: swp0107
