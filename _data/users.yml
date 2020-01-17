@@ -422,10 +422,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/4915173?v=4
   event_counts:
     follow: 8
-    fork: 1
+    fork: 2
     public: 1
     repo: 11
-    total: 53
+    total: 54
     watch_started: 32
   intra: tmatthew
   login: Travmatth
@@ -5476,8 +5476,8 @@
     follow: 2
     fork: 4
     public: 2
-    repo: 71
-    total: 80
+    repo: 75
+    total: 84
     watch_started: 1
   intra: hchung
   login: CodeChung
