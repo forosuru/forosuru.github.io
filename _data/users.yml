@@ -3853,11 +3853,11 @@
 28480488:
   avatar_url: https://avatars3.githubusercontent.com/u/28480488?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 4
     public: 0
     repo: 16
-    total: 27
+    total: 28
     watch_started: 5
   intra: zmagauin
   login: zhagm
@@ -5956,8 +5956,8 @@
     follow: 4
     fork: 1
     public: 0
-    repo: 12
-    total: 17
+    repo: 13
+    total: 18
     watch_started: 0
   intra: snechaev
   login: NechaevaS
