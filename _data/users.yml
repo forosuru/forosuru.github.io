@@ -2705,8 +2705,8 @@
     fork: 5
     public: 0
     repo: 1
-    total: 216
-    watch_started: 189
+    total: 217
+    watch_started: 190
   intra: gguiulfo
   login: giacomoguiulfo
   node_id: MDQ6VXNlcjIyMDkxNjAw
@@ -4706,11 +4706,11 @@
   avatar_url: https://avatars3.githubusercontent.com/u/34463580?v=4
   event_counts:
     follow: 3
-    fork: 0
+    fork: 1
     public: 1
     repo: 8
-    total: 12
-    watch_started: 0
+    total: 14
+    watch_started: 1
   intra: efriedma
   login: ElliotFriedman
   node_id: MDQ6VXNlcjM0NDYzNTgw
