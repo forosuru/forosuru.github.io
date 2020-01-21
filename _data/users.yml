@@ -686,10 +686,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/7260523?v=4
   event_counts:
     follow: 12
-    fork: 61
+    fork: 62
     public: 0
     repo: 13
-    total: 89
+    total: 90
     watch_started: 3
   intra: ktjhan
   login: ktjhan
@@ -3161,8 +3161,8 @@
     fork: 4
     public: 0
     repo: 1
-    total: 18
-    watch_started: 13
+    total: 19
+    watch_started: 14
   intra: ssalaues
   login: ssalaues
   node_id: MDQ6VXNlcjI0NDM5ODQ4
