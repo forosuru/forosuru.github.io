@@ -2249,8 +2249,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 19
-    watch_started: 12
+    total: 20
+    watch_started: 13
   intra: kdrumm
   login: kaidrumm
   node_id: MDQ6VXNlcjE5NDc4ODM5
@@ -5173,11 +5173,11 @@
 38716012:
   avatar_url: https://avatars1.githubusercontent.com/u/38716012?v=4
   event_counts:
-    follow: 14
+    follow: 15
     fork: 0
     public: 9
     repo: 9
-    total: 43
+    total: 44
     watch_started: 11
   intra: jochang
   login: MagicHatJo
