@@ -157,12 +157,12 @@
 2700549:
   avatar_url: https://avatars3.githubusercontent.com/u/2700549?v=4
   event_counts:
-    follow: 8
+    follow: 9
     fork: 0
     public: 0
     repo: 1
-    total: 126
-    watch_started: 117
+    total: 128
+    watch_started: 118
   intra: crenfrow
   login: ChrisRenfrow
   node_id: MDQ6VXNlcjI3MDA1NDk=
@@ -3422,11 +3422,11 @@
   avatar_url: https://avatars2.githubusercontent.com/u/25519889?v=4
   event_counts:
     follow: 42
-    fork: 5
+    fork: 6
     public: 2
     repo: 15
-    total: 66
-    watch_started: 2
+    total: 68
+    watch_started: 3
   intra: iwagner
   login: dawag415
   node_id: MDQ6VXNlcjI1NTE5ODg5
@@ -5917,11 +5917,11 @@
 46203279:
   avatar_url: https://avatars2.githubusercontent.com/u/46203279?v=4
   event_counts:
-    follow: 39
+    follow: 40
     fork: 0
     public: 0
     repo: 8
-    total: 56
+    total: 57
     watch_started: 9
   intra: marrodri
   login: marrodri
