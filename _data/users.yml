@@ -293,8 +293,8 @@
     fork: 12
     public: 2
     repo: 12
-    total: 41
-    watch_started: 8
+    total: 42
+    watch_started: 9
   intra: jrameau
   login: R4meau
   node_id: MDQ6VXNlcjM5ODQyNjU=
@@ -805,11 +805,11 @@
 8321639:
   avatar_url: https://avatars0.githubusercontent.com/u/8321639?v=4
   event_counts:
-    follow: 7
+    follow: 8
     fork: 2
     public: 0
     repo: 15
-    total: 27
+    total: 28
     watch_started: 3
   intra: pmigeon
   login: Pierre-Migeon
@@ -1000,8 +1000,8 @@
     follow: 5
     fork: 14
     public: 0
-    repo: 11
-    total: 30
+    repo: 12
+    total: 31
     watch_started: 0
   intra: gaguirre
   login: its-gio
