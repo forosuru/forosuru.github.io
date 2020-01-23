@@ -37,12 +37,12 @@
 978263:
   avatar_url: https://avatars1.githubusercontent.com/u/978263?v=4
   event_counts:
-    follow: 3
+    follow: 4
     fork: 2
     public: 8
     repo: 1
-    total: 28
-    watch_started: 14
+    total: 31
+    watch_started: 16
   intra: jkrause
   login: SuperSpyTX
   node_id: MDQ6VXNlcjk3ODI2Mw==
@@ -157,11 +157,11 @@
 2700549:
   avatar_url: https://avatars3.githubusercontent.com/u/2700549?v=4
   event_counts:
-    follow: 9
+    follow: 10
     fork: 0
     public: 0
     repo: 1
-    total: 128
+    total: 129
     watch_started: 118
   intra: crenfrow
   login: ChrisRenfrow
@@ -673,12 +673,12 @@
 7131967:
   avatar_url: https://avatars3.githubusercontent.com/u/7131967?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 0
     repo: 2
-    total: 4
-    watch_started: 1
+    total: 7
+    watch_started: 3
   intra: evanheum
   login: eliotv
   node_id: MDQ6VXNlcjcxMzE5Njc=
@@ -5548,8 +5548,8 @@
     follow: 8
     fork: 6
     public: 0
-    repo: 26
-    total: 42
+    repo: 27
+    total: 43
     watch_started: 2
   intra: mtaylor
   login: motaylormo
