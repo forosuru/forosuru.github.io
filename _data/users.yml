@@ -1300,8 +1300,8 @@
     follow: 3
     fork: 0
     public: 0
-    repo: 37
-    total: 40
+    repo: 38
+    total: 41
     watch_started: 0
   intra: cflores-
   login: CarlosFlo123
@@ -4561,11 +4561,11 @@
 32878496:
   avatar_url: https://avatars2.githubusercontent.com/u/32878496?v=4
   event_counts:
-    follow: 9
+    follow: 10
     fork: 1
     public: 4
     repo: 1
-    total: 16
+    total: 17
     watch_started: 1
   intra: tle-huu-
   login: tle-huu
@@ -5509,11 +5509,11 @@
 41839667:
   avatar_url: https://avatars2.githubusercontent.com/u/41839667?v=4
   event_counts:
-    follow: 55
+    follow: 56
     fork: 1
     public: 0
     repo: 24
-    total: 85
+    total: 86
     watch_started: 5
   intra: kmira
   login: MrColour
