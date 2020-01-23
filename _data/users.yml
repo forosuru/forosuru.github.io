@@ -577,11 +577,11 @@
 6034652:
   avatar_url: https://avatars2.githubusercontent.com/u/6034652?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 2
     public: 1
     repo: 9
-    total: 23
+    total: 24
     watch_started: 5
   intra: rramirez
   login: rene415
@@ -1300,8 +1300,8 @@
     follow: 3
     fork: 0
     public: 0
-    repo: 36
-    total: 39
+    repo: 37
+    total: 40
     watch_started: 0
   intra: cflores-
   login: CarlosFlo123
@@ -3148,8 +3148,8 @@
     follow: 34
     fork: 2
     public: 0
-    repo: 1
-    total: 42
+    repo: 2
+    total: 43
     watch_started: 5
   intra: eliu
   login: eliu42
