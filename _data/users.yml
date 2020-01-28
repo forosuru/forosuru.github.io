@@ -805,11 +805,11 @@
 8321639:
   avatar_url: https://avatars0.githubusercontent.com/u/8321639?v=4
   event_counts:
-    follow: 9
+    follow: 10
     fork: 2
     public: 0
     repo: 15
-    total: 31
+    total: 32
     watch_started: 5
   intra: pmigeon
   login: Pierre-Migeon
@@ -1433,8 +1433,8 @@
     fork: 0
     public: 1
     repo: 4
-    total: 6
-    watch_started: 1
+    total: 8
+    watch_started: 3
   intra: ycao
   login: caoyucen
   node_id: MDQ6VXNlcjEzMDgwNzY0
@@ -2389,11 +2389,11 @@
 20530669:
   avatar_url: https://avatars0.githubusercontent.com/u/20530669?v=4
   event_counts:
-    follow: 5
+    follow: 7
     fork: 2
     public: 1
     repo: 8
-    total: 25
+    total: 27
     watch_started: 9
   intra: lweinste
   login: LevinWeinstein
