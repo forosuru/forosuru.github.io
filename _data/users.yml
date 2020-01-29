@@ -2729,8 +2729,8 @@
     fork: 1
     public: 3
     repo: 2
-    total: 175
-    watch_started: 144
+    total: 176
+    watch_started: 145
   intra: rzarate
   login: RafaelZarate
   node_id: MDQ6VXNlcjIyMTU4ODc3
@@ -3049,11 +3049,11 @@
 23652076:
   avatar_url: https://avatars3.githubusercontent.com/u/23652076?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 1
     public: 0
     repo: 1
-    total: 4
+    total: 5
     watch_started: 0
   intra: mmastrel
   login: mastrella
