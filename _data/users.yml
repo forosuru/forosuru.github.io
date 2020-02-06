@@ -998,10 +998,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/9650600?v=4
   event_counts:
     follow: 5
-    fork: 20
+    fork: 21
     public: 0
-    repo: 14
-    total: 39
+    repo: 15
+    total: 41
     watch_started: 0
   intra: gaguirre
   login: its-gio
@@ -5548,8 +5548,8 @@
     follow: 8
     fork: 6
     public: 0
-    repo: 27
-    total: 43
+    repo: 28
+    total: 44
     watch_started: 2
   intra: mtaylor
   login: motaylormo
