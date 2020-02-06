@@ -1,0 +1,9 @@
+---
+layout: default
+language: Zig
+filename: Zig.html
+---
+{% assign events = site.events | where: "language","Zig" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
