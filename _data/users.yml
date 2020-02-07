@@ -902,10 +902,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/8849221?v=4
   event_counts:
     follow: 0
-    fork: 2
+    fork: 3
     public: 2
     repo: 15
-    total: 20
+    total: 21
     watch_started: 1
   intra: alkozma
   login: NotHawthorne
@@ -1000,8 +1000,8 @@
     follow: 5
     fork: 21
     public: 0
-    repo: 15
-    total: 41
+    repo: 16
+    total: 42
     watch_started: 0
   intra: gaguirre
   login: its-gio
