@@ -529,11 +529,11 @@
 5866757:
   avatar_url: https://avatars1.githubusercontent.com/u/5866757?v=4
   event_counts:
-    follow: 50
+    follow: 51
     fork: 3
     public: 0
     repo: 11
-    total: 110
+    total: 111
     watch_started: 46
   intra: myoung
   login: qst0
@@ -5524,8 +5524,8 @@
     follow: 6
     fork: 1
     public: 3
-    repo: 8
-    total: 18
+    repo: 9
+    total: 19
     watch_started: 0
   intra: fprevela
   login: prevelat
