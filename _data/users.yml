@@ -1239,9 +1239,9 @@
   event_counts:
     follow: 7
     fork: 26
-    public: 3
+    public: 4
     repo: 4
-    total: 161
+    total: 162
     watch_started: 121
   intra: jaleman
   login: jraleman
@@ -2041,11 +2041,11 @@
 18132230:
   avatar_url: https://avatars3.githubusercontent.com/u/18132230?v=4
   event_counts:
-    follow: 0
+    follow: 2
     fork: 0
     public: 0
     repo: 0
-    total: 0
+    total: 2
     watch_started: 0
   intra: bhalderm
   login: blazehalderman
