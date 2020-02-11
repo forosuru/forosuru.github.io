@@ -269,8 +269,8 @@
     fork: 10
     public: 0
     repo: 7
-    total: 91
-    watch_started: 45
+    total: 92
+    watch_started: 46
   intra: kchenna
   login: hashb
   node_id: MDQ6VXNlcjM4MjEwNDM=
@@ -4155,9 +4155,9 @@
   event_counts:
     follow: 6
     fork: 0
-    public: 3
+    public: 5
     repo: 2
-    total: 12
+    total: 14
     watch_started: 1
   intra: sjuery
   login: sjuery
