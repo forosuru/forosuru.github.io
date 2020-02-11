@@ -1430,10 +1430,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/13080764?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 1
     repo: 4
-    total: 8
+    total: 9
     watch_started: 3
   intra: ycao
   login: caoyucen
@@ -4874,11 +4874,11 @@
   avatar_url: https://avatars0.githubusercontent.com/u/36055314?v=4
   event_counts:
     follow: 0
-    fork: 3
+    fork: 4
     public: 0
     repo: 5
-    total: 14
-    watch_started: 6
+    total: 16
+    watch_started: 7
   intra: cgleason
   login: crgl
   node_id: MDQ6VXNlcjM2MDU1MzE0
@@ -5810,10 +5810,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/45478676?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 3
     public: 0
-    repo: 17
-    total: 17
+    repo: 18
+    total: 21
     watch_started: 0
   intra: vlahorba
   login: VladyslavHorbachenko
