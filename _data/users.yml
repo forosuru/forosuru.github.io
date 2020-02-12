@@ -1300,8 +1300,8 @@
     follow: 3
     fork: 0
     public: 0
-    repo: 42
-    total: 45
+    repo: 43
+    total: 46
     watch_started: 0
   intra: cflores-
   login: CarlosFlo123
@@ -1357,11 +1357,11 @@
 12145119:
   avatar_url: https://avatars0.githubusercontent.com/u/12145119?v=4
   event_counts:
-    follow: 96
+    follow: 97
     fork: 6
     public: 0
     repo: 7
-    total: 592
+    total: 593
     watch_started: 483
   intra: mfernand
   login: MatiasFMolinari
@@ -4385,8 +4385,8 @@
     fork: 0
     public: 2
     repo: 21
-    total: 26
-    watch_started: 1
+    total: 27
+    watch_started: 2
   intra: ytuz
   login: yenertuz
   node_id: MDQ6VXNlcjMyMzExNjA3
