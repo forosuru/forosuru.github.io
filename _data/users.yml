@@ -14,10 +14,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/646796?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 0
     repo: 0
-    total: 0
+    total: 1
     watch_started: 0
   intra: gaetan
   login: GaetanJUVIN
@@ -425,8 +425,8 @@
     fork: 2
     public: 1
     repo: 13
-    total: 60
-    watch_started: 36
+    total: 61
+    watch_started: 37
   intra: tmatthew
   login: Travmatth
   node_id: MDQ6VXNlcjQ5MTUxNzM=
@@ -5173,11 +5173,11 @@
 38716012:
   avatar_url: https://avatars1.githubusercontent.com/u/38716012?v=4
   event_counts:
-    follow: 15
+    follow: 16
     fork: 0
     public: 9
     repo: 9
-    total: 44
+    total: 45
     watch_started: 11
   intra: jochang
   login: MagicHatJo
