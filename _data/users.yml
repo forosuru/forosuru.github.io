@@ -1945,11 +1945,11 @@
 17434599:
   avatar_url: https://avatars3.githubusercontent.com/u/17434599?v=4
   event_counts:
-    follow: 4
+    follow: 5
     fork: 0
     public: 0
     repo: 4
-    total: 30
+    total: 31
     watch_started: 22
   intra: klongric
   login: Klongrich
@@ -5165,8 +5165,8 @@
     fork: 2
     public: 3
     repo: 14
-    total: 19
-    watch_started: 0
+    total: 20
+    watch_started: 1
   intra: emamenko
   login: zhenya-mamenko
   node_id: MDQ6VXNlcjM4NTA4NDEz
