@@ -3723,9 +3723,9 @@
   event_counts:
     follow: 1
     fork: 0
-    public: 1
+    public: 3
     repo: 9
-    total: 11
+    total: 13
     watch_started: 0
   intra: fwutschk
   login: wutschkef42
