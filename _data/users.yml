@@ -292,8 +292,8 @@
     follow: 8
     fork: 13
     public: 2
-    repo: 12
-    total: 49
+    repo: 13
+    total: 50
     watch_started: 14
   intra: jrameau
   login: R4meau
@@ -5860,8 +5860,8 @@
     follow: 15
     fork: 1
     public: 0
-    repo: 11
-    total: 27
+    repo: 12
+    total: 28
     watch_started: 0
   intra: tcherret
   login: tcheee
