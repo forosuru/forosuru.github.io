@@ -749,8 +749,8 @@
     fork: 1
     public: 0
     repo: 0
-    total: 1
-    watch_started: 0
+    total: 2
+    watch_started: 1
   intra: cfredric
   login: CameronFredrickson
   node_id: MDQ6VXNlcjc4Nzc1OTE=
@@ -1357,12 +1357,12 @@
 12145119:
   avatar_url: https://avatars0.githubusercontent.com/u/12145119?v=4
   event_counts:
-    follow: 100
+    follow: 101
     fork: 6
     public: 0
     repo: 7
-    total: 606
-    watch_started: 493
+    total: 613
+    watch_started: 499
   intra: mfernand
   login: MatiasFMolinari
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -4397,8 +4397,8 @@
     fork: 0
     public: 0
     repo: 1
-    total: 6
-    watch_started: 1
+    total: 7
+    watch_started: 2
   intra: dmontoya
   login: dmontoyain
   node_id: MDQ6VXNlcjMyMzEzMTA1
