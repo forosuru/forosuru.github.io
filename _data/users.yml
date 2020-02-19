@@ -3484,8 +3484,8 @@
     follow: 20
     fork: 20
     public: 10
-    repo: 5
-    total: 58
+    repo: 6
+    total: 59
     watch_started: 3
   intra: jkaplin
   login: jkaplin
