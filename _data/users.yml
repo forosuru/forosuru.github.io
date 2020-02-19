@@ -2129,8 +2129,8 @@
     fork: 6
     public: 0
     repo: 7
-    total: 52
-    watch_started: 24
+    total: 53
+    watch_started: 25
   intra: nobrien
   login: nickisobrien
   node_id: MDQ6VXNlcjE4NjA4OTc5
@@ -4945,11 +4945,11 @@
 36604610:
   avatar_url: https://avatars1.githubusercontent.com/u/36604610?v=4
   event_counts:
-    follow: 23
+    follow: 24
     fork: 1
     public: 0
     repo: 15
-    total: 42
+    total: 43
     watch_started: 3
   intra: cdimitro
   login: coolguycam
