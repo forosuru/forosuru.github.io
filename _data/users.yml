@@ -4153,11 +4153,11 @@
 30327831:
   avatar_url: https://avatars1.githubusercontent.com/u/30327831?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 0
     public: 5
     repo: 2
-    total: 14
+    total: 15
     watch_started: 1
   intra: sjuery
   login: sjuery
@@ -4420,8 +4420,8 @@
     follow: 0
     fork: 4
     public: 0
-    repo: 9
-    total: 17
+    repo: 10
+    total: 18
     watch_started: 4
   intra: bchapman
   login: boredomdenied
