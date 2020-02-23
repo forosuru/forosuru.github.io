@@ -2053,11 +2053,11 @@
 18249395:
   avatar_url: https://avatars1.githubusercontent.com/u/18249395?v=4
   event_counts:
-    follow: 19
+    follow: 20
     fork: 82
     public: 5
     repo: 28
-    total: 161
+    total: 162
     watch_started: 27
   intra: hvillasa
   login: hectorsvill
@@ -5857,11 +5857,11 @@
 45823872:
   avatar_url: https://avatars3.githubusercontent.com/u/45823872?v=4
   event_counts:
-    follow: 15
+    follow: 16
     fork: 1
     public: 0
     repo: 12
-    total: 28
+    total: 29
     watch_started: 0
   intra: tcherret
   login: tcheee
