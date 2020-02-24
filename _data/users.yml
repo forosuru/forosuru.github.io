@@ -1262,10 +1262,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/11316434?v=4
   event_counts:
     follow: 1
-    fork: 7
+    fork: 8
     public: 1
     repo: 5
-    total: 16
+    total: 17
     watch_started: 2
   intra: brabo-hi
   login: brabo-hi
@@ -1300,8 +1300,8 @@
     follow: 3
     fork: 0
     public: 0
-    repo: 44
-    total: 47
+    repo: 47
+    total: 50
     watch_started: 0
   intra: cflores-
   login: CarlosFlo123
@@ -1792,8 +1792,8 @@
     follow: 3
     fork: 15
     public: 0
-    repo: 5
-    total: 36
+    repo: 6
+    total: 37
     watch_started: 13
   intra: jnederlo
   login: jnederlo
@@ -2009,8 +2009,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 3
-    watch_started: 3
+    total: 4
+    watch_started: 4
   intra: mfilipch
   login: LiuVII
   node_id: MDQ6VXNlcjE4MDUyMTUw
@@ -2341,11 +2341,11 @@
 20261857:
   avatar_url: https://avatars2.githubusercontent.com/u/20261857?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 0
-    total: 0
+    total: 1
     watch_started: 0
   intra: nmayfiel
   login: nmayfiel
