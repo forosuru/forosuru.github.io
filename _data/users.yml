@@ -3016,8 +3016,8 @@
     follow: 4
     fork: 1
     public: 0
-    repo: 8
-    total: 17
+    repo: 10
+    total: 19
     watch_started: 4
   intra: ytran
   login: YoungTran
@@ -5524,8 +5524,8 @@
     follow: 6
     fork: 1
     public: 3
-    repo: 10
-    total: 20
+    repo: 11
+    total: 21
     watch_started: 0
   intra: fprevela
   login: prevelat
@@ -5666,10 +5666,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/43657972?v=4
   event_counts:
     follow: 2
-    fork: 0
+    fork: 1
     public: 0
     repo: 16
-    total: 21
+    total: 22
     watch_started: 3
   intra: knaumov
   login: KirillVNaumov
