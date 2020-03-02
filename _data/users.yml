@@ -1624,8 +1624,8 @@
     follow: 20
     fork: 1
     public: 1
-    repo: 27
-    total: 65
+    repo: 28
+    total: 66
     watch_started: 16
   intra: jcrisp
   login: zill4
@@ -3193,11 +3193,11 @@
 24531700:
   avatar_url: https://avatars0.githubusercontent.com/u/24531700?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 0
     repo: 12
-    total: 15
+    total: 16
     watch_started: 2
   intra: awhite
   login: a3ox
@@ -3853,11 +3853,11 @@
 28480488:
   avatar_url: https://avatars3.githubusercontent.com/u/28480488?v=4
   event_counts:
-    follow: 8
+    follow: 9
     fork: 4
     public: 0
     repo: 16
-    total: 34
+    total: 35
     watch_started: 6
   intra: zmagauin
   login: zhagm
