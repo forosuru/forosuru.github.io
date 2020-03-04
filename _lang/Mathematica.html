@@ -1,0 +1,9 @@
+---
+layout: default
+language: Mathematica
+filename: Mathematica.html
+---
+{% assign events = site.events | where: "language","Mathematica" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
