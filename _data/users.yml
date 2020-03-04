@@ -2582,11 +2582,11 @@
   avatar_url: https://avatars3.githubusercontent.com/u/21010613?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 0
     repo: 0
-    total: 0
-    watch_started: 0
+    total: 2
+    watch_started: 1
   intra: alcornea
   login: alinacornea
   node_id: MDQ6VXNlcjIxMDEwNjEz
@@ -5165,8 +5165,8 @@
     fork: 2
     public: 3
     repo: 14
-    total: 20
-    watch_started: 1
+    total: 21
+    watch_started: 2
   intra: emamenko
   login: zhenya-mamenko
   node_id: MDQ6VXNlcjM4NTA4NDEz

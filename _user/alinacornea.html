@@ -1,0 +1,11 @@
+---
+layout: default
+intra: alcornea
+login: alinacornea
+id: 21010613
+avatar_url: https://avatars3.githubusercontent.com/u/21010613?v=4
+---
+{% assign events = site.events | where: "author_id","21010613" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
