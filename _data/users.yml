@@ -781,11 +781,11 @@
 8131174:
   avatar_url: https://avatars3.githubusercontent.com/u/8131174?v=4
   event_counts:
-    follow: 8
+    follow: 9
     fork: 0
     public: 0
     repo: 1
-    total: 25
+    total: 26
     watch_started: 16
   intra: erintala
   login: adagiox
@@ -3028,8 +3028,8 @@
     follow: 3
     fork: 0
     public: 0
-    repo: 5
-    total: 10
+    repo: 6
+    total: 11
     watch_started: 2
   intra: bbixby
   login: brianbixby
