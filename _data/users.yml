@@ -2428,8 +2428,8 @@
     follow: 1
     fork: 0
     public: 0
-    repo: 4
-    total: 8
+    repo: 5
+    total: 9
     watch_started: 3
   intra: lkaba
   login: kabascolby
@@ -3433,11 +3433,11 @@
 25557016:
   avatar_url: https://avatars2.githubusercontent.com/u/25557016?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 3
     repo: 4
-    total: 25
+    total: 26
     watch_started: 17
   intra: sleung
   login: msyleung
