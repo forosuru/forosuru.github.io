@@ -1609,12 +1609,12 @@
 14841261:
   avatar_url: https://avatars3.githubusercontent.com/u/14841261?v=4
   event_counts:
-    follow: 65
+    follow: 67
     fork: 9
     public: 2
     repo: 3
-    total: 155
-    watch_started: 76
+    total: 158
+    watch_started: 77
   intra: ztisnes
   login: zedin27
   node_id: MDQ6VXNlcjE0ODQxMjYx
@@ -1945,11 +1945,11 @@
 17434599:
   avatar_url: https://avatars3.githubusercontent.com/u/17434599?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 0
     public: 0
     repo: 4
-    total: 35
+    total: 36
     watch_started: 25
   intra: klongric
   login: Klongrich
@@ -4133,8 +4133,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 0
-    watch_started: 0
+    total: 2
+    watch_started: 2
   intra: dhill
   login: Iridel
   node_id: MDQ6VXNlcjMwMDA2Mjkw
