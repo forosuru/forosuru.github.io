@@ -1,0 +1,11 @@
+---
+layout: default
+intra: kwame
+login: Kwame42
+id: 4668303
+avatar_url: https://avatars0.githubusercontent.com/u/4668303?v=4
+---
+{% assign events = site.events | where: "author_id","4668303" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
