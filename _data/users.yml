@@ -652,8 +652,8 @@
     follow: 15
     fork: 5
     public: 0
-    repo: 28
-    total: 80
+    repo: 29
+    total: 81
     watch_started: 32
   intra: qpeng
   login: sayakura
@@ -4419,9 +4419,9 @@
   event_counts:
     follow: 0
     fork: 4
-    public: 0
+    public: 1
     repo: 10
-    total: 18
+    total: 19
     watch_started: 4
   intra: bchapman
   login: boredomdenied
