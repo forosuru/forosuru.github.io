@@ -1541,8 +1541,8 @@
     fork: 0
     public: 1
     repo: 13
-    total: 20
-    watch_started: 4
+    total: 21
+    watch_started: 5
   intra: spoole
   login: spoole50
   node_id: MDQ6VXNlcjEzODkxMTE0
@@ -3434,10 +3434,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/25557016?v=4
   event_counts:
     follow: 2
-    fork: 0
+    fork: 1
     public: 3
     repo: 5
-    total: 27
+    total: 28
     watch_started: 17
   intra: sleung
   login: msyleung
