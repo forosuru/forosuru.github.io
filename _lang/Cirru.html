@@ -1,0 +1,9 @@
+---
+layout: default
+language: Cirru
+filename: Cirru.html
+---
+{% assign events = site.events | where: "language","Cirru" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
