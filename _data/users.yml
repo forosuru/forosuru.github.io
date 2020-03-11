@@ -1357,11 +1357,11 @@
 12145119:
   avatar_url: https://avatars0.githubusercontent.com/u/12145119?v=4
   event_counts:
-    follow: 106
+    follow: 107
     fork: 8
     public: 0
     repo: 7
-    total: 652
+    total: 653
     watch_started: 531
   intra: mfernand
   login: MatiasFMolinari
@@ -5920,8 +5920,8 @@
     follow: 40
     fork: 0
     public: 0
-    repo: 9
-    total: 58
+    repo: 10
+    total: 59
     watch_started: 9
   intra: marrodri
   login: marrodri
