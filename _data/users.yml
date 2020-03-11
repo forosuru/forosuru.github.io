@@ -1241,8 +1241,8 @@
     fork: 29
     public: 5
     repo: 6
-    total: 173
-    watch_started: 126
+    total: 175
+    watch_started: 128
   intra: jaleman
   login: jraleman
   node_id: MDQ6VXNlcjExMjIyOTgw
@@ -2705,8 +2705,8 @@
     fork: 5
     public: 0
     repo: 1
-    total: 270
-    watch_started: 241
+    total: 271
+    watch_started: 242
   intra: gguiulfo
   login: giacomoguiulfo
   node_id: MDQ6VXNlcjIyMDkxNjAw
@@ -3483,9 +3483,9 @@
   event_counts:
     follow: 20
     fork: 23
-    public: 10
+    public: 25
     repo: 9
-    total: 65
+    total: 80
     watch_started: 3
   intra: jkaplin
   login: jkaplin
