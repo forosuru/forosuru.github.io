@@ -1552,8 +1552,8 @@
     follow: 0
     fork: 2
     public: 0
-    repo: 0
-    total: 2
+    repo: 1
+    total: 3
     watch_started: 0
   intra: aschnapp
   login: aschnapp
@@ -2705,8 +2705,8 @@
     fork: 5
     public: 0
     repo: 1
-    total: 286
-    watch_started: 257
+    total: 289
+    watch_started: 260
   intra: gguiulfo
   login: giacomoguiulfo
   node_id: MDQ6VXNlcjIyMDkxNjAw
