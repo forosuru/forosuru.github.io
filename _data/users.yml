@@ -1515,9 +1515,9 @@
   event_counts:
     follow: 0
     fork: 0
-    public: 0
+    public: 1
     repo: 2
-    total: 2
+    total: 3
     watch_started: 0
   intra: kialvare
   login: kialvare
@@ -1838,10 +1838,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/16661289?v=4
   event_counts:
     follow: 35
-    fork: 2
+    fork: 4
     public: 0
     repo: 12
-    total: 60
+    total: 62
     watch_started: 11
   intra: tvandivi
   login: fractalfox01
@@ -3245,8 +3245,8 @@
     fork: 5
     public: 0
     repo: 17
-    total: 212
-    watch_started: 176
+    total: 213
+    watch_started: 177
   intra: cchao
   login: kizombaciao
   node_id: MDQ6VXNlcjI0Njg3MzU2
@@ -5740,8 +5740,8 @@
     follow: 9
     fork: 1
     public: 3
-    repo: 10
-    total: 27
+    repo: 11
+    total: 28
     watch_started: 4
   intra: osfally
   login: shaparder
