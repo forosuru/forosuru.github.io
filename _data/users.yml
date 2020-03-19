@@ -266,10 +266,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/3821043?v=4
   event_counts:
     follow: 30
-    fork: 10
+    fork: 11
     public: 0
     repo: 7
-    total: 97
+    total: 98
     watch_started: 50
   intra: kchenna
   login: hashb
@@ -445,11 +445,11 @@
 5116338:
   avatar_url: https://avatars1.githubusercontent.com/u/5116338?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 2
     public: 0
     repo: 5
-    total: 9
+    total: 10
     watch_started: 2
   intra: thendric
   login: hat
