@@ -1,0 +1,9 @@
+---
+layout: default
+language: DIGITAL Command Language
+filename: DIGITAL_Command_Language.html
+---
+{% assign events = site.events | where: "language","DIGITAL Command Language" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
