@@ -616,8 +616,8 @@
     follow: 32
     fork: 3
     public: 1
-    repo: 20
-    total: 93
+    repo: 21
+    total: 94
     watch_started: 37
   intra: jcope
   login: Jemmeh
@@ -1000,8 +1000,8 @@
     follow: 5
     fork: 24
     public: 0
-    repo: 23
-    total: 52
+    repo: 24
+    total: 53
     watch_started: 0
   intra: gaguirre
   login: its-gio
