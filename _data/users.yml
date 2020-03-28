@@ -1419,9 +1419,9 @@
   event_counts:
     follow: 20
     fork: 2
-    public: 14
+    public: 15
     repo: 8
-    total: 49
+    total: 50
     watch_started: 5
   intra: bogoncha
   login: bgoncharov
