@@ -842,10 +842,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/8463366?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 0
     repo: 0
-    total: 2
+    total: 3
     watch_started: 2
   intra: fromo
   login: felromo
@@ -1673,8 +1673,8 @@
     fork: 0
     public: 2
     repo: 8
-    total: 13
-    watch_started: 3
+    total: 14
+    watch_started: 4
   intra: imurawsk
   login: helloitsian
   node_id: MDQ6VXNlcjE1MzAxNDc2
