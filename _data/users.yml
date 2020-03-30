@@ -449,8 +449,8 @@
     fork: 2
     public: 0
     repo: 5
-    total: 12
-    watch_started: 4
+    total: 13
+    watch_started: 5
   intra: thendric
   login: hat
   node_id: MDQ6VXNlcjUxMTYzMzg=
@@ -1813,12 +1813,12 @@
 16568956:
   avatar_url: https://avatars3.githubusercontent.com/u/16568956?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 0
     public: 0
     repo: 0
-    total: 196
-    watch_started: 191
+    total: 198
+    watch_started: 192
   intra: irhett
   login: izcet
   node_id: MDQ6VXNlcjE2NTY4OTU2
@@ -3137,8 +3137,8 @@
     fork: 3
     public: 2
     repo: 3
-    total: 22
-    watch_started: 9
+    total: 23
+    watch_started: 10
   intra: ekelen
   login: ekelen
   node_id: MDQ6VXNlcjI0MzAwMTc3
