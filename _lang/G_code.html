@@ -1,0 +1,9 @@
+---
+layout: default
+language: G-code
+filename: G_code.html
+---
+{% assign events = site.events | where: "language","G-code" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
