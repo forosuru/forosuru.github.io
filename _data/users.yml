@@ -158,11 +158,11 @@
   avatar_url: https://avatars3.githubusercontent.com/u/2700549?v=4
   event_counts:
     follow: 11
-    fork: 0
+    fork: 1
     public: 0
     repo: 1
-    total: 211
-    watch_started: 199
+    total: 213
+    watch_started: 200
   intra: crenfrow
   login: ChrisRenfrow
   node_id: MDQ6VXNlcjI3MDA1NDk=
@@ -2585,8 +2585,8 @@
     fork: 1
     public: 0
     repo: 0
-    total: 2
-    watch_started: 1
+    total: 3
+    watch_started: 2
   intra: alcornea
   login: alinacornea
   node_id: MDQ6VXNlcjIxMDEwNjEz
@@ -2729,8 +2729,8 @@
     fork: 1
     public: 3
     repo: 2
-    total: 177
-    watch_started: 145
+    total: 179
+    watch_started: 147
   intra: rzarate
   login: RafaelZarate
   node_id: MDQ6VXNlcjIyMTU4ODc3
