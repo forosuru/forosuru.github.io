@@ -1,0 +1,9 @@
+---
+layout: default
+language: NASL
+filename: NASL.html
+---
+{% assign events = site.events | where: "language","NASL" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
