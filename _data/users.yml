@@ -1361,8 +1361,8 @@
     fork: 10
     public: 0
     repo: 7
-    total: 683
-    watch_started: 557
+    total: 684
+    watch_started: 558
   intra: mfernand
   login: matias-eduardo
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -3013,11 +3013,11 @@
 23521387:
   avatar_url: https://avatars2.githubusercontent.com/u/23521387?v=4
   event_counts:
-    follow: 4
+    follow: 5
     fork: 1
     public: 0
     repo: 11
-    total: 20
+    total: 21
     watch_started: 4
   intra: ytran
   login: YoungTran
