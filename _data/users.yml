@@ -1909,12 +1909,12 @@
 17127622:
   avatar_url: https://avatars0.githubusercontent.com/u/17127622?v=4
   event_counts:
-    follow: 13
+    follow: 14
     fork: 4
     public: 2
     repo: 2
-    total: 80
-    watch_started: 59
+    total: 83
+    watch_started: 61
   intra: dgaitsgo
   login: dgaitsgo
   node_id: MDQ6VXNlcjE3MTI3NjIy
@@ -5932,8 +5932,8 @@
     follow: 1
     fork: 0
     public: 0
-    repo: 0
-    total: 1
+    repo: 1
+    total: 2
     watch_started: 0
   intra: maseidua
   login: Madisem
