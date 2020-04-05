@@ -219,9 +219,9 @@
   event_counts:
     follow: 61
     fork: 10
-    public: 0
+    public: 1
     repo: 41
-    total: 862
+    total: 863
     watch_started: 750
   intra: mbrave
   login: michaelbrave
@@ -2705,8 +2705,8 @@
     fork: 5
     public: 0
     repo: 1
-    total: 317
-    watch_started: 287
+    total: 318
+    watch_started: 288
   intra: gguiulfo
   login: giacomoguiulfo
   node_id: MDQ6VXNlcjIyMDkxNjAw
