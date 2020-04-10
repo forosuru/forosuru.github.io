@@ -2705,8 +2705,8 @@
     fork: 5
     public: 0
     repo: 1
-    total: 319
-    watch_started: 289
+    total: 320
+    watch_started: 290
   intra: gguiulfo
   login: giacomoguiulfo
   node_id: MDQ6VXNlcjIyMDkxNjAw
@@ -3640,8 +3640,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 0
-    total: 0
+    repo: 1
+    total: 1
     watch_started: 0
   intra: amatsuk
   login: anmatsuk
@@ -5810,10 +5810,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/45478676?v=4
   event_counts:
     follow: 0
-    fork: 32
+    fork: 33
     public: 0
     repo: 21
-    total: 60
+    total: 61
     watch_started: 7
   intra: vlahorba
   login: VladyslavHorbachenko
