@@ -1445,8 +1445,8 @@
     fork: 1
     public: 0
     repo: 0
-    total: 20
-    watch_started: 9
+    total: 21
+    watch_started: 10
   intra: kromain
   login: keenanromain
   node_id: MDQ6VXNlcjEzMDkzNTE3
@@ -3257,8 +3257,8 @@
     fork: 1
     public: 1
     repo: 5
-    total: 37
-    watch_started: 25
+    total: 38
+    watch_started: 26
   intra: wlin
   login: autopylot
   node_id: MDQ6VXNlcjI0ODg1MDE1
@@ -4789,11 +4789,11 @@
 35234806:
   avatar_url: https://avatars3.githubusercontent.com/u/35234806?v=4
   event_counts:
-    follow: 11
+    follow: 15
     fork: 0
     public: 0
     repo: 28
-    total: 40
+    total: 44
     watch_started: 1
   intra: majones
   login: mjjply42
@@ -4876,8 +4876,8 @@
     follow: 0
     fork: 6
     public: 0
-    repo: 6
-    total: 19
+    repo: 7
+    total: 20
     watch_started: 7
   intra: cgleason
   login: crgl
@@ -5869,11 +5869,11 @@
 45890848:
   avatar_url: https://avatars2.githubusercontent.com/u/45890848?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 0
     repo: 4
-    total: 5
+    total: 6
     watch_started: 0
   intra: anttran
   login: anthonykhoa
