@@ -1669,11 +1669,11 @@
 15301476:
   avatar_url: https://avatars3.githubusercontent.com/u/15301476?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 2
     repo: 10
-    total: 16
+    total: 17
     watch_started: 4
   intra: imurawsk
   login: helloitsian
@@ -2705,8 +2705,8 @@
     fork: 5
     public: 0
     repo: 1
-    total: 320
-    watch_started: 290
+    total: 321
+    watch_started: 291
   intra: gguiulfo
   login: giacomoguiulfo
   node_id: MDQ6VXNlcjIyMDkxNjAw
@@ -3385,11 +3385,11 @@
 25257986:
   avatar_url: https://avatars0.githubusercontent.com/u/25257986?v=4
   event_counts:
-    follow: 20
+    follow: 21
     fork: 4
     public: 8
     repo: 2
-    total: 202
+    total: 203
     watch_started: 168
   intra: scollet
   login: scollet1
