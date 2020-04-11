@@ -1538,10 +1538,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/13891114?v=4
   event_counts:
     follow: 2
-    fork: 0
+    fork: 1
     public: 1
     repo: 13
-    total: 21
+    total: 22
     watch_started: 5
   intra: spoole
   login: spoole50
