@@ -1636,8 +1636,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 0
-    total: 0
+    repo: 1
+    total: 1
     watch_started: 0
   intra: wasman
   login: wtasman
@@ -3244,8 +3244,8 @@
     follow: 16
     fork: 6
     public: 0
-    repo: 21
-    total: 229
+    repo: 22
+    total: 230
     watch_started: 186
   intra: cchao
   login: kizombaciao
@@ -5571,9 +5571,9 @@
   event_counts:
     follow: 13
     fork: 5
-    public: 12
+    public: 13
     repo: 8
-    total: 42
+    total: 43
     watch_started: 4
   intra: ale-goff
   login: Alexx42
