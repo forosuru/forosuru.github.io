@@ -1,0 +1,9 @@
+---
+layout: default
+language: Cuda
+filename: Cuda.html
+---
+{% assign events = site.events | where: "language","Cuda" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
