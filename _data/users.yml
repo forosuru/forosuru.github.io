@@ -1383,9 +1383,9 @@
   event_counts:
     follow: 1
     fork: 0
-    public: 1
+    public: 2
     repo: 9
-    total: 11
+    total: 12
     watch_started: 0
   intra: tadey
   login: tapabratadey
@@ -4851,9 +4851,9 @@
   event_counts:
     follow: 22
     fork: 3
-    public: 1
+    public: 2
     repo: 13
-    total: 62
+    total: 63
     watch_started: 23
   intra: maparmar
   login: Manmeet2018
