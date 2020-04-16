@@ -2729,8 +2729,8 @@
     fork: 1
     public: 3
     repo: 2
-    total: 184
-    watch_started: 152
+    total: 185
+    watch_started: 153
   intra: rzarate
   login: RafaelZarate
   node_id: MDQ6VXNlcjIyMTU4ODc3
@@ -3855,9 +3855,9 @@
   event_counts:
     follow: 10
     fork: 4
-    public: 0
+    public: 1
     repo: 16
-    total: 37
+    total: 38
     watch_started: 7
   intra: zmagauin
   login: zhagm
@@ -3976,8 +3976,8 @@
     follow: 2
     fork: 2
     public: 2
-    repo: 9
-    total: 20
+    repo: 10
+    total: 21
     watch_started: 5
   intra: skunz
   login: SebastianKunz
