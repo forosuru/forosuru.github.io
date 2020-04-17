@@ -221,8 +221,8 @@
     fork: 11
     public: 1
     repo: 43
-    total: 907
-    watch_started: 790
+    total: 908
+    watch_started: 791
   intra: mbrave
   login: michaelbrave
   node_id: MDQ6VXNlcjMxODE4NzA=
@@ -2785,11 +2785,11 @@
 22486866:
   avatar_url: https://avatars1.githubusercontent.com/u/22486866?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 0
     public: 0
     repo: 0
-    total: 6
+    total: 7
     watch_started: 1
   intra: mosborne
   login: MitchelOsb1
