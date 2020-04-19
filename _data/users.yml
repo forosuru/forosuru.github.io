@@ -5077,11 +5077,11 @@
 38030381:
   avatar_url: https://avatars0.githubusercontent.com/u/38030381?v=4
   event_counts:
-    follow: 8
+    follow: 9
     fork: 2
     public: 0
     repo: 6
-    total: 17
+    total: 18
     watch_started: 1
   intra: rsilva
   login: rsilva42
@@ -5799,10 +5799,10 @@
   event_counts:
     follow: 16
     fork: 0
-    public: 0
+    public: 1
     repo: 9
-    total: 47
-    watch_started: 22
+    total: 49
+    watch_started: 23
   intra: mschroed
   login: CptBang
   node_id: MDQ6VXNlcjQ1MjQ3NTI5
