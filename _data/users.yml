@@ -1636,8 +1636,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 1
-    total: 1
+    repo: 2
+    total: 2
     watch_started: 0
   intra: wasman
   login: wtasman
@@ -1949,8 +1949,8 @@
     fork: 0
     public: 0
     repo: 6
-    total: 49
-    watch_started: 36
+    total: 51
+    watch_started: 38
   intra: klongric
   login: Klongrich
   node_id: MDQ6VXNlcjE3NDM0NTk5
@@ -3819,9 +3819,9 @@
   event_counts:
     follow: 0
     fork: 0
-    public: 0
+    public: 1
     repo: 0
-    total: 0
+    total: 1
     watch_started: 0
   intra: amishra
   login: anandvardhanmishra
