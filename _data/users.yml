@@ -2126,10 +2126,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/18608979?v=4
   event_counts:
     follow: 15
-    fork: 6
+    fork: 8
     public: 0
     repo: 7
-    total: 57
+    total: 59
     watch_started: 29
   intra: nobrien
   login: nickisobrien
@@ -3613,12 +3613,12 @@
 26423504:
   avatar_url: https://avatars0.githubusercontent.com/u/26423504?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 6
     public: 0
     repo: 10
-    total: 88
-    watch_started: 70
+    total: 91
+    watch_started: 72
   intra: dfan
   login: dayfine
   node_id: MDQ6VXNlcjI2NDIzNTA0
