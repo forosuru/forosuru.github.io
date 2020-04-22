@@ -411,9 +411,9 @@
   event_counts:
     follow: 0
     fork: 1
-    public: 0
+    public: 1
     repo: 1
-    total: 3
+    total: 4
     watch_started: 1
   intra: bpierce
   login: Dorfnox
@@ -1361,8 +1361,8 @@
     fork: 10
     public: 0
     repo: 7
-    total: 756
-    watch_started: 622
+    total: 759
+    watch_started: 625
   intra: mfernand
   login: matias-eduardo
   node_id: MDQ6VXNlcjEyMTQ1MTE5
