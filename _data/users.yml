@@ -2,10 +2,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/627891?v=4
   event_counts:
     follow: 0
-    fork: 14
+    fork: 15
     public: 1
     repo: 1
-    total: 27
+    total: 28
     watch_started: 11
   intra: kyork
   login: riking
@@ -97,12 +97,12 @@
 1560514:
   avatar_url: https://avatars3.githubusercontent.com/u/1560514?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 2
     public: 0
     repo: 14
-    total: 34
-    watch_started: 12
+    total: 36
+    watch_started: 13
   intra: eubotnar
   login: evb-gh
   node_id: MDQ6VXNlcjE1NjA1MTQ=
@@ -1357,11 +1357,11 @@
 12145119:
   avatar_url: https://avatars0.githubusercontent.com/u/12145119?v=4
   event_counts:
-    follow: 124
+    follow: 125
     fork: 10
     public: 0
     repo: 7
-    total: 795
+    total: 796
     watch_started: 654
   intra: mfernand
   login: matias-eduardo
