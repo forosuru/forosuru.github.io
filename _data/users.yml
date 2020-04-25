@@ -1625,8 +1625,8 @@
     fork: 1
     public: 1
     repo: 29
-    total: 69
-    watch_started: 17
+    total: 70
+    watch_started: 18
   intra: jcrisp
   login: zill4
   node_id: MDQ6VXNlcjE0OTQ3Mzcy
@@ -3049,11 +3049,11 @@
 23652076:
   avatar_url: https://avatars3.githubusercontent.com/u/23652076?v=4
   event_counts:
-    follow: 4
+    follow: 5
     fork: 1
     public: 0
     repo: 2
-    total: 8
+    total: 9
     watch_started: 1
   intra: mmastrel
   login: mastrella
