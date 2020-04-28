@@ -1817,8 +1817,8 @@
     fork: 0
     public: 0
     repo: 1
-    total: 204
-    watch_started: 197
+    total: 205
+    watch_started: 198
   intra: irhett
   login: izcet
   node_id: MDQ6VXNlcjE2NTY4OTU2
@@ -3025,11 +3025,11 @@
 23647013:
   avatar_url: https://avatars1.githubusercontent.com/u/23647013?v=4
   event_counts:
-    follow: 3
+    follow: 4
     fork: 0
     public: 0
     repo: 6
-    total: 11
+    total: 12
     watch_started: 2
   intra: bbixby
   login: brianbixby
@@ -4468,8 +4468,8 @@
     follow: 6
     fork: 1
     public: 6
-    repo: 10
-    total: 28
+    repo: 11
+    total: 29
     watch_started: 5
   intra: agrodzin
   login: blairclair
