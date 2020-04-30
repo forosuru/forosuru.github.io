@@ -1253,8 +1253,8 @@
     fork: 0
     public: 0
     repo: 6
-    total: 25
-    watch_started: 12
+    total: 26
+    watch_started: 13
   intra: dperera
   login: elPandaFriki
   node_id: MDQ6VXNlcjExMjc4NDE3
@@ -3134,10 +3134,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/24300177?v=4
   event_counts:
     follow: 6
-    fork: 7
+    fork: 8
     public: 2
     repo: 4
-    total: 30
+    total: 31
     watch_started: 11
   intra: ekelen
   login: ekelen
