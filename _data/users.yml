@@ -1058,10 +1058,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/10339000?v=4
   event_counts:
     follow: 0
-    fork: 1
+    fork: 2
     public: 0
     repo: 0
-    total: 2
+    total: 3
     watch_started: 1
   intra: ppatil
   login: TinfoilPancakes
@@ -2705,8 +2705,8 @@
     fork: 5
     public: 0
     repo: 1
-    total: 345
-    watch_started: 315
+    total: 346
+    watch_started: 316
   intra: gguiulfo
   login: giacomoguiulfo
   node_id: MDQ6VXNlcjIyMDkxNjAw
