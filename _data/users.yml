@@ -1058,10 +1058,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/10339000?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 0
     repo: 0
-    total: 1
+    total: 2
     watch_started: 1
   intra: ppatil
   login: TinfoilPancakes
