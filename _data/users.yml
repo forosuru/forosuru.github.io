@@ -269,8 +269,8 @@
     fork: 11
     public: 0
     repo: 8
-    total: 108
-    watch_started: 58
+    total: 109
+    watch_started: 59
   intra: kchenna
   login: hashb
   node_id: MDQ6VXNlcjM4MjEwNDM=
@@ -1061,8 +1061,8 @@
     fork: 2
     public: 0
     repo: 0
-    total: 3
-    watch_started: 1
+    total: 4
+    watch_started: 2
   intra: ppatil
   login: TinfoilPancakes
   node_id: MDQ6VXNlcjEwMzM5MDAw
@@ -3050,11 +3050,11 @@
   avatar_url: https://avatars3.githubusercontent.com/u/23652076?v=4
   event_counts:
     follow: 5
-    fork: 1
+    fork: 2
     public: 0
     repo: 2
-    total: 9
-    watch_started: 1
+    total: 11
+    watch_started: 2
   intra: mmastrel
   login: mastrella
   node_id: MDQ6VXNlcjIzNjUyMDc2
