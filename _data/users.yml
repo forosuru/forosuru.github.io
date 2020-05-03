@@ -208,8 +208,8 @@
     follow: 3
     fork: 1
     public: 0
-    repo: 0
-    total: 13
+    repo: 1
+    total: 14
     watch_started: 9
   intra: oabdalha
   login: Obsaa
@@ -845,8 +845,8 @@
     fork: 1
     public: 0
     repo: 0
-    total: 3
-    watch_started: 2
+    total: 4
+    watch_started: 3
   intra: fromo
   login: felromo
   node_id: MDQ6VXNlcjg0NjMzNjY=
