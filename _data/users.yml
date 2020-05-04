@@ -205,11 +205,11 @@
 3152377:
   avatar_url: https://avatars3.githubusercontent.com/u/3152377?v=4
   event_counts:
-    follow: 3
+    follow: 4
     fork: 1
     public: 0
     repo: 1
-    total: 14
+    total: 15
     watch_started: 9
   intra: oabdalha
   login: Obsaa
@@ -2705,8 +2705,8 @@
     fork: 5
     public: 0
     repo: 1
-    total: 366
-    watch_started: 335
+    total: 368
+    watch_started: 337
   intra: gguiulfo
   login: giacomoguiulfo
   node_id: MDQ6VXNlcjIyMDkxNjAw
@@ -5921,8 +5921,8 @@
     fork: 0
     public: 0
     repo: 12
-    total: 63
-    watch_started: 10
+    total: 64
+    watch_started: 11
   intra: marrodri
   login: marrodri
   node_id: MDQ6VXNlcjQ2MjAzMjc5
