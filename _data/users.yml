@@ -14,10 +14,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/646796?v=4
   event_counts:
     follow: 0
-    fork: 3
+    fork: 4
     public: 0
     repo: 0
-    total: 4
+    total: 5
     watch_started: 1
   intra: gaetan
   login: GaetanJUVIN
@@ -1949,8 +1949,8 @@
     fork: 0
     public: 0
     repo: 6
-    total: 51
-    watch_started: 38
+    total: 52
+    watch_started: 39
   intra: klongric
   login: Klongrich
   node_id: MDQ6VXNlcjE3NDM0NTk5
@@ -2357,8 +2357,8 @@
     fork: 1
     public: 2
     repo: 4
-    total: 10
-    watch_started: 2
+    total: 11
+    watch_started: 3
   intra: lbeserra
   login: crlucasdias
   node_id: MDQ6VXNlcjIwMjcwNDI5
@@ -3389,8 +3389,8 @@
     fork: 4
     public: 8
     repo: 2
-    total: 208
-    watch_started: 173
+    total: 209
+    watch_started: 174
   intra: scollet
   login: scollet1
   node_id: MDQ6VXNlcjI1MjU3OTg2
@@ -4562,10 +4562,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/32878496?v=4
   event_counts:
     follow: 11
-    fork: 3
+    fork: 5
     public: 8
     repo: 1
-    total: 26
+    total: 28
     watch_started: 3
   intra: tle-huu-
   login: tle-huu
