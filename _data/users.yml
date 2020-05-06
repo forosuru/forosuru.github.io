@@ -2849,8 +2849,8 @@
     fork: 4
     public: 0
     repo: 15
-    total: 58
-    watch_started: 30
+    total: 59
+    watch_started: 31
   intra: abarnett
   login: alanbarnett
   node_id: MDQ6VXNlcjIyNTgyMDU1
@@ -3794,10 +3794,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/28164574?v=4
   event_counts:
     follow: 3
-    fork: 1
+    fork: 2
     public: 0
     repo: 4
-    total: 11
+    total: 12
     watch_started: 3
   intra: mtan
   login: mgia
