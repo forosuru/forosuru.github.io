@@ -4697,8 +4697,8 @@
     fork: 9
     public: 26
     repo: 5
-    total: 74
-    watch_started: 6
+    total: 75
+    watch_started: 7
   intra: acarlson
   login: acarlson99
   node_id: MDQ6VXNlcjM0NDMxMjE4
@@ -5643,9 +5643,9 @@
   event_counts:
     follow: 3
     fork: 1
-    public: 1
+    public: 2
     repo: 3
-    total: 10
+    total: 11
     watch_started: 2
   intra: dcordova
   login: DanielCordovaV
