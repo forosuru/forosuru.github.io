@@ -374,11 +374,11 @@
   avatar_url: https://avatars3.githubusercontent.com/u/4603587?v=4
   event_counts:
     follow: 1
-    fork: 8
+    fork: 9
     public: 0
     repo: 0
-    total: 19
-    watch_started: 10
+    total: 21
+    watch_started: 11
   intra: rtorres-
   login: soulcocktail
   node_id: MDQ6VXNlcjQ2MDM1ODc=
@@ -1361,8 +1361,8 @@
     fork: 12
     public: 0
     repo: 7
-    total: 845
-    watch_started: 690
+    total: 847
+    watch_started: 692
   intra: mfernand
   login: matias-eduardo
   node_id: MDQ6VXNlcjEyMTQ1MTE5
