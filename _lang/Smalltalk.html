@@ -1,0 +1,9 @@
+---
+layout: default
+language: Smalltalk
+filename: Smalltalk.html
+---
+{% assign events = site.events | where: "language","Smalltalk" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
