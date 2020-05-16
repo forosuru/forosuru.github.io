@@ -508,8 +508,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 0
-    total: 0
+    repo: 1
+    total: 1
     watch_started: 0
   intra: bburnley
   login: roccaturi
@@ -845,8 +845,8 @@
     fork: 2
     public: 0
     repo: 0
-    total: 6
-    watch_started: 4
+    total: 7
+    watch_started: 5
   intra: fromo
   login: felromo
   node_id: MDQ6VXNlcjg0NjMzNjY=
