@@ -2705,8 +2705,8 @@
     fork: 5
     public: 0
     repo: 1
-    total: 380
-    watch_started: 349
+    total: 381
+    watch_started: 350
   intra: gguiulfo
   login: giacomoguiulfo
   node_id: MDQ6VXNlcjIyMDkxNjAw
@@ -4945,11 +4945,11 @@
 36604610:
   avatar_url: https://avatars1.githubusercontent.com/u/36604610?v=4
   event_counts:
-    follow: 24
+    follow: 25
     fork: 1
     public: 0
     repo: 15
-    total: 43
+    total: 44
     watch_started: 3
   intra: cdimitro
   login: coolguycam
