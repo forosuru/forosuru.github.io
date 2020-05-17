@@ -193,11 +193,11 @@
 2942306:
   avatar_url: https://avatars0.githubusercontent.com/u/2942306?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 3
     public: 0
     repo: 4
-    total: 13
+    total: 14
     watch_started: 0
   intra: rhallste
   login: rjhallsted
@@ -3617,8 +3617,8 @@
     fork: 6
     public: 0
     repo: 10
-    total: 108
-    watch_started: 87
+    total: 109
+    watch_started: 88
   intra: dfan
   login: dayfine
   node_id: MDQ6VXNlcjI2NDIzNTA0
