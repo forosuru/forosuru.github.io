@@ -2450,10 +2450,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/20745447?v=4
   event_counts:
     follow: 21
-    fork: 5
+    fork: 6
     public: 0
     repo: 5
-    total: 32
+    total: 33
     watch_started: 1
   intra: dstolz
   login: donald-stolz
@@ -2705,8 +2705,8 @@
     fork: 5
     public: 0
     repo: 1
-    total: 382
-    watch_started: 351
+    total: 383
+    watch_started: 352
   intra: gguiulfo
   login: giacomoguiulfo
   node_id: MDQ6VXNlcjIyMDkxNjAw
