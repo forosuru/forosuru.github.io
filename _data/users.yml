@@ -2849,8 +2849,8 @@
     fork: 4
     public: 0
     repo: 15
-    total: 59
-    watch_started: 31
+    total: 60
+    watch_started: 32
   intra: abarnett
   login: alanbarnett
   node_id: MDQ6VXNlcjIyNTgyMDU1
@@ -4361,8 +4361,8 @@
     fork: 11
     public: 2
     repo: 4
-    total: 125
-    watch_started: 77
+    total: 126
+    watch_started: 78
   intra: fredsiik
   login: fredsiika
   node_id: MDQ6VXNlcjMyMjYxMTEz
@@ -4564,8 +4564,8 @@
     follow: 11
     fork: 5
     public: 8
-    repo: 1
-    total: 28
+    repo: 2
+    total: 29
     watch_started: 3
   intra: tle-huu-
   login: tle-huu
