@@ -4323,9 +4323,9 @@
   event_counts:
     follow: 30
     fork: 5
-    public: 1
+    public: 2
     repo: 24
-    total: 65
+    total: 66
     watch_started: 5
   intra: gfielder
   login: gavinfielder
