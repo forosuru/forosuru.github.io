@@ -1,0 +1,11 @@
+---
+layout: default
+intra: anieto
+login: hardtargetmullet
+id: 14177167
+avatar_url: https://avatars2.githubusercontent.com/u/14177167?v=4
+---
+{% assign events = site.events | where: "author_id","14177167" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
