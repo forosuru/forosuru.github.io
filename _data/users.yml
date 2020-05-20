@@ -2476,8 +2476,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 7
-    total: 7
+    repo: 8
+    total: 8
     watch_started: 0
   intra: chansen
   login: hank0cean
@@ -4359,9 +4359,9 @@
   event_counts:
     follow: 31
     fork: 11
-    public: 2
+    public: 3
     repo: 4
-    total: 126
+    total: 127
     watch_started: 78
   intra: fredsiik
   login: fredsiika
