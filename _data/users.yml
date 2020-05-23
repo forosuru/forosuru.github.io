@@ -497,8 +497,8 @@
     fork: 1
     public: 0
     repo: 2
-    total: 60
-    watch_started: 46
+    total: 61
+    watch_started: 47
   intra: dkotov
   login: stubisdon
   node_id: MDQ6VXNlcjU1MTQ0NzE=
@@ -685,11 +685,11 @@
 7260523:
   avatar_url: https://avatars3.githubusercontent.com/u/7260523?v=4
   event_counts:
-    follow: 13
+    follow: 14
     fork: 90
     public: 0
     repo: 15
-    total: 121
+    total: 122
     watch_started: 3
   intra: ktjhan
   login: ktjhan
@@ -2705,8 +2705,8 @@
     fork: 5
     public: 0
     repo: 1
-    total: 387
-    watch_started: 356
+    total: 388
+    watch_started: 357
   intra: gguiulfo
   login: giacomoguiulfo
   node_id: MDQ6VXNlcjIyMDkxNjAw
