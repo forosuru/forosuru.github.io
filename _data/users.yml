@@ -1960,8 +1960,8 @@
     follow: 32
     fork: 0
     public: 1
-    repo: 5
-    total: 45
+    repo: 6
+    total: 46
     watch_started: 7
   intra: asansyzb
   login: asansyzb
@@ -2245,11 +2245,11 @@
 19478839:
   avatar_url: https://avatars0.githubusercontent.com/u/19478839?v=4
   event_counts:
-    follow: 7
+    follow: 9
     fork: 0
     public: 0
     repo: 4
-    total: 25
+    total: 27
     watch_started: 14
   intra: kdrumm
   login: kaidrumm
@@ -5893,11 +5893,11 @@
 45909746:
   avatar_url: https://avatars0.githubusercontent.com/u/45909746?v=4
   event_counts:
-    follow: 4
+    follow: 5
     fork: 1
     public: 1
     repo: 6
-    total: 17
+    total: 18
     watch_started: 5
   intra: ghdesfos
   login: ghdesfos
