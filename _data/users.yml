@@ -1957,11 +1957,11 @@
 17593070:
   avatar_url: https://avatars0.githubusercontent.com/u/17593070?v=4
   event_counts:
-    follow: 30
+    follow: 32
     fork: 0
     public: 1
-    repo: 4
-    total: 42
+    repo: 5
+    total: 45
     watch_started: 7
   intra: asansyzb
   login: asansyzb
@@ -4897,11 +4897,11 @@
 36177209:
   avatar_url: https://avatars1.githubusercontent.com/u/36177209?v=4
   event_counts:
-    follow: 3
+    follow: 5
     fork: 0
     public: 0
     repo: 2
-    total: 5
+    total: 7
     watch_started: 0
   intra: feedme
   login: maou100
@@ -5822,10 +5822,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/45500862?v=4
   event_counts:
     follow: 18
-    fork: 28
+    fork: 29
     public: 0
     repo: 17
-    total: 63
+    total: 64
     watch_started: 0
   intra: vsmolii
   login: JacobSmolii
