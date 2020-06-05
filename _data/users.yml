@@ -241,11 +241,11 @@
 3650623:
   avatar_url: https://avatars3.githubusercontent.com/u/3650623?v=4
   event_counts:
-    follow: 1
-    fork: 3
+    follow: 5
+    fork: 4
     public: 0
     repo: 12
-    total: 20
+    total: 25
     watch_started: 4
   intra: ewilliam
   login: ertw
@@ -497,8 +497,8 @@
     fork: 1
     public: 0
     repo: 2
-    total: 66
-    watch_started: 52
+    total: 67
+    watch_started: 53
   intra: dkotov
   login: stubisdon
   node_id: MDQ6VXNlcjU1MTQ0NzE=
