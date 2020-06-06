@@ -2345,8 +2345,8 @@
     fork: 1
     public: 0
     repo: 0
-    total: 5
-    watch_started: 2
+    total: 6
+    watch_started: 3
   intra: nmayfiel
   login: nmayfiel
   node_id: MDQ6VXNlcjIwMjYxODU3
@@ -5810,10 +5810,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/45478676?v=4
   event_counts:
     follow: 0
-    fork: 59
+    fork: 60
     public: 0
     repo: 25
-    total: 91
+    total: 92
     watch_started: 7
   intra: vlahorba
   login: VladyslavHorbachenko
