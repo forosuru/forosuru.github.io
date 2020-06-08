@@ -497,8 +497,8 @@
     fork: 1
     public: 0
     repo: 2
-    total: 67
-    watch_started: 53
+    total: 68
+    watch_started: 54
   intra: dkotov
   login: stubisdon
   node_id: MDQ6VXNlcjU1MTQ0NzE=
@@ -1357,11 +1357,11 @@
 12145119:
   avatar_url: https://avatars0.githubusercontent.com/u/12145119?v=4
   event_counts:
-    follow: 152
+    follow: 153
     fork: 12
     public: 0
     repo: 7
-    total: 928
+    total: 929
     watch_started: 757
   intra: mfernand
   login: matias-eduardo
