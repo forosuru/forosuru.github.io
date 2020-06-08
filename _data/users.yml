@@ -833,8 +833,8 @@
     fork: 0
     public: 1
     repo: 1
-    total: 3
-    watch_started: 0
+    total: 4
+    watch_started: 1
   intra: hkalia
   login: hkalia
   node_id: MDQ6VXNlcjgzOTYzMTg=
@@ -2053,11 +2053,11 @@
 18249395:
   avatar_url: https://avatars1.githubusercontent.com/u/18249395?v=4
   event_counts:
-    follow: 21
+    follow: 22
     fork: 83
     public: 6
     repo: 29
-    total: 169
+    total: 170
     watch_started: 30
   intra: hvillasa
   login: hectorsvill
@@ -2345,8 +2345,8 @@
     fork: 1
     public: 0
     repo: 0
-    total: 6
-    watch_started: 3
+    total: 7
+    watch_started: 4
   intra: nmayfiel
   login: nmayfiel
   node_id: MDQ6VXNlcjIwMjYxODU3
@@ -4192,8 +4192,8 @@
     follow: 33
     fork: 6
     public: 5
-    repo: 43
-    total: 89
+    repo: 44
+    total: 90
     watch_started: 2
   intra: hnam
   login: naamoonoo
