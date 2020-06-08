@@ -2705,8 +2705,8 @@
     fork: 5
     public: 0
     repo: 1
-    total: 405
-    watch_started: 372
+    total: 407
+    watch_started: 374
   intra: gguiulfo
   login: giacomoguiulfo
   node_id: MDQ6VXNlcjIyMDkxNjAw
@@ -5870,11 +5870,11 @@
   avatar_url: https://avatars2.githubusercontent.com/u/45890848?v=4
   event_counts:
     follow: 2
-    fork: 0
+    fork: 1
     public: 0
     repo: 12
-    total: 16
-    watch_started: 2
+    total: 18
+    watch_started: 3
   intra: anttran
   login: anthonykhoa
   node_id: MDQ6VXNlcjQ1ODkwODQ4
