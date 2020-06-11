@@ -2140,8 +2140,8 @@
     follow: 21
     fork: 11
     public: 4
-    repo: 36
-    total: 87
+    repo: 37
+    total: 88
     watch_started: 15
   intra: awindham
   login: arwn
@@ -3591,9 +3591,9 @@
   event_counts:
     follow: 0
     fork: 0
-    public: 0
+    public: 1
     repo: 5
-    total: 5
+    total: 6
     watch_started: 0
   intra: ksaetern
   login: ksaetern
