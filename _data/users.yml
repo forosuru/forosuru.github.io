@@ -461,8 +461,8 @@
     fork: 0
     public: 0
     repo: 4
-    total: 6
-    watch_started: 2
+    total: 7
+    watch_started: 3
   intra: rowong
   login: RobertWWong
   node_id: MDQ6VXNlcjUxNDUxODM=
@@ -3245,8 +3245,8 @@
     fork: 10
     public: 0
     repo: 37
-    total: 286
-    watch_started: 221
+    total: 287
+    watch_started: 222
   intra: cchao
   login: kizombaciao
   node_id: MDQ6VXNlcjI0Njg3MzU2
@@ -5869,11 +5869,11 @@
 45890848:
   avatar_url: https://avatars2.githubusercontent.com/u/45890848?v=4
   event_counts:
-    follow: 2
+    follow: 4
     fork: 2
     public: 0
     repo: 12
-    total: 20
+    total: 22
     watch_started: 4
   intra: anttran
   login: anthonykhoa
