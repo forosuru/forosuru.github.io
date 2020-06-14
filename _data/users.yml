@@ -97,11 +97,11 @@
 1560514:
   avatar_url: https://avatars3.githubusercontent.com/u/1560514?v=4
   event_counts:
-    follow: 8
+    follow: 9
     fork: 2
     public: 0
     repo: 14
-    total: 38
+    total: 39
     watch_started: 14
   intra: eubotnar
   login: evb-gh
@@ -2705,8 +2705,8 @@
     fork: 5
     public: 0
     repo: 1
-    total: 416
-    watch_started: 382
+    total: 417
+    watch_started: 383
   intra: gguiulfo
   login: giacomoguiulfo
   node_id: MDQ6VXNlcjIyMDkxNjAw
