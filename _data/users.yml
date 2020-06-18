@@ -2,10 +2,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/627891?v=4
   event_counts:
     follow: 0
-    fork: 18
+    fork: 19
     public: 1
     repo: 2
-    total: 34
+    total: 35
     watch_started: 13
   intra: kyork
   login: riking
@@ -1538,10 +1538,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/13891114?v=4
   event_counts:
     follow: 2
-    fork: 1
+    fork: 2
     public: 1
-    repo: 13
-    total: 23
+    repo: 14
+    total: 25
     watch_started: 6
   intra: spoole
   login: spoole50
@@ -2129,8 +2129,8 @@
     fork: 8
     public: 0
     repo: 7
-    total: 60
-    watch_started: 30
+    total: 61
+    watch_started: 31
   intra: nobrien
   login: nickisobrien
   node_id: MDQ6VXNlcjE4NjA4OTc5
@@ -2785,11 +2785,11 @@
 22486866:
   avatar_url: https://avatars1.githubusercontent.com/u/22486866?v=4
   event_counts:
-    follow: 6
+    follow: 8
     fork: 0
     public: 0
     repo: 0
-    total: 7
+    total: 9
     watch_started: 1
   intra: mosborne
   login: MitchelOsb1
@@ -3601,11 +3601,11 @@
 26353225:
   avatar_url: https://avatars1.githubusercontent.com/u/26353225?v=4
   event_counts:
-    follow: 29
+    follow: 30
     fork: 0
     public: 2
     repo: 0
-    total: 69
+    total: 70
     watch_started: 38
   intra: gmalpart
   login: regien
