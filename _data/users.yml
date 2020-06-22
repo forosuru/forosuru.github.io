@@ -421,12 +421,12 @@
 4915173:
   avatar_url: https://avatars0.githubusercontent.com/u/4915173?v=4
   event_counts:
-    follow: 12
+    follow: 13
     fork: 4
     public: 1
     repo: 21
-    total: 196
-    watch_started: 158
+    total: 198
+    watch_started: 159
   intra: tmatthew
   login: Travmatth
   node_id: MDQ6VXNlcjQ5MTUxNzM=
@@ -1357,12 +1357,12 @@
 12145119:
   avatar_url: https://avatars0.githubusercontent.com/u/12145119?v=4
   event_counts:
-    follow: 153
+    follow: 154
     fork: 12
     public: 0
     repo: 7
-    total: 930
-    watch_started: 758
+    total: 934
+    watch_started: 761
   intra: mfernand
   login: matias-eduardo
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -3387,9 +3387,9 @@
   event_counts:
     follow: 21
     fork: 4
-    public: 8
+    public: 9
     repo: 2
-    total: 212
+    total: 213
     watch_started: 177
   intra: scollet
   login: scollet1
