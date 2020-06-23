@@ -5895,9 +5895,9 @@
   event_counts:
     follow: 5
     fork: 1
-    public: 1
+    public: 2
     repo: 6
-    total: 18
+    total: 19
     watch_started: 5
   intra: ghdesfos
   login: ghdesfos
