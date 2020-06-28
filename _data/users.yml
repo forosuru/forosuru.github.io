@@ -409,11 +409,11 @@
 4779114:
   avatar_url: https://avatars3.githubusercontent.com/u/4779114?v=4
   event_counts:
-    follow: 1
+    follow: 3
     fork: 1
     public: 1
     repo: 1
-    total: 5
+    total: 7
     watch_started: 1
   intra: bpierce
   login: Dorfnox
@@ -1154,10 +1154,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/10602798?v=4
   event_counts:
     follow: 4
-    fork: 3
+    fork: 4
     public: 0
     repo: 2
-    total: 26
+    total: 27
     watch_started: 17
   intra: aakin-al
   login: akinfemi
@@ -3628,8 +3628,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 11
-    total: 15
+    repo: 12
+    total: 16
     watch_started: 4
   intra: adiorio
   login: adiorio6588
