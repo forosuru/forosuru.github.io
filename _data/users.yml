@@ -831,9 +831,9 @@
   event_counts:
     follow: 1
     fork: 0
-    public: 1
+    public: 2
     repo: 1
-    total: 4
+    total: 5
     watch_started: 1
   intra: hkalia
   login: hkalia
