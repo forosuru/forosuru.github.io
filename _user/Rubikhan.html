@@ -1,0 +1,11 @@
+---
+layout: default
+intra: smaddux
+login: Rubikhan
+id: 13629727
+avatar_url: https://avatars1.githubusercontent.com/u/13629727?v=4
+---
+{% assign events = site.events | where: "author_id","13629727" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
