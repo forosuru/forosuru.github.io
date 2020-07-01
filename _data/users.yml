@@ -3279,9 +3279,9 @@
   event_counts:
     follow: 5
     fork: 3
-    public: 0
+    public: 1
     repo: 0
-    total: 16
+    total: 17
     watch_started: 8
   intra: jchow
   login: kraxx
@@ -4189,11 +4189,11 @@
 30615804:
   avatar_url: https://avatars3.githubusercontent.com/u/30615804?v=4
   event_counts:
-    follow: 33
+    follow: 34
     fork: 8
     public: 5
     repo: 44
-    total: 92
+    total: 93
     watch_started: 2
   intra: hnam
   login: naamoonoo
