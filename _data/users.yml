@@ -4190,10 +4190,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/30615804?v=4
   event_counts:
     follow: 34
-    fork: 8
+    fork: 9
     public: 5
     repo: 44
-    total: 93
+    total: 94
     watch_started: 2
   intra: hnam
   login: naamoonoo
@@ -6025,11 +6025,11 @@
 47709344:
   avatar_url: https://avatars1.githubusercontent.com/u/47709344?v=4
   event_counts:
-    follow: 14
+    follow: 15
     fork: 1
     public: 0
     repo: 46
-    total: 63
+    total: 64
     watch_started: 2
   intra: jinpark
   login: Seojun-Park
