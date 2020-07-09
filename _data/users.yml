@@ -641,8 +641,8 @@
     fork: 0
     public: 0
     repo: 2
-    total: 7
-    watch_started: 2
+    total: 8
+    watch_started: 3
   intra: mohhassa
   login: gitmohamed
   node_id: MDQ6VXNlcjY4MTQxMDQ=
@@ -2030,10 +2030,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/18130428?v=4
   event_counts:
     follow: 1
-    fork: 1
+    fork: 2
     public: 8
     repo: 6
-    total: 25
+    total: 26
     watch_started: 9
   intra: lhurt
   login: lhurt51
