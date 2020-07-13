@@ -436,8 +436,8 @@
     follow: 1
     fork: 0
     public: 0
-    repo: 1
-    total: 2
+    repo: 2
+    total: 3
     watch_started: 0
   intra: cyildiri
   login: coder-guy22296
@@ -2705,8 +2705,8 @@
     fork: 5
     public: 0
     repo: 1
-    total: 443
-    watch_started: 409
+    total: 444
+    watch_started: 410
   intra: gguiulfo
   login: giacomoguiulfo
   node_id: MDQ6VXNlcjIyMDkxNjAw
@@ -4886,10 +4886,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/36056254?v=4
   event_counts:
     follow: 20
-    fork: 11
+    fork: 12
     public: 1
     repo: 26
-    total: 74
+    total: 75
     watch_started: 16
   intra: akharrou
   login: akharrou
