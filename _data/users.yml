@@ -1768,8 +1768,8 @@
     follow: 2
     fork: 5
     public: 0
-    repo: 9
-    total: 16
+    repo: 10
+    total: 17
     watch_started: 0
   intra: ndanilov
   login: devdanilov
@@ -2705,8 +2705,8 @@
     fork: 5
     public: 0
     repo: 1
-    total: 446
-    watch_started: 412
+    total: 449
+    watch_started: 415
   intra: gguiulfo
   login: giacomoguiulfo
   node_id: MDQ6VXNlcjIyMDkxNjAw
@@ -3184,8 +3184,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 18
-    total: 19
+    repo: 19
+    total: 20
     watch_started: 1
   intra: kmurray
   login: indy728
@@ -4754,10 +4754,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/34915661?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 0
     repo: 5
-    total: 7
+    total: 8
     watch_started: 2
   intra: rwright
   login: wright08
