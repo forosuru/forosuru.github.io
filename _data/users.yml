@@ -1253,8 +1253,8 @@
     fork: 0
     public: 0
     repo: 20
-    total: 133
-    watch_started: 102
+    total: 134
+    watch_started: 103
   intra: dperera
   login: elPandaFriki
   node_id: MDQ6VXNlcjExMjc4NDE3
@@ -1357,12 +1357,12 @@
 12145119:
   avatar_url: https://avatars0.githubusercontent.com/u/12145119?v=4
   event_counts:
-    follow: 154
+    follow: 156
     fork: 12
     public: 0
     repo: 7
-    total: 941
-    watch_started: 768
+    total: 949
+    watch_started: 774
   intra: mfernand
   login: matias-eduardo
   node_id: MDQ6VXNlcjEyMTQ1MTE5
