@@ -39,9 +39,9 @@
   event_counts:
     follow: 5
     fork: 3
-    public: 8
+    public: 9
     repo: 1
-    total: 34
+    total: 35
     watch_started: 17
   intra: jkrause
   login: SuperSpyTX
@@ -3184,8 +3184,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 19
-    total: 20
+    repo: 20
+    total: 21
     watch_started: 1
   intra: kmurray
   login: indy728
