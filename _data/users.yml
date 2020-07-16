@@ -1768,8 +1768,8 @@
     follow: 2
     fork: 5
     public: 0
-    repo: 10
-    total: 17
+    repo: 11
+    total: 18
     watch_started: 0
   intra: ndanilov
   login: devdanilov
@@ -5005,11 +5005,11 @@
 36980940:
   avatar_url: https://avatars0.githubusercontent.com/u/36980940?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 0
     public: 1
     repo: 9
-    total: 12
+    total: 13
     watch_started: 0
   intra: ksonu
   login: moonsonu
