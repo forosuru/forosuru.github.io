@@ -133,12 +133,12 @@
 2355763:
   avatar_url: https://avatars1.githubusercontent.com/u/2355763?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 2
     public: 0
     repo: 13
-    total: 82
-    watch_started: 61
+    total: 85
+    watch_started: 63
   intra: seli
   login: Evilcat325
   node_id: MDQ6VXNlcjIzNTU3NjM=
@@ -1361,8 +1361,8 @@
     fork: 12
     public: 0
     repo: 7
-    total: 949
-    watch_started: 774
+    total: 950
+    watch_started: 775
   intra: mfernand
   login: matias-eduardo
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -4373,8 +4373,8 @@
     fork: 0
     public: 17
     repo: 7
-    total: 38
-    watch_started: 11
+    total: 39
+    watch_started: 12
   intra: asarandi
   login: asarandi
   node_id: MDQ6VXNlcjMyMjczMjE0
