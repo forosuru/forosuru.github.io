@@ -4612,8 +4612,8 @@
     follow: 3
     fork: 0
     public: 1
-    repo: 0
-    total: 5
+    repo: 1
+    total: 6
     watch_started: 1
   intra: apuel
   login: apuel
