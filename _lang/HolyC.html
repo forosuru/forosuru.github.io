@@ -1,0 +1,9 @@
+---
+layout: default
+language: HolyC
+filename: HolyC.html
+---
+{% assign events = site.events | where: "language","HolyC" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
