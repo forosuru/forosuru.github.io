@@ -3241,12 +3241,12 @@
 24687356:
   avatar_url: https://avatars1.githubusercontent.com/u/24687356?v=4
   event_counts:
-    follow: 22
+    follow: 23
     fork: 13
     public: 0
     repo: 37
-    total: 331
-    watch_started: 259
+    total: 334
+    watch_started: 261
   intra: cchao
   login: kizombaciao
   node_id: MDQ6VXNlcjI0Njg3MzU2
@@ -6025,11 +6025,11 @@
 47709344:
   avatar_url: https://avatars1.githubusercontent.com/u/47709344?v=4
   event_counts:
-    follow: 17
+    follow: 18
     fork: 2
     public: 0
     repo: 47
-    total: 68
+    total: 69
     watch_started: 2
   intra: jinpark
   login: Seojun-Park
