@@ -1,0 +1,9 @@
+---
+layout: default
+language: Prolog
+filename: Prolog.html
+---
+{% assign events = site.events | where: "language","Prolog" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
