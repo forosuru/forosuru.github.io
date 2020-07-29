@@ -782,11 +782,11 @@
   avatar_url: https://avatars3.githubusercontent.com/u/8131174?v=4
   event_counts:
     follow: 11
-    fork: 0
+    fork: 1
     public: 0
     repo: 2
-    total: 31
-    watch_started: 18
+    total: 33
+    watch_started: 19
   intra: erintala
   login: adagiox
   node_id: MDQ6VXNlcjgxMzExNzQ=
