@@ -497,8 +497,8 @@
     fork: 1
     public: 0
     repo: 2
-    total: 83
-    watch_started: 68
+    total: 85
+    watch_started: 70
   intra: dkotov
   login: stubisdon
   node_id: MDQ6VXNlcjU1MTQ0NzE=
@@ -2306,10 +2306,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/20134473?v=4
   event_counts:
     follow: 0
-    fork: 3
+    fork: 4
     public: 0
     repo: 1
-    total: 5
+    total: 6
     watch_started: 1
   intra: bmontoya
   login: Relucin
