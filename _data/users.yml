@@ -1429,11 +1429,11 @@
 13080764:
   avatar_url: https://avatars1.githubusercontent.com/u/13080764?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 2
     public: 1
     repo: 7
-    total: 13
+    total: 14
     watch_started: 3
   intra: ycao
   login: caoyucen
@@ -5137,12 +5137,12 @@
 38436303:
   avatar_url: https://avatars0.githubusercontent.com/u/38436303?v=4
   event_counts:
-    follow: 10
+    follow: 11
     fork: 3
     public: 7
     repo: 17
-    total: 59
-    watch_started: 22
+    total: 62
+    watch_started: 24
   intra: jcasian
   login: JuanCasian
   node_id: MDQ6VXNlcjM4NDM2MzAz
