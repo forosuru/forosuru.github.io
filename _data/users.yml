@@ -1061,8 +1061,8 @@
     fork: 2
     public: 0
     repo: 0
-    total: 5
-    watch_started: 2
+    total: 6
+    watch_started: 3
   intra: ppatil
   login: TinfoilPancakes
   node_id: MDQ6VXNlcjEwMzM5MDAw
@@ -2977,11 +2977,11 @@
 23408540:
   avatar_url: https://avatars0.githubusercontent.com/u/23408540?v=4
   event_counts:
-    follow: 10
+    follow: 11
     fork: 2
     public: 0
     repo: 3
-    total: 19
+    total: 20
     watch_started: 4
   intra: rle
   login: sudoryan
