@@ -1361,8 +1361,8 @@
     fork: 12
     public: 0
     repo: 7
-    total: 980
-    watch_started: 798
+    total: 981
+    watch_started: 799
   intra: mfernand
   login: matias-eduardo
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -4695,9 +4695,9 @@
   event_counts:
     follow: 29
     fork: 10
-    public: 26
+    public: 27
     repo: 5
-    total: 78
+    total: 79
     watch_started: 8
   intra: acarlson
   login: acarlson99
@@ -5512,8 +5512,8 @@
     follow: 91
     fork: 1
     public: 0
-    repo: 43
-    total: 140
+    repo: 44
+    total: 141
     watch_started: 5
   intra: kmira
   login: MrColour
@@ -5920,8 +5920,8 @@
     follow: 45
     fork: 0
     public: 0
-    repo: 14
-    total: 77
+    repo: 15
+    total: 78
     watch_started: 18
   intra: marrodri
   login: marrodri
