@@ -2,10 +2,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/627891?v=4
   event_counts:
     follow: 0
-    fork: 24
+    fork: 25
     public: 1
     repo: 2
-    total: 41
+    total: 42
     watch_started: 14
   intra: kyork
   login: riking
@@ -5703,9 +5703,9 @@
   event_counts:
     follow: 46
     fork: 1
-    public: 0
+    public: 1
     repo: 19
-    total: 72
+    total: 73
     watch_started: 6
   intra: tkatolik
   login: katolikyan
