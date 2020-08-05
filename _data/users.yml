@@ -1361,8 +1361,8 @@
     fork: 12
     public: 0
     repo: 7
-    total: 1002
-    watch_started: 814
+    total: 1003
+    watch_started: 815
   intra: mfernand
   login: matias-eduardo
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -2161,11 +2161,11 @@
 18674131:
   avatar_url: https://avatars0.githubusercontent.com/u/18674131?v=4
   event_counts:
-    follow: 10
+    follow: 11
     fork: 0
     public: 0
     repo: 3
-    total: 27
+    total: 28
     watch_started: 14
   intra: wfung
   login: yayimadinosaur
