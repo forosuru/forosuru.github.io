@@ -4525,11 +4525,11 @@
 32823323:
   avatar_url: https://avatars2.githubusercontent.com/u/32823323?v=4
   event_counts:
-    follow: 11
+    follow: 12
     fork: 0
     public: 7
     repo: 12
-    total: 30
+    total: 31
     watch_started: 0
   intra: amagnan
   login: arnauze
