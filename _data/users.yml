@@ -2030,10 +2030,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/18130428?v=4
   event_counts:
     follow: 1
-    fork: 2
+    fork: 3
     public: 8
     repo: 6
-    total: 27
+    total: 28
     watch_started: 10
   intra: lhurt
   login: lhurt51
@@ -4465,11 +4465,11 @@
 32594874:
   avatar_url: https://avatars3.githubusercontent.com/u/32594874?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 1
     public: 6
     repo: 11
-    total: 29
+    total: 30
     watch_started: 5
   intra: agrodzin
   login: blairclair
