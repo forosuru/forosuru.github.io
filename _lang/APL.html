@@ -1,0 +1,9 @@
+---
+layout: default
+language: APL
+filename: APL.html
+---
+{% assign events = site.events | where: "language","APL" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
