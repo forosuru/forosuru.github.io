@@ -37,11 +37,11 @@
 978263:
   avatar_url: https://avatars1.githubusercontent.com/u/978263?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 3
     public: 9
     repo: 1
-    total: 36
+    total: 37
     watch_started: 18
   intra: jkrause
   login: SuperSpyTX
@@ -1357,12 +1357,12 @@
 12145119:
   avatar_url: https://avatars0.githubusercontent.com/u/12145119?v=4
   event_counts:
-    follow: 171
+    follow: 172
     fork: 12
     public: 0
     repo: 7
-    total: 1017
-    watch_started: 827
+    total: 1019
+    watch_started: 828
   intra: mfernand
   login: matias-eduardo
   node_id: MDQ6VXNlcjEyMTQ1MTE5
