@@ -1813,12 +1813,12 @@
 16568956:
   avatar_url: https://avatars3.githubusercontent.com/u/16568956?v=4
   event_counts:
-    follow: 7
+    follow: 8
     fork: 0
     public: 0
     repo: 1
-    total: 215
-    watch_started: 207
+    total: 225
+    watch_started: 216
   intra: irhett
   login: izcet
   node_id: MDQ6VXNlcjE2NTY4OTU2
@@ -2705,8 +2705,8 @@
     fork: 5
     public: 0
     repo: 1
-    total: 475
-    watch_started: 439
+    total: 476
+    watch_started: 440
   intra: gguiulfo
   login: giacomoguiulfo
   node_id: MDQ6VXNlcjIyMDkxNjAw
