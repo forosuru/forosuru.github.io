@@ -1034,10 +1034,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/10013170?v=4
   event_counts:
     follow: 15
-    fork: 0
+    fork: 1
     public: 0
     repo: 7
-    total: 29
+    total: 30
     watch_started: 7
   intra: pdoherty
   login: paulrobertdoherty
