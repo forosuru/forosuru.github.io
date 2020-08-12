@@ -2989,11 +2989,11 @@
 23506729:
   avatar_url: https://avatars1.githubusercontent.com/u/23506729?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 2
     public: 0
     repo: 5
-    total: 12
+    total: 13
     watch_started: 5
   intra: kcheung
   login: Kcheung42
@@ -4189,11 +4189,11 @@
 30615804:
   avatar_url: https://avatars3.githubusercontent.com/u/30615804?v=4
   event_counts:
-    follow: 46
+    follow: 47
     fork: 10
     public: 5
     repo: 49
-    total: 116
+    total: 117
     watch_started: 6
   intra: hnam
   login: naamoonoo
