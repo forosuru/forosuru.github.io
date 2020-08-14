@@ -843,9 +843,9 @@
   event_counts:
     follow: 0
     fork: 2
-    public: 0
+    public: 1
     repo: 0
-    total: 8
+    total: 9
     watch_started: 6
   intra: fromo
   login: felromo
