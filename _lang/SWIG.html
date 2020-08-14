@@ -1,0 +1,9 @@
+---
+layout: default
+language: SWIG
+filename: SWIG.html
+---
+{% assign events = site.events | where: "language","SWIG" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
