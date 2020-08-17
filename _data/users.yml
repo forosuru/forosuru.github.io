@@ -1361,8 +1361,8 @@
     fork: 12
     public: 0
     repo: 7
-    total: 1046
-    watch_started: 849
+    total: 1047
+    watch_started: 850
   intra: mfernand
   login: matias-eduardo
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -2391,9 +2391,9 @@
   event_counts:
     follow: 9
     fork: 5
-    public: 1
+    public: 2
     repo: 11
-    total: 41
+    total: 42
     watch_started: 15
   intra: lweinste
   login: LevinWeinstein
