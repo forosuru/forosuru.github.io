@@ -917,8 +917,8 @@
     fork: 0
     public: 2
     repo: 3
-    total: 15
-    watch_started: 6
+    total: 16
+    watch_started: 7
   intra: mburson
   login: maxburs
   node_id: MDQ6VXNlcjg4OTAzMTI=
@@ -1864,8 +1864,8 @@
     follow: 40
     fork: 8
     public: 0
-    repo: 81
-    total: 134
+    repo: 82
+    total: 135
     watch_started: 5
   intra: jadawson
   login: JamieDawson
@@ -5869,11 +5869,11 @@
 45890848:
   avatar_url: https://avatars2.githubusercontent.com/u/45890848?v=4
   event_counts:
-    follow: 4
+    follow: 5
     fork: 3
     public: 0
     repo: 13
-    total: 25
+    total: 26
     watch_started: 5
   intra: anttran
   login: anthonykhoa
