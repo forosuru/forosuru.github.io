@@ -2020,8 +2020,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 0
-    total: 0
+    repo: 1
+    total: 1
     watch_started: 0
   intra: ydang
   login: yixuandang
@@ -2053,11 +2053,11 @@
 18249395:
   avatar_url: https://avatars1.githubusercontent.com/u/18249395?v=4
   event_counts:
-    follow: 25
+    follow: 26
     fork: 83
     public: 6
     repo: 29
-    total: 180
+    total: 181
     watch_started: 37
   intra: hvillasa
   login: hectorsvill
@@ -5571,9 +5571,9 @@
   event_counts:
     follow: 18
     fork: 6
-    public: 13
-    repo: 10
-    total: 51
+    public: 14
+    repo: 12
+    total: 54
     watch_started: 4
   intra: ale-goff
   login: Alexx42
