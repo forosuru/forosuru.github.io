@@ -388,8 +388,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 0
-    total: 2
+    repo: 1
+    total: 3
     watch_started: 2
   intra: kwame
   login: Kwame42
@@ -1909,11 +1909,11 @@
 17127622:
   avatar_url: https://avatars0.githubusercontent.com/u/17127622?v=4
   event_counts:
-    follow: 17
+    follow: 18
     fork: 4
     public: 2
     repo: 3
-    total: 102
+    total: 103
     watch_started: 76
   intra: dgaitsgo
   login: dgaitsgo
