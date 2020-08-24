@@ -5079,9 +5079,9 @@
   event_counts:
     follow: 11
     fork: 2
-    public: 0
+    public: 1
     repo: 6
-    total: 20
+    total: 21
     watch_started: 1
   intra: rsilva
   login: rsilva42
