@@ -1489,12 +1489,12 @@
 13629727:
   avatar_url: https://avatars1.githubusercontent.com/u/13629727?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 0
-    total: 2
-    watch_started: 2
+    total: 4
+    watch_started: 3
   intra: smaddux
   login: Rubikhan
   node_id: MDQ6VXNlcjEzNjI5NzI3
@@ -1913,8 +1913,8 @@
     fork: 4
     public: 2
     repo: 3
-    total: 106
-    watch_started: 79
+    total: 107
+    watch_started: 80
   intra: dgaitsgo
   login: dgaitsgo
   node_id: MDQ6VXNlcjE3MTI3NjIy
@@ -5797,11 +5797,11 @@
 45247529:
   avatar_url: https://avatars0.githubusercontent.com/u/45247529?v=4
   event_counts:
-    follow: 16
+    follow: 17
     fork: 1
     public: 2
     repo: 13
-    total: 59
+    total: 60
     watch_started: 27
   intra: mschroed
   login: CptBang
