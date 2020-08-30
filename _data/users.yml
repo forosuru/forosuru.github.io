@@ -4361,8 +4361,8 @@
     fork: 14
     public: 4
     repo: 4
-    total: 154
-    watch_started: 97
+    total: 155
+    watch_started: 98
   intra: fredsiik
   login: fredsiika
   node_id: MDQ6VXNlcjMyMjYxMTEz
@@ -5917,11 +5917,11 @@
 46203279:
   avatar_url: https://avatars2.githubusercontent.com/u/46203279?v=4
   event_counts:
-    follow: 45
+    follow: 47
     fork: 0
     public: 0
     repo: 15
-    total: 80
+    total: 82
     watch_started: 20
   intra: marrodri
   login: marrodri
