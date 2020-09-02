@@ -1,0 +1,9 @@
+---
+layout: default
+language: Liquid
+filename: Liquid.html
+---
+{% assign events = site.events | where: "language","Liquid" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
