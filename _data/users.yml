@@ -833,8 +833,8 @@
     fork: 0
     public: 3
     repo: 1
-    total: 7
-    watch_started: 2
+    total: 8
+    watch_started: 3
   intra: hkalia
   login: hkalia
   node_id: MDQ6VXNlcjgzOTYzMTg=
@@ -4564,8 +4564,8 @@
     follow: 12
     fork: 6
     public: 8
-    repo: 2
-    total: 32
+    repo: 3
+    total: 33
     watch_started: 4
   intra: tle-huu-
   login: tle-huu
