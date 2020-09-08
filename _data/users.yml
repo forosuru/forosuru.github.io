@@ -3605,8 +3605,8 @@
     fork: 0
     public: 2
     repo: 0
-    total: 74
-    watch_started: 42
+    total: 75
+    watch_started: 43
   intra: gmalpart
   login: regien
   node_id: MDQ6VXNlcjI2MzUzMjI1
@@ -6002,10 +6002,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/47616772?v=4
   event_counts:
     follow: 8
-    fork: 9
+    fork: 10
     public: 5
     repo: 13
-    total: 44
+    total: 45
     watch_started: 9
   intra: mchi
   login: 2ne1ugly
