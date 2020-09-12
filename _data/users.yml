@@ -3385,12 +3385,12 @@
 25257986:
   avatar_url: https://avatars0.githubusercontent.com/u/25257986?v=4
   event_counts:
-    follow: 26
+    follow: 27
     fork: 4
     public: 9
     repo: 4
-    total: 227
-    watch_started: 184
+    total: 229
+    watch_started: 185
   intra: scollet
   login: scollet1
   node_id: MDQ6VXNlcjI1MjU3OTg2
@@ -5177,8 +5177,8 @@
     fork: 0
     public: 9
     repo: 12
-    total: 54
-    watch_started: 17
+    total: 55
+    watch_started: 18
   intra: jochang
   login: MagicHatJo
   node_id: MDQ6VXNlcjM4NzE2MDEy
