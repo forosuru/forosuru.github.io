@@ -1913,8 +1913,8 @@
     fork: 4
     public: 2
     repo: 3
-    total: 115
-    watch_started: 86
+    total: 116
+    watch_started: 87
   intra: dgaitsgo
   login: dgaitsgo
   node_id: MDQ6VXNlcjE3MTI3NjIy
@@ -2761,11 +2761,11 @@
 22333922:
   avatar_url: https://avatars3.githubusercontent.com/u/22333922?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 2
     public: 0
     repo: 1
-    total: 3
+    total: 4
     watch_started: 0
   intra: egreen
   login: erikagreen7777
