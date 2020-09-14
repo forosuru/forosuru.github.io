@@ -1262,10 +1262,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/11316434?v=4
   event_counts:
     follow: 1
-    fork: 10
+    fork: 12
     public: 1
     repo: 6
-    total: 20
+    total: 22
     watch_started: 2
   intra: brabo-hi
   login: brabo-hi
@@ -1913,8 +1913,8 @@
     fork: 4
     public: 2
     repo: 3
-    total: 116
-    watch_started: 87
+    total: 117
+    watch_started: 88
   intra: dgaitsgo
   login: dgaitsgo
   node_id: MDQ6VXNlcjE3MTI3NjIy
