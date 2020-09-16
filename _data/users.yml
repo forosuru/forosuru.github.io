@@ -1130,10 +1130,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/10428028?v=4
   event_counts:
     follow: 2
-    fork: 2
+    fork: 3
     public: 0
-    repo: 1
-    total: 5
+    repo: 2
+    total: 7
     watch_started: 0
   intra: tochen
   login: BTCBlade
