@@ -3757,12 +3757,12 @@
 27903649:
   avatar_url: https://avatars0.githubusercontent.com/u/27903649?v=4
   event_counts:
-    follow: 1
+    follow: 3
     fork: 0
     public: 0
     repo: 0
-    total: 20
-    watch_started: 19
+    total: 23
+    watch_started: 20
   intra: vyudushk
   login: vyudushk
   node_id: MDQ6VXNlcjI3OTAzNjQ5
@@ -4166,10 +4166,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/30442914?v=4
   event_counts:
     follow: 3
-    fork: 4
+    fork: 5
     public: 1
     repo: 5
-    total: 21
+    total: 22
     watch_started: 8
   intra: dpearson
   login: Wittiest
