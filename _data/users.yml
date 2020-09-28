@@ -4359,9 +4359,9 @@
   event_counts:
     follow: 35
     fork: 18
-    public: 4
+    public: 5
     repo: 5
-    total: 191
+    total: 192
     watch_started: 129
   intra: fredsiik
   login: fredsiika
