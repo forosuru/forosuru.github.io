@@ -1585,11 +1585,11 @@
 14248245:
   avatar_url: https://avatars2.githubusercontent.com/u/14248245?v=4
   event_counts:
-    follow: 12
+    follow: 13
     fork: 8
     public: 0
     repo: 13
-    total: 62
+    total: 63
     watch_started: 29
   intra: yijhuang
   login: hyj1204
@@ -3495,9 +3495,9 @@
   event_counts:
     follow: 24
     fork: 2
-    public: 8
+    public: 9
     repo: 10
-    total: 69
+    total: 70
     watch_started: 25
   intra: juochen
   login: pootitan
