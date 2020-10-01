@@ -962,10 +962,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/9532690?v=4
   event_counts:
     follow: 14
-    fork: 3
+    fork: 5
     public: 0
     repo: 7
-    total: 30
+    total: 32
     watch_started: 6
   intra: kfonda
   login: KalindiFonda
@@ -3773,8 +3773,8 @@
     fork: 1
     public: 1
     repo: 0
-    total: 13
-    watch_started: 9
+    total: 14
+    watch_started: 10
   intra: tingo
   login: inserttext
   node_id: MDQ6VXNlcjI4MDM1MDEz
