@@ -1,0 +1,11 @@
+---
+layout: default
+intra: palatorr
+login: krandum
+id: 22606099
+avatar_url: https://avatars3.githubusercontent.com/u/22606099?v=4
+---
+{% assign events = site.events | where: "author_id","22606099" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

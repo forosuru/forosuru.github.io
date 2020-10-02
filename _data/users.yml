@@ -2860,8 +2860,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 0
-    total: 0
+    repo: 1
+    total: 1
     watch_started: 0
   intra: palatorr
   login: krandum
