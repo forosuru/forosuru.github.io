@@ -2031,9 +2031,9 @@
   event_counts:
     follow: 2
     fork: 3
-    public: 8
+    public: 9
     repo: 6
-    total: 30
+    total: 31
     watch_started: 11
   intra: lhurt
   login: lhurt51
