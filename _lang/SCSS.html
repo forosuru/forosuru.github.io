@@ -1,0 +1,9 @@
+---
+layout: default
+language: SCSS
+filename: SCSS.html
+---
+{% assign events = site.events | where: "language","SCSS" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
