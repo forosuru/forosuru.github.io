@@ -1072,8 +1072,8 @@
     follow: 6
     fork: 12
     public: 0
-    repo: 24
-    total: 76
+    repo: 25
+    total: 77
     watch_started: 34
   intra: nocardoz
   login: NoahCardoza
@@ -1552,8 +1552,8 @@
     follow: 0
     fork: 2
     public: 0
-    repo: 1
-    total: 3
+    repo: 2
+    total: 4
     watch_started: 0
   intra: aschnapp
   login: aschnapp
