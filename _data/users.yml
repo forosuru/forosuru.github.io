@@ -1361,8 +1361,8 @@
     fork: 12
     public: 0
     repo: 7
-    total: 1068
-    watch_started: 868
+    total: 1069
+    watch_started: 869
   intra: mfernand
   login: matias-eduardo
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -2342,10 +2342,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/20261857?v=4
   event_counts:
     follow: 2
-    fork: 2
+    fork: 3
     public: 0
     repo: 0
-    total: 9
+    total: 10
     watch_started: 5
   intra: nmayfiel
   login: nmayfiel
@@ -4957,11 +4957,11 @@
 36680664:
   avatar_url: https://avatars3.githubusercontent.com/u/36680664?v=4
   event_counts:
-    follow: 7
+    follow: 12
     fork: 1
     public: 0
     repo: 9
-    total: 19
+    total: 24
     watch_started: 2
   intra: mchristo
   login: mauricechristopher
@@ -5140,8 +5140,8 @@
     follow: 11
     fork: 3
     public: 7
-    repo: 18
-    total: 72
+    repo: 19
+    total: 73
     watch_started: 33
   intra: jcasian
   login: JuanCasian
