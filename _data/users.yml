@@ -1177,11 +1177,11 @@
 10700895:
   avatar_url: https://avatars1.githubusercontent.com/u/10700895?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 1
-    total: 1
+    total: 2
     watch_started: 0
   intra: zsmith
   login: ZackSmith32
@@ -1913,8 +1913,8 @@
     fork: 4
     public: 2
     repo: 4
-    total: 122
-    watch_started: 92
+    total: 124
+    watch_started: 94
   intra: dgaitsgo
   login: dgaitsgo
   node_id: MDQ6VXNlcjE3MTI3NjIy
@@ -4685,8 +4685,8 @@
     fork: 4
     public: 1
     repo: 22
-    total: 102
-    watch_started: 62
+    total: 104
+    watch_started: 64
   intra: dmendelo
   login: DavidMendelovits
   node_id: MDQ6VXNlcjM0NDI4MzY4
