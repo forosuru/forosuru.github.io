@@ -1,0 +1,9 @@
+---
+layout: default
+language: Handlebars
+filename: Handlebars.html
+---
+{% assign events = site.events | where: "language","Handlebars" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
