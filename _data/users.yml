@@ -773,8 +773,8 @@
     fork: 1
     public: 5
     repo: 1
-    total: 22
-    watch_started: 13
+    total: 23
+    watch_started: 14
   intra: lkaser
   login: logankaser
   node_id: MDQ6VXNlcjc5MTY5MDk=
@@ -1129,11 +1129,11 @@
 10428028:
   avatar_url: https://avatars0.githubusercontent.com/u/10428028?v=4
   event_counts:
-    follow: 4
+    follow: 5
     fork: 4
     public: 0
     repo: 2
-    total: 10
+    total: 11
     watch_started: 0
   intra: tochen
   login: BTCBlade
