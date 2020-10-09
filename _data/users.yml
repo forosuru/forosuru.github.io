@@ -1504,8 +1504,8 @@
     follow: 0
     fork: 0
     public: 3
-    repo: 2
-    total: 5
+    repo: 3
+    total: 6
     watch_started: 0
   intra: ebucheit
   login: EricBucheit
@@ -2139,9 +2139,9 @@
   event_counts:
     follow: 22
     fork: 13
-    public: 4
+    public: 5
     repo: 39
-    total: 98
+    total: 99
     watch_started: 20
   intra: awindham
   login: arwn
