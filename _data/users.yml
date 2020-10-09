@@ -158,11 +158,11 @@
   avatar_url: https://avatars3.githubusercontent.com/u/2700549?v=4
   event_counts:
     follow: 13
-    fork: 4
+    fork: 5
     public: 0
     repo: 2
-    total: 304
-    watch_started: 285
+    total: 306
+    watch_started: 286
   intra: crenfrow
   login: ChrisRenfrow
   node_id: MDQ6VXNlcjI3MDA1NDk=
@@ -1069,11 +1069,11 @@
 10343470:
   avatar_url: https://avatars0.githubusercontent.com/u/10343470?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 14
     public: 0
     repo: 28
-    total: 84
+    total: 85
     watch_started: 36
   intra: nocardoz
   login: NoahCardoza
@@ -5870,10 +5870,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/45890848?v=4
   event_counts:
     follow: 5
-    fork: 4
+    fork: 5
     public: 0
     repo: 13
-    total: 27
+    total: 28
     watch_started: 5
   intra: anttran
   login: anthonykhoa
