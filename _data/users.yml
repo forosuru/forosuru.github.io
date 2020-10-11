@@ -735,9 +735,9 @@
   event_counts:
     follow: 4
     fork: 5
-    public: 3
+    public: 4
     repo: 11
-    total: 24
+    total: 25
     watch_started: 1
   intra: achavez
   login: ant-codez
