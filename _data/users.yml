@@ -220,8 +220,8 @@
     follow: 77
     fork: 20
     public: 3
-    repo: 54
-    total: 1240
+    repo: 55
+    total: 1241
     watch_started: 1086
   intra: mbrave
   login: michaelbrave
@@ -401,8 +401,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 6
-    watch_started: 6
+    total: 8
+    watch_started: 8
   intra: bpuschel
   login: lordmalvern
   node_id: MDQ6VXNlcjQ3NTE2OTA=
@@ -1624,8 +1624,8 @@
     follow: 21
     fork: 1
     public: 2
-    repo: 32
-    total: 74
+    repo: 34
+    total: 76
     watch_started: 18
   intra: jcrisp
   login: zill4
@@ -5979,9 +5979,9 @@
   event_counts:
     follow: 11
     fork: 8
-    public: 9
+    public: 10
     repo: 18
-    total: 51
+    total: 52
     watch_started: 5
   intra: jchiang-
   login: JCTGY
