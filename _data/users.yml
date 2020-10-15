@@ -686,10 +686,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/7260523?v=4
   event_counts:
     follow: 24
-    fork: 95
+    fork: 96
     public: 0
     repo: 23
-    total: 151
+    total: 152
     watch_started: 9
   intra: ktjhan
   login: ktjhan
@@ -1909,11 +1909,11 @@
 17127622:
   avatar_url: https://avatars0.githubusercontent.com/u/17127622?v=4
   event_counts:
-    follow: 21
+    follow: 22
     fork: 4
     public: 2
     repo: 4
-    total: 127
+    total: 128
     watch_started: 96
   intra: dgaitsgo
   login: dgaitsgo
