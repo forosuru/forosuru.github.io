@@ -425,8 +425,8 @@
     fork: 4
     public: 1
     repo: 21
-    total: 250
-    watch_started: 210
+    total: 252
+    watch_started: 212
   intra: tmatthew
   login: Travmatth
   node_id: MDQ6VXNlcjQ5MTUxNzM=
@@ -2824,8 +2824,8 @@
     follow: 1
     fork: 0
     public: 2
-    repo: 1
-    total: 4
+    repo: 2
+    total: 5
     watch_started: 0
   intra: thuynh
   login: xterri
@@ -3387,10 +3387,10 @@
   event_counts:
     follow: 27
     fork: 7
-    public: 9
-    repo: 5
-    total: 245
-    watch_started: 197
+    public: 10
+    repo: 6
+    total: 248
+    watch_started: 198
   intra: scollet
   login: scollet1
   node_id: MDQ6VXNlcjI1MjU3OTg2
