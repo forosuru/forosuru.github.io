@@ -1864,8 +1864,8 @@
     follow: 40
     fork: 8
     public: 0
-    repo: 93
-    total: 146
+    repo: 94
+    total: 147
     watch_started: 5
   intra: jadawson
   login: JamieDawson
@@ -3601,11 +3601,11 @@
 26353225:
   avatar_url: https://avatars1.githubusercontent.com/u/26353225?v=4
   event_counts:
-    follow: 34
+    follow: 35
     fork: 0
     public: 2
     repo: 0
-    total: 79
+    total: 80
     watch_started: 43
   intra: gmalpart
   login: regien
@@ -4912,8 +4912,8 @@
     follow: 3
     fork: 0
     public: 0
-    repo: 57
-    total: 60
+    repo: 58
+    total: 61
     watch_started: 0
   intra: llee
   login: lununglee
