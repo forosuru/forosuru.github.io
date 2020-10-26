@@ -1909,11 +1909,11 @@
 17127622:
   avatar_url: https://avatars0.githubusercontent.com/u/17127622?v=4
   event_counts:
-    follow: 22
+    follow: 23
     fork: 4
     public: 2
     repo: 4
-    total: 128
+    total: 129
     watch_started: 96
   intra: dgaitsgo
   login: dgaitsgo
@@ -3785,8 +3785,8 @@
     fork: 0
     public: 6
     repo: 7
-    total: 19
-    watch_started: 0
+    total: 20
+    watch_started: 1
   intra: mikim
   login: mikim42
   node_id: MDQ6VXNlcjI4MDc2NzAy
