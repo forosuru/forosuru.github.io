@@ -1949,8 +1949,8 @@
     fork: 4
     public: 1
     repo: 10
-    total: 68
-    watch_started: 45
+    total: 69
+    watch_started: 46
   intra: klongric
   login: Klongrich
   node_id: MDQ6VXNlcjE3NDM0NTk5
@@ -3245,8 +3245,8 @@
     fork: 13
     public: 0
     repo: 44
-    total: 402
-    watch_started: 312
+    total: 403
+    watch_started: 313
   intra: cchao
   login: kizombaciao
   node_id: MDQ6VXNlcjI0Njg3MzU2
@@ -4599,9 +4599,9 @@
   event_counts:
     follow: 0
     fork: 0
-    public: 0
+    public: 1
     repo: 5
-    total: 5
+    total: 6
     watch_started: 0
   intra: lmartine
   login: naota650
