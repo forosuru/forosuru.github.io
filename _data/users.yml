@@ -533,8 +533,8 @@
     fork: 3
     public: 0
     repo: 11
-    total: 335
-    watch_started: 84
+    total: 336
+    watch_started: 85
   intra: myoung
   login: qst0
   node_id: MDQ6VXNlcjU4NjY3NTc=
@@ -2077,11 +2077,11 @@
 18453600:
   avatar_url: https://avatars2.githubusercontent.com/u/18453600?v=4
   event_counts:
-    follow: 1
+    follow: 3
     fork: 2
     public: 1
     repo: 2
-    total: 6
+    total: 8
     watch_started: 0
   intra: cfranco
   login: cristianmusic7
