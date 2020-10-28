@@ -1888,8 +1888,8 @@
     follow: 11
     fork: 4
     public: 2
-    repo: 8
-    total: 30
+    repo: 9
+    total: 31
     watch_started: 5
   intra: saolivei
   login: SLO42
@@ -4887,9 +4887,9 @@
   event_counts:
     follow: 20
     fork: 14
-    public: 1
+    public: 2
     repo: 27
-    total: 81
+    total: 82
     watch_started: 19
   intra: akharrou
   login: akharrou
