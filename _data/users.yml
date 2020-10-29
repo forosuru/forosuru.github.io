@@ -1073,8 +1073,8 @@
     fork: 19
     public: 0
     repo: 32
-    total: 97
-    watch_started: 39
+    total: 99
+    watch_started: 41
   intra: nocardoz
   login: NoahCardoza
   node_id: MDQ6VXNlcjEwMzQzNDcw
@@ -1253,8 +1253,8 @@
     fork: 0
     public: 0
     repo: 22
-    total: 181
-    watch_started: 148
+    total: 182
+    watch_started: 149
   intra: dperera
   login: elPandaFriki
   node_id: MDQ6VXNlcjExMjc4NDE3
@@ -3961,11 +3961,11 @@
 29007632:
   avatar_url: https://avatars3.githubusercontent.com/u/29007632?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 0
     public: 0
     repo: 0
-    total: 2
+    total: 3
     watch_started: 0
   intra: enennige
   login: elidlocke
@@ -4361,8 +4361,8 @@
     fork: 19
     public: 5
     repo: 7
-    total: 211
-    watch_started: 143
+    total: 212
+    watch_started: 144
   intra: fredsiik
   login: fredsiika
   node_id: MDQ6VXNlcjMyMjYxMTEz
