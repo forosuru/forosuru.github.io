@@ -3685,11 +3685,11 @@
 26946125:
   avatar_url: https://avatars2.githubusercontent.com/u/26946125?v=4
   event_counts:
-    follow: 5
+    follow: 16
     fork: 1
     public: 1
     repo: 14
-    total: 21
+    total: 32
     watch_started: 0
   intra: pstringe
   login: pstringe
@@ -3877,11 +3877,11 @@
 28512672:
   avatar_url: https://avatars2.githubusercontent.com/u/28512672?v=4
   event_counts:
-    follow: 42
+    follow: 43
     fork: 32
     public: 0
     repo: 49
-    total: 189
+    total: 190
     watch_started: 66
   intra: xwang
   login: daxwann
