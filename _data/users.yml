@@ -2053,11 +2053,11 @@
 18249395:
   avatar_url: https://avatars1.githubusercontent.com/u/18249395?v=4
   event_counts:
-    follow: 41
+    follow: 42
     fork: 84
     public: 6
     repo: 36
-    total: 213
+    total: 214
     watch_started: 46
   intra: hvillasa
   login: hectorsvill
@@ -2705,8 +2705,8 @@
     fork: 5
     public: 0
     repo: 2
-    total: 513
-    watch_started: 475
+    total: 514
+    watch_started: 476
   intra: gguiulfo
   login: giacomoguiulfo
   node_id: MDQ6VXNlcjIyMDkxNjAw
@@ -5918,10 +5918,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/46203279?v=4
   event_counts:
     follow: 51
-    fork: 0
+    fork: 1
     public: 0
     repo: 15
-    total: 92
+    total: 93
     watch_started: 26
   intra: marrodri
   login: marrodri
