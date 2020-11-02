@@ -2053,11 +2053,11 @@
 18249395:
   avatar_url: https://avatars1.githubusercontent.com/u/18249395?v=4
   event_counts:
-    follow: 42
+    follow: 43
     fork: 84
     public: 6
     repo: 36
-    total: 214
+    total: 215
     watch_started: 46
   intra: hvillasa
   login: hectorsvill
@@ -4685,8 +4685,8 @@
     fork: 4
     public: 1
     repo: 22
-    total: 106
-    watch_started: 66
+    total: 108
+    watch_started: 68
   intra: dmendelo
   login: DavidMendelovits
   node_id: MDQ6VXNlcjM0NDI4MzY4
