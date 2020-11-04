@@ -2825,8 +2825,8 @@
     fork: 1
     public: 2
     repo: 2
-    total: 6
-    watch_started: 0
+    total: 8
+    watch_started: 2
   intra: thuynh
   login: xterri
   node_id: MDQ6VXNlcjIyNTM4MTU2
