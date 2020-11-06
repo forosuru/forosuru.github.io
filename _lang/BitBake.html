@@ -1,0 +1,9 @@
+---
+layout: default
+language: BitBake
+filename: BitBake.html
+---
+{% assign events = site.events | where: "language","BitBake" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
