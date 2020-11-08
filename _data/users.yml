@@ -687,9 +687,9 @@
   event_counts:
     follow: 24
     fork: 97
-    public: 0
+    public: 1
     repo: 24
-    total: 155
+    total: 156
     watch_started: 10
   intra: ktjhan
   login: ktjhan
