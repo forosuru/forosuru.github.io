@@ -1129,11 +1129,11 @@
 10428028:
   avatar_url: https://avatars0.githubusercontent.com/u/10428028?v=4
   event_counts:
-    follow: 7
+    follow: 8
     fork: 6
     public: 0
     repo: 2
-    total: 17
+    total: 18
     watch_started: 2
   intra: tochen
   login: BTCBlade
@@ -2033,8 +2033,8 @@
     fork: 3
     public: 9
     repo: 7
-    total: 35
-    watch_started: 12
+    total: 37
+    watch_started: 14
   intra: lhurt
   login: lhurt51
   node_id: MDQ6VXNlcjE4MTMwNDI4
@@ -3712,8 +3712,8 @@
     follow: 1
     fork: 0
     public: 0
-    repo: 6
-    total: 7
+    repo: 7
+    total: 8
     watch_started: 0
   intra: adaly
   login: the-neighbor
