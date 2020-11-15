@@ -1913,8 +1913,8 @@
     fork: 4
     public: 2
     repo: 4
-    total: 129
-    watch_started: 96
+    total: 130
+    watch_started: 97
   intra: dgaitsgo
   login: dgaitsgo
   node_id: MDQ6VXNlcjE3MTI3NjIy
@@ -2450,10 +2450,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/20745447?v=4
   event_counts:
     follow: 23
-    fork: 7
+    fork: 8
     public: 0
     repo: 5
-    total: 37
+    total: 38
     watch_started: 2
   intra: dstolz
   login: donald-stolz
@@ -4885,11 +4885,11 @@
 36056254:
   avatar_url: https://avatars1.githubusercontent.com/u/36056254?v=4
   event_counts:
-    follow: 20
+    follow: 21
     fork: 16
     public: 2
     repo: 29
-    total: 91
+    total: 92
     watch_started: 24
   intra: akharrou
   login: akharrou
