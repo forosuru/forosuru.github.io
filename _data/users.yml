@@ -6003,9 +6003,9 @@
   event_counts:
     follow: 8
     fork: 10
-    public: 5
+    public: 6
     repo: 14
-    total: 46
+    total: 47
     watch_started: 9
   intra: mchi
   login: 2ne1ugly
