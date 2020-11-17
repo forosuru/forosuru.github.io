@@ -1129,11 +1129,11 @@
 10428028:
   avatar_url: https://avatars0.githubusercontent.com/u/10428028?v=4
   event_counts:
-    follow: 14
+    follow: 17
     fork: 6
     public: 0
     repo: 2
-    total: 25
+    total: 28
     watch_started: 3
   intra: tochen
   login: BTCBlade
@@ -1421,8 +1421,8 @@
     fork: 2
     public: 21
     repo: 11
-    total: 82
-    watch_started: 22
+    total: 83
+    watch_started: 23
   intra: bogoncha
   login: bgoncharov
   node_id: MDQ6VXNlcjEzMDM2NzYx
@@ -1864,8 +1864,8 @@
     follow: 40
     fork: 8
     public: 0
-    repo: 101
-    total: 154
+    repo: 102
+    total: 155
     watch_started: 5
   intra: jadawson
   login: JamieDawson
@@ -3437,8 +3437,8 @@
     fork: 4
     public: 4
     repo: 5
-    total: 50
-    watch_started: 31
+    total: 51
+    watch_started: 32
   intra: sleung
   login: msyleung
   node_id: MDQ6VXNlcjI1NTU3MDE2
