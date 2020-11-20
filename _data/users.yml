@@ -652,8 +652,8 @@
     follow: 15
     fork: 6
     public: 0
-    repo: 33
-    total: 95
+    repo: 34
+    total: 96
     watch_started: 41
   intra: qpeng
   login: sayakura
@@ -5545,11 +5545,11 @@
 42254557:
   avatar_url: https://avatars2.githubusercontent.com/u/42254557?v=4
   event_counts:
-    follow: 8
+    follow: 9
     fork: 8
     public: 0
     repo: 28
-    total: 46
+    total: 47
     watch_started: 2
   intra: mtaylor
   login: motaylormo
