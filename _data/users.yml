@@ -244,8 +244,8 @@
     follow: 5
     fork: 4
     public: 0
-    repo: 12
-    total: 26
+    repo: 13
+    total: 27
     watch_started: 5
   intra: ewilliam
   login: ertw
@@ -1861,11 +1861,11 @@
 16840579:
   avatar_url: https://avatars2.githubusercontent.com/u/16840579?v=4
   event_counts:
-    follow: 40
+    follow: 41
     fork: 8
     public: 0
     repo: 104
-    total: 157
+    total: 158
     watch_started: 5
   intra: jadawson
   login: JamieDawson
@@ -3137,8 +3137,8 @@
     fork: 8
     public: 2
     repo: 4
-    total: 35
-    watch_started: 14
+    total: 36
+    watch_started: 15
   intra: ekelen
   login: ekelen
   node_id: MDQ6VXNlcjI0MzAwMTc3
