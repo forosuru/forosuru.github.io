@@ -796,8 +796,8 @@
     follow: 3
     fork: 1
     public: 0
-    repo: 4
-    total: 15
+    repo: 5
+    total: 16
     watch_started: 7
   intra: ssmith
   login: seanwessmith
@@ -4732,8 +4732,8 @@
     follow: 3
     fork: 1
     public: 25
-    repo: 47
-    total: 83
+    repo: 48
+    total: 84
     watch_started: 7
   intra: ashih
   login: ashih42
