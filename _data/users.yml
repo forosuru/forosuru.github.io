@@ -1864,8 +1864,8 @@
     follow: 41
     fork: 8
     public: 0
-    repo: 104
-    total: 158
+    repo: 105
+    total: 159
     watch_started: 5
   intra: jadawson
   login: JamieDawson
@@ -5569,11 +5569,11 @@
 42305636:
   avatar_url: https://avatars1.githubusercontent.com/u/42305636?v=4
   event_counts:
-    follow: 19
+    follow: 20
     fork: 7
     public: 14
     repo: 16
-    total: 62
+    total: 63
     watch_started: 6
   intra: ale-goff
   login: Alexx42
