@@ -661,11 +661,11 @@
 6914708:
   avatar_url: https://avatars0.githubusercontent.com/u/6914708?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 0
     repo: 0
-    total: 1
+    total: 2
     watch_started: 0
   intra: zfeng
   login: ziyanfeng
@@ -1361,8 +1361,8 @@
     fork: 12
     public: 0
     repo: 8
-    total: 1101
-    watch_started: 894
+    total: 1104
+    watch_started: 897
   intra: mfernand
   login: matias-eduardo
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -4358,11 +4358,11 @@
   avatar_url: https://avatars1.githubusercontent.com/u/32261113?v=4
   event_counts:
     follow: 37
-    fork: 22
+    fork: 23
     public: 5
     repo: 8
-    total: 246
-    watch_started: 174
+    total: 248
+    watch_started: 175
   intra: fredsiik
   login: fredsiika
   node_id: MDQ6VXNlcjMyMjYxMTEz
