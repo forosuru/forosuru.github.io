@@ -196,8 +196,8 @@
     follow: 9
     fork: 3
     public: 0
-    repo: 5
-    total: 17
+    repo: 6
+    total: 18
     watch_started: 0
   intra: rhallste
   login: rjhallsted
@@ -2140,8 +2140,8 @@
     follow: 22
     fork: 13
     public: 5
-    repo: 40
-    total: 101
+    repo: 41
+    total: 102
     watch_started: 21
   intra: awindham
   login: arwn
