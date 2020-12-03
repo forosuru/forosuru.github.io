@@ -2044,8 +2044,8 @@
     follow: 2
     fork: 0
     public: 1
-    repo: 2
-    total: 8
+    repo: 3
+    total: 9
     watch_started: 3
   intra: bhalderm
   login: blazehalderman
@@ -3135,9 +3135,9 @@
   event_counts:
     follow: 7
     fork: 8
-    public: 2
+    public: 3
     repo: 4
-    total: 37
+    total: 38
     watch_started: 16
   intra: ekelen
   login: ekelen
@@ -3193,11 +3193,11 @@
 24531700:
   avatar_url: https://avatars0.githubusercontent.com/u/24531700?v=4
   event_counts:
-    follow: 4
+    follow: 5
     fork: 1
     public: 0
     repo: 25
-    total: 39
+    total: 40
     watch_started: 9
   intra: awhite
   login: austinwhite
