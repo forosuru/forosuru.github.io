@@ -794,10 +794,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/8315103?v=4
   event_counts:
     follow: 3
-    fork: 1
+    fork: 2
     public: 0
     repo: 5
-    total: 16
+    total: 17
     watch_started: 7
   intra: ssmith
   login: seanwessmith
@@ -5176,8 +5176,8 @@
     follow: 16
     fork: 0
     public: 9
-    repo: 12
-    total: 63
+    repo: 13
+    total: 64
     watch_started: 26
   intra: jochang
   login: MagicHatJo
