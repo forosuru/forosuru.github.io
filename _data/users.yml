@@ -2751,9 +2751,9 @@
   event_counts:
     follow: 17
     fork: 3
-    public: 2
+    public: 3
     repo: 14
-    total: 37
+    total: 38
     watch_started: 1
   intra: bcastro
   login: brayanmcz
