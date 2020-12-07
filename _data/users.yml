@@ -1025,8 +1025,8 @@
     fork: 4
     public: 1
     repo: 10
-    total: 53
-    watch_started: 32
+    total: 54
+    watch_started: 33
   intra: vlazuka
   login: recluse27
   node_id: MDQ6VXNlcjk5OTIwMzA=
@@ -4082,10 +4082,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/29821128?v=4
   event_counts:
     follow: 3
-    fork: 12
+    fork: 13
     public: 0
     repo: 5
-    total: 66
+    total: 67
     watch_started: 46
   intra: patigunt
   login: PavelJland
