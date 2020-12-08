@@ -1227,9 +1227,9 @@
   event_counts:
     follow: 7
     fork: 0
-    public: 0
+    public: 2
     repo: 7
-    total: 18
+    total: 20
     watch_started: 4
   intra: apasos-g
   login: RafaelPasos
@@ -1241,8 +1241,8 @@
     fork: 30
     public: 5
     repo: 6
-    total: 193
-    watch_started: 142
+    total: 194
+    watch_started: 143
   intra: jaleman
   login: jraleman
   node_id: MDQ6VXNlcjExMjIyOTgw
@@ -2729,8 +2729,8 @@
     fork: 1
     public: 3
     repo: 4
-    total: 209
-    watch_started: 174
+    total: 210
+    watch_started: 175
   intra: rzarate
   login: RafaelZarate
   node_id: MDQ6VXNlcjIyMTU4ODc3
