@@ -914,10 +914,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/8890312?v=4
   event_counts:
     follow: 4
-    fork: 0
+    fork: 1
     public: 2
     repo: 3
-    total: 25
+    total: 26
     watch_started: 16
   intra: mburson
   login: maxburs
@@ -1421,8 +1421,8 @@
     fork: 2
     public: 22
     repo: 11
-    total: 85
-    watch_started: 23
+    total: 87
+    watch_started: 25
   intra: bogoncha
   login: bgoncharov
   node_id: MDQ6VXNlcjEzMDM2NzYx
