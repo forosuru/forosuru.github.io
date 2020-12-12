@@ -233,8 +233,8 @@
     fork: 0
     public: 0
     repo: 5
-    total: 8
-    watch_started: 3
+    total: 9
+    watch_started: 4
   intra: edal-san
   login: EDalSanto
   node_id: MDQ6VXNlcjM1MjQ4NjM=
@@ -2161,11 +2161,11 @@
 18674131:
   avatar_url: https://avatars0.githubusercontent.com/u/18674131?v=4
   event_counts:
-    follow: 11
+    follow: 12
     fork: 2
     public: 0
     repo: 3
-    total: 30
+    total: 31
     watch_started: 14
   intra: wfung
   login: yayimadinosaur
