@@ -98,10 +98,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/1560514?v=4
   event_counts:
     follow: 9
-    fork: 4
+    fork: 6
     public: 0
-    repo: 15
-    total: 45
+    repo: 16
+    total: 48
     watch_started: 17
   intra: eubotnar
   login: evb-gh
@@ -6015,9 +6015,9 @@
   event_counts:
     follow: 8
     fork: 1
-    public: 1
-    repo: 14
-    total: 24
+    public: 7
+    repo: 16
+    total: 32
     watch_started: 0
   intra: akikalia
   login: akikalia
