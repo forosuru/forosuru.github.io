@@ -1,0 +1,9 @@
+---
+layout: default
+language: Lean
+filename: Lean.html
+---
+{% assign events = site.events | where: "language","Lean" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
