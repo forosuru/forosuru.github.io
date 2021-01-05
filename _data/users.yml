@@ -1673,8 +1673,8 @@
     fork: 2
     public: 2
     repo: 12
-    total: 26
-    watch_started: 8
+    total: 28
+    watch_started: 10
   intra: imurawsk
   login: helloitsian
   node_id: MDQ6VXNlcjE1MzAxNDc2
@@ -4885,12 +4885,12 @@
 36056254:
   avatar_url: https://avatars1.githubusercontent.com/u/36056254?v=4
   event_counts:
-    follow: 40
+    follow: 43
     fork: 17
     public: 2
     repo: 29
-    total: 377
-    watch_started: 289
+    total: 383
+    watch_started: 292
   intra: akharrou
   login: akharrou
   node_id: MDQ6VXNlcjM2MDU2MjU0
