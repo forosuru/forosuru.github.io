@@ -2449,11 +2449,11 @@
 20745447:
   avatar_url: https://avatars3.githubusercontent.com/u/20745447?v=4
   event_counts:
-    follow: 24
+    follow: 25
     fork: 8
     public: 0
     repo: 5
-    total: 40
+    total: 41
     watch_started: 3
   intra: dstolz
   login: donald-stolz
@@ -3040,8 +3040,8 @@
     follow: 6
     fork: 2
     public: 0
-    repo: 2
-    total: 109
+    repo: 3
+    total: 110
     watch_started: 99
   intra: jbrown
   login: panterarocks49
