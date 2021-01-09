@@ -4348,8 +4348,8 @@
     follow: 0
     fork: 0
     public: 5
-    repo: 5
-    total: 10
+    repo: 6
+    total: 11
     watch_started: 0
   intra: hasmith
   login: DStar1
@@ -4371,9 +4371,9 @@
   event_counts:
     follow: 3
     fork: 0
-    public: 18
+    public: 19
     repo: 8
-    total: 43
+    total: 44
     watch_started: 14
   intra: asarandi
   login: asarandi
