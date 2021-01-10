@@ -1,0 +1,11 @@
+---
+layout: default
+intra: sgrindhe
+login: sandsalamand
+id: 38278077
+avatar_url: https://avatars0.githubusercontent.com/u/38278077?v=4
+---
+{% assign events = site.events | where: "author_id","38278077" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
