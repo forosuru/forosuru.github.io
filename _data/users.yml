@@ -1441,11 +1441,11 @@
 13093517:
   avatar_url: https://avatars0.githubusercontent.com/u/13093517?v=4
   event_counts:
-    follow: 11
+    follow: 12
     fork: 1
     public: 0
     repo: 4
-    total: 30
+    total: 31
     watch_started: 14
   intra: kromain
   login: keenanromain
@@ -2849,8 +2849,8 @@
     fork: 4
     public: 0
     repo: 15
-    total: 65
-    watch_started: 37
+    total: 66
+    watch_started: 38
   intra: abarnett
   login: alanbarnett
   node_id: MDQ6VXNlcjIyNTgyMDU1
