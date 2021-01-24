@@ -157,11 +157,11 @@
 2700549:
   avatar_url: https://avatars3.githubusercontent.com/u/2700549?v=4
   event_counts:
-    follow: 15
+    follow: 16
     fork: 5
     public: 0
     repo: 2
-    total: 368
+    total: 369
     watch_started: 346
   intra: crenfrow
   login: ChrisRenfrow
@@ -917,8 +917,8 @@
     fork: 1
     public: 2
     repo: 3
-    total: 31
-    watch_started: 21
+    total: 32
+    watch_started: 22
   intra: mburson
   login: maxburs
   node_id: MDQ6VXNlcjg4OTAzMTI=
