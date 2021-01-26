@@ -161,8 +161,8 @@
     fork: 5
     public: 0
     repo: 2
-    total: 371
-    watch_started: 348
+    total: 372
+    watch_started: 349
   intra: crenfrow
   login: ChrisRenfrow
   node_id: MDQ6VXNlcjI3MDA1NDk=
@@ -205,11 +205,11 @@
 3152377:
   avatar_url: https://avatars3.githubusercontent.com/u/3152377?v=4
   event_counts:
-    follow: 4
+    follow: 5
     fork: 2
     public: 0
     repo: 1
-    total: 17
+    total: 18
     watch_started: 10
   intra: oabdalha
   login: Obsaa
