@@ -161,8 +161,8 @@
     fork: 5
     public: 0
     repo: 2
-    total: 377
-    watch_started: 354
+    total: 379
+    watch_started: 356
   intra: crenfrow
   login: ChrisRenfrow
   node_id: MDQ6VXNlcjI3MDA1NDk=
@@ -1310,10 +1310,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/11985971?v=4
   event_counts:
     follow: 0
-    fork: 2
+    fork: 4
     public: 0
     repo: 0
-    total: 5
+    total: 7
     watch_started: 3
   intra: scamargo
   login: scamargo
@@ -1864,8 +1864,8 @@
     follow: 41
     fork: 9
     public: 0
-    repo: 113
-    total: 168
+    repo: 114
+    total: 169
     watch_started: 5
   intra: jadawson
   login: JamieDawson
