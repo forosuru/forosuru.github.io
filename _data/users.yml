@@ -1889,8 +1889,8 @@
     fork: 4
     public: 2
     repo: 14
-    total: 36
-    watch_started: 5
+    total: 37
+    watch_started: 6
   intra: saolivei
   login: SLO42
   node_id: MDQ6VXNlcjE2ODY4NDUx
@@ -2125,12 +2125,12 @@
 18608979:
   avatar_url: https://avatars2.githubusercontent.com/u/18608979?v=4
   event_counts:
-    follow: 15
+    follow: 16
     fork: 9
     public: 0
     repo: 8
-    total: 84
-    watch_started: 52
+    total: 86
+    watch_started: 53
   intra: nobrien
   login: nickisobrien
   node_id: MDQ6VXNlcjE4NjA4OTc5
@@ -4361,8 +4361,8 @@
     fork: 28
     public: 5
     repo: 16
-    total: 306
-    watch_started: 216
+    total: 308
+    watch_started: 218
   intra: fredsiik
   login: fredsiika
   node_id: MDQ6VXNlcjMyMjYxMTEz
