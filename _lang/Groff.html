@@ -1,0 +1,9 @@
+---
+layout: default
+language: Groff
+filename: Groff.html
+---
+{% assign events = site.events | where: "language","Groff" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
