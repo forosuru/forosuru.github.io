@@ -904,8 +904,8 @@
     follow: 0
     fork: 3
     public: 2
-    repo: 26
-    total: 33
+    repo: 27
+    total: 34
     watch_started: 2
   intra: alkozma
   login: NotHawthorne
@@ -2176,8 +2176,8 @@
     follow: 1
     fork: 0
     public: 0
-    repo: 2
-    total: 3
+    repo: 3
+    total: 4
     watch_started: 0
   intra: shomami
   login: sepicoder
