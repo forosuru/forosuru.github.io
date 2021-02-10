@@ -1129,12 +1129,12 @@
 10428028:
   avatar_url: https://avatars0.githubusercontent.com/u/10428028?v=4
   event_counts:
-    follow: 20
+    follow: 21
     fork: 6
     public: 0
     repo: 5
-    total: 50
-    watch_started: 19
+    total: 52
+    watch_started: 20
   intra: tochen
   login: BTCBlade
   node_id: MDQ6VXNlcjEwNDI4MDI4
@@ -3135,9 +3135,9 @@
   event_counts:
     follow: 7
     fork: 9
-    public: 4
+    public: 5
     repo: 6
-    total: 48
+    total: 49
     watch_started: 22
   intra: ekelen
   login: ekelen
