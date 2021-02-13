@@ -86,10 +86,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/1437013?v=4
   event_counts:
     follow: 17
-    fork: 1
+    fork: 2
     public: 2
     repo: 3
-    total: 25
+    total: 26
     watch_started: 2
   intra: ltanenba
   login: LeoTD
@@ -2129,8 +2129,8 @@
     fork: 9
     public: 0
     repo: 8
-    total: 91
-    watch_started: 58
+    total: 92
+    watch_started: 59
   intra: nobrien
   login: nickisobrien
   node_id: MDQ6VXNlcjE4NjA4OTc5
