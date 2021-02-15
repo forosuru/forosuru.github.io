@@ -484,8 +484,8 @@
     follow: 7
     fork: 6
     public: 0
-    repo: 0
-    total: 57
+    repo: 1
+    total: 58
     watch_started: 44
   intra: azhuk
   login: ug02fast
@@ -1730,10 +1730,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/16058877?v=4
   event_counts:
     follow: 2
-    fork: 4
+    fork: 5
     public: 1
     repo: 0
-    total: 14
+    total: 15
     watch_started: 7
   intra: sescolas
   login: samescolas
