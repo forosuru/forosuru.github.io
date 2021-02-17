@@ -4347,9 +4347,9 @@
   event_counts:
     follow: 0
     fork: 0
-    public: 6
+    public: 7
     repo: 7
-    total: 13
+    total: 14
     watch_started: 0
   intra: hasmith
   login: DStar1
@@ -4945,23 +4945,23 @@
 36604610:
   avatar_url: https://avatars1.githubusercontent.com/u/36604610?v=4
   event_counts:
-    follow: 25
+    follow: 26
     fork: 2
     public: 0
     repo: 17
-    total: 51
-    watch_started: 7
+    total: 53
+    watch_started: 8
   intra: cdimitro
   login: coolguycam
   node_id: MDQ6VXNlcjM2NjA0NjEw
 36680664:
   avatar_url: https://avatars3.githubusercontent.com/u/36680664?v=4
   event_counts:
-    follow: 13
+    follow: 14
     fork: 1
     public: 1
     repo: 9
-    total: 30
+    total: 31
     watch_started: 6
   intra: mchristo
   login: mauricechristopher
