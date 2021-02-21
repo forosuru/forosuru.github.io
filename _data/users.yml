@@ -1069,12 +1069,12 @@
 10343470:
   avatar_url: https://avatars0.githubusercontent.com/u/10343470?v=4
   event_counts:
-    follow: 8
+    follow: 9
     fork: 23
     public: 0
     repo: 36
-    total: 113
-    watch_started: 46
+    total: 116
+    watch_started: 48
   intra: nocardoz
   login: NoahCardoza
   node_id: MDQ6VXNlcjEwMzQzNDcw
@@ -2125,11 +2125,11 @@
 18608979:
   avatar_url: https://avatars2.githubusercontent.com/u/18608979?v=4
   event_counts:
-    follow: 16
+    follow: 17
     fork: 9
     public: 0
     repo: 8
-    total: 92
+    total: 93
     watch_started: 59
   intra: nobrien
   login: nickisobrien
@@ -2165,8 +2165,8 @@
     fork: 2
     public: 0
     repo: 3
-    total: 35
-    watch_started: 18
+    total: 36
+    watch_started: 19
   intra: wfung
   login: yayimadinosaur
   node_id: MDQ6VXNlcjE4Njc0MTMx
