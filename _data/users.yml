@@ -4348,8 +4348,8 @@
     follow: 0
     fork: 0
     public: 7
-    repo: 7
-    total: 14
+    repo: 8
+    total: 15
     watch_started: 0
   intra: hasmith
   login: DStar1
@@ -4492,8 +4492,8 @@
     follow: 2
     fork: 0
     public: 0
-    repo: 9
-    total: 14
+    repo: 10
+    total: 15
     watch_started: 3
   intra: pdavid
   login: phoenixtahoe
