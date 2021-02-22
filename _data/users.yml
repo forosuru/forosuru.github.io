@@ -2129,8 +2129,8 @@
     fork: 10
     public: 0
     repo: 8
-    total: 100
-    watch_started: 65
+    total: 101
+    watch_started: 66
   intra: nobrien
   login: nickisobrien
   node_id: MDQ6VXNlcjE4NjA4OTc5
@@ -2941,11 +2941,11 @@
 23239240:
   avatar_url: https://avatars2.githubusercontent.com/u/23239240?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 0
-    total: 1
+    total: 2
     watch_started: 1
   intra: aherrera
   login: AlejandroHerreraO
@@ -5501,8 +5501,8 @@
     fork: 0
     public: 2
     repo: 1
-    total: 27
-    watch_started: 10
+    total: 28
+    watch_started: 11
   intra: gcaixeta
   login: guilhemarcf
   node_id: MDQ6VXNlcjQxODEyOTQ1
