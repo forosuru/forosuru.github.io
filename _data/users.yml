@@ -1541,8 +1541,8 @@
     fork: 2
     public: 3
     repo: 15
-    total: 33
-    watch_started: 7
+    total: 35
+    watch_started: 9
   intra: spoole
   login: spoole50
   node_id: MDQ6VXNlcjEzODkxMTE0
@@ -4492,8 +4492,8 @@
     follow: 2
     fork: 0
     public: 0
-    repo: 10
-    total: 15
+    repo: 12
+    total: 17
     watch_started: 3
   intra: pdavid
   login: phoenixtahoe
