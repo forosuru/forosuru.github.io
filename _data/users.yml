@@ -1357,12 +1357,12 @@
 12145119:
   avatar_url: https://avatars0.githubusercontent.com/u/12145119?v=4
   event_counts:
-    follow: 213
+    follow: 214
     fork: 12
     public: 0
     repo: 9
-    total: 1221
-    watch_started: 987
+    total: 1223
+    watch_started: 988
   intra: mfernand
   login: matias-eduardo
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -2126,10 +2126,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/18608979?v=4
   event_counts:
     follow: 17
-    fork: 10
+    fork: 11
     public: 0
     repo: 8
-    total: 101
+    total: 102
     watch_started: 66
   intra: nobrien
   login: nickisobrien
