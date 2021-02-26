@@ -1361,8 +1361,8 @@
     fork: 12
     public: 0
     repo: 9
-    total: 1224
-    watch_started: 988
+    total: 1225
+    watch_started: 989
   intra: mfernand
   login: matias-eduardo
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -6013,11 +6013,11 @@
 47707757:
   avatar_url: https://avatars1.githubusercontent.com/u/47707757?v=4
   event_counts:
-    follow: 9
+    follow: 10
     fork: 1
     public: 7
     repo: 26
-    total: 43
+    total: 44
     watch_started: 0
   intra: akikalia
   login: akikalia
@@ -6025,11 +6025,11 @@
 47709344:
   avatar_url: https://avatars1.githubusercontent.com/u/47709344?v=4
   event_counts:
-    follow: 21
+    follow: 22
     fork: 2
     public: 0
     repo: 60
-    total: 87
+    total: 88
     watch_started: 4
   intra: jinpark
   login: Seojun-Park
