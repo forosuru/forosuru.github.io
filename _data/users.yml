@@ -1705,11 +1705,11 @@
 15961492:
   avatar_url: https://avatars0.githubusercontent.com/u/15961492?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 0
-    total: 0
+    total: 1
     watch_started: 0
   intra: nmoiseye
   login: mirror12k
@@ -5141,8 +5141,8 @@
     fork: 3
     public: 7
     repo: 19
-    total: 76
-    watch_started: 36
+    total: 77
+    watch_started: 37
   intra: jcasian
   login: JuanCasian
   node_id: MDQ6VXNlcjM4NDM2MzAz
