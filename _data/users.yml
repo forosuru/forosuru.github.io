@@ -2053,11 +2053,11 @@
 18249395:
   avatar_url: https://avatars1.githubusercontent.com/u/18249395?v=4
   event_counts:
-    follow: 46
+    follow: 47
     fork: 84
     public: 6
     repo: 37
-    total: 231
+    total: 232
     watch_started: 58
   intra: hvillasa
   login: hectorsvill
@@ -2957,8 +2957,8 @@
     fork: 0
     public: 3
     repo: 5
-    total: 28
-    watch_started: 11
+    total: 29
+    watch_started: 12
   intra: tpan
   login: tpan
   node_id: MDQ6VXNlcjIzMzAwNzg4
