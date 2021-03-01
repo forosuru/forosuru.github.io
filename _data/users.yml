@@ -2705,8 +2705,8 @@
     fork: 5
     public: 0
     repo: 3
-    total: 561
-    watch_started: 522
+    total: 562
+    watch_started: 523
   intra: gguiulfo
   login: giacomoguiulfo
   node_id: MDQ6VXNlcjIyMDkxNjAw
@@ -4563,9 +4563,9 @@
   event_counts:
     follow: 13
     fork: 8
-    public: 8
+    public: 9
     repo: 6
-    total: 39
+    total: 40
     watch_started: 4
   intra: tle-huu-
   login: tle-huu
