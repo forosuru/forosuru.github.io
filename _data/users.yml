@@ -493,11 +493,11 @@
 5514471:
   avatar_url: https://avatars3.githubusercontent.com/u/5514471?v=4
   event_counts:
-    follow: 12
+    follow: 13
     fork: 1
     public: 0
     repo: 2
-    total: 99
+    total: 100
     watch_started: 84
   intra: dkotov
   login: stubisdon
@@ -2606,10 +2606,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/21047285?v=4
   event_counts:
     follow: 0
-    fork: 16
+    fork: 17
     public: 0
     repo: 4
-    total: 32
+    total: 33
     watch_started: 12
   intra: pbaldwin
   login: Baldwin90
