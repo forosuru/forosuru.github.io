@@ -2907,9 +2907,9 @@
   event_counts:
     follow: 0
     fork: 1
-    public: 0
+    public: 1
     repo: 6
-    total: 8
+    total: 9
     watch_started: 1
   intra: tprak
   login: TylerPrak
