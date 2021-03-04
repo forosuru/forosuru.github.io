@@ -2546,11 +2546,11 @@
   avatar_url: https://avatars1.githubusercontent.com/u/20920671?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 0
     repo: 0
-    total: 0
-    watch_started: 0
+    total: 2
+    watch_started: 1
   intra: smifsud
   login: wingren013
   node_id: MDQ6VXNlcjIwOTIwNjcx
