@@ -4635,9 +4635,9 @@
   event_counts:
     follow: 19
     fork: 0
-    public: 0
+    public: 1
     repo: 10
-    total: 29
+    total: 30
     watch_started: 0
   intra: hjo
   login: hahnejo
