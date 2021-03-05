@@ -889,14 +889,14 @@
 8846207:
   avatar_url: https://avatars0.githubusercontent.com/u/8846207?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 1
-    total: 1
+    total: 2
     watch_started: 0
   intra: obelange
-  login: all-hack
+  login: uniquehash
   node_id: MDQ6VXNlcjg4NDYyMDc=
 8849221:
   avatar_url: https://avatars3.githubusercontent.com/u/8849221?v=4
