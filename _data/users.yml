@@ -2258,11 +2258,11 @@
   avatar_url: https://avatars2.githubusercontent.com/u/19523620?v=4
   event_counts:
     follow: 0
-    fork: 2
+    fork: 3
     public: 1
     repo: 3
-    total: 32
-    watch_started: 26
+    total: 35
+    watch_started: 28
   intra: bbauer
   login: brianbauer42
   node_id: MDQ6VXNlcjE5NTIzNjIw
@@ -2474,10 +2474,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/20760556?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 1
     repo: 9
-    total: 10
+    total: 11
     watch_started: 0
   intra: chansen
   login: hank0cean
