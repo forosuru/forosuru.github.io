@@ -1,0 +1,9 @@
+---
+layout: default
+language: Svelte
+filename: Svelte.html
+---
+{% assign events = site.events | where: "language","Svelte" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
