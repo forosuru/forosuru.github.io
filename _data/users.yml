@@ -1661,8 +1661,8 @@
     fork: 1
     public: 4
     repo: 4
-    total: 94
-    watch_started: 70
+    total: 95
+    watch_started: 71
   intra: syamada
   login: Yatty1
   node_id: MDQ6VXNlcjE1MTE4OTk5
@@ -4492,8 +4492,8 @@
     follow: 2
     fork: 0
     public: 0
-    repo: 28
-    total: 33
+    repo: 30
+    total: 35
     watch_started: 3
   intra: pdavid
   login: phoenixtahoe
@@ -4924,8 +4924,8 @@
     follow: 3
     fork: 3
     public: 1
-    repo: 17
-    total: 39
+    repo: 18
+    total: 40
     watch_started: 15
   intra: yserkez
   login: yserkez
