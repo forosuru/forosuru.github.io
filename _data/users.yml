@@ -917,8 +917,8 @@
     fork: 1
     public: 2
     repo: 3
-    total: 40
-    watch_started: 29
+    total: 41
+    watch_started: 30
   intra: mburson
   login: maxburs
   node_id: MDQ6VXNlcjg4OTAzMTI=
@@ -5077,11 +5077,11 @@
 38030381:
   avatar_url: https://avatars0.githubusercontent.com/u/38030381?v=4
   event_counts:
-    follow: 12
+    follow: 13
     fork: 2
     public: 1
     repo: 6
-    total: 23
+    total: 24
     watch_started: 2
   intra: rsilva
   login: rsilva42
