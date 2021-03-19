@@ -796,8 +796,8 @@
     follow: 3
     fork: 2
     public: 0
-    repo: 5
-    total: 17
+    repo: 6
+    total: 18
     watch_started: 7
   intra: ssmith
   login: seanwessmith
@@ -1537,11 +1537,11 @@
 13891114:
   avatar_url: https://avatars2.githubusercontent.com/u/13891114?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 2
     public: 3
     repo: 15
-    total: 35
+    total: 36
     watch_started: 9
   intra: spoole
   login: spoole50
@@ -2956,8 +2956,8 @@
     follow: 10
     fork: 0
     public: 3
-    repo: 5
-    total: 30
+    repo: 7
+    total: 32
     watch_started: 12
   intra: tpan
   login: tpan
