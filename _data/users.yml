@@ -3677,8 +3677,8 @@
     fork: 0
     public: 0
     repo: 4
-    total: 17
-    watch_started: 11
+    total: 18
+    watch_started: 12
   intra: elopez
   login: elopez17
   node_id: MDQ6VXNlcjI2OTQzNzUw
@@ -3688,8 +3688,8 @@
     follow: 16
     fork: 1
     public: 1
-    repo: 17
-    total: 35
+    repo: 18
+    total: 36
     watch_started: 0
   intra: pstringe
   login: pstringe
@@ -5497,11 +5497,11 @@
 41812945:
   avatar_url: https://avatars0.githubusercontent.com/u/41812945?v=4
   event_counts:
-    follow: 14
+    follow: 15
     fork: 0
     public: 2
     repo: 1
-    total: 29
+    total: 30
     watch_started: 12
   intra: gcaixeta
   login: guilhemarcf
