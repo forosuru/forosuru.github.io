@@ -1589,8 +1589,8 @@
     fork: 8
     public: 0
     repo: 15
-    total: 67
-    watch_started: 30
+    total: 68
+    watch_started: 31
   intra: yijhuang
   login: hyj1204
   node_id: MDQ6VXNlcjE0MjQ4MjQ1
@@ -2785,11 +2785,11 @@
 22486866:
   avatar_url: https://avatars1.githubusercontent.com/u/22486866?v=4
   event_counts:
-    follow: 13
+    follow: 14
     fork: 0
     public: 0
     repo: 0
-    total: 14
+    total: 15
     watch_started: 1
   intra: mosborne
   login: MitchelOsb1
