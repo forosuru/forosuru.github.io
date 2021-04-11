@@ -917,8 +917,8 @@
     fork: 1
     public: 2
     repo: 3
-    total: 42
-    watch_started: 31
+    total: 43
+    watch_started: 32
   intra: mburson
   login: maxburs
   node_id: MDQ6VXNlcjg4OTAzMTI=
@@ -940,8 +940,8 @@
     follow: 1
     fork: 0
     public: 0
-    repo: 0
-    total: 1
+    repo: 1
+    total: 2
     watch_started: 0
   intra: mvann
   login: mvann
