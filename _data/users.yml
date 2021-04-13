@@ -397,11 +397,11 @@
 4751690:
   avatar_url: https://avatars3.githubusercontent.com/u/4751690?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 0
-    total: 9
+    total: 10
     watch_started: 9
   intra: bpuschel
   login: lordmalvern
@@ -1357,11 +1357,11 @@
 12145119:
   avatar_url: https://avatars0.githubusercontent.com/u/12145119?v=4
   event_counts:
-    follow: 224
+    follow: 226
     fork: 13
     public: 0
     repo: 10
-    total: 1271
+    total: 1273
     watch_started: 1024
   intra: mfernand
   login: matias-eduardo
