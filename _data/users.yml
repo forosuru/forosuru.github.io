@@ -4443,9 +4443,9 @@
   event_counts:
     follow: 29
     fork: 2
-    public: 5
+    public: 6
     repo: 7
-    total: 43
+    total: 44
     watch_started: 0
   intra: ynenakho
   login: ynenakho
@@ -4492,8 +4492,8 @@
     follow: 2
     fork: 0
     public: 0
-    repo: 37
-    total: 42
+    repo: 38
+    total: 43
     watch_started: 3
   intra: pdavid
   login: phoenixtahoe
