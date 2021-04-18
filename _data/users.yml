@@ -497,8 +497,8 @@
     fork: 1
     public: 0
     repo: 2
-    total: 107
-    watch_started: 91
+    total: 108
+    watch_started: 92
   intra: dkotov
   login: stubisdon
   node_id: MDQ6VXNlcjU1MTQ0NzE=
@@ -1694,10 +1694,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/15950413?v=4
   event_counts:
     follow: 3
-    fork: 7
+    fork: 8
     public: 2
     repo: 7
-    total: 20
+    total: 21
     watch_started: 1
   intra: akassil
   login: alexkassil
