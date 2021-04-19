@@ -4851,9 +4851,9 @@
   event_counts:
     follow: 29
     fork: 16
-    public: 2
+    public: 4
     repo: 20
-    total: 102
+    total: 104
     watch_started: 35
   intra: maparmar
   login: Manmeet2018
