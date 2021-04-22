@@ -2534,10 +2534,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/20910301?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 0
     repo: 3
-    total: 3
+    total: 4
     watch_started: 0
   intra: sdarsie
   login: SeanDarsie
