@@ -4885,12 +4885,12 @@
 36056254:
   avatar_url: https://avatars1.githubusercontent.com/u/36056254?v=4
   event_counts:
-    follow: 57
+    follow: 59
     fork: 17
     public: 2
     repo: 29
-    total: 497
-    watch_started: 392
+    total: 502
+    watch_started: 395
   intra: akharrou
   login: akharrou
   node_id: MDQ6VXNlcjM2MDU2MjU0
@@ -4972,8 +4972,8 @@
     follow: 10
     fork: 2
     public: 0
-    repo: 15
-    total: 28
+    repo: 17
+    total: 30
     watch_started: 1
   intra: mhwangbo
   login: mhwangbo
