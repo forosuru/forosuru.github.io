@@ -3687,9 +3687,9 @@
   event_counts:
     follow: 16
     fork: 1
-    public: 1
+    public: 2
     repo: 21
-    total: 39
+    total: 40
     watch_started: 0
   intra: pstringe
   login: pstringe
