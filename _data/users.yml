@@ -1154,10 +1154,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/10602798?v=4
   event_counts:
     follow: 4
-    fork: 8
+    fork: 9
     public: 0
     repo: 2
-    total: 32
+    total: 33
     watch_started: 18
   intra: aakin-al
   login: akinfemi
@@ -2417,8 +2417,8 @@
     fork: 1
     public: 0
     repo: 0
-    total: 1
-    watch_started: 0
+    total: 2
+    watch_started: 1
   intra: akalmyko
   login: amkv
   node_id: MDQ6VXNlcjIwNTYzOTA4
