@@ -469,11 +469,11 @@
 5465789:
   avatar_url: https://avatars3.githubusercontent.com/u/5465789?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 0
     repo: 3
-    total: 4
+    total: 5
     watch_started: 0
   intra: bslakey
   login: Benjaminslakey
@@ -5921,8 +5921,8 @@
     fork: 1
     public: 0
     repo: 16
-    total: 109
-    watch_started: 38
+    total: 110
+    watch_started: 39
   intra: marrodri
   login: marrodri
   node_id: MDQ6VXNlcjQ2MjAzMjc5
