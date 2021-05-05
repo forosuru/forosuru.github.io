@@ -1,0 +1,9 @@
+---
+layout: default
+language: Nunjucks
+filename: Nunjucks.html
+---
+{% assign events = site.events | where: "language","Nunjucks" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
