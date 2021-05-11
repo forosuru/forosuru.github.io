@@ -39,9 +39,9 @@
   event_counts:
     follow: 14
     fork: 8
-    public: 10
+    public: 11
     repo: 1
-    total: 54
+    total: 55
     watch_started: 21
   intra: jkrause
   login: SuperSpyTX
