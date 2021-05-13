@@ -289,11 +289,11 @@
 3984265:
   avatar_url: https://avatars2.githubusercontent.com/u/3984265?v=4
   event_counts:
-    follow: 16
+    follow: 17
     fork: 14
     public: 2
     repo: 14
-    total: 63
+    total: 64
     watch_started: 17
   intra: jrameau
   login: R4meau
@@ -1721,8 +1721,8 @@
     fork: 2
     public: 2
     repo: 6
-    total: 11
-    watch_started: 1
+    total: 12
+    watch_started: 2
   intra: cbanales
   login: carlosbanales
   node_id: MDQ6VXNlcjE2MDIyMjA0
