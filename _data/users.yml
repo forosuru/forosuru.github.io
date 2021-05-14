@@ -794,10 +794,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/8315103?v=4
   event_counts:
     follow: 3
-    fork: 3
+    fork: 4
     public: 0
     repo: 7
-    total: 24
+    total: 25
     watch_started: 11
   intra: ssmith
   login: seanwessmith
@@ -2453,8 +2453,8 @@
     fork: 9
     public: 0
     repo: 6
-    total: 50
-    watch_started: 7
+    total: 51
+    watch_started: 8
   intra: dstolz
   login: donald-stolz
   node_id: MDQ6VXNlcjIwNzQ1NDQ3
