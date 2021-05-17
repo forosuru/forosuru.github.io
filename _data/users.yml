@@ -1384,8 +1384,8 @@
     follow: 3
     fork: 2
     public: 5
-    repo: 26
-    total: 36
+    repo: 27
+    total: 37
     watch_started: 0
   intra: tadey
   login: tapabratadey
@@ -6002,10 +6002,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/47616772?v=4
   event_counts:
     follow: 8
-    fork: 11
+    fork: 12
     public: 7
     repo: 15
-    total: 50
+    total: 51
     watch_started: 9
   intra: mchi
   login: 2ne1ugly
