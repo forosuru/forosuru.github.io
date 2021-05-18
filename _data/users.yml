@@ -940,8 +940,8 @@
     follow: 1
     fork: 0
     public: 0
-    repo: 1
-    total: 2
+    repo: 2
+    total: 3
     watch_started: 0
   intra: mvann
   login: mvann
@@ -4492,8 +4492,8 @@
     follow: 2
     fork: 0
     public: 0
-    repo: 47
-    total: 52
+    repo: 48
+    total: 53
     watch_started: 3
   intra: pdavid
   login: phoenixtahoe
