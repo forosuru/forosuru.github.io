@@ -289,11 +289,11 @@
 3984265:
   avatar_url: https://avatars2.githubusercontent.com/u/3984265?v=4
   event_counts:
-    follow: 18
+    follow: 19
     fork: 16
     public: 2
     repo: 14
-    total: 68
+    total: 69
     watch_started: 18
   intra: jrameau
   login: R4meau
@@ -1864,8 +1864,8 @@
     follow: 41
     fork: 9
     public: 0
-    repo: 118
-    total: 173
+    repo: 119
+    total: 174
     watch_started: 5
   intra: jadawson
   login: JamieDawson
@@ -4781,10 +4781,10 @@
     fork: 2
     public: 0
     repo: 22
-    total: 24
-    watch_started: 0
+    total: 28
+    watch_started: 4
   intra: agifford
-  login: kaygifford101
+  login: amandagifford101
   node_id: MDQ6VXNlcjM1MTgxMjQ0
 35234806:
   avatar_url: https://avatars3.githubusercontent.com/u/35234806?v=4
