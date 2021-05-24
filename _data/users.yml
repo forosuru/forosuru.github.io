@@ -1588,8 +1588,8 @@
     follow: 15
     fork: 8
     public: 0
-    repo: 15
-    total: 69
+    repo: 16
+    total: 70
     watch_started: 31
   intra: yijhuang
   login: hyj1204
@@ -3244,8 +3244,8 @@
     follow: 40
     fork: 17
     public: 0
-    repo: 61
-    total: 489
+    repo: 62
+    total: 490
     watch_started: 371
   intra: cchao
   login: kizombaciao
@@ -5440,8 +5440,8 @@
     follow: 1
     fork: 0
     public: 0
-    repo: 10
-    total: 11
+    repo: 11
+    total: 12
     watch_started: 0
   intra: jtsai
   login: LightAN21
