@@ -291,9 +291,9 @@
   event_counts:
     follow: 19
     fork: 16
-    public: 2
+    public: 3
     repo: 14
-    total: 70
+    total: 71
     watch_started: 19
   intra: jrameau
   login: R4meau
@@ -4972,8 +4972,8 @@
     follow: 10
     fork: 2
     public: 0
-    repo: 17
-    total: 30
+    repo: 18
+    total: 31
     watch_started: 1
   intra: mhwangbo
   login: mhwangbo
