@@ -614,11 +614,11 @@
   avatar_url: https://avatars2.githubusercontent.com/u/6653080?v=4
   event_counts:
     follow: 37
-    fork: 7
+    fork: 8
     public: 1
     repo: 25
-    total: 124
-    watch_started: 54
+    total: 126
+    watch_started: 55
   intra: jcope
   login: JemCopeCodes
   node_id: MDQ6VXNlcjY2NTMwODA=
@@ -2417,8 +2417,8 @@
     fork: 1
     public: 0
     repo: 0
-    total: 2
-    watch_started: 1
+    total: 3
+    watch_started: 2
   intra: akalmyko
   login: amkv
   node_id: MDQ6VXNlcjIwNTYzOTA4
