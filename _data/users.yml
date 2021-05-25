@@ -2261,8 +2261,8 @@
     fork: 4
     public: 1
     repo: 3
-    total: 46
-    watch_started: 38
+    total: 47
+    watch_started: 39
   intra: bbauer
   login: brianbauer42
   node_id: MDQ6VXNlcjE5NTIzNjIw
@@ -2509,11 +2509,11 @@
 20851408:
   avatar_url: https://avatars0.githubusercontent.com/u/20851408?v=4
   event_counts:
-    follow: 4
+    follow: 5
     fork: 1
     public: 1
     repo: 4
-    total: 10
+    total: 11
     watch_started: 0
   intra: cdavila
   login: cdavilarios
