@@ -1,0 +1,11 @@
+---
+layout: default
+intra: bmerrill
+login: bmerrill42
+id: 8573367
+avatar_url: https://avatars0.githubusercontent.com/u/8573367?v=4
+---
+{% assign events = site.events | where: "author_id","8573367" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

@@ -866,10 +866,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/8573367?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 0
     repo: 0
-    total: 0
+    total: 1
     watch_started: 0
   intra: bmerrill
   login: bmerrill42
@@ -2729,8 +2729,8 @@
     fork: 1
     public: 3
     repo: 4
-    total: 226
-    watch_started: 189
+    total: 227
+    watch_started: 190
   intra: rzarate
   login: RafaelZarate
   node_id: MDQ6VXNlcjIyMTU4ODc3
