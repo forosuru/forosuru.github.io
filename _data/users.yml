@@ -469,11 +469,11 @@
 5465789:
   avatar_url: https://avatars3.githubusercontent.com/u/5465789?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 0
     public: 0
     repo: 3
-    total: 5
+    total: 6
     watch_started: 0
   intra: bslakey
   login: Benjaminslakey
@@ -1129,11 +1129,11 @@
 10428028:
   avatar_url: https://avatars0.githubusercontent.com/u/10428028?v=4
   event_counts:
-    follow: 35
+    follow: 36
     fork: 6
     public: 0
     repo: 6
-    total: 74
+    total: 75
     watch_started: 27
   intra: tochen
   login: BTCBlade
