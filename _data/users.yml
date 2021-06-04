@@ -255,9 +255,9 @@
   event_counts:
     follow: 9
     fork: 1
-    public: 1
+    public: 7
     repo: 4
-    total: 28
+    total: 34
     watch_started: 13
   intra: sgardner
   login: stephen-gardner
@@ -4889,8 +4889,8 @@
     fork: 17
     public: 2
     repo: 30
-    total: 529
-    watch_started: 419
+    total: 530
+    watch_started: 420
   intra: akharrou
   login: akharrou
   node_id: MDQ6VXNlcjM2MDU2MjU0
