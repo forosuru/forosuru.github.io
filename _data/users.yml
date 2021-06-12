@@ -3674,11 +3674,11 @@
   avatar_url: https://avatars0.githubusercontent.com/u/26943750?v=4
   event_counts:
     follow: 2
-    fork: 0
+    fork: 1
     public: 0
     repo: 6
-    total: 22
-    watch_started: 14
+    total: 24
+    watch_started: 15
   intra: elopez
   login: elopez17
   node_id: MDQ6VXNlcjI2OTQzNzUw
