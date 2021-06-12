@@ -58,6 +58,7 @@ def github_check_user(user):
     if r.status_code == 200:
         return (True, json.loads(r.text))
     else:
+        print("github response code", r.status_code)
         return (False, None)
 
 def github_follow(user):

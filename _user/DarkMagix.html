@@ -1,0 +1,11 @@
+---
+layout: default
+intra: mweir
+login: DarkMagix
+id: 7434228
+avatar_url: https://avatars2.githubusercontent.com/u/7434228?v=4
+---
+{% assign events = site.events | where: "author_id","7434228" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

@@ -40,8 +40,8 @@
     follow: 14
     fork: 8
     public: 11
-    repo: 1
-    total: 55
+    repo: 2
+    total: 56
     watch_started: 21
   intra: jkrause
   login: SuperSpyTX
@@ -698,10 +698,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/7434228?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 0
     repo: 0
-    total: 0
+    total: 1
     watch_started: 0
   intra: mweir
   login: DarkMagix

@@ -1,0 +1,9 @@
+---
+layout: default
+language: ZenScript
+filename: ZenScript.html
+---
+{% assign events = site.events | where: "language","ZenScript" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
