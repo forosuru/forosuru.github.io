@@ -2955,9 +2955,9 @@
   event_counts:
     follow: 10
     fork: 0
-    public: 3
+    public: 4
     repo: 7
-    total: 32
+    total: 33
     watch_started: 12
   intra: tpan
   login: tpan
@@ -4889,8 +4889,8 @@
     fork: 19
     public: 2
     repo: 33
-    total: 556
-    watch_started: 441
+    total: 557
+    watch_started: 442
   intra: akharrou
   login: akharrou
   node_id: MDQ6VXNlcjM2MDU2MjU0
