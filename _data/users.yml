@@ -712,8 +712,8 @@
     follow: 16
     fork: 4
     public: 0
-    repo: 28
-    total: 56
+    repo: 29
+    total: 57
     watch_started: 8
   intra: cbagdon
   login: cbg119
@@ -3687,9 +3687,9 @@
   event_counts:
     follow: 16
     fork: 1
-    public: 2
+    public: 3
     repo: 28
-    total: 47
+    total: 48
     watch_started: 0
   intra: pstringe
   login: pstringe
