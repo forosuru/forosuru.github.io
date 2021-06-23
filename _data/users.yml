@@ -206,11 +206,11 @@
   avatar_url: https://avatars3.githubusercontent.com/u/3152377?v=4
   event_counts:
     follow: 5
-    fork: 2
+    fork: 3
     public: 0
-    repo: 1
-    total: 18
-    watch_started: 10
+    repo: 2
+    total: 21
+    watch_started: 11
   intra: oabdalha
   login: Obsaa
   node_id: MDQ6VXNlcjMxNTIzNzc=
@@ -5129,8 +5129,8 @@
     fork: 0
     public: 0
     repo: 3
-    total: 6
-    watch_started: 2
+    total: 7
+    watch_started: 3
   intra: sgrindhe
   login: sandsalamand
   node_id: MDQ6VXNlcjM4Mjc4MDc3
