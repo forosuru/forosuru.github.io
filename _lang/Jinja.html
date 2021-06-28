@@ -1,0 +1,9 @@
+---
+layout: default
+language: Jinja
+filename: Jinja.html
+---
+{% assign events = site.events | where: "language","Jinja" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
