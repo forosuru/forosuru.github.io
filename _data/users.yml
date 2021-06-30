@@ -1132,8 +1132,8 @@
     follow: 37
     fork: 6
     public: 0
-    repo: 7
-    total: 79
+    repo: 8
+    total: 80
     watch_started: 29
   intra: tochen
   login: BTCBlade
@@ -4885,11 +4885,11 @@
 36056254:
   avatar_url: https://avatars1.githubusercontent.com/u/36056254?v=4
   event_counts:
-    follow: 64
+    follow: 65
     fork: 19
     public: 2
     repo: 33
-    total: 668
+    total: 669
     watch_started: 550
   intra: akharrou
   login: akharrou
