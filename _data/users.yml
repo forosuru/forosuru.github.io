@@ -1129,11 +1129,11 @@
 10428028:
   avatar_url: https://avatars0.githubusercontent.com/u/10428028?v=4
   event_counts:
-    follow: 42
+    follow: 44
     fork: 7
     public: 0
     repo: 9
-    total: 88
+    total: 90
     watch_started: 30
   intra: tochen
   login: BTCBlade
@@ -2293,11 +2293,11 @@
 20023687:
   avatar_url: https://avatars1.githubusercontent.com/u/20023687?v=4
   event_counts:
-    follow: 74
+    follow: 75
     fork: 2
     public: 3
     repo: 10
-    total: 106
+    total: 107
     watch_started: 17
   intra: aabdrakh
   login: hhaakkimm
