@@ -4873,11 +4873,11 @@
 36055314:
   avatar_url: https://avatars0.githubusercontent.com/u/36055314?v=4
   event_counts:
-    follow: 0
+    follow: 2
     fork: 6
     public: 0
     repo: 11
-    total: 24
+    total: 26
     watch_started: 7
   intra: cgleason
   login: crgl
