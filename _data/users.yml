@@ -1240,8 +1240,8 @@
     follow: 13
     fork: 31
     public: 9
-    repo: 8
-    total: 215
+    repo: 9
+    total: 216
     watch_started: 154
   intra: jaleman
   login: jraleman
@@ -5451,9 +5451,9 @@
   event_counts:
     follow: 16
     fork: 13
-    public: 2
+    public: 3
     repo: 54
-    total: 114
+    total: 115
     watch_started: 29
   intra: vmuradia
   login: ValeriiaMur
