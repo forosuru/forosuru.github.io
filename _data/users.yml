@@ -16,8 +16,8 @@
     follow: 0
     fork: 6
     public: 0
-    repo: 0
-    total: 8
+    repo: 1
+    total: 9
     watch_started: 2
   intra: gaetan
   login: GaetanJUVIN
@@ -1753,11 +1753,11 @@
 16214757:
   avatar_url: https://avatars1.githubusercontent.com/u/16214757?v=4
   event_counts:
-    follow: 15
+    follow: 16
     fork: 4
     public: 11
     repo: 6
-    total: 94
+    total: 95
     watch_started: 58
   intra: jbeall
   login: jacksonwb
