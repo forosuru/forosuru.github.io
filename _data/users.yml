@@ -1961,8 +1961,8 @@
     fork: 0
     public: 1
     repo: 7
-    total: 58
-    watch_started: 13
+    total: 59
+    watch_started: 14
   intra: asansyzb
   login: asansyzb
   node_id: MDQ6VXNlcjE3NTkzMDcw
@@ -2233,11 +2233,11 @@
 19397632:
   avatar_url: https://avatars3.githubusercontent.com/u/19397632?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 6
     public: 0
     repo: 5
-    total: 23
+    total: 24
     watch_started: 12
   intra: rnowell
   login: robertnowell
