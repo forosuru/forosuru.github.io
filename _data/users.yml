@@ -4419,9 +4419,9 @@
   event_counts:
     follow: 0
     fork: 6
-    public: 1
+    public: 3
     repo: 13
-    total: 24
+    total: 26
     watch_started: 4
   intra: bchapman
   login: boredomdenied
