@@ -483,9 +483,9 @@
   event_counts:
     follow: 7
     fork: 7
-    public: 0
+    public: 1
     repo: 2
-    total: 60
+    total: 61
     watch_started: 44
   intra: azhuk
   login: ug02fast
@@ -2957,8 +2957,8 @@
     fork: 0
     public: 4
     repo: 7
-    total: 33
-    watch_started: 12
+    total: 34
+    watch_started: 13
   intra: tpan
   login: tpan
   node_id: MDQ6VXNlcjIzMzAwNzg4
