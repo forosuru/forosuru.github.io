@@ -1671,9 +1671,9 @@
   event_counts:
     follow: 3
     fork: 2
-    public: 2
+    public: 3
     repo: 13
-    total: 34
+    total: 35
     watch_started: 14
   intra: imurawsk
   login: helloitsian
