@@ -5859,9 +5859,9 @@
   event_counts:
     follow: 19
     fork: 1
-    public: 1
+    public: 2
     repo: 12
-    total: 33
+    total: 34
     watch_started: 0
   intra: tcherret
   login: tcheee
