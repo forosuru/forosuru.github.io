@@ -2705,8 +2705,8 @@
     fork: 5
     public: 0
     repo: 3
-    total: 599
-    watch_started: 560
+    total: 600
+    watch_started: 561
   intra: gguiulfo
   login: giacomoguiulfo
   node_id: MDQ6VXNlcjIyMDkxNjAw
@@ -3770,10 +3770,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/28035013?v=4
   event_counts:
     follow: 3
-    fork: 2
+    fork: 3
     public: 1
     repo: 1
-    total: 40
+    total: 41
     watch_started: 33
   intra: tingo
   login: inserttext
