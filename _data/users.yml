@@ -1909,11 +1909,11 @@
 17127622:
   avatar_url: https://avatars0.githubusercontent.com/u/17127622?v=4
   event_counts:
-    follow: 24
+    follow: 25
     fork: 4
     public: 2
     repo: 4
-    total: 134
+    total: 135
     watch_started: 100
   intra: dgaitsgo
   login: dgaitsgo
@@ -2705,8 +2705,8 @@
     fork: 5
     public: 0
     repo: 3
-    total: 604
-    watch_started: 565
+    total: 608
+    watch_started: 569
   intra: gguiulfo
   login: giacomoguiulfo
   node_id: MDQ6VXNlcjIyMDkxNjAw
