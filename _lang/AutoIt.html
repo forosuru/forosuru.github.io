@@ -1,0 +1,9 @@
+---
+layout: default
+language: AutoIt
+filename: AutoIt.html
+---
+{% assign events = site.events | where: "language","AutoIt" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
