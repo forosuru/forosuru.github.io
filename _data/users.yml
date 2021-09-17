@@ -3974,10 +3974,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/29131424?v=4
   event_counts:
     follow: 2
-    fork: 2
+    fork: 3
     public: 2
     repo: 10
-    total: 21
+    total: 22
     watch_started: 5
   intra: skunz
   login: SebastianKunz
