@@ -614,10 +614,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/6653080?v=4
   event_counts:
     follow: 40
-    fork: 14
+    fork: 15
     public: 1
     repo: 27
-    total: 150
+    total: 151
     watch_started: 68
   intra: jcope
   login: JemCopeCodes
@@ -1357,11 +1357,11 @@
 12145119:
   avatar_url: https://avatars0.githubusercontent.com/u/12145119?v=4
   event_counts:
-    follow: 237
+    follow: 238
     fork: 13
     public: 0
     repo: 10
-    total: 1348
+    total: 1349
     watch_started: 1088
   intra: mfernand
   login: matias-eduardo
