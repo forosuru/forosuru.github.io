@@ -3818,10 +3818,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/28205816?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 1
     repo: 5
-    total: 6
+    total: 7
     watch_started: 0
   intra: amishra
   login: anandvardhanmishra
