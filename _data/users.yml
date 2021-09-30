@@ -2953,11 +2953,11 @@
 23300788:
   avatar_url: https://avatars3.githubusercontent.com/u/23300788?v=4
   event_counts:
-    follow: 10
+    follow: 11
     fork: 1
     public: 4
     repo: 7
-    total: 35
+    total: 36
     watch_started: 13
   intra: tpan
   login: tpan
