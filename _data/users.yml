@@ -2823,9 +2823,9 @@
   event_counts:
     follow: 1
     fork: 1
-    public: 2
+    public: 3
     repo: 2
-    total: 8
+    total: 9
     watch_started: 2
   intra: thuynh
   login: xterri
