@@ -709,11 +709,11 @@
 7669375:
   avatar_url: https://avatars3.githubusercontent.com/u/7669375?v=4
   event_counts:
-    follow: 17
+    follow: 18
     fork: 4
     public: 0
     repo: 32
-    total: 63
+    total: 64
     watch_started: 10
   intra: cbagdon
   login: cbg119
@@ -4945,11 +4945,11 @@
 36604610:
   avatar_url: https://avatars1.githubusercontent.com/u/36604610?v=4
   event_counts:
-    follow: 26
+    follow: 27
     fork: 2
     public: 0
     repo: 19
-    total: 57
+    total: 58
     watch_started: 10
   intra: cdimitro
   login: coolguycam
