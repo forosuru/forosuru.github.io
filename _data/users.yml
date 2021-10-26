@@ -1226,10 +1226,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/11045597?v=4
   event_counts:
     follow: 7
-    fork: 0
+    fork: 1
     public: 2
     repo: 8
-    total: 21
+    total: 22
     watch_started: 4
   intra: apasos-g
   login: RafaelPasos
