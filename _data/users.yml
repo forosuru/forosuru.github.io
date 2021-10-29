@@ -1585,12 +1585,12 @@
 14248245:
   avatar_url: https://avatars2.githubusercontent.com/u/14248245?v=4
   event_counts:
-    follow: 19
+    follow: 20
     fork: 8
     public: 0
     repo: 19
-    total: 85
-    watch_started: 39
+    total: 87
+    watch_started: 40
   intra: yijhuang
   login: hyj1204
   node_id: MDQ6VXNlcjE0MjQ4MjQ1
@@ -4889,8 +4889,8 @@
     fork: 21
     public: 3
     repo: 34
-    total: 917
-    watch_started: 781
+    total: 919
+    watch_started: 783
   intra: akharrou
   login: akharrou
   node_id: MDQ6VXNlcjM2MDU2MjU0
