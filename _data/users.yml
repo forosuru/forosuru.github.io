@@ -1757,8 +1757,8 @@
     fork: 5
     public: 11
     repo: 7
-    total: 109
-    watch_started: 70
+    total: 111
+    watch_started: 72
   intra: jbeall
   login: jacksonwb
   node_id: MDQ6VXNlcjE2MjE0NzU3
@@ -6027,9 +6027,9 @@
   event_counts:
     follow: 23
     fork: 2
-    public: 2
+    public: 3
     repo: 69
-    total: 101
+    total: 102
     watch_started: 5
   intra: jinpark
   login: Seojun-Park
