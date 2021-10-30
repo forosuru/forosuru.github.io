@@ -267,9 +267,9 @@
   event_counts:
     follow: 37
     fork: 14
-    public: 0
+    public: 1
     repo: 14
-    total: 147
+    total: 148
     watch_started: 82
   intra: kchenna
   login: hashb
@@ -4852,8 +4852,8 @@
     follow: 32
     fork: 18
     public: 5
-    repo: 23
-    total: 114
+    repo: 24
+    total: 115
     watch_started: 36
   intra: maparmar
   login: Manmeet2018
