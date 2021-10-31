@@ -3915,9 +3915,9 @@
   event_counts:
     follow: 9
     fork: 3
-    public: 0
+    public: 1
     repo: 39
-    total: 77
+    total: 78
     watch_started: 26
   intra: calamber
   login: mueslimak3r
@@ -4885,11 +4885,11 @@
 36056254:
   avatar_url: https://avatars1.githubusercontent.com/u/36056254?v=4
   event_counts:
-    follow: 78
+    follow: 79
     fork: 21
     public: 3
     repo: 34
-    total: 925
+    total: 926
     watch_started: 789
   intra: akharrou
   login: akharrou
