@@ -1021,12 +1021,12 @@
 9992030:
   avatar_url: https://avatars0.githubusercontent.com/u/9992030?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 12
     public: 1
     repo: 10
-    total: 68
-    watch_started: 39
+    total: 70
+    watch_started: 40
   intra: vlazuka
   login: recluse27
   node_id: MDQ6VXNlcjk5OTIwMzA=
@@ -3877,11 +3877,11 @@
 28512672:
   avatar_url: https://avatars2.githubusercontent.com/u/28512672?v=4
   event_counts:
-    follow: 49
+    follow: 55
     fork: 34
     public: 0
     repo: 56
-    total: 205
+    total: 211
     watch_started: 66
   intra: xwang
   login: daxwann
