@@ -1227,9 +1227,9 @@
   event_counts:
     follow: 7
     fork: 1
-    public: 2
+    public: 3
     repo: 8
-    total: 22
+    total: 23
     watch_started: 4
   intra: apasos-g
   login: RafaelPasos
@@ -1382,10 +1382,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/12387917?v=4
   event_counts:
     follow: 4
-    fork: 4
+    fork: 5
     public: 6
     repo: 41
-    total: 69
+    total: 70
     watch_started: 14
   intra: tadey
   login: tapabratadey
