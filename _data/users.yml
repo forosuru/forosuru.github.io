@@ -4142,10 +4142,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/30271496?v=4
   event_counts:
     follow: 15
-    fork: 1
+    fork: 2
     public: 10
     repo: 6
-    total: 32
+    total: 33
     watch_started: 0
   intra: apickett
   login: j-pickett
@@ -4492,8 +4492,8 @@
     follow: 2
     fork: 0
     public: 0
-    repo: 82
-    total: 87
+    repo: 84
+    total: 89
     watch_started: 3
   intra: pdavid
   login: phoenixtahoe
