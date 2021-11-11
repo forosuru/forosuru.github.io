@@ -3397,11 +3397,11 @@
 25317113:
   avatar_url: https://avatars1.githubusercontent.com/u/25317113?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 1
     public: 0
     repo: 1
-    total: 2
+    total: 3
     watch_started: 0
   intra: jguleski
   login: guxa
