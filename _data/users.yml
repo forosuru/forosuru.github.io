@@ -2116,8 +2116,8 @@
     follow: 0
     fork: 1
     public: 0
-    repo: 1
-    total: 2
+    repo: 2
+    total: 3
     watch_started: 0
   intra: jinfeld
   login: joelinfeld
