@@ -2116,8 +2116,8 @@
     follow: 0
     fork: 1
     public: 0
-    repo: 2
-    total: 3
+    repo: 3
+    total: 4
     watch_started: 0
   intra: jinfeld
   login: joelinfeld
@@ -4045,11 +4045,11 @@
 29564454:
   avatar_url: https://avatars2.githubusercontent.com/u/29564454?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 2
     public: 0
     repo: 14
-    total: 27
+    total: 28
     watch_started: 6
   intra: rsathiad
   login: Traezar
