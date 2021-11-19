@@ -1539,10 +1539,10 @@
   event_counts:
     follow: 9
     fork: 2
-    public: 3
+    public: 4
     repo: 15
-    total: 39
-    watch_started: 10
+    total: 41
+    watch_started: 11
   intra: spoole
   login: spoole50
   node_id: MDQ6VXNlcjEzODkxMTE0
@@ -2561,8 +2561,8 @@
     fork: 4
     public: 0
     repo: 1
-    total: 59
-    watch_started: 44
+    total: 60
+    watch_started: 45
   intra: lwang
   login: Lijun21
   node_id: MDQ6VXNlcjIwOTgxNzQ1
@@ -4093,11 +4093,11 @@
 29826475:
   avatar_url: https://avatars0.githubusercontent.com/u/29826475?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 1
     public: 0
     repo: 2
-    total: 6
+    total: 7
     watch_started: 2
   intra: labrown
   login: sbrowne217828
@@ -5741,8 +5741,8 @@
     fork: 2
     public: 3
     repo: 13
-    total: 37
-    watch_started: 10
+    total: 38
+    watch_started: 11
   intra: osfally
   login: shaparder
   node_id: MDQ6VXNlcjQ0NDU4MzY5
