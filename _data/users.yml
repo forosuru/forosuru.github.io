@@ -939,9 +939,9 @@
   event_counts:
     follow: 1
     fork: 0
-    public: 0
+    public: 1
     repo: 3
-    total: 4
+    total: 5
     watch_started: 0
   intra: mvann
   login: mvann
@@ -6002,10 +6002,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/47616772?v=4
   event_counts:
     follow: 9
-    fork: 14
+    fork: 15
     public: 7
     repo: 15
-    total: 56
+    total: 57
     watch_started: 11
   intra: mchi
   login: 2ne1ugly
