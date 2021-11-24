@@ -5860,8 +5860,8 @@
     follow: 22
     fork: 1
     public: 2
-    repo: 13
-    total: 39
+    repo: 14
+    total: 40
     watch_started: 1
   intra: tcherret
   login: tcheee
@@ -6001,11 +6001,11 @@
 47616772:
   avatar_url: https://avatars1.githubusercontent.com/u/47616772?v=4
   event_counts:
-    follow: 9
+    follow: 10
     fork: 15
     public: 7
     repo: 15
-    total: 57
+    total: 58
     watch_started: 11
   intra: mchi
   login: 2ne1ugly
