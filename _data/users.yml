@@ -3098,10 +3098,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/24237467?v=4
   event_counts:
     follow: 4
-    fork: 6
+    fork: 7
     public: 1
     repo: 20
-    total: 31
+    total: 32
     watch_started: 0
   intra: thomkim
   login: swp0107
@@ -3245,8 +3245,8 @@
     fork: 17
     public: 0
     repo: 63
-    total: 562
-    watch_started: 427
+    total: 564
+    watch_started: 429
   intra: cchao
   login: kizombaciao
   node_id: MDQ6VXNlcjI0Njg3MzU2
