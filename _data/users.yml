@@ -3977,8 +3977,8 @@
     fork: 3
     public: 2
     repo: 10
-    total: 22
-    watch_started: 5
+    total: 23
+    watch_started: 6
   intra: skunz
   login: SebastianKunz
   node_id: MDQ6VXNlcjI5MTMxNDI0
@@ -6001,11 +6001,11 @@
 47616772:
   avatar_url: https://avatars1.githubusercontent.com/u/47616772?v=4
   event_counts:
-    follow: 10
+    follow: 11
     fork: 15
     public: 7
     repo: 15
-    total: 58
+    total: 59
     watch_started: 11
   intra: mchi
   login: 2ne1ugly
