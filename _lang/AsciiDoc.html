@@ -1,0 +1,9 @@
+---
+layout: default
+language: AsciiDoc
+filename: AsciiDoc.html
+---
+{% assign events = site.events | where: "language","AsciiDoc" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
