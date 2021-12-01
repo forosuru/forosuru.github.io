@@ -4371,9 +4371,9 @@
   event_counts:
     follow: 3
     fork: 0
-    public: 19
-    repo: 8
-    total: 48
+    public: 21
+    repo: 9
+    total: 51
     watch_started: 18
   intra: asarandi
   login: asarandi
