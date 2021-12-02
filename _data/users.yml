@@ -4889,8 +4889,8 @@
     fork: 21
     public: 3
     repo: 34
-    total: 1045
-    watch_started: 905
+    total: 1046
+    watch_started: 906
   intra: akharrou
   login: akharrou
   node_id: MDQ6VXNlcjM2MDU2MjU0
@@ -6025,11 +6025,11 @@
 47709344:
   avatar_url: https://avatars1.githubusercontent.com/u/47709344?v=4
   event_counts:
-    follow: 23
+    follow: 24
     fork: 2
     public: 3
     repo: 69
-    total: 102
+    total: 103
     watch_started: 5
   intra: jinpark
   login: Seojun-Park
