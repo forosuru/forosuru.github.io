@@ -557,8 +557,8 @@
     fork: 1
     public: 1
     repo: 13
-    total: 73
-    watch_started: 48
+    total: 74
+    watch_started: 49
   intra: chrsilva
   login: Crybyte
   node_id: MDQ6VXNlcjYwMjYyMjc=
@@ -1909,11 +1909,11 @@
 17127622:
   avatar_url: https://avatars0.githubusercontent.com/u/17127622?v=4
   event_counts:
-    follow: 25
+    follow: 26
     fork: 4
     public: 2
     repo: 4
-    total: 137
+    total: 138
     watch_started: 102
   intra: dgaitsgo
   login: dgaitsgo
@@ -4887,9 +4887,9 @@
   event_counts:
     follow: 82
     fork: 21
-    public: 3
+    public: 13
     repo: 34
-    total: 1046
+    total: 1056
     watch_started: 906
   intra: akharrou
   login: akharrou
