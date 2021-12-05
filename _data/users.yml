@@ -1383,9 +1383,9 @@
   event_counts:
     follow: 6
     fork: 8
-    public: 6
+    public: 7
     repo: 44
-    total: 79
+    total: 80
     watch_started: 15
   intra: tadey
   login: tapabratadey
