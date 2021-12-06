@@ -1394,10 +1394,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/12647839?v=4
   event_counts:
     follow: 1
-    fork: 0
+    fork: 1
     public: 4
     repo: 2
-    total: 11
+    total: 12
     watch_started: 4
   intra: aganesh
   login: ashwin-ganesh23
