@@ -1,0 +1,9 @@
+---
+layout: default
+language: Yacc
+filename: Yacc.html
+---
+{% assign events = site.events | where: "language","Yacc" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
