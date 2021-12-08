@@ -2139,9 +2139,9 @@
   event_counts:
     follow: 23
     fork: 16
-    public: 5
+    public: 6
     repo: 51
-    total: 126
+    total: 127
     watch_started: 31
   intra: awindham
   login: arwn
@@ -3028,8 +3028,8 @@
     follow: 4
     fork: 0
     public: 0
-    repo: 8
-    total: 15
+    repo: 9
+    total: 16
     watch_started: 3
   intra: bbixby
   login: brianbixby
