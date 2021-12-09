@@ -1381,11 +1381,11 @@
 12387917:
   avatar_url: https://avatars2.githubusercontent.com/u/12387917?v=4
   event_counts:
-    follow: 6
+    follow: 7
     fork: 8
     public: 7
     repo: 45
-    total: 81
+    total: 82
     watch_started: 15
   intra: tadey
   login: tapabratadey
@@ -2705,8 +2705,8 @@
     fork: 7
     public: 0
     repo: 3
-    total: 651
-    watch_started: 609
+    total: 652
+    watch_started: 610
   intra: gguiulfo
   login: giacomoguiulfo
   node_id: MDQ6VXNlcjIyMDkxNjAw
