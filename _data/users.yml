@@ -2055,9 +2055,9 @@
   event_counts:
     follow: 52
     fork: 85
-    public: 6
+    public: 7
     repo: 44
-    total: 256
+    total: 257
     watch_started: 69
   intra: hvillasa
   login: hectorsvill
