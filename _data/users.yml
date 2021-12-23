@@ -1241,8 +1241,8 @@
     fork: 32
     public: 13
     repo: 14
-    total: 235
-    watch_started: 161
+    total: 236
+    watch_started: 162
   intra: jaleman
   login: jraleman
   node_id: MDQ6VXNlcjExMjIyOTgw
@@ -4885,12 +4885,12 @@
 36056254:
   avatar_url: https://avatars1.githubusercontent.com/u/36056254?v=4
   event_counts:
-    follow: 84
+    follow: 85
     fork: 21
     public: 13
     repo: 34
-    total: 1094
-    watch_started: 942
+    total: 1109
+    watch_started: 956
   intra: akharrou
   login: akharrou
   node_id: MDQ6VXNlcjM2MDU2MjU0
