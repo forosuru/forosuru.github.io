@@ -793,11 +793,11 @@
 8315103:
   avatar_url: https://avatars2.githubusercontent.com/u/8315103?v=4
   event_counts:
-    follow: 4
+    follow: 5
     fork: 5
     public: 0
     repo: 10
-    total: 32
+    total: 33
     watch_started: 13
   intra: ssmith
   login: seanwessmith
