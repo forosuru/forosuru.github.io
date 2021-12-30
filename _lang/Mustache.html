@@ -1,0 +1,9 @@
+---
+layout: default
+language: Mustache
+filename: Mustache.html
+---
+{% assign events = site.events | where: "language","Mustache" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
