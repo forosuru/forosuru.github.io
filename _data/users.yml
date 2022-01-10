@@ -3157,11 +3157,11 @@
 24439848:
   avatar_url: https://avatars1.githubusercontent.com/u/24439848?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 9
     public: 0
     repo: 4
-    total: 36
+    total: 37
     watch_started: 23
   intra: ssalaues
   login: ssalaues
