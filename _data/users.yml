@@ -3817,12 +3817,12 @@
 28205816:
   avatar_url: https://avatars1.githubusercontent.com/u/28205816?v=4
   event_counts:
-    follow: 0
+    follow: 2
     fork: 1
     public: 1
     repo: 5
-    total: 7
-    watch_started: 0
+    total: 10
+    watch_started: 1
   intra: amishra
   login: anandvardhanmishra
   node_id: MDQ6VXNlcjI4MjA1ODE2
@@ -4889,8 +4889,8 @@
     fork: 21
     public: 13
     repo: 35
-    total: 1198
-    watch_started: 1039
+    total: 1199
+    watch_started: 1040
   intra: akharrou
   login: akharrou
   node_id: MDQ6VXNlcjM2MDU2MjU0
