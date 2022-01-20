@@ -2475,9 +2475,9 @@
   event_counts:
     follow: 0
     fork: 1
-    public: 1
+    public: 2
     repo: 9
-    total: 12
+    total: 13
     watch_started: 1
   intra: chansen
   login: hank0cean
