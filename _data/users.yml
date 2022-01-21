@@ -3241,11 +3241,11 @@
 24687356:
   avatar_url: https://avatars1.githubusercontent.com/u/24687356?v=4
   event_counts:
-    follow: 59
+    follow: 60
     fork: 18
     public: 0
     repo: 64
-    total: 596
+    total: 597
     watch_started: 455
   intra: cchao
   login: kizombaciao
@@ -5857,11 +5857,11 @@
 45823872:
   avatar_url: https://avatars3.githubusercontent.com/u/45823872?v=4
   event_counts:
-    follow: 30
+    follow: 31
     fork: 1
     public: 5
     repo: 16
-    total: 55
+    total: 56
     watch_started: 3
   intra: tcherret
   login: tcheee
