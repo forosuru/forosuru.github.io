@@ -1585,11 +1585,11 @@
 14248245:
   avatar_url: https://avatars2.githubusercontent.com/u/14248245?v=4
   event_counts:
-    follow: 23
+    follow: 24
     fork: 11
     public: 0
     repo: 22
-    total: 98
+    total: 99
     watch_started: 42
   intra: yijhuang
   login: hyj1204
@@ -4549,11 +4549,11 @@
 32853711:
   avatar_url: https://avatars2.githubusercontent.com/u/32853711?v=4
   event_counts:
-    follow: 8
+    follow: 9
     fork: 0
     public: 0
     repo: 0
-    total: 8
+    total: 9
     watch_started: 0
   intra: lprior
   login: 1202-Prior-Liam
