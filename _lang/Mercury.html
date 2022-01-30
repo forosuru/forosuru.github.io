@@ -1,0 +1,9 @@
+---
+layout: default
+language: Mercury
+filename: Mercury.html
+---
+{% assign events = site.events | where: "language","Mercury" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
