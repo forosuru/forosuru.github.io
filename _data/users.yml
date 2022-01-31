@@ -1889,8 +1889,8 @@
     fork: 4
     public: 2
     repo: 15
-    total: 40
-    watch_started: 8
+    total: 41
+    watch_started: 9
   intra: saolivei
   login: SLO42
   node_id: MDQ6VXNlcjE2ODY4NDUx
@@ -2761,11 +2761,11 @@
 22333922:
   avatar_url: https://avatars3.githubusercontent.com/u/22333922?v=4
   event_counts:
-    follow: 1
+    follow: 6
     fork: 2
     public: 1
-    repo: 1
-    total: 5
+    repo: 2
+    total: 11
     watch_started: 0
   intra: egreen
   login: erikagreen7777
