@@ -3616,8 +3616,8 @@
     follow: 5
     fork: 7
     public: 0
-    repo: 12
-    total: 128
+    repo: 13
+    total: 129
     watch_started: 104
   intra: dfan
   login: dayfine
@@ -5029,11 +5029,11 @@
 37248747:
   avatar_url: https://avatars3.githubusercontent.com/u/37248747?v=4
   event_counts:
-    follow: 21
+    follow: 22
     fork: 2
     public: 18
     repo: 1
-    total: 86
+    total: 87
     watch_started: 44
   intra: mjacques
   login: maxencejded
