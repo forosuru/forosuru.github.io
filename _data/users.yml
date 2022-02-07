@@ -2785,12 +2785,12 @@
 22486866:
   avatar_url: https://avatars1.githubusercontent.com/u/22486866?v=4
   event_counts:
-    follow: 19
+    follow: 20
     fork: 1
     public: 0
     repo: 0
-    total: 37
-    watch_started: 17
+    total: 39
+    watch_started: 18
   intra: mosborne
   login: MitchelOsb1
   node_id: MDQ6VXNlcjIyNDg2ODY2
@@ -5860,8 +5860,8 @@
     follow: 31
     fork: 1
     public: 6
-    repo: 16
-    total: 59
+    repo: 17
+    total: 60
     watch_started: 5
   intra: tcherret
   login: tcheee
