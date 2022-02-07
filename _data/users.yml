@@ -2789,8 +2789,8 @@
     fork: 1
     public: 0
     repo: 0
-    total: 35
-    watch_started: 15
+    total: 37
+    watch_started: 17
   intra: mosborne
   login: MitchelOsb1
   node_id: MDQ6VXNlcjIyNDg2ODY2
@@ -5859,9 +5859,9 @@
   event_counts:
     follow: 31
     fork: 1
-    public: 5
+    public: 6
     repo: 16
-    total: 58
+    total: 59
     watch_started: 5
   intra: tcherret
   login: tcheee
