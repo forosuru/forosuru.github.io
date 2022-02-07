@@ -796,8 +796,8 @@
     follow: 5
     fork: 6
     public: 0
-    repo: 10
-    total: 34
+    repo: 12
+    total: 36
     watch_started: 13
   intra: ssmith
   login: seanwessmith
@@ -2785,12 +2785,12 @@
 22486866:
   avatar_url: https://avatars1.githubusercontent.com/u/22486866?v=4
   event_counts:
-    follow: 20
+    follow: 26
     fork: 1
     public: 0
     repo: 0
-    total: 39
-    watch_started: 18
+    total: 46
+    watch_started: 19
   intra: mosborne
   login: MitchelOsb1
   node_id: MDQ6VXNlcjIyNDg2ODY2
@@ -2981,8 +2981,8 @@
     fork: 3
     public: 1
     repo: 6
-    total: 30
-    watch_started: 5
+    total: 31
+    watch_started: 6
   intra: rle
   login: sudoryan
   node_id: MDQ6VXNlcjIzNDA4NTQw
@@ -3844,8 +3844,8 @@
     follow: 12
     fork: 7
     public: 8
-    repo: 3
-    total: 33
+    repo: 4
+    total: 34
     watch_started: 3
   intra: pnunez
   login: PedroNunezCode
