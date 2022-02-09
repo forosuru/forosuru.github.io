@@ -532,8 +532,8 @@
     follow: 238
     fork: 4
     public: 0
-    repo: 13
-    total: 359
+    repo: 14
+    total: 360
     watch_started: 104
   intra: myoung
   login: qst0
@@ -1382,10 +1382,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/12387917?v=4
   event_counts:
     follow: 13
-    fork: 11
+    fork: 12
     public: 10
     repo: 47
-    total: 101
+    total: 102
     watch_started: 20
   intra: tadey
   login: tapabratadey
