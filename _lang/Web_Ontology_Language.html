@@ -1,0 +1,9 @@
+---
+layout: default
+language: Web Ontology Language
+filename: Web_Ontology_Language.html
+---
+{% assign events = site.events | where: "language","Web Ontology Language" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
