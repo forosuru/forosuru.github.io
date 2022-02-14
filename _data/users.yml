@@ -913,11 +913,11 @@
 8890312:
   avatar_url: https://avatars1.githubusercontent.com/u/8890312?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 3
     public: 2
     repo: 5
-    total: 72
+    total: 73
     watch_started: 57
   intra: mburson
   login: maxburs
