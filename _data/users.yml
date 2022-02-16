@@ -2656,8 +2656,8 @@
     follow: 0
     fork: 1
     public: 0
-    repo: 1
-    total: 2
+    repo: 2
+    total: 3
     watch_started: 0
   intra: jtrujill
   login: trujillojosh
@@ -3134,10 +3134,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/24300177?v=4
   event_counts:
     follow: 8
-    fork: 9
+    fork: 10
     public: 6
     repo: 8
-    total: 58
+    total: 59
     watch_started: 27
   intra: ekelen
   login: ekelen
