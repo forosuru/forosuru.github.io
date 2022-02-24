@@ -1720,8 +1720,8 @@
     follow: 0
     fork: 2
     public: 2
-    repo: 9
-    total: 19
+    repo: 10
+    total: 20
     watch_started: 6
   intra: cbanales
   login: carlosbanales
@@ -3434,10 +3434,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/25557016?v=4
   event_counts:
     follow: 6
-    fork: 4
+    fork: 5
     public: 4
     repo: 6
-    total: 54
+    total: 55
     watch_started: 34
   intra: sleung
   login: msyleung
