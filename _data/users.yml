@@ -266,10 +266,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/3821043?v=4
   event_counts:
     follow: 37
-    fork: 17
+    fork: 18
     public: 1
     repo: 15
-    total: 154
+    total: 155
     watch_started: 84
   intra: kchenna
   login: hashb
@@ -2701,11 +2701,11 @@
 22091600:
   avatar_url: https://avatars1.githubusercontent.com/u/22091600?v=4
   event_counts:
-    follow: 32
+    follow: 33
     fork: 9
     public: 0
     repo: 3
-    total: 664
+    total: 665
     watch_started: 620
   intra: gguiulfo
   login: giacomoguiulfo
