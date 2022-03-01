@@ -4923,9 +4923,9 @@
   event_counts:
     follow: 3
     fork: 7
-    public: 2
+    public: 3
     repo: 26
-    total: 59
+    total: 60
     watch_started: 21
   intra: yserkez
   login: yserkez
