@@ -1717,11 +1717,11 @@
 16022204:
   avatar_url: https://avatars2.githubusercontent.com/u/16022204?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 2
     public: 2
     repo: 10
-    total: 20
+    total: 21
     watch_started: 6
   intra: cbanales
   login: carlosbanales
