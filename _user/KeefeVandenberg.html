@@ -1,0 +1,11 @@
+---
+layout: default
+intra: kvandenb
+login: KeefeVandenberg
+id: 32720755
+avatar_url: https://avatars3.githubusercontent.com/u/32720755?v=4
+---
+{% assign events = site.events | where: "author_id","32720755" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
