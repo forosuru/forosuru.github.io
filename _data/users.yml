@@ -1337,8 +1337,8 @@
     fork: 10
     public: 2
     repo: 35
-    total: 85
-    watch_started: 25
+    total: 87
+    watch_started: 27
   intra: chsu
   login: enhsu
   node_id: MDQ6VXNlcjEyMDQ1MTU0
@@ -1585,11 +1585,11 @@
 14248245:
   avatar_url: https://avatars2.githubusercontent.com/u/14248245?v=4
   event_counts:
-    follow: 27
+    follow: 28
     fork: 13
     public: 1
     repo: 24
-    total: 112
+    total: 113
     watch_started: 47
   intra: yijhuang
   login: hyj1204
