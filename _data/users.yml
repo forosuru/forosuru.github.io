@@ -1337,8 +1337,8 @@
     fork: 10
     public: 2
     repo: 35
-    total: 87
-    watch_started: 27
+    total: 88
+    watch_started: 28
   intra: chsu
   login: enhsu
   node_id: MDQ6VXNlcjEyMDQ1MTU0
@@ -3099,9 +3099,9 @@
   event_counts:
     follow: 4
     fork: 8
-    public: 1
+    public: 2
     repo: 20
-    total: 33
+    total: 34
     watch_started: 0
   intra: thomkim
   login: swp0107
