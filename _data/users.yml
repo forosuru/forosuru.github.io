@@ -3195,9 +3195,9 @@
   event_counts:
     follow: 7
     fork: 3
-    public: 0
+    public: 1
     repo: 37
-    total: 75
+    total: 76
     watch_started: 28
   intra: awhite
   login: austinwhite
