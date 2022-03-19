@@ -3976,8 +3976,8 @@
     follow: 2
     fork: 3
     public: 2
-    repo: 10
-    total: 23
+    repo: 11
+    total: 24
     watch_started: 6
   intra: skunz
   login: SebastianKunz
@@ -5726,10 +5726,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/44330039?v=4
   event_counts:
     follow: 28
-    fork: 5
+    fork: 6
     public: 0
     repo: 11
-    total: 102
+    total: 103
     watch_started: 58
   intra: viwade
   login: vwade
