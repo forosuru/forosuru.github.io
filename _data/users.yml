@@ -14,10 +14,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/646796?v=4
   event_counts:
     follow: 2
-    fork: 7
+    fork: 9
     public: 0
     repo: 2
-    total: 13
+    total: 15
     watch_started: 2
   intra: gaetan
   login: GaetanJUVIN
@@ -1585,11 +1585,11 @@
 14248245:
   avatar_url: https://avatars2.githubusercontent.com/u/14248245?v=4
   event_counts:
-    follow: 28
+    follow: 29
     fork: 13
     public: 1
     repo: 24
-    total: 118
+    total: 119
     watch_started: 52
   intra: yijhuang
   login: hyj1204
