@@ -1406,10 +1406,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/12926957?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 1
     repo: 1
-    total: 2
+    total: 3
     watch_started: 0
   intra: hramirez
   login: halcyonjuly7
