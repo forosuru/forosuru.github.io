@@ -3028,8 +3028,8 @@
     follow: 7
     fork: 2
     public: 0
-    repo: 16
-    total: 28
+    repo: 17
+    total: 29
     watch_started: 3
   intra: bbixby
   login: brianbixby
@@ -4549,11 +4549,11 @@
 32853711:
   avatar_url: https://avatars2.githubusercontent.com/u/32853711?v=4
   event_counts:
-    follow: 14
+    follow: 15
     fork: 0
     public: 0
     repo: 1
-    total: 15
+    total: 16
     watch_started: 0
   intra: lprior
   login: Prior-Liam
