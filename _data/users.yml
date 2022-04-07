@@ -219,9 +219,9 @@
   event_counts:
     follow: 81
     fork: 20
-    public: 3
+    public: 4
     repo: 81
-    total: 1352
+    total: 1353
     watch_started: 1167
   intra: mbrave
   login: michaelbrave
@@ -1237,11 +1237,11 @@
 11222980:
   avatar_url: https://avatars3.githubusercontent.com/u/11222980?v=4
   event_counts:
-    follow: 16
+    follow: 17
     fork: 32
     public: 13
     repo: 14
-    total: 240
+    total: 241
     watch_started: 165
   intra: jaleman
   login: jraleman
