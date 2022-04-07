@@ -1,0 +1,9 @@
+---
+layout: default
+language: KakouneScript
+filename: KakouneScript.html
+---
+{% assign events = site.events | where: "language","KakouneScript" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
