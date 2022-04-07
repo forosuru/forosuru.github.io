@@ -1,0 +1,9 @@
+---
+layout: default
+language: Standard ML
+filename: Standard_ML.html
+---
+{% assign events = site.events | where: "language","Standard ML" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
