@@ -1406,10 +1406,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/12926957?v=4
   event_counts:
     follow: 0
-    fork: 2
+    fork: 3
     public: 1
     repo: 1
-    total: 4
+    total: 5
     watch_started: 0
   intra: hramirez
   login: halcyonjuly7
@@ -2955,9 +2955,9 @@
   event_counts:
     follow: 12
     fork: 3
-    public: 4
+    public: 5
     repo: 7
-    total: 41
+    total: 42
     watch_started: 15
   intra: tpan
   login: tpan
@@ -4009,11 +4009,11 @@
 29266089:
   avatar_url: https://avatars2.githubusercontent.com/u/29266089?v=4
   event_counts:
-    follow: 10
+    follow: 12
     fork: 3
     public: 0
     repo: 2
-    total: 20
+    total: 22
     watch_started: 5
   intra: twalton
   login: theo-walton
@@ -5077,11 +5077,11 @@
 38030381:
   avatar_url: https://avatars0.githubusercontent.com/u/38030381?v=4
   event_counts:
-    follow: 15
+    follow: 17
     fork: 2
     public: 1
     repo: 12
-    total: 32
+    total: 34
     watch_started: 2
   intra: rsilva
   login: rsilva42
