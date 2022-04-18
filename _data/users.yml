@@ -1757,8 +1757,8 @@
     fork: 5
     public: 11
     repo: 7
-    total: 141
-    watch_started: 101
+    total: 143
+    watch_started: 103
   intra: jbeall
   login: jacksonwb
   node_id: MDQ6VXNlcjE2MjE0NzU3
@@ -1885,12 +1885,12 @@
 16868451:
   avatar_url: https://avatars3.githubusercontent.com/u/16868451?v=4
   event_counts:
-    follow: 21
+    follow: 25
     fork: 6
     public: 2
     repo: 23
-    total: 63
-    watch_started: 11
+    total: 68
+    watch_started: 12
   intra: saolivei
   login: SLO42
   node_id: MDQ6VXNlcjE2ODY4NDUx
