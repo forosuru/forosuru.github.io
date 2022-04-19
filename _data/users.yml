@@ -1239,9 +1239,9 @@
   event_counts:
     follow: 17
     fork: 32
-    public: 13
+    public: 14
     repo: 14
-    total: 241
+    total: 242
     watch_started: 165
   intra: jaleman
   login: jraleman
