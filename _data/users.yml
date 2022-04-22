@@ -5727,9 +5727,9 @@
   event_counts:
     follow: 31
     fork: 7
-    public: 0
+    public: 1
     repo: 11
-    total: 110
+    total: 111
     watch_started: 61
   intra: viwade
   login: vwade
