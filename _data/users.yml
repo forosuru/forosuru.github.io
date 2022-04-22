@@ -1419,9 +1419,9 @@
   event_counts:
     follow: 31
     fork: 2
-    public: 23
+    public: 24
     repo: 11
-    total: 130
+    total: 131
     watch_started: 63
   intra: bogoncha
   login: bgoncharov
@@ -3025,11 +3025,11 @@
 23647013:
   avatar_url: https://avatars1.githubusercontent.com/u/23647013?v=4
   event_counts:
-    follow: 9
+    follow: 10
     fork: 3
     public: 0
     repo: 19
-    total: 34
+    total: 35
     watch_started: 3
   intra: bbixby
   login: brianbixby
