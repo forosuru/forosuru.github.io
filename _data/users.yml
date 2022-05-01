@@ -2129,8 +2129,8 @@
     fork: 13
     public: 0
     repo: 8
-    total: 153
-    watch_started: 112
+    total: 154
+    watch_started: 113
   intra: nobrien
   login: nickisobrien
   node_id: MDQ6VXNlcjE4NjA4OTc5
@@ -3818,10 +3818,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/28205816?v=4
   event_counts:
     follow: 2
-    fork: 1
+    fork: 2
     public: 1
     repo: 5
-    total: 10
+    total: 11
     watch_started: 1
   intra: amishra
   login: anandvardhanmishra

@@ -1,0 +1,9 @@
+---
+layout: default
+language: COBOL
+filename: COBOL.html
+---
+{% assign events = site.events | where: "language","COBOL" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
