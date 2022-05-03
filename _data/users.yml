@@ -3028,8 +3028,8 @@
     follow: 12
     fork: 3
     public: 0
-    repo: 23
-    total: 41
+    repo: 24
+    total: 42
     watch_started: 3
   intra: bbixby
   login: brianbixby
@@ -5857,11 +5857,11 @@
 45823872:
   avatar_url: https://avatars3.githubusercontent.com/u/45823872?v=4
   event_counts:
-    follow: 49
+    follow: 50
     fork: 2
     public: 8
     repo: 23
-    total: 96
+    total: 97
     watch_started: 14
   intra: tcherret
   login: tcheee
