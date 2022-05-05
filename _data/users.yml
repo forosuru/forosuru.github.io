@@ -4551,9 +4551,9 @@
   event_counts:
     follow: 17
     fork: 0
-    public: 0
+    public: 1
     repo: 2
-    total: 19
+    total: 20
     watch_started: 0
   intra: lprior
   login: Prior-Liam
