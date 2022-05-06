@@ -3939,9 +3939,9 @@
   event_counts:
     follow: 2
     fork: 0
-    public: 0
+    public: 1
     repo: 0
-    total: 2
+    total: 3
     watch_started: 0
   intra: rliu
   login: liuleen
