@@ -1,0 +1,9 @@
+---
+layout: default
+language: SourcePawn
+filename: SourcePawn.html
+---
+{% assign events = site.events | where: "language","SourcePawn" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
