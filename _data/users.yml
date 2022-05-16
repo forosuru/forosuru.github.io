@@ -2091,9 +2091,9 @@
   event_counts:
     follow: 0
     fork: 12
-    public: 3
+    public: 4
     repo: 19
-    total: 40
+    total: 41
     watch_started: 6
   intra: tmckinno
   login: tmacro
