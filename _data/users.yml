@@ -3364,8 +3364,8 @@
     follow: 0
     fork: 1
     public: 0
-    repo: 2
-    total: 6
+    repo: 3
+    total: 7
     watch_started: 3
   intra: jeftekha
   login: jeftekhari
@@ -6026,10 +6026,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/47709344?v=4
   event_counts:
     follow: 24
-    fork: 3
+    fork: 4
     public: 3
     repo: 70
-    total: 106
+    total: 107
     watch_started: 6
   intra: jinpark
   login: Seojun-Park
