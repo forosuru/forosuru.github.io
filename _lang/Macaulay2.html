@@ -1,0 +1,9 @@
+---
+layout: default
+language: Macaulay2
+filename: Macaulay2.html
+---
+{% assign events = site.events | where: "language","Macaulay2" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
