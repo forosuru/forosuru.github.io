@@ -5751,9 +5751,9 @@
   event_counts:
     follow: 11
     fork: 4
-    public: 4
+    public: 5
     repo: 12
-    total: 38
+    total: 39
     watch_started: 7
   intra: dromansk
   login: bigdiggysquiggle
