@@ -4889,8 +4889,8 @@
     fork: 21
     public: 13
     repo: 36
-    total: 1285
-    watch_started: 1119
+    total: 1287
+    watch_started: 1121
   intra: akharrou
   login: akharrou
   node_id: MDQ6VXNlcjM2MDU2MjU0
@@ -5857,11 +5857,11 @@
 45823872:
   avatar_url: https://avatars3.githubusercontent.com/u/45823872?v=4
   event_counts:
-    follow: 52
+    follow: 53
     fork: 2
     public: 8
     repo: 26
-    total: 108
+    total: 109
     watch_started: 20
   intra: tcherret
   login: tcheee
