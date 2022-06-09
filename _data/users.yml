@@ -1947,9 +1947,9 @@
   event_counts:
     follow: 9
     fork: 6
-    public: 2
+    public: 3
     repo: 24
-    total: 129
+    total: 130
     watch_started: 88
   intra: klongric
   login: Klongrich
