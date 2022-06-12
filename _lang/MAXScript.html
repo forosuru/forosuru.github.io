@@ -1,0 +1,9 @@
+---
+layout: default
+language: MAXScript
+filename: MAXScript.html
+---
+{% assign events = site.events | where: "language","MAXScript" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
