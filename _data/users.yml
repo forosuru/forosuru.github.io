@@ -1177,11 +1177,11 @@
 10700895:
   avatar_url: https://avatars1.githubusercontent.com/u/10700895?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 0
     repo: 1
-    total: 2
+    total: 3
     watch_started: 0
   intra: zsmith
   login: ZackSmith32
