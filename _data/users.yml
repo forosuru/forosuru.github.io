@@ -1262,10 +1262,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/11316434?v=4
   event_counts:
     follow: 1
-    fork: 17
+    fork: 18
     public: 1
     repo: 9
-    total: 31
+    total: 32
     watch_started: 3
   intra: brabo-hi
   login: brabo-hi
@@ -5125,11 +5125,11 @@
 38278077:
   avatar_url: https://avatars0.githubusercontent.com/u/38278077?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 3
     public: 0
     repo: 6
-    total: 20
+    total: 21
     watch_started: 10
   intra: sgrindhe
   login: sandsalamand
