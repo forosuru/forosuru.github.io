@@ -4645,12 +4645,12 @@
 34046690:
   avatar_url: https://avatars3.githubusercontent.com/u/34046690?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 0
     public: 1
     repo: 12
-    total: 19
-    watch_started: 4
+    total: 21
+    watch_started: 5
   intra: ssong
   login: ssong42
   node_id: MDQ6VXNlcjM0MDQ2Njkw
