@@ -88,8 +88,8 @@
     follow: 18
     fork: 3
     public: 2
-    repo: 8
-    total: 35
+    repo: 9
+    total: 36
     watch_started: 4
   intra: ltanenba
   login: LeoTD
@@ -4885,12 +4885,12 @@
 36056254:
   avatar_url: https://avatars1.githubusercontent.com/u/36056254?v=4
   event_counts:
-    follow: 98
+    follow: 99
     fork: 22
     public: 13
     repo: 36
-    total: 1327
-    watch_started: 1158
+    total: 1329
+    watch_started: 1159
   intra: akharrou
   login: akharrou
   node_id: MDQ6VXNlcjM2MDU2MjU0
