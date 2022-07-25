@@ -1429,11 +1429,11 @@
 13080764:
   avatar_url: https://avatars1.githubusercontent.com/u/13080764?v=4
   event_counts:
-    follow: 3
+    follow: 4
     fork: 2
     public: 2
     repo: 10
-    total: 21
+    total: 22
     watch_started: 4
   intra: ycao
   login: caoyucen
@@ -1672,8 +1672,8 @@
     follow: 6
     fork: 2
     public: 3
-    repo: 34
-    total: 69
+    repo: 35
+    total: 70
     watch_started: 24
   intra: imurawsk
   login: helloitsian
@@ -2701,11 +2701,11 @@
 22091600:
   avatar_url: https://avatars1.githubusercontent.com/u/22091600?v=4
   event_counts:
-    follow: 33
+    follow: 34
     fork: 9
     public: 0
     repo: 6
-    total: 675
+    total: 676
     watch_started: 627
   intra: gguiulfo
   login: giacomoguiulfo
@@ -4705,11 +4705,11 @@
 34463580:
   avatar_url: https://avatars3.githubusercontent.com/u/34463580?v=4
   event_counts:
-    follow: 17
+    follow: 19
     fork: 8
     public: 1
     repo: 14
-    total: 43
+    total: 45
     watch_started: 3
   intra: efriedma
   login: ElliotFriedman
