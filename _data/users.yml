@@ -712,8 +712,8 @@
     follow: 19
     fork: 4
     public: 0
-    repo: 34
-    total: 83
+    repo: 35
+    total: 84
     watch_started: 26
   intra: cbagdon
   login: cbg119
@@ -4419,9 +4419,9 @@
   event_counts:
     follow: 0
     fork: 7
-    public: 3
+    public: 4
     repo: 15
-    total: 29
+    total: 30
     watch_started: 4
   intra: bchapman
   login: boredomdenied
