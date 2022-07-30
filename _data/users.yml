@@ -794,10 +794,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/8315103?v=4
   event_counts:
     follow: 5
-    fork: 6
+    fork: 8
     public: 1
     repo: 18
-    total: 48
+    total: 50
     watch_started: 18
   intra: ssmith
   login: seanwessmith
