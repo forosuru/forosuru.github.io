@@ -289,12 +289,12 @@
 3984265:
   avatar_url: https://avatars2.githubusercontent.com/u/3984265?v=4
   event_counts:
-    follow: 26
+    follow: 27
     fork: 18
     public: 3
     repo: 17
-    total: 93
-    watch_started: 29
+    total: 96
+    watch_started: 31
   intra: jrameau
   login: nickdotht
   node_id: MDQ6VXNlcjM5ODQyNjU=
@@ -2138,10 +2138,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/18649645?v=4
   event_counts:
     follow: 23
-    fork: 17
+    fork: 18
     public: 6
     repo: 54
-    total: 137
+    total: 138
     watch_started: 37
   intra: awindham
   login: arwn
