@@ -793,11 +793,11 @@
 8315103:
   avatar_url: https://avatars2.githubusercontent.com/u/8315103?v=4
   event_counts:
-    follow: 5
+    follow: 6
     fork: 8
     public: 1
     repo: 18
-    total: 50
+    total: 51
     watch_started: 18
   intra: ssmith
   login: seanwessmith
@@ -4885,12 +4885,12 @@
 36056254:
   avatar_url: https://avatars1.githubusercontent.com/u/36056254?v=4
   event_counts:
-    follow: 103
+    follow: 104
     fork: 22
     public: 13
     repo: 37
-    total: 1349
-    watch_started: 1174
+    total: 1351
+    watch_started: 1175
   intra: akharrou
   login: akharrou
   node_id: MDQ6VXNlcjM2MDU2MjU0
