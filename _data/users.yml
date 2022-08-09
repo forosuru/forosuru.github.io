@@ -1922,10 +1922,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/17267361?v=4
   event_counts:
     follow: 0
-    fork: 1
+    fork: 3
     public: 0
     repo: 1
-    total: 4
+    total: 6
     watch_started: 2
   intra: azinnatu
   login: zinartcode
@@ -5872,8 +5872,8 @@
     follow: 6
     fork: 10
     public: 0
-    repo: 15
-    total: 36
+    repo: 16
+    total: 37
     watch_started: 5
   intra: anttran
   login: anthonykhoa
