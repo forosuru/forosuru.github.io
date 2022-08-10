@@ -2331,9 +2331,9 @@
   event_counts:
     follow: 0
     fork: 1
-    public: 2
+    public: 3
     repo: 3
-    total: 6
+    total: 7
     watch_started: 0
   intra: jdevnani
   login: jaydevnani
