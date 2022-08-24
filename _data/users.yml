@@ -87,9 +87,9 @@
   event_counts:
     follow: 18
     fork: 3
-    public: 2
+    public: 3
     repo: 12
-    total: 40
+    total: 41
     watch_started: 5
   intra: ltanenba
   login: LeoTD
