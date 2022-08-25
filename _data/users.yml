@@ -687,9 +687,9 @@
   event_counts:
     follow: 26
     fork: 105
-    public: 1
+    public: 2
     repo: 30
-    total: 184
+    total: 185
     watch_started: 22
   intra: ktjhan
   login: ktjhan
@@ -5618,10 +5618,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/43390886?v=4
   event_counts:
     follow: 6
-    fork: 11
+    fork: 12
     public: 0
     repo: 3
-    total: 20
+    total: 21
     watch_started: 0
   intra: thjiang
   login: Gshfrez
