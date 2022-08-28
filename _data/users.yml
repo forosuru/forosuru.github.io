@@ -1358,10 +1358,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/12145119?v=4
   event_counts:
     follow: 255
-    fork: 17
+    fork: 18
     public: 0
     repo: 10
-    total: 1493
+    total: 1494
     watch_started: 1211
   intra: mfernand
   login: matias-eduardo
@@ -2057,8 +2057,8 @@
     fork: 85
     public: 7
     repo: 49
-    total: 278
-    watch_started: 82
+    total: 279
+    watch_started: 83
   intra: hvillasa
   login: hectorsvill
   node_id: MDQ6VXNlcjE4MjQ5Mzk1
