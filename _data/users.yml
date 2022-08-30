@@ -2174,10 +2174,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/18713268?v=4
   event_counts:
     follow: 2
-    fork: 0
+    fork: 2
     public: 0
     repo: 8
-    total: 10
+    total: 12
     watch_started: 0
   intra: shomami
   login: sepicoder
