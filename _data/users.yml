@@ -5056,8 +5056,8 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 0
-    total: 0
+    repo: 1
+    total: 1
     watch_started: 0
   intra: jkellehe
   login: Jothkell
@@ -5751,9 +5751,9 @@
   event_counts:
     follow: 12
     fork: 5
-    public: 7
+    public: 9
     repo: 12
-    total: 44
+    total: 46
     watch_started: 8
   intra: dromansk
   login: dylan-romansky
