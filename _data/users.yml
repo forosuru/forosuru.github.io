@@ -1335,9 +1335,9 @@
   event_counts:
     follow: 13
     fork: 10
-    public: 2
+    public: 3
     repo: 36
-    total: 100
+    total: 101
     watch_started: 39
   intra: chsu
   login: enhsu
