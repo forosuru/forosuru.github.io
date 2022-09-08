@@ -100,8 +100,8 @@
     follow: 9
     fork: 8
     public: 0
-    repo: 19
-    total: 59
+    repo: 20
+    total: 60
     watch_started: 23
   intra: eubotnar
   login: evb-gh
@@ -291,9 +291,9 @@
   event_counts:
     follow: 28
     fork: 18
-    public: 3
+    public: 4
     repo: 18
-    total: 99
+    total: 100
     watch_started: 32
   intra: jrameau
   login: nickdotht
@@ -5053,11 +5053,11 @@
 37784456:
   avatar_url: https://avatars0.githubusercontent.com/u/37784456?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 1
-    total: 1
+    total: 2
     watch_started: 0
   intra: jkellehe
   login: Jothkell
