@@ -1,0 +1,9 @@
+---
+layout: default
+language: Stan
+filename: Stan.html
+---
+{% assign events = site.events | where: "language","Stan" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
