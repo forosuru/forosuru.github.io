@@ -2330,10 +2330,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/20200599?v=4
   event_counts:
     follow: 0
-    fork: 1
+    fork: 2
     public: 3
     repo: 3
-    total: 7
+    total: 8
     watch_started: 0
   intra: jdevnani
   login: jaydevnani
@@ -4706,10 +4706,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/34463580?v=4
   event_counts:
     follow: 21
-    fork: 8
+    fork: 9
     public: 1
     repo: 14
-    total: 47
+    total: 48
     watch_started: 3
   intra: efriedma
   login: ElliotFriedman
