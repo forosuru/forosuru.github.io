@@ -1337,8 +1337,8 @@
     fork: 10
     public: 3
     repo: 40
-    total: 106
-    watch_started: 40
+    total: 107
+    watch_started: 41
   intra: chsu
   login: enhsu
   node_id: MDQ6VXNlcjEyMDQ1MTU0
@@ -2269,11 +2269,11 @@
 19755860:
   avatar_url: https://avatars2.githubusercontent.com/u/19755860?v=4
   event_counts:
-    follow: 7
+    follow: 8
     fork: 5
     public: 3
     repo: 10
-    total: 32
+    total: 33
     watch_started: 7
   intra: lhernand
   login: amnotme
