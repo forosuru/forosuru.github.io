@@ -1970,10 +1970,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/17707958?v=4
   event_counts:
     follow: 3
-    fork: 0
+    fork: 1
     public: 0
     repo: 39
-    total: 45
+    total: 46
     watch_started: 3
   intra: kkozlov
   login: BimManager
