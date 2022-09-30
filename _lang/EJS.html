@@ -1,0 +1,9 @@
+---
+layout: default
+language: EJS
+filename: EJS.html
+---
+{% assign events = site.events | where: "language","EJS" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
