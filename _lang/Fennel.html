@@ -1,0 +1,9 @@
+---
+layout: default
+language: Fennel
+filename: Fennel.html
+---
+{% assign events = site.events | where: "language","Fennel" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
