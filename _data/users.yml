@@ -2126,10 +2126,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/18608979?v=4
   event_counts:
     follow: 20
-    fork: 13
+    fork: 14
     public: 0
     repo: 8
-    total: 163
+    total: 164
     watch_started: 122
   intra: nobrien
   login: nickisobrien
@@ -4923,9 +4923,9 @@
   event_counts:
     follow: 3
     fork: 10
-    public: 3
+    public: 6
     repo: 34
-    total: 86
+    total: 89
     watch_started: 36
   intra: yserkez
   login: 4till2
