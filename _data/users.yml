@@ -290,10 +290,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/3984265?v=4
   event_counts:
     follow: 29
-    fork: 19
+    fork: 20
     public: 4
     repo: 19
-    total: 104
+    total: 105
     watch_started: 33
   intra: jrameau
   login: nickdotht
@@ -1585,11 +1585,11 @@
 14248245:
   avatar_url: https://avatars2.githubusercontent.com/u/14248245?v=4
   event_counts:
-    follow: 31
+    follow: 32
     fork: 15
     public: 2
     repo: 24
-    total: 126
+    total: 127
     watch_started: 54
   intra: yijhuang
   login: hyj1204
