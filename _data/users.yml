@@ -290,10 +290,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/3984265?v=4
   event_counts:
     follow: 29
-    fork: 20
+    fork: 21
     public: 4
     repo: 19
-    total: 105
+    total: 106
     watch_started: 33
   intra: jrameau
   login: nickdotht
@@ -2896,8 +2896,8 @@
     follow: 2
     fork: 3
     public: 0
-    repo: 0
-    total: 6
+    repo: 1
+    total: 7
     watch_started: 1
   intra: aphan
   login: andeaseme
