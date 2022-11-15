@@ -1,0 +1,9 @@
+---
+layout: default
+language: CWeb
+filename: CWeb.html
+---
+{% assign events = site.events | where: "language","CWeb" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
