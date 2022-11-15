@@ -3135,9 +3135,9 @@
   event_counts:
     follow: 8
     fork: 10
-    public: 9
+    public: 10
     repo: 8
-    total: 64
+    total: 65
     watch_started: 29
   intra: ekelen
   login: ekelen
