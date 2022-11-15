@@ -255,9 +255,9 @@
   event_counts:
     follow: 9
     fork: 1
-    public: 7
+    public: 8
     repo: 4
-    total: 38
+    total: 39
     watch_started: 17
   intra: sgardner
   login: stephen-gardner
