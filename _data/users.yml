@@ -1033,11 +1033,11 @@
 10013170:
   avatar_url: https://avatars3.githubusercontent.com/u/10013170?v=4
   event_counts:
-    follow: 19
+    follow: 27
     fork: 1
     public: 0
     repo: 7
-    total: 34
+    total: 42
     watch_started: 7
   intra: pdoherty
   login: paulrobertdoherty
@@ -3197,8 +3197,8 @@
     fork: 13
     public: 3
     repo: 72
-    total: 158
-    watch_started: 63
+    total: 159
+    watch_started: 64
   intra: awhite
   login: austinwhite
   node_id: MDQ6VXNlcjI0NTMxNzAw
