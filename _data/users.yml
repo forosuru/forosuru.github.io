@@ -796,8 +796,8 @@
     follow: 6
     fork: 8
     public: 1
-    repo: 21
-    total: 57
+    repo: 22
+    total: 58
     watch_started: 21
   intra: ssmith
   login: seanwessmith
@@ -2317,11 +2317,11 @@
 20195689:
   avatar_url: https://avatars0.githubusercontent.com/u/20195689?v=4
   event_counts:
-    follow: 16
+    follow: 17
     fork: 4
     public: 11
     repo: 8
-    total: 92
+    total: 93
     watch_started: 53
   intra: callen
   login: allenc12
