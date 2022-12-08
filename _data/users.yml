@@ -5033,8 +5033,8 @@
     fork: 3
     public: 18
     repo: 1
-    total: 90
-    watch_started: 45
+    total: 91
+    watch_started: 46
   intra: mjacques
   login: maxencejded
   node_id: MDQ6VXNlcjM3MjQ4NzQ3
@@ -5858,10 +5858,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/45823872?v=4
   event_counts:
     follow: 65
-    fork: 4
+    fork: 5
     public: 8
     repo: 27
-    total: 156
+    total: 157
     watch_started: 52
   intra: tcherret
   login: tcheee
