@@ -266,10 +266,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/3821043?v=4
   event_counts:
     follow: 43
-    fork: 30
+    fork: 31
     public: 1
     repo: 18
-    total: 193
+    total: 194
     watch_started: 101
   intra: kchenna
   login: hashb
@@ -2978,10 +2978,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/23408540?v=4
   event_counts:
     follow: 18
-    fork: 4
+    fork: 6
     public: 1
     repo: 6
-    total: 42
+    total: 44
     watch_started: 13
   intra: rle
   login: sudoryan
