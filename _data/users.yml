@@ -796,8 +796,8 @@
     follow: 6
     fork: 9
     public: 1
-    repo: 22
-    total: 59
+    repo: 23
+    total: 60
     watch_started: 21
   intra: ssmith
   login: seanwessmith
@@ -1108,8 +1108,8 @@
     follow: 0
     fork: 0
     public: 2
-    repo: 18
-    total: 29
+    repo: 19
+    total: 30
     watch_started: 9
   intra: slee
   login: Mr-Perfection
@@ -2129,8 +2129,8 @@
     fork: 14
     public: 0
     repo: 8
-    total: 173
-    watch_started: 131
+    total: 175
+    watch_started: 133
   intra: nobrien
   login: nickisobrien
   node_id: MDQ6VXNlcjE4NjA4OTc5
