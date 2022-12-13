@@ -1,0 +1,9 @@
+---
+layout: default
+language: Pug
+filename: Pug.html
+---
+{% assign events = site.events | where: "language","Pug" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
