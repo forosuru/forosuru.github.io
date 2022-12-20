@@ -2833,11 +2833,11 @@
 22552600:
   avatar_url: https://avatars2.githubusercontent.com/u/22552600?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 2
     public: 1
     repo: 2
-    total: 5
+    total: 6
     watch_started: 0
   intra: ofedorov
   login: thatsmesasha
