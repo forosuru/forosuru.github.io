@@ -5269,11 +5269,11 @@
 39884137:
   avatar_url: https://avatars1.githubusercontent.com/u/39884137?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 0
     public: 0
     repo: 5
-    total: 6
+    total: 7
     watch_started: 1
   intra: ldehaudt
   login: ldehaudt
