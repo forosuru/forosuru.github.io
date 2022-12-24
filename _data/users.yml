@@ -3135,9 +3135,9 @@
   event_counts:
     follow: 8
     fork: 10
-    public: 10
+    public: 11
     repo: 8
-    total: 65
+    total: 66
     watch_started: 29
   intra: ekelen
   login: ekelen
@@ -5197,11 +5197,11 @@
 39015941:
   avatar_url: https://avatars3.githubusercontent.com/u/39015941?v=4
   event_counts:
-    follow: 46
+    follow: 52
     fork: 0
     public: 0
     repo: 7
-    total: 59
+    total: 65
     watch_started: 6
   intra: debaxter
   login: devin-baxter
