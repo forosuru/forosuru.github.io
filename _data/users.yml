@@ -1106,10 +1106,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/10393248?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 2
     repo: 24
-    total: 38
+    total: 39
     watch_started: 12
   intra: slee
   login: Mr-Perfection
