@@ -1012,8 +1012,8 @@
     follow: 0
     fork: 1
     public: 0
-    repo: 4
-    total: 6
+    repo: 5
+    total: 7
     watch_started: 1
   intra: delin
   login: gddh
@@ -2560,8 +2560,8 @@
     follow: 11
     fork: 4
     public: 0
-    repo: 1
-    total: 61
+    repo: 2
+    total: 62
     watch_started: 45
   intra: lwang
   login: Lijun21
