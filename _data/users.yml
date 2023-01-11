@@ -1192,8 +1192,8 @@
     follow: 0
     fork: 1
     public: 0
-    repo: 9
-    total: 13
+    repo: 10
+    total: 14
     watch_started: 3
   intra: olkovale
   login: okovko
@@ -5175,9 +5175,9 @@
   event_counts:
     follow: 16
     fork: 0
-    public: 9
+    public: 10
     repo: 16
-    total: 89
+    total: 90
     watch_started: 48
   intra: jochang
   login: MagicHatJo
