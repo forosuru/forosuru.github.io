@@ -497,8 +497,8 @@
     fork: 1
     public: 0
     repo: 2
-    total: 133
-    watch_started: 116
+    total: 134
+    watch_started: 117
   intra: dkotov
   login: stubisdon
   node_id: MDQ6VXNlcjU1MTQ0NzE=
@@ -4887,9 +4887,9 @@
   event_counts:
     follow: 107
     fork: 23
-    public: 13
+    public: 14
     repo: 37
-    total: 1386
+    total: 1387
     watch_started: 1206
   intra: akharrou
   login: akharrou
