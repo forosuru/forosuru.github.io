@@ -1249,11 +1249,11 @@
 11278417:
   avatar_url: https://avatars0.githubusercontent.com/u/11278417?v=4
   event_counts:
-    follow: 19
+    follow: 21
     fork: 0
     public: 0
     repo: 32
-    total: 215
+    total: 217
     watch_started: 164
   intra: dperera
   login: elPandaFriki
@@ -3051,9 +3051,9 @@
   event_counts:
     follow: 13
     fork: 2
-    public: 0
+    public: 1
     repo: 2
-    total: 27
+    total: 28
     watch_started: 10
   intra: mmastrel
   login: mastrella
