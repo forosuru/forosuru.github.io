@@ -857,8 +857,8 @@
     fork: 2
     public: 2
     repo: 2
-    total: 41
-    watch_started: 30
+    total: 42
+    watch_started: 31
   intra: yolabi
   login: Sino
   node_id: MDQ6VXNlcjg1NzE0MTA=
@@ -1586,10 +1586,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/14248245?v=4
   event_counts:
     follow: 36
-    fork: 20
+    fork: 21
     public: 2
     repo: 24
-    total: 142
+    total: 143
     watch_started: 60
   intra: yijhuang
   login: hyj1204
