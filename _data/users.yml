@@ -626,10 +626,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/6658153?v=4
   event_counts:
     follow: 5
-    fork: 4
+    fork: 5
     public: 7
     repo: 9
-    total: 39
+    total: 40
     watch_started: 14
   intra: fbueno-m
   login: fredmurakawa
