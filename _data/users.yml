@@ -4361,8 +4361,8 @@
     fork: 36
     public: 8
     repo: 18
-    total: 404
-    watch_started: 299
+    total: 405
+    watch_started: 300
   intra: fredsiik
   login: fredsiika
   node_id: MDQ6VXNlcjMyMjYxMTEz
@@ -6026,10 +6026,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/47709344?v=4
   event_counts:
     follow: 25
-    fork: 9
+    fork: 10
     public: 3
     repo: 74
-    total: 119
+    total: 120
     watch_started: 8
   intra: jinpark
   login: Seojun-Park
