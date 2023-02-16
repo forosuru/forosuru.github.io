@@ -531,9 +531,9 @@
   event_counts:
     follow: 242
     fork: 4
-    public: 0
+    public: 1
     repo: 16
-    total: 381
+    total: 382
     watch_started: 119
   intra: myoung
   login: qst0
