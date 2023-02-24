@@ -2465,8 +2465,8 @@
     fork: 4
     public: 0
     repo: 2
-    total: 19
-    watch_started: 6
+    total: 20
+    watch_started: 7
   intra: rpassafa
   login: rpassafaro
   node_id: MDQ6VXNlcjIwNzQ2MTU1
@@ -3902,10 +3902,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/28690090?v=4
   event_counts:
     follow: 1
-    fork: 13
+    fork: 16
     public: 0
     repo: 5
-    total: 24
+    total: 27
     watch_started: 5
   intra: dgurova
   login: dashagurova
