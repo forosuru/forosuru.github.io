@@ -963,9 +963,9 @@
   event_counts:
     follow: 15
     fork: 15
-    public: 0
+    public: 1
     repo: 15
-    total: 56
+    total: 57
     watch_started: 11
   intra: kfonda
   login: KalindiFonda
