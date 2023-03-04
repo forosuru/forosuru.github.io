@@ -1,0 +1,9 @@
+---
+layout: default
+language: Blade
+filename: Blade.html
+---
+{% assign events = site.events | where: "language","Blade" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
