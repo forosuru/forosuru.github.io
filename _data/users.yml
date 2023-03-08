@@ -554,10 +554,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/6026227?v=4
   event_counts:
     follow: 17
-    fork: 13
+    fork: 14
     public: 1
     repo: 20
-    total: 158
+    total: 159
     watch_started: 107
   intra: chrsilva
   login: Crybyte
@@ -1033,12 +1033,12 @@
 10013170:
   avatar_url: https://avatars3.githubusercontent.com/u/10013170?v=4
   event_counts:
-    follow: 28
+    follow: 29
     fork: 1
     public: 0
     repo: 13
-    total: 49
-    watch_started: 7
+    total: 51
+    watch_started: 8
   intra: pdoherty
   login: paulrobertdoherty
   node_id: MDQ6VXNlcjEwMDEzMTcw
