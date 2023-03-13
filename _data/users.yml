@@ -2621,8 +2621,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 4
-    watch_started: 3
+    total: 5
+    watch_started: 4
   intra: rromero
   login: rubenxrb
   node_id: MDQ6VXNlcjIxMDg5ODM4
@@ -4166,10 +4166,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/30442914?v=4
   event_counts:
     follow: 9
-    fork: 9
+    fork: 10
     public: 2
     repo: 8
-    total: 46
+    total: 47
     watch_started: 18
   intra: dpearson
   login: Wittiest
