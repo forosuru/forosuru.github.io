@@ -469,11 +469,11 @@
 5465789:
   avatar_url: https://avatars3.githubusercontent.com/u/5465789?v=4
   event_counts:
-    follow: 3
+    follow: 4
     fork: 0
     public: 0
     repo: 3
-    total: 7
+    total: 8
     watch_started: 1
   intra: bslakey
   login: Benjaminslakey
@@ -2308,8 +2308,8 @@
     follow: 0
     fork: 6
     public: 0
-    repo: 1
-    total: 8
+    repo: 2
+    total: 9
     watch_started: 1
   intra: bmontoya
   login: Relucin
