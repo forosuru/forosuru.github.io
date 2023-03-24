@@ -914,10 +914,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/8890312?v=4
   event_counts:
     follow: 6
-    fork: 6
+    fork: 7
     public: 3
     repo: 6
-    total: 86
+    total: 87
     watch_started: 65
   intra: mburson
   login: maxburs
