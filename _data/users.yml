@@ -14,10 +14,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/646796?v=4
   event_counts:
     follow: 5
-    fork: 13
+    fork: 14
     public: 0
     repo: 2
-    total: 22
+    total: 23
     watch_started: 2
   intra: gaetan
   login: GaetanJUVIN
@@ -2141,8 +2141,8 @@
     fork: 19
     public: 6
     repo: 54
-    total: 140
-    watch_started: 37
+    total: 141
+    watch_started: 38
   intra: awindham
   login: arwn
   node_id: MDQ6VXNlcjE4NjQ5NjQ1
