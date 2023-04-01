@@ -3195,10 +3195,10 @@
   event_counts:
     follow: 7
     fork: 16
-    public: 3
+    public: 11
     repo: 78
-    total: 175
-    watch_started: 71
+    total: 184
+    watch_started: 72
   intra: awhite
   login: austinwhite
   node_id: MDQ6VXNlcjI0NTMxNzAw
