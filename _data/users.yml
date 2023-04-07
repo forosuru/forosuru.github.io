@@ -113,8 +113,8 @@
     fork: 0
     public: 0
     repo: 0
-    total: 0
-    watch_started: 0
+    total: 3
+    watch_started: 3
   intra: bschroed
   login: Allvitende
   node_id: MDQ6VXNlcjIxMjc0NDE=
@@ -1769,8 +1769,8 @@
     fork: 13
     public: 0
     repo: 15
-    total: 40
-    watch_started: 3
+    total: 41
+    watch_started: 4
   intra: ndanilov
   login: nikdanilov
   node_id: MDQ6VXNlcjE2MjM4MDQz
