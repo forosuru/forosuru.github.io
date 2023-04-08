@@ -1769,8 +1769,8 @@
     fork: 13
     public: 0
     repo: 15
-    total: 41
-    watch_started: 4
+    total: 42
+    watch_started: 5
   intra: ndanilov
   login: nikdanilov
   node_id: MDQ6VXNlcjE2MjM4MDQz
@@ -2127,9 +2127,9 @@
   event_counts:
     follow: 21
     fork: 14
-    public: 0
+    public: 1
     repo: 9
-    total: 184
+    total: 185
     watch_started: 140
   intra: nobrien
   login: nickisobrien
