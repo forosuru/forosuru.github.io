@@ -793,11 +793,11 @@
 8315103:
   avatar_url: https://avatars2.githubusercontent.com/u/8315103?v=4
   event_counts:
-    follow: 7
+    follow: 8
     fork: 9
     public: 1
     repo: 28
-    total: 69
+    total: 70
     watch_started: 24
   intra: ssmith
   login: seanwessmith
@@ -3245,8 +3245,8 @@
     fork: 35
     public: 0
     repo: 74
-    total: 959
-    watch_started: 750
+    total: 960
+    watch_started: 751
   intra: cchao
   login: kizombaciao
   node_id: MDQ6VXNlcjI0Njg3MzU2
