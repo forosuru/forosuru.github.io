@@ -1468,8 +1468,8 @@
     follow: 5
     fork: 6
     public: 1
-    repo: 12
-    total: 24
+    repo: 13
+    total: 25
     watch_started: 0
   intra: kbaker
   login: KevinTBaker
@@ -3688,8 +3688,8 @@
     follow: 17
     fork: 3
     public: 3
-    repo: 55
-    total: 80
+    repo: 56
+    total: 81
     watch_started: 2
   intra: pstringe
   login: pstringe
