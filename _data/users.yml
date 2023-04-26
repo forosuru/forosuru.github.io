@@ -4009,11 +4009,11 @@
 29266089:
   avatar_url: https://avatars2.githubusercontent.com/u/29266089?v=4
   event_counts:
-    follow: 12
+    follow: 13
     fork: 3
-    public: 0
+    public: 1
     repo: 2
-    total: 22
+    total: 24
     watch_started: 5
   intra: twalton
   login: theo-walton
