@@ -3052,8 +3052,8 @@
     follow: 13
     fork: 3
     public: 1
-    repo: 2
-    total: 29
+    repo: 3
+    total: 30
     watch_started: 10
   intra: mmastrel
   login: mastrella
@@ -4361,8 +4361,8 @@
     fork: 39
     public: 8
     repo: 20
-    total: 437
-    watch_started: 327
+    total: 439
+    watch_started: 329
   intra: fredsiik
   login: fredsiika
   node_id: MDQ6VXNlcjMyMjYxMTEz
