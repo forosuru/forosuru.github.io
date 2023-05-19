@@ -1634,10 +1634,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/14967737?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 0
     repo: 2
-    total: 3
+    total: 4
     watch_started: 1
   intra: wasman
   login: wtasman
