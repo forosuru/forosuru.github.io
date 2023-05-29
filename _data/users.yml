@@ -3279,9 +3279,9 @@
   event_counts:
     follow: 6
     fork: 6
-    public: 2
+    public: 3
     repo: 0
-    total: 28
+    total: 29
     watch_started: 14
   intra: jchow
   login: kraxx
