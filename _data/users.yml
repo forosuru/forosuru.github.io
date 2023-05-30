@@ -125,8 +125,8 @@
     fork: 5
     public: 0
     repo: 1
-    total: 107
-    watch_started: 101
+    total: 108
+    watch_started: 102
   intra: drosa-ta
   login: drrosa
   node_id: MDQ6VXNlcjIzNDM1NTQ=
@@ -3902,10 +3902,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/28690090?v=4
   event_counts:
     follow: 1
-    fork: 18
+    fork: 19
     public: 0
     repo: 5
-    total: 30
+    total: 31
     watch_started: 6
   intra: dgurova
   login: dashagurova
