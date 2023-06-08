@@ -1,0 +1,9 @@
+---
+layout: default
+language: Vala
+filename: Vala.html
+---
+{% assign events = site.events | where: "language","Vala" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
