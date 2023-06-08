@@ -4705,11 +4705,11 @@
 34463580:
   avatar_url: https://avatars3.githubusercontent.com/u/34463580?v=4
   event_counts:
-    follow: 23
+    follow: 25
     fork: 10
     public: 1
     repo: 19
-    total: 59
+    total: 61
     watch_started: 6
   intra: efriedma
   login: ElliotFriedman
