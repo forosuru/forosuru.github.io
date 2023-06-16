@@ -4707,9 +4707,9 @@
   event_counts:
     follow: 25
     fork: 10
-    public: 1
+    public: 2
     repo: 19
-    total: 62
+    total: 63
     watch_started: 7
   intra: efriedma
   login: ElliotFriedman
