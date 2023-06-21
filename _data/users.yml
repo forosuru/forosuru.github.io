@@ -1070,10 +1070,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/10343470?v=4
   event_counts:
     follow: 13
-    fork: 35
+    fork: 36
     public: 1
     repo: 65
-    total: 190
+    total: 191
     watch_started: 76
   intra: nocardoz
   login: NoahCardoza
@@ -2150,10 +2150,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/18673569?v=4
   event_counts:
     follow: 0
-    fork: 9
+    fork: 10
     public: 0
     repo: 1
-    total: 11
+    total: 12
     watch_started: 1
   intra: jgelbard
   login: joshgelbard
