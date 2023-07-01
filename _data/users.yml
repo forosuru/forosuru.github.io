@@ -617,8 +617,8 @@
     fork: 17
     public: 2
     repo: 43
-    total: 185
-    watch_started: 81
+    total: 186
+    watch_started: 82
   intra: jcope
   login: JemWritesCode
   node_id: MDQ6VXNlcjY2NTMwODA=
@@ -2222,10 +2222,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/19275925?v=4
   event_counts:
     follow: 11
-    fork: 2
+    fork: 4
     public: 5
     repo: 6
-    total: 47
+    total: 49
     watch_started: 23
   intra: jcruz-y-
   login: josecyc
