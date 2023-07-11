@@ -1,0 +1,11 @@
+---
+layout: default
+intra: aezzeddi
+login: AlexEzzeddine
+id: 2828431
+avatar_url: https://avatars0.githubusercontent.com/u/2828431?v=4
+---
+{% assign events = site.events | where: "author_id","2828431" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
