@@ -4240,11 +4240,11 @@
     follow: 0
     fork: 0
     public: 0
-    repo: 0
-    total: 1
+    repo: 1
+    total: 2
     watch_started: 1
   intra: gscott
-  login: Flool
+  login: griffin-scott
   node_id: MDQ6VXNlcjMxNTU0MjY5
 31667196:
   avatar_url: https://avatars0.githubusercontent.com/u/31667196?v=4
