@@ -483,12 +483,12 @@
   event_counts:
     follow: 7
     fork: 12
-    public: 3
+    public: 5
     repo: 8
-    total: 76
+    total: 78
     watch_started: 46
   intra: azhuk
-  login: ug02fast
+  login: arthur-zhuk
   node_id: MDQ6VXNlcjU1MDc3MDc=
 5514471:
   avatar_url: https://avatars3.githubusercontent.com/u/5514471?v=4
@@ -1358,10 +1358,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/12145119?v=4
   event_counts:
     follow: 273
-    fork: 31
+    fork: 32
     public: 0
     repo: 11
-    total: 1599
+    total: 1600
     watch_started: 1284
   intra: mfernand
   login: matias-eduardo
