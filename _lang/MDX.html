@@ -1,0 +1,9 @@
+---
+layout: default
+language: MDX
+filename: MDX.html
+---
+{% assign events = site.events | where: "language","MDX" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
