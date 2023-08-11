@@ -2017,11 +2017,11 @@
 18075159:
   avatar_url: https://avatars1.githubusercontent.com/u/18075159?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 3
     public: 0
     repo: 1
-    total: 6
+    total: 7
     watch_started: 2
   intra: ydang
   login: yixuandang
