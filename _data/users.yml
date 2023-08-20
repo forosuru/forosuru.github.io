@@ -3148,8 +3148,8 @@
     follow: 34
     fork: 4
     public: 1
-    repo: 15
-    total: 64
+    repo: 16
+    total: 65
     watch_started: 10
   intra: eliu
   login: eliu42
@@ -4468,8 +4468,8 @@
     follow: 7
     fork: 1
     public: 6
-    repo: 12
-    total: 31
+    repo: 13
+    total: 32
     watch_started: 5
   intra: agrodzin
   login: blairclair
