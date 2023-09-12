@@ -1624,8 +1624,8 @@
     follow: 28
     fork: 2
     public: 8
-    repo: 52
-    total: 122
+    repo: 62
+    total: 132
     watch_started: 32
   intra: jcrisp
   login: zill4
@@ -2449,11 +2449,11 @@
 20745447:
   avatar_url: https://avatars3.githubusercontent.com/u/20745447?v=4
   event_counts:
-    follow: 33
+    follow: 36
     fork: 10
     public: 0
     repo: 8
-    total: 82
+    total: 85
     watch_started: 31
   intra: dstolz
   login: donald-stolz
