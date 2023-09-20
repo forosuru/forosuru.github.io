@@ -2129,8 +2129,8 @@
     fork: 14
     public: 1
     repo: 10
-    total: 201
-    watch_started: 155
+    total: 202
+    watch_started: 156
   intra: nobrien
   login: nickisobrien
   node_id: MDQ6VXNlcjE4NjA4OTc5
@@ -3903,9 +3903,9 @@
   event_counts:
     follow: 1
     fork: 21
-    public: 0
+    public: 1
     repo: 5
-    total: 34
+    total: 35
     watch_started: 7
   intra: dgurova
   login: dashagurova
