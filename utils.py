@@ -28,7 +28,7 @@ def write_event_counts_to_users_file():
 
     users = None
     with open("_data/users.yml") as fp:
-        users = yaml.load(fp)
+        users = yaml.load(fp, Loader=yaml.FullLoader)
         fp.close()
 
     for uid in users:
@@ -39,7 +39,7 @@ def write_event_counts_to_users_file():
         with open(fn) as fp:
             data = fp.read().split("\n---\n")[0]
             fp.close()
-        e = yaml.load(data)
+        e = yaml.load(data, Loader=yaml.FullLoader)
         uid = int(e["author_id"])
         users[uid]["event_counts"][e["event_type"]] += 1
         users[uid]["event_counts"]["total"] += 1
@@ -70,7 +70,7 @@ def write_stats_file():
 
     users = None
     with open("_data/users.yml") as fp:
-        users = yaml.load(fp)
+        users = yaml.load(fp, Loader=yaml.FullLoader)
         fp.close()
 
     for k in users:

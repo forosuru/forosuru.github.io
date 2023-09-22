@@ -121,7 +121,7 @@ def user_fwrite(fn, uid, u):
 def update_pages(events):
     all_users = None
     with open("_data/users.yml", "r") as fp:
-        all_users = yaml.load(fp)
+        all_users = yaml.load(fp, Loader=yaml.FullLoader)
         fp.close()
 
     for e in events:

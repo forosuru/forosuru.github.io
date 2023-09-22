@@ -105,7 +105,7 @@ if __name__ == "__main__":
         sys.exit("_data/users.yml does not exist")
 
     with open("_data/users.yml", "r+") as fp:
-        users = yaml.load(fp)
+        users = yaml.load(fp, Loader=yaml.FullLoader)
         if users == None:
             print("creating new yaml dict")
             users = {}
