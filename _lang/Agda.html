@@ -1,0 +1,9 @@
+---
+layout: default
+language: Agda
+filename: Agda.html
+---
+{% assign events = site.events | where: "language","Agda" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
