@@ -1285,11 +1285,11 @@
 11702608:
   avatar_url: https://avatars0.githubusercontent.com/u/11702608?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 2
     public: 0
     repo: 3
-    total: 11
+    total: 12
     watch_started: 6
   intra: akali
   login: abylay08
@@ -1585,11 +1585,11 @@
 14248245:
   avatar_url: https://avatars2.githubusercontent.com/u/14248245?v=4
   event_counts:
-    follow: 41
+    follow: 42
     fork: 25
     public: 2
     repo: 24
-    total: 156
+    total: 157
     watch_started: 64
   intra: yijhuang
   login: hyj1204
@@ -4885,11 +4885,11 @@
 36056254:
   avatar_url: https://avatars1.githubusercontent.com/u/36056254?v=4
   event_counts:
-    follow: 110
+    follow: 111
     fork: 23
     public: 14
     repo: 37
-    total: 1418
+    total: 1419
     watch_started: 1234
   intra: akharrou
   login: akharrou
