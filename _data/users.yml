@@ -421,11 +421,11 @@
 4915173:
   avatar_url: https://avatars0.githubusercontent.com/u/4915173?v=4
   event_counts:
-    follow: 14
+    follow: 15
     fork: 4
     public: 1
     repo: 21
-    total: 292
+    total: 293
     watch_started: 252
   intra: tmatthew
   login: Travmatth
@@ -2318,10 +2318,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/20195689?v=4
   event_counts:
     follow: 17
-    fork: 6
+    fork: 8
     public: 11
     repo: 10
-    total: 105
+    total: 107
     watch_started: 61
   intra: callen
   login: allenc12
