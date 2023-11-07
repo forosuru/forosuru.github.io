@@ -616,8 +616,8 @@
     follow: 45
     fork: 17
     public: 2
-    repo: 44
-    total: 195
+    repo: 45
+    total: 196
     watch_started: 87
   intra: jcope
   login: JemWritesCode
@@ -4240,8 +4240,8 @@
     follow: 0
     fork: 1
     public: 0
-    repo: 6
-    total: 8
+    repo: 7
+    total: 9
     watch_started: 1
   intra: gscott
   login: griffin-scott
