@@ -5499,9 +5499,9 @@
   event_counts:
     follow: 27
     fork: 0
-    public: 2
+    public: 3
     repo: 1
-    total: 57
+    total: 58
     watch_started: 27
   intra: gcaixeta
   login: guilhemarcf
