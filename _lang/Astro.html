@@ -1,0 +1,9 @@
+---
+layout: default
+language: Astro
+filename: Astro.html
+---
+{% assign events = site.events | where: "language","Astro" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

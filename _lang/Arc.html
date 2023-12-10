@@ -1,0 +1,9 @@
+---
+layout: default
+language: Arc
+filename: Arc.html
+---
+{% assign events = site.events | where: "language","Arc" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
