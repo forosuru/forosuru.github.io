@@ -110,11 +110,11 @@
   avatar_url: https://avatars2.githubusercontent.com/u/2127441?v=4
   event_counts:
     follow: 1
-    fork: 0
+    fork: 1
     public: 0
-    repo: 0
-    total: 34
-    watch_started: 33
+    repo: 1
+    total: 37
+    watch_started: 34
   intra: bschroed
   login: brodieacc
   node_id: MDQ6VXNlcjIxMjc0NDE=
