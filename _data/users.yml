@@ -3292,8 +3292,8 @@
     follow: 0
     fork: 0
     public: 3
-    repo: 0
-    total: 3
+    repo: 1
+    total: 4
     watch_started: 0
   intra: gsolis
   login: corezip
@@ -4741,11 +4741,11 @@
 34832274:
   avatar_url: https://avatars3.githubusercontent.com/u/34832274?v=4
   event_counts:
-    follow: 14
+    follow: 15
     fork: 5
     public: 2
     repo: 15
-    total: 53
+    total: 54
     watch_started: 17
   intra: fhong
   login: hongfu12321
