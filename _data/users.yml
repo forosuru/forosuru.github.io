@@ -1417,11 +1417,11 @@
 13036761:
   avatar_url: https://avatars3.githubusercontent.com/u/13036761?v=4
   event_counts:
-    follow: 32
+    follow: 33
     fork: 3
     public: 24
     repo: 11
-    total: 133
+    total: 134
     watch_started: 63
   intra: bogoncha
   login: bgoncharov
