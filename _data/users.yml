@@ -2703,9 +2703,9 @@
   event_counts:
     follow: 34
     fork: 9
-    public: 0
+    public: 1
     repo: 6
-    total: 681
+    total: 682
     watch_started: 632
   intra: gguiulfo
   login: giacomoguiulfo
