@@ -2271,9 +2271,9 @@
   event_counts:
     follow: 9
     fork: 5
-    public: 5
+    public: 6
     repo: 15
-    total: 44
+    total: 45
     watch_started: 10
   intra: lhernand
   login: amnotme
