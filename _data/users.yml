@@ -615,9 +615,9 @@
   event_counts:
     follow: 45
     fork: 17
-    public: 2
+    public: 3
     repo: 50
-    total: 204
+    total: 205
     watch_started: 90
   intra: jcope
   login: JemWritesCode
@@ -2054,10 +2054,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/18249395?v=4
   event_counts:
     follow: 56
-    fork: 86
+    fork: 87
     public: 7
     repo: 50
-    total: 283
+    total: 284
     watch_started: 84
   intra: hvillasa
   login: hectorsvill
