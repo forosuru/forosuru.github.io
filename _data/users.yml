@@ -1489,12 +1489,12 @@
 13629727:
   avatar_url: https://avatars1.githubusercontent.com/u/13629727?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 0
     public: 0
     repo: 0
-    total: 10
-    watch_started: 9
+    total: 12
+    watch_started: 10
   intra: smaddux
   login: Rubikhan
   node_id: MDQ6VXNlcjEzNjI5NzI3
