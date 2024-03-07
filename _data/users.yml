@@ -3905,8 +3905,8 @@
     fork: 21
     public: 2
     repo: 8
-    total: 39
-    watch_started: 7
+    total: 40
+    watch_started: 8
   intra: dgurova
   login: dashagurova
   node_id: MDQ6VXNlcjI4NjkwMDkw
@@ -4370,10 +4370,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/32273214?v=4
   event_counts:
     follow: 3
-    fork: 0
+    fork: 1
     public: 21
     repo: 11
-    total: 58
+    total: 59
     watch_started: 23
   intra: asarandi
   login: asarandi
