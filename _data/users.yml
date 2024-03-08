@@ -2341,12 +2341,12 @@
 20261857:
   avatar_url: https://avatars2.githubusercontent.com/u/20261857?v=4
   event_counts:
-    follow: 3
+    follow: 5
     fork: 10
     public: 0
     repo: 1
-    total: 34
-    watch_started: 20
+    total: 37
+    watch_started: 21
   intra: nmayfiel
   login: nmayfiel
   node_id: MDQ6VXNlcjIwMjYxODU3
@@ -2849,8 +2849,8 @@
     fork: 4
     public: 0
     repo: 17
-    total: 82
-    watch_started: 52
+    total: 83
+    watch_started: 53
   intra: abarnett
   login: alanbarnett
   node_id: MDQ6VXNlcjIyNTgyMDU1
