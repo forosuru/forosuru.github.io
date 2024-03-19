@@ -1168,8 +1168,8 @@
     follow: 1
     fork: 0
     public: 1
-    repo: 5
-    total: 7
+    repo: 6
+    total: 8
     watch_started: 0
   intra: gwood
   login: notoriousgtw
@@ -1769,8 +1769,8 @@
     fork: 14
     public: 0
     repo: 16
-    total: 58
-    watch_started: 19
+    total: 59
+    watch_started: 20
   intra: ndanilov
   login: nikdanilov
   node_id: MDQ6VXNlcjE2MjM4MDQz
