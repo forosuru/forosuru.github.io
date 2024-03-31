@@ -4346,10 +4346,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/32213063?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 7
     repo: 8
-    total: 15
+    total: 16
     watch_started: 0
   intra: hasmith
   login: DStar1
