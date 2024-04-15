@@ -8,3 +8,4 @@ _site/
 credentials.py
 intra_token.json
 __pycache__/
+application.log
