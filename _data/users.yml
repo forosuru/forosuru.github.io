@@ -4228,8 +4228,9 @@
     follow: 3
     fork: 1
     public: 1
-    repo: 1
-    total: 6
+    release: 1
+    repo: 2
+    total: 8
     watch_started: 0
   intra: sharris
   login: simonbharris
