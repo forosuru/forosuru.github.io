@@ -2043,9 +2043,9 @@
   event_counts:
     follow: 3
     fork: 4
-    public: 2
+    public: 5
     repo: 17
-    total: 32
+    total: 35
     watch_started: 6
   intra: bhalderm
   login: blazehalderman
