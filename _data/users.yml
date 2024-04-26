@@ -1252,8 +1252,9 @@
     follow: 24
     fork: 1
     public: 0
+    release: 1
     repo: 32
-    total: 225
+    total: 226
     watch_started: 168
   intra: dperera
   login: elPandaFriki
@@ -5296,10 +5297,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/40049861?v=4
   event_counts:
     follow: 2
-    fork: 1
+    fork: 2
     public: 0
     repo: 9
-    total: 14
+    total: 15
     watch_started: 2
   intra: smonroe
   login: smonroe4242
