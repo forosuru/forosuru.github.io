@@ -1599,10 +1599,10 @@
   avatar_url: https://avatars0.githubusercontent.com/u/14255807?v=4
   event_counts:
     follow: 0
-    fork: 0
+    fork: 1
     public: 0
     repo: 3
-    total: 4
+    total: 5
     watch_started: 1
   intra: anazar
   login: aneeshnazar
