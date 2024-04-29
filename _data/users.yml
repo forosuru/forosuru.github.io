@@ -3604,9 +3604,9 @@
   event_counts:
     follow: 35
     fork: 0
-    public: 2
+    public: 3
     repo: 0
-    total: 82
+    total: 83
     watch_started: 45
   intra: gmalpart
   login: regien
