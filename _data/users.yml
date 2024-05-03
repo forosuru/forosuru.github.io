@@ -76,8 +76,9 @@
     follow: 11
     fork: 6
     public: 1
+    release: 2
     repo: 10
-    total: 53
+    total: 55
     watch_started: 25
   intra: amittal
   login: anurag4DSB
