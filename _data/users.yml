@@ -474,8 +474,8 @@
     fork: 1
     public: 0
     repo: 4
-    total: 23
-    watch_started: 12
+    total: 24
+    watch_started: 13
   intra: bslakey
   login: Benjaminslakey
   node_id: MDQ6VXNlcjU0NjU3ODk=
@@ -4888,12 +4888,12 @@
 36056254:
   avatar_url: https://avatars1.githubusercontent.com/u/36056254?v=4
   event_counts:
-    follow: 116
+    follow: 118
     fork: 23
     public: 14
     repo: 39
-    total: 1444
-    watch_started: 1252
+    total: 1447
+    watch_started: 1253
   intra: akharrou
   login: akharrou
   node_id: MDQ6VXNlcjM2MDU2MjU0
