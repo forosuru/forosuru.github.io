@@ -5347,9 +5347,9 @@
   event_counts:
     follow: 4
     fork: 2
-    public: 1
+    public: 2
     repo: 2
-    total: 29
+    total: 30
     watch_started: 20
   intra: jahong
   login: jahongOf1
