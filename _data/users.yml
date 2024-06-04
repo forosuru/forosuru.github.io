@@ -269,8 +269,9 @@
     follow: 50
     fork: 53
     public: 1
+    release: 1
     repo: 25
-    total: 282
+    total: 283
     watch_started: 153
   intra: kchenna
   login: hashb
@@ -530,11 +531,11 @@
 5866757:
   avatar_url: https://avatars1.githubusercontent.com/u/5866757?v=4
   event_counts:
-    follow: 250
+    follow: 251
     fork: 5
     public: 1
     repo: 17
-    total: 420
+    total: 421
     watch_started: 147
   intra: myoung
   login: qst0
@@ -618,8 +619,8 @@
     fork: 17
     public: 3
     repo: 51
-    total: 216
-    watch_started: 96
+    total: 217
+    watch_started: 97
   intra: jcope
   login: JemWritesCode
   node_id: MDQ6VXNlcjY2NTMwODA=
@@ -3391,8 +3392,8 @@
     fork: 9
     public: 13
     repo: 6
-    total: 295
-    watch_started: 240
+    total: 296
+    watch_started: 241
   intra: scollet
   login: stockle
   node_id: MDQ6VXNlcjI1MjU3OTg2
