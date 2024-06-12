@@ -2597,10 +2597,10 @@
   avatar_url: https://avatars2.githubusercontent.com/u/21047266?v=4
   event_counts:
     follow: 1
-    fork: 0
+    fork: 1
     public: 0
     repo: 0
-    total: 1
+    total: 2
     watch_started: 0
   intra: achi
   login: CrypticError
@@ -5154,10 +5154,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/38451715?v=4
   event_counts:
     follow: 0
-    fork: 3
+    fork: 4
     public: 0
     repo: 2
-    total: 5
+    total: 6
     watch_started: 0
   intra: lfiuza
   login: laurafiuza
