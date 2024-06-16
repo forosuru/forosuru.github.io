@@ -269,9 +269,9 @@
     follow: 50
     fork: 53
     public: 1
-    release: 2
+    release: 6
     repo: 27
-    total: 291
+    total: 295
     watch_started: 158
   intra: kchenna
   login: hashb
