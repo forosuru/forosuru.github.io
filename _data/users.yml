@@ -799,8 +799,9 @@
     follow: 14
     fork: 10
     public: 1
+    release: 1
     repo: 36
-    total: 93
+    total: 94
     watch_started: 32
   intra: ssmith
   login: seanwessmith
