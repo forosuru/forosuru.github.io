@@ -545,9 +545,9 @@
   event_counts:
     follow: 1
     fork: 8
-    public: 0
+    public: 1
     repo: 8
-    total: 28
+    total: 29
     watch_started: 11
   intra: mhurd
   login: Matt-Hurd
