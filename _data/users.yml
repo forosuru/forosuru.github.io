@@ -207,10 +207,10 @@
   avatar_url: https://avatars3.githubusercontent.com/u/3152377?v=4
   event_counts:
     follow: 8
-    fork: 3
+    fork: 4
     public: 0
     repo: 2
-    total: 26
+    total: 27
     watch_started: 13
   intra: oabdalha
   login: Obsaa
@@ -1495,11 +1495,11 @@
   avatar_url: https://avatars1.githubusercontent.com/u/13629727?v=4
   event_counts:
     follow: 2
-    fork: 0
+    fork: 1
     public: 0
     repo: 1
-    total: 54
-    watch_started: 51
+    total: 56
+    watch_started: 52
   intra: smaddux
   login: Rubikhan
   node_id: MDQ6VXNlcjEzNjI5NzI3
