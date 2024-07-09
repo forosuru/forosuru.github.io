@@ -197,11 +197,11 @@
     follow: 9
     fork: 4
     public: 1
-    repo: 9
-    total: 23
+    repo: 10
+    total: 24
     watch_started: 0
   intra: rhallste
-  login: rjhallsted
+  login: barbarj
   node_id: MDQ6VXNlcjI5NDIzMDY=
 3152377:
   avatar_url: https://avatars3.githubusercontent.com/u/3152377?v=4
@@ -1762,8 +1762,8 @@
     fork: 6
     public: 11
     repo: 7
-    total: 269
-    watch_started: 226
+    total: 270
+    watch_started: 227
   intra: jbeall
   login: jacksonwb
   node_id: MDQ6VXNlcjE2MjE0NzU3
@@ -1820,9 +1820,9 @@
   event_counts:
     follow: 14
     fork: 0
-    public: 0
+    public: 1
     repo: 2
-    total: 251
+    total: 252
     watch_started: 235
   intra: irhett
   login: izcet
