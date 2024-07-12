@@ -1495,11 +1495,11 @@
   avatar_url: https://avatars1.githubusercontent.com/u/13629727?v=4
   event_counts:
     follow: 2
-    fork: 1
+    fork: 2
     public: 0
     repo: 2
-    total: 66
-    watch_started: 61
+    total: 68
+    watch_started: 62
   intra: smaddux
   login: Rubikhan
   node_id: MDQ6VXNlcjEzNjI5NzI3
