@@ -1498,8 +1498,8 @@
     fork: 2
     public: 0
     repo: 2
-    total: 70
-    watch_started: 64
+    total: 71
+    watch_started: 65
   intra: smaddux
   login: Rubikhan
   node_id: MDQ6VXNlcjEzNjI5NzI3
@@ -5131,11 +5131,11 @@
 38278077:
   avatar_url: https://avatars0.githubusercontent.com/u/38278077?v=4
   event_counts:
-    follow: 3
+    follow: 4
     fork: 16
     public: 0
     repo: 9
-    total: 86
+    total: 87
     watch_started: 58
   intra: sgrindhe
   login: sandsalamand
