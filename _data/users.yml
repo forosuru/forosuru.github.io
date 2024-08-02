@@ -138,8 +138,8 @@
     fork: 5
     public: 1
     repo: 15
-    total: 209
-    watch_started: 179
+    total: 210
+    watch_started: 180
   intra: seli
   login: evilcat-x
   node_id: MDQ6VXNlcjIzNTU3NjM=
@@ -4882,8 +4882,9 @@
     follow: 2
     fork: 6
     public: 1
+    release: 1
     repo: 24
-    total: 40
+    total: 41
     watch_started: 7
   intra: cgleason
   login: crgl
