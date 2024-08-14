@@ -797,11 +797,11 @@
   avatar_url: https://avatars2.githubusercontent.com/u/8315103?v=4
   event_counts:
     follow: 15
-    fork: 10
+    fork: 11
     public: 1
     release: 1
     repo: 38
-    total: 106
+    total: 107
     watch_started: 41
   intra: ssmith
   login: seanwessmith
