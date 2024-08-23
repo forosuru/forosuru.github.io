@@ -544,10 +544,10 @@
   avatar_url: https://avatars1.githubusercontent.com/u/5904938?v=4
   event_counts:
     follow: 1
-    fork: 9
+    fork: 10
     public: 1
     repo: 9
-    total: 31
+    total: 32
     watch_started: 11
   intra: mhurd
   login: Matt-Hurd
@@ -801,8 +801,8 @@
     public: 1
     release: 7
     repo: 40
-    total: 116
-    watch_started: 41
+    total: 117
+    watch_started: 42
   intra: ssmith
   login: seanwessmith
   node_id: MDQ6VXNlcjgzMTUxMDM=
