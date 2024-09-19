@@ -1666,8 +1666,8 @@
     fork: 1
     public: 4
     repo: 4
-    total: 121
-    watch_started: 95
+    total: 122
+    watch_started: 96
   intra: syamada
   login: Yatty1
   node_id: MDQ6VXNlcjE1MTE4OTk5
@@ -6013,8 +6013,8 @@
     follow: 17
     fork: 16
     public: 7
-    repo: 18
-    total: 74
+    repo: 19
+    total: 75
     watch_started: 16
   intra: mchi
   login: 2ne1ugly
