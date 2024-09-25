@@ -5398,12 +5398,12 @@
 41179613:
   avatar_url: https://avatars0.githubusercontent.com/u/41179613?v=4
   event_counts:
-    follow: 2
+    follow: 3
     fork: 1
     public: 2
     repo: 2
-    total: 7
-    watch_started: 0
+    total: 9
+    watch_started: 1
   intra: issmith
   login: 42U
   node_id: MDQ6VXNlcjQxMTc5NjEz
