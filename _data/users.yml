@@ -2145,8 +2145,8 @@
     follow: 25
     fork: 19
     public: 6
-    repo: 56
-    total: 149
+    repo: 57
+    total: 150
     watch_started: 43
   intra: awindham
   login: arwn
@@ -4931,9 +4931,9 @@
   event_counts:
     follow: 4
     fork: 23
-    public: 7
+    public: 8
     repo: 39
-    total: 169
+    total: 170
     watch_started: 96
   intra: yserkez
   login: 4till2
