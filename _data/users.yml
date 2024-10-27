@@ -617,9 +617,9 @@
   event_counts:
     follow: 50
     fork: 17
-    public: 3
+    public: 4
     repo: 53
-    total: 231
+    total: 232
     watch_started: 108
   intra: jcope
   login: JemWritesCode
