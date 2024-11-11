@@ -801,8 +801,8 @@
     public: 1
     release: 7
     repo: 43
-    total: 135
-    watch_started: 50
+    total: 136
+    watch_started: 51
   intra: ssmith
   login: seanwessmith
   node_id: MDQ6VXNlcjgzMTUxMDM=
@@ -2097,8 +2097,9 @@
     follow: 0
     fork: 15
     public: 6
+    release: 1
     repo: 23
-    total: 64
+    total: 65
     watch_started: 20
   intra: tmckinno
   login: tmacro
