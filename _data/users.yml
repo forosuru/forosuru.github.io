@@ -3982,9 +3982,9 @@
     follow: 2
     fork: 5
     public: 2
-    release: 1
+    release: 2
     repo: 13
-    total: 33
+    total: 34
     watch_started: 10
   intra: skunz
   login: SebastianKunz
