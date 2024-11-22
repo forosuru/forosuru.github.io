@@ -18,7 +18,7 @@ def events_from_xml_string(data):
     res = []
     for e in soup.find_all("entry"):
         mtu = e.find("media:thumbnail")["url"]
-        author_id = re.search("githubusercontent\.com\/u\/(\d+)", mtu)[1]
+        author_id = re.search(r"githubusercontent.com/u/(\d+)", mtu)[1]
         elink = e.find("link")["href"]
         etitle = e.find("title").text
         eid = e.find("id").text.split("/")[1]
