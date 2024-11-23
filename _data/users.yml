@@ -1628,9 +1628,9 @@
   event_counts:
     follow: 30
     fork: 3
-    public: 9
+    public: 10
     repo: 70
-    total: 144
+    total: 145
     watch_started: 32
   intra: jcrisp
   login: zill4
