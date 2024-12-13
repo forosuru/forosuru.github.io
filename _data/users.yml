@@ -126,8 +126,8 @@
     fork: 5
     public: 0
     repo: 8
-    total: 133
-    watch_started: 120
+    total: 134
+    watch_started: 121
   intra: drosa-ta
   login: drrosa
   node_id: MDQ6VXNlcjIzNDM1NTQ=
@@ -1869,8 +1869,8 @@
     follow: 41
     fork: 9
     public: 0
-    repo: 163
-    total: 223
+    repo: 164
+    total: 224
     watch_started: 10
   intra: jadawson
   login: JamieDawson
@@ -2096,10 +2096,10 @@
   event_counts:
     follow: 0
     fork: 15
-    public: 6
+    public: 7
     release: 2
-    repo: 24
-    total: 67
+    repo: 25
+    total: 69
     watch_started: 20
   intra: tmckinno
   login: tmacro
