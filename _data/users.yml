@@ -2013,9 +2013,9 @@
     follow: 0
     fork: 2
     public: 1
-    release: 2
+    release: 3
     repo: 0
-    total: 17
+    total: 18
     watch_started: 12
   intra: mfilipch
   login: LiuVII
