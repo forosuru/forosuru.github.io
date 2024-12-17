@@ -1136,8 +1136,8 @@
     follow: 64
     fork: 8
     public: 0
-    repo: 14
-    total: 128
+    repo: 15
+    total: 129
     watch_started: 42
   intra: tochen
   login: BTCBlade
@@ -1243,9 +1243,9 @@
   event_counts:
     follow: 18
     fork: 34
-    public: 17
+    public: 18
     repo: 20
-    total: 265
+    total: 266
     watch_started: 176
   intra: jaleman
   login: jraleman
