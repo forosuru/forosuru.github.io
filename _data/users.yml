@@ -5222,9 +5222,9 @@
   event_counts:
     follow: 28
     fork: 7
-    public: 1
+    public: 2
     repo: 31
-    total: 101
+    total: 102
     watch_started: 34
   intra: pdeguing
   login: pdeguing
