@@ -1,0 +1,9 @@
+---
+layout: default
+language: Ring
+filename: Ring.html
+---
+{% assign events = site.events | where: "language","Ring" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
