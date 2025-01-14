@@ -121,6 +121,8 @@ if __name__ == "__main__":
                 "public": 0,
                 "repo": 0,
                 "watch_started": 0,
+                "release": 0,
+                "sponsor": 0,
                 "total": 0,
             },
         }

@@ -125,12 +125,15 @@ def update_pages(events):
         fp.close()
 
     for e in events:
+        uid = int(e["author_id"])
+        if uid not in all_users:
+            continue
+
         lfn = language_filename(e["language"])
         if e["language"] != "None":
             if not os.path.exists(lfn):
                 lang_fwrite(lfn, e["language"])
 
-        uid = int(e["author_id"])
         if all_users[uid]["login"] != e["author_name"]:
             ufn = "_user/" + all_users[uid]["login"] + ".html"
             if os.path.exists(ufn):  # if they changed their github name

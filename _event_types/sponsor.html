@@ -1,0 +1,10 @@
+---
+layout: default
+event_type: sponsor
+title: sponsor
+filename: sponsor.html
+---
+{% assign events = site.events | where: "event_type","sponsor" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}

@@ -23,6 +23,8 @@ def write_event_counts_to_users_file():
         "public": 0,
         "repo": 0,
         "watch_started": 0,
+        "release": 0,
+        "sponsor": 0,
         "total": 0,
     }
 
@@ -64,7 +66,7 @@ def write_stats_file():
         "} );",
         "</script>",
         '<table id="table_id" class="display">',
-        "<thead><tr> <th>user</th> <th>create</th> <th>follow</th> <th>fork</th> <th>public</th> <th>star</th> </tr></thead>",  # XXX column names
+        "<thead><tr> <th>user</th> <th>create</th> <th>follow</th> <th>fork</th> <th>public</th> <th>star</th> <th>release</th> <th>sponsor</th> </tr></thead>",  # XXX column names
         "<tbody>",
     ]
 
@@ -90,7 +92,7 @@ def write_stats_file():
         )
         ec = v["event_counts"]
         row = (
-            "<tr> <td>%s</td> <td>%d</td> <td>%d</td> <td>%d</td> <td>%d</td> <td>%d</td> </tr>"
+            "<tr> <td>%s</td> <td>%d</td> <td>%d</td> <td>%d</td> <td>%d</td> <td>%d</td> <td>%d</td> <td>%d</td> </tr>"
             % (
                 user_link,
                 ec["repo"],
@@ -98,6 +100,8 @@ def write_stats_file():
                 ec["fork"],
                 ec["public"],
                 ec["watch_started"],
+                ec["release"] if "release" in ec else 0,
+                ec["sponsor"] if "sponsor" in ec else 0,
             )
         )
         data.append(row)

@@ -1,0 +1,10 @@
+---
+layout: default
+event_type: release
+title: release
+filename: release.html
+---
+{% assign events = site.events | where: "event_type","release" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
