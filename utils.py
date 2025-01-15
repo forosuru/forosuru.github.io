@@ -43,6 +43,9 @@ def write_event_counts_to_users_file():
             fp.close()
         e = yaml.load(data, Loader=yaml.FullLoader)
         uid = int(e["author_id"])
+        if uid not in users:
+            print(uid, fn)
+            continue
         users[uid]["event_counts"][e["event_type"]] += 1
         users[uid]["event_counts"]["total"] += 1
 
