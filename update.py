@@ -14,11 +14,19 @@ debug = True
 
 
 def events_from_xml_string(data):
+    with open("_data/users.yml", "r") as fp:
+        all_users = yaml.load(fp, Loader=yaml.FullLoader)
+        fp.close()
+
     soup = BeautifulSoup(data, "lxml-xml")
     res = []
     for e in soup.find_all("entry"):
         mtu = e.find("media:thumbnail")["url"]
         author_id = re.search(r"githubusercontent.com/u/(\d+)", mtu)[1]
+
+        if int(author_id) not in all_users:
+            continue
+
         elink = e.find("link")["href"]
         etitle = e.find("title").text
         eid = e.find("id").text.split("/")[1]
