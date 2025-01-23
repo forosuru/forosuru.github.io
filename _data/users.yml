@@ -4411,14 +4411,14 @@
 28076702:
   avatar_url: https://avatars2.githubusercontent.com/u/28076702?v=4
   event_counts:
-    follow: 11
+    follow: 12
     fork: 0
     public: 6
     release: 0
     repo: 7
     sponsor: 0
-    total: 25
-    watch_started: 1
+    total: 27
+    watch_started: 2
   intra: mikim
   login: mikim42
   node_id: MDQ6VXNlcjI4MDc2NzAy
