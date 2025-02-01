@@ -1360,12 +1360,12 @@
   avatar_url: https://avatars3.githubusercontent.com/u/10689006?v=4
   event_counts:
     follow: 1
-    fork: 0
+    fork: 1
     public: 1
     release: 0
     repo: 7
     sponsor: 0
-    total: 9
+    total: 10
     watch_started: 0
   intra: gwood
   login: notoriousgtw
