@@ -1,0 +1,9 @@
+---
+layout: default
+language: Cython
+filename: Cython.html
+---
+{% assign events = site.events | where: "language","Cython" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
