@@ -2117,11 +2117,11 @@
   event_counts:
     follow: 15
     fork: 1
-    public: 1
+    public: 2
     release: 0
     repo: 5
     sponsor: 0
-    total: 257
+    total: 258
     watch_started: 235
   intra: irhett
   login: izcet
