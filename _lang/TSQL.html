@@ -1,0 +1,9 @@
+---
+layout: default
+language: TSQL
+filename: TSQL.html
+---
+{% assign events = site.events | where: "language","TSQL" | sort: "date" | reverse %}
+{% for event in events %}
+{{ event.content }}
+{% endfor %}
