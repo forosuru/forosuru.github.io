@@ -1893,11 +1893,11 @@
   event_counts:
     follow: 30
     fork: 4
-    public: 17
+    public: 19
     release: 0
     repo: 83
     sponsor: 0
-    total: 183
+    total: 185
     watch_started: 49
   intra: jcrisp
   login: zill4
@@ -2115,13 +2115,13 @@
 16568956:
   avatar_url: https://avatars3.githubusercontent.com/u/16568956?v=4
   event_counts:
-    follow: 15
+    follow: 30
     fork: 1
     public: 2
     release: 0
     repo: 6
     sponsor: 0
-    total: 259
+    total: 274
     watch_started: 235
   intra: irhett
   login: izcet
