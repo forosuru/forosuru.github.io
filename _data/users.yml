@@ -2397,11 +2397,11 @@
   event_counts:
     follow: 58
     fork: 88
-    public: 7
+    public: 8
     release: 3
     repo: 57
     sponsor: 0
-    total: 303
+    total: 304
     watch_started: 90
   intra: hvillasa
   login: hectorsvill
@@ -2609,9 +2609,9 @@
     fork: 6
     public: 1
     release: 0
-    repo: 21
+    repo: 23
     sponsor: 0
-    total: 51
+    total: 53
     watch_started: 19
   intra: rnowell
   login: robertnowell
