@@ -2440,10 +2440,10 @@
     follow: 0
     fork: 16
     public: 7
-    release: 7
+    release: 8
     repo: 25
     sponsor: 0
-    total: 76
+    total: 77
     watch_started: 21
   intra: tmckinno
   login: tmacro
