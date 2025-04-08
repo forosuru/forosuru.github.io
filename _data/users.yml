@@ -449,13 +449,13 @@
 4668303:
   avatar_url: https://avatars0.githubusercontent.com/u/4668303?v=4
   event_counts:
-    follow: 0
+    follow: 1
     fork: 3
     public: 0
     release: 0
     repo: 5
     sponsor: 0
-    total: 10
+    total: 11
     watch_started: 2
   intra: kwame
   login: Kwame42
@@ -1443,13 +1443,13 @@
 11222980:
   avatar_url: https://avatars3.githubusercontent.com/u/11222980?v=4
   event_counts:
-    follow: 19
+    follow: 20
     fork: 34
     public: 19
     release: 2
     repo: 21
     sponsor: 0
-    total: 279
+    total: 280
     watch_started: 184
   intra: jaleman
   login: jraleman
