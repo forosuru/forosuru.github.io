@@ -3907,14 +3907,14 @@
 25192407:
   avatar_url: https://avatars2.githubusercontent.com/u/25192407?v=4
   event_counts:
-    follow: 7
+    follow: 8
     fork: 2
     public: 4
     release: 0
     repo: 27
     sponsor: 0
-    total: 55
-    watch_started: 15
+    total: 57
+    watch_started: 16
   intra: sjones
   login: slothlysage
   node_id: MDQ6VXNlcjI1MTkyNDA3
@@ -5747,8 +5747,8 @@
     release: 1
     repo: 42
     sponsor: 0
-    total: 197
-    watch_started: 116
+    total: 198
+    watch_started: 117
   intra: yserkez
   login: yosefserkez
   node_id: MDQ6VXNlcjM2NDU2OTAw
