@@ -4638,10 +4638,10 @@
     follow: 3
     fork: 5
     public: 2
-    release: 7
+    release: 8
     repo: 14
     sponsor: 0
-    total: 41
+    total: 42
     watch_started: 10
   intra: skunz
   login: SebastianKunz
