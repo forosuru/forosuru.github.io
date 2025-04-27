@@ -5377,13 +5377,13 @@
 33334378:
   avatar_url: https://avatars1.githubusercontent.com/u/33334378?v=4
   event_counts:
-    follow: 4
+    follow: 6
     fork: 0
     public: 1
     release: 0
     repo: 1
     sponsor: 0
-    total: 8
+    total: 10
     watch_started: 2
   intra: apuel
   login: apuel
