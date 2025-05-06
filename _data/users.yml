@@ -312,10 +312,10 @@
     follow: 58
     fork: 75
     public: 1
-    release: 17
+    release: 18
     repo: 35
     sponsor: 1
-    total: 398
+    total: 399
     watch_started: 211
   intra: kchenna
   login: hashb
@@ -1205,13 +1205,13 @@
 10013170:
   avatar_url: https://avatars3.githubusercontent.com/u/10013170?v=4
   event_counts:
-    follow: 33
+    follow: 34
     fork: 1
     public: 0
     release: 0
     repo: 13
     sponsor: 0
-    total: 65
+    total: 66
     watch_started: 18
   intra: pdoherty
   login: paulrobertdoherty
