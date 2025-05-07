@@ -1767,11 +1767,11 @@
   event_counts:
     follow: 0
     fork: 0
-    public: 1
+    public: 2
     release: 0
     repo: 2
     sponsor: 0
-    total: 4
+    total: 5
     watch_started: 1
   intra: kialvare
   login: kialvare
