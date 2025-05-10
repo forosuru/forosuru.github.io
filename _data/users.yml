@@ -2425,11 +2425,11 @@
   event_counts:
     follow: 3
     fork: 3
-    public: 1
+    public: 2
     release: 0
     repo: 2
     sponsor: 0
-    total: 10
+    total: 11
     watch_started: 1
   intra: cfranco
   login: cristianmusic7
