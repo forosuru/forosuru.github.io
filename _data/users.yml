@@ -1583,14 +1583,14 @@
 12145119:
   avatar_url: https://avatars0.githubusercontent.com/u/12145119?v=4
   event_counts:
-    follow: 298
+    follow: 299
     fork: 34
     public: 0
     release: 0
     repo: 11
     sponsor: 3
-    total: 1739
-    watch_started: 1393
+    total: 1742
+    watch_started: 1395
   intra: mfernand
   login: matias-eduardo
   node_id: MDQ6VXNlcjEyMTQ1MTE5
@@ -6694,12 +6694,12 @@
   avatar_url: https://avatars0.githubusercontent.com/u/44458369?v=4
   event_counts:
     follow: 19
-    fork: 9
+    fork: 10
     public: 3
     release: 0
     repo: 19
     sponsor: 0
-    total: 119
+    total: 120
     watch_started: 69
   intra: osfally
   login: falzfalzfalz
