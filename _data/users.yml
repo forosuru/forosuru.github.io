@@ -101,11 +101,11 @@
   event_counts:
     follow: 19
     fork: 8
-    public: 3
+    public: 4
     release: 0
     repo: 14
     sponsor: 0
-    total: 50
+    total: 51
     watch_started: 6
   intra: ltanenba
   login: LeoTD
