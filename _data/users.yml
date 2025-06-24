@@ -3963,13 +3963,13 @@
 25317113:
   avatar_url: https://avatars1.githubusercontent.com/u/25317113?v=4
   event_counts:
-    follow: 1
+    follow: 2
     fork: 2
     public: 0
     release: 0
     repo: 2
     sponsor: 0
-    total: 5
+    total: 6
     watch_started: 0
   intra: jguleski
   login: guxa
