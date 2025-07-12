@@ -971,9 +971,9 @@
     fork: 3
     public: 4
     release: 0
-    repo: 5
+    repo: 6
     sponsor: 0
-    total: 19
+    total: 20
     watch_started: 3
   intra: hkalia
   login: hkalia
@@ -5705,8 +5705,8 @@
     release: 1
     repo: 40
     sponsor: 0
-    total: 1544
-    watch_started: 1338
+    total: 1546
+    watch_started: 1340
   intra: akharrou
   login: akharrou
   node_id: MDQ6VXNlcjM2MDU2MjU0
