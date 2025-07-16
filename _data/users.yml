@@ -133,8 +133,8 @@
     release: 0
     repo: 4
     sponsor: 0
-    total: 288
-    watch_started: 280
+    total: 289
+    watch_started: 281
   intra: bschroed
   login: brodieacc
   node_id: MDQ6VXNlcjIxMjc0NDE=
@@ -927,11 +927,11 @@
   event_counts:
     follow: 27
     fork: 17
-    public: 1
+    public: 2
     release: 7
     repo: 61
     sponsor: 0
-    total: 192
+    total: 193
     watch_started: 79
   intra: ssmith
   login: seanwessmith
