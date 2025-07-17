@@ -3151,13 +3151,13 @@
 22091600:
   avatar_url: https://avatars1.githubusercontent.com/u/22091600?v=4
   event_counts:
-    follow: 36
+    follow: 37
     fork: 9
     public: 1
     release: 0
     repo: 10
     sponsor: 0
-    total: 705
+    total: 706
     watch_started: 649
   intra: gguiulfo
   login: giacomoguiulfo
@@ -5705,8 +5705,8 @@
     release: 1
     repo: 40
     sponsor: 0
-    total: 1546
-    watch_started: 1340
+    total: 1548
+    watch_started: 1342
   intra: akharrou
   login: akharrou
   node_id: MDQ6VXNlcjM2MDU2MjU0
