@@ -634,10 +634,10 @@
     follow: 1
     fork: 16
     public: 1
-    release: 1
+    release: 3
     repo: 10
     sponsor: 0
-    total: 40
+    total: 42
     watch_started: 11
   intra: mhurd
   login: Matt-Hurd
@@ -5705,8 +5705,8 @@
     release: 1
     repo: 40
     sponsor: 0
-    total: 1551
-    watch_started: 1345
+    total: 1555
+    watch_started: 1349
   intra: akharrou
   login: akharrou
   node_id: MDQ6VXNlcjM2MDU2MjU0
