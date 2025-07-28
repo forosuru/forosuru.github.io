@@ -563,11 +563,11 @@
   event_counts:
     follow: 18
     fork: 13
-    public: 5
+    public: 6
     release: 0
     repo: 12
     sponsor: 0
-    total: 96
+    total: 97
     watch_started: 48
   intra: azhuk
   login: arthur-zhuk
