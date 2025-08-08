@@ -1264,11 +1264,12 @@
   event_counts:
     follow: 0
     fork: 3
+    git-merge: 1
     public: 0
     release: 0
     repo: 3
     sponsor: 0
-    total: 6
+    total: 7
     watch_started: 0
   intra: nhennigh
   login: NathanHennigh
