@@ -6035,11 +6035,12 @@
   event_counts:
     follow: 0
     fork: 3
+    git-merge: 1
     public: 5
     release: 30
     repo: 23
     sponsor: 0
-    total: 68
+    total: 69
     watch_started: 7
   intra: emamenko
   login: zhenya-mamenko
