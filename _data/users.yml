@@ -2866,12 +2866,13 @@
   event_counts:
     follow: 40
     fork: 13
+    git-merge: 1
     public: 0
     release: 0
     repo: 10
     sponsor: 0
     star: 2
-    total: 112
+    total: 113
     watch_started: 47
   intra: dstolz
   login: donald-stolz
