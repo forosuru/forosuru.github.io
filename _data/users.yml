@@ -162,8 +162,8 @@
     release: 0
     repo: 15
     sponsor: 0
-    star: 5
-    total: 233
+    star: 6
+    total: 234
     watch_started: 197
   intra: seli
   login: evilcat-x
@@ -6921,12 +6921,13 @@
   event_counts:
     follow: 64
     fork: 13
+    git-merge: 1
     public: 1
     release: 0
     repo: 52
     sponsor: 0
     star: 2
-    total: 212
+    total: 213
     watch_started: 80
   intra: marrodri
   login: marrodri
