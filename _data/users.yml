@@ -2864,6 +2864,7 @@
 20745447:
   avatar_url: https://avatars3.githubusercontent.com/u/20745447?v=4
   event_counts:
+    feed-public: 1
     follow: 40
     fork: 13
     git-merge: 1
@@ -2872,7 +2873,7 @@
     repo: 10
     sponsor: 0
     star: 2
-    total: 113
+    total: 114
     watch_started: 47
   intra: dstolz
   login: donald-stolz
