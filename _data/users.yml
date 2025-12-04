@@ -1855,12 +1855,12 @@
   avatar_url: https://avatars2.githubusercontent.com/u/14248245?v=4
   event_counts:
     follow: 48
-    fork: 27
+    fork: 28
     public: 2
     release: 0
     repo: 24
     sponsor: 0
-    total: 176
+    total: 177
     watch_started: 75
   intra: yijhuang
   login: hyj1204
@@ -4944,11 +4944,12 @@
   event_counts:
     follow: 3
     fork: 5
+    git-merge: 1
     public: 1
     release: 1
     repo: 4
     sponsor: 0
-    total: 14
+    total: 15
     watch_started: 0
   intra: sharris
   login: simonbharris
