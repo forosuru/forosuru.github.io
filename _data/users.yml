@@ -7026,11 +7026,12 @@
   event_counts:
     follow: 21
     fork: 17
+    git-merge: 1
     public: 7
     release: 0
     repo: 20
     sponsor: 0
-    total: 81
+    total: 82
     watch_started: 16
   intra: mchi
   login: 2ne1ugly
