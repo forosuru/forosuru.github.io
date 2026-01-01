@@ -6449,11 +6449,12 @@
   event_counts:
     follow: 100
     fork: 8
+    git-merge: 1
     public: 0
     release: 0
     repo: 71
     sponsor: 0
-    total: 209
+    total: 210
     watch_started: 30
   intra: kmira
   login: shinyTeapot
