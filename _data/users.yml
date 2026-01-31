@@ -1856,12 +1856,13 @@
   event_counts:
     follow: 48
     fork: 28
+    git-merge: 1
     public: 2
     release: 0
     repo: 24
     sponsor: 0
     star: 2
-    total: 179
+    total: 180
     watch_started: 75
   intra: yijhuang
   login: hyj1204
