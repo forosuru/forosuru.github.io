@@ -1801,12 +1801,13 @@
   event_counts:
     follow: 12
     fork: 2
+    git-merge: 1
     public: 4
     release: 0
     repo: 18
     sponsor: 0
     star: 9
-    total: 58
+    total: 59
     watch_started: 13
   intra: spoole
   login: spoole50
