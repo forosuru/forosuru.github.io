@@ -6878,13 +6878,15 @@
 45890848:
   avatar_url: https://avatars2.githubusercontent.com/u/45890848?v=4
   event_counts:
+    feed-public: 1
     follow: 6
     fork: 10
+    git-merge: 1
     public: 0
     release: 0
     repo: 18
     sponsor: 0
-    total: 39
+    total: 41
     watch_started: 5
   intra: anttran
   login: anthonykhoa
