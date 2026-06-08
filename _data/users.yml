@@ -1659,6 +1659,7 @@
 13036761:
   avatar_url: https://avatars3.githubusercontent.com/u/13036761?v=4
   event_counts:
+    feed-public: 1
     follow: 34
     fork: 3
     public: 24
@@ -1666,7 +1667,7 @@
     repo: 11
     sponsor: 0
     star: 1
-    total: 136
+    total: 137
     watch_started: 63
   intra: bogoncha
   login: bgoncharov
