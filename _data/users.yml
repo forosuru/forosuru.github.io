@@ -1264,6 +1264,7 @@
 10350914:
   avatar_url: https://avatars1.githubusercontent.com/u/10350914?v=4
   event_counts:
+    feed-public: 4
     follow: 0
     fork: 3
     git-merge: 1
@@ -1272,7 +1273,7 @@
     repo: 3
     sponsor: 0
     star: 1
-    total: 8
+    total: 12
     watch_started: 0
   intra: nhennigh
   login: NathanHennigh
