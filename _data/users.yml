@@ -5544,12 +5544,13 @@
   event_counts:
     follow: 3
     fork: 2
+    git-merge: 2
     public: 26
     release: 0
     repo: 53
     sponsor: 0
     star: 5
-    total: 116
+    total: 118
     watch_started: 27
   intra: ashih
   login: ashih42
