@@ -5560,11 +5560,12 @@
   event_counts:
     follow: 16
     fork: 5
+    git-merge: 1
     public: 2
     release: 0
     repo: 17
     sponsor: 0
-    total: 57
+    total: 58
     watch_started: 17
   intra: fhong
   login: hongfu12321
