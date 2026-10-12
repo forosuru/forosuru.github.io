@@ -1802,6 +1802,7 @@
 13891114:
   avatar_url: https://avatars2.githubusercontent.com/u/13891114?v=4
   event_counts:
+    feed-public: 1
     follow: 12
     fork: 2
     git-merge: 2
@@ -1810,7 +1811,7 @@
     repo: 18
     sponsor: 0
     star: 14
-    total: 65
+    total: 66
     watch_started: 13
   intra: spoole
   login: spoole50
@@ -2884,8 +2885,8 @@
     release: 0
     repo: 10
     sponsor: 0
-    star: 26
-    total: 149
+    star: 27
+    total: 150
     watch_started: 47
   intra: dstolz
   login: donald-stolz
