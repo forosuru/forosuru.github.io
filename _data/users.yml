@@ -3300,7 +3300,7 @@
 22533943:
   avatar_url: https://avatars1.githubusercontent.com/u/22533943?v=4
   event_counts:
-    feed-public: 1
+    feed-public: 4
     follow: 1
     fork: 7
     public: 1
@@ -3308,7 +3308,7 @@
     repo: 23
     sponsor: 0
     star: 5
-    total: 40
+    total: 43
     watch_started: 2
   intra: jcarpio-
   login: laughtt
