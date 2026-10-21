@@ -1805,13 +1805,13 @@
     feed-public: 1
     follow: 12
     fork: 2
-    git-merge: 2
+    git-merge: 10
     public: 4
     release: 0
     repo: 18
     sponsor: 0
     star: 15
-    total: 67
+    total: 75
     watch_started: 13
   intra: spoole
   login: spoole50
