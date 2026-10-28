@@ -1822,12 +1822,12 @@
     feed-public: 1
     follow: 0
     fork: 7
-    git-merge: 8
+    git-merge: 10
     public: 0
     release: 0
     repo: 3
     sponsor: 0
-    total: 19
+    total: 21
     watch_started: 0
   intra: aschnapp
   login: aschnapp
