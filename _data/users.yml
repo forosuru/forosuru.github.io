@@ -1819,14 +1819,15 @@
 13951813:
   avatar_url: https://avatars3.githubusercontent.com/u/13951813?v=4
   event_counts:
+    feed-public: 1
     follow: 0
     fork: 7
-    git-merge: 2
+    git-merge: 8
     public: 0
     release: 0
     repo: 3
     sponsor: 0
-    total: 12
+    total: 19
     watch_started: 0
   intra: aschnapp
   login: aschnapp
