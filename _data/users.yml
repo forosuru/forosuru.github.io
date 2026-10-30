@@ -2302,6 +2302,7 @@
 17593070:
   avatar_url: https://avatars0.githubusercontent.com/u/17593070?v=4
   event_counts:
+    feed-public: 2
     follow: 49
     fork: 1
     public: 2
@@ -2309,7 +2310,7 @@
     repo: 14
     sponsor: 0
     star: 1
-    total: 102
+    total: 104
     watch_started: 35
   intra: asansyzb
   login: asansyzb
