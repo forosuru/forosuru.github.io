@@ -2305,13 +2305,13 @@
     feed-public: 2
     follow: 49
     fork: 1
-    git-merge: 2
+    git-merge: 5
     public: 2
     release: 0
     repo: 14
     sponsor: 0
     star: 1
-    total: 106
+    total: 109
     watch_started: 35
   intra: asansyzb
   login: asansyzb
