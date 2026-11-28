@@ -1646,13 +1646,14 @@
 12926957:
   avatar_url: https://avatars1.githubusercontent.com/u/12926957?v=4
   event_counts:
+    feed-public: 1
     follow: 0
     fork: 5
     public: 1
     release: 0
     repo: 4
     sponsor: 0
-    total: 10
+    total: 11
     watch_started: 0
   intra: hramirez
   login: halcyonjuly7
